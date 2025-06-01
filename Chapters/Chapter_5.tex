@@ -1,0 +1,325 @@
+
+\fancyhf{}
+\fancyhead[C]{Chapter 5. Maternal Caregiving Quality and Adolescent Nutritional Behaviours}% <- added
+\fancyfoot[R]{\thepage\ifodd\value{page}\else\hfill\fi}
+%\fancyhead[L]{\ifodd\value{page}\relax\else\hfill\fi Ch \thechapter}
+%\renewcommand\headrulewidth{0pt}% default ist .4pt
+\renewcommand{\plainheadrulewidth}{.4pt}% default is 0pt
+\newpage
+
+\section{Abstract}
+\tab The risk for unhealthy eating behaviour, including poor diet quality and emotional eating, is heightened in adolescence and could result in profound and long-lasting psychological and physical implications. Caregiving quality and adolescents' regulatory skills, such as inhibitory control, may play an essential role in the development of adolescent eating behaviour. This preregistered study investigated whether maternal caregiving throughout the first 14 years of life predicts adolescent diet quality and emotional eating and whether potential associations are mediated by adolescents' inhibitory control. In this low-risk community cohort, maternal caregiving quality was observed at child ages five weeks, 12 months, 2.5, 10, and 14 years. At age 14, diet quality and emotional eating were assessed through self-report. Adolescent inhibitory control was assessed with three behavioural tasks and a maternal report. Mediation analyses were performed with structural equation modelling in R. No evidence was found for links between maternal caregiving quality, and adolescent diet quality and emotional eating. Higher levels of adolescent inhibitory control predicted better adolescent diet quality. Longitudinal and experimental studies are needed to investigate directionality, and replication studies are needed in more representative samples (e.g., including high-risk families). Such studies will shed further light on potential links between the history of caregiving behaviour and adolescent regulatory and eating behaviour.
+
+\newpage
+\section{Introduction}
+\tab Adolescence is known for its heightened risk for unhealthy eating behaviours, including low diet quality and emotional eating \citep{limbers_emotional_2021,Worldhealthorganization_nutrition_2005}. Diet quality refers to the healthiness of the dietary intake, while emotional eating is the urge to consume food in response to negative emotions instead of feelings of hunger \citep{strien_is_2016}. The magnitude of eating behavioural problems during adolescence is widely recognized, with profound and long-lasting psychological and physical implications \citep{movassagh_tracking_2017}. However, little is known about the origins and underlying mechanisms that explain variation in diet quality and emotional eating (abbreviated as DQ/EE) between adolescents. This pre-registered study investigated whether the history of maternal caregiving quality throughout the first 14 years of life contributes to adolescent DQ/EE, and whether adolescent inhibitory control plays a potential mediating role. 
+
+High caregiving quality is characterized by sensitivity, responsiveness, and consistency in meeting the child's needs \citep{layzer_quality_2006}. Moreover, showing respect for child autonomy and being cooperative are also categorised as high quality caregiving \citep{layzer_quality_2006}. High quality of caregiving contributes to a range of child well-being and developmental outcomes \citep{bechtel2016co}. For example, high caregiving quality in early life has been shown to predict educational performance, psychobiological and psychosocial development in childhood, adolescence and even adulthood \citep{guyon-harris_early_2021, raby_enduring_2015, scherer_relationship_2019,sroufe_conceptualizing_2010}. Though early life is suggested to be a window of opportunity where caregiving quality may be an important contributor for future child development, there is also evidence that high quality caregiving at later ages is associated with beneficial child psychosocial and cognitive outcomes \citep{casale_direct_2015}.
+
+With respect to diet, several cross sectional, as well as some longitudinal, studies have shown that high caregiving quality is related to healthier dietary intake of toddlers and children (\citet{gubbels_association_2011,romanos-nanclares_influence_2018}, for reviews see \citet{hughes_maternal_2018,sleddens_general_2011}). Studies with adolescents indicate more contradictory results. Specifically, higher caregiving quality at age 12 years was associated with higher diet quality at age 15 years \citep{zietz_positive_2022}. Furthermore, high caregiving quality was associated with higher adolescent intake of fruits, vegetables \citep{kremers_parenting_2003,lytle_predicting_2003,pearson_parenting_2010}, dietary fibres \citep{kim_parenting_2007, kim_perceived_2008}, and lower caloric intake \citep{kim_parenting_2007,kim_perceived_2008}, while higher maternal control was associated with lower snacking frequency in adolescents \citep{kim_parenting_2007,kim_perceived_2008}. In contrast, other studies found no relation between caregiving quality and adolescent dietary behaviours, including snacking \citep{kim_parenting_2007,kim_perceived_2008}, and soft drinks intake \citep{vereecken_associations_2009}. Though less research focused on emotional eating as outcome, such studies found lower caregiving quality to be associated with more child \citep{schuetzmann_associations_2008,topham_parenting_2011} and adolescent emotional eating \citep{snoek_parental_2007,strien_parenting_2019}. Notably, \citet{strien_parenting_2019} found this relation in a longitudinal study, with lower early life caregiving quality predicting more adolescent emotional eating. This relation was mediated by emotion regulation, indicating that adolescents who experienced lower quality of maternal caregiving had poorer control over their emotions, and in turn, showed more emotional eating.
+
+One way through which high caregiving quality could contribute to healthy eating behaviours in adolescence is through its contribution to the development of adolescent inhibitory control (IC). IC can be defined as the ability to suppress impulses and consider the consequences of our actions \citep{diamond_executive_2013}. IC is considered an important ability that is a core component of many psychosocial and cognitive outcomes \citep{anzman-frasca_inhibitory_2015, diamond_executive_2013,nigg_annual_2017}. A major contributing pathway for IC development is parental coregulation. Coregulation is characterised by sensitive and responsive behaviour towards the child's needs, hereby building the child's internal regulatory capacities \citep{bechtel2016co,bernier2012social, merz_parenting_2016}. Parental coregulation thus gradually shapes the child's capacity to regulate attention and emotions, thereby helping the child to inhibit impulses and achieve their goals \citep{belsky_developmental_2002,bernier_external_2010,bernier2012social,cassidy_emotion_1994,gartner_inhibitory_2018,merz_parenting_2016,schore_effects_2001,suchodoletz_linking_2011}. Indeed, maternal sensitivity \citep{frick_can_2019,frick_does_2019,geeraerts_inhibitory_2021,jennings_understanding_2008,spinrad_longitudinal_2012,vrijhof_effects_2020,wu_dynamic_2022}, responsiveness \citep{brophy-herb_modeling_2012,kochanska_effortful_2000,suchodoletz_linking_2011}, supportive presence \citep{bosquet_enlow_differential_2019,bravo_maternal_2023,brophy-herb_modeling_2012,kok_parenting_2013}, and autonomy support \citep{bernier_external_2010}, all predicted better toddler and child IC. Whether this prediction holds for adolescence is still under investigation, as only one study investigated and found maternal sensitivity at age seven years to be negatively associated to 14-year-olds' over-inhibited, withdrawn, and anxious-depressed behaviour \citep{voort_development_2014}; behaviours found to be related to poorer child's self-regulation and inhibitory control capacities \citep{buffie_interaction_2022,diamond_executive_2013,valikhani_insecure_2021}. 
+
+In turn, adolescent IC may relate to adolescents' eating behaviours through how IC helps suppress automatic behaviours, emotions, and thoughts \citep{bari_inhibition_2013}. Adolescents with low IC may find it difficult to resist the temptation to consume high-calorie, low-nutrient-dense foods as it satisfies their immediate reward system \citep{casey_adolescent_2008}. Consumption of these foods decreases the diet quality. However, the evidence regarding IC and adolescent DQ/EE is mixed. IC has been associated with better adolescent diet quality (i.e., lower sugar-sweetened beverages, snacks, and higher whole grain consumption) \citep{ames_inhibitory_2014} and lower total energy intake during a lab-based food task \citep{byrne_inhibitory_2021}. However, another study found no associations between adolescent IC, diet quality, and beverages consumed during a lab-based food task \citep{ames_self-regulation_2016}. Hence, there is only one study on adolescent IC and overall diet quality \citep{ames_inhibitory_2014}, which needs replication studies to confirm their results. With respect to emotional eating, IC could relate to emotional eating via the diminished ability to regulate stress and emotions \citep{bari_inhibition_2013}. Adolescents with lower levels of IC could therefore be more inclined to engage in emotional eating as a coping mechanism \citep{shriver_emotional_2020}. However, research regarding emotional eating and adolescents' IC is scarce as only three studies were conducted and no associations were found in participants aged 8-17 years \citep{byrne_bridging_2021,mayer_inhibitory_2022,nelson_associations_2020}.
+
+In sum, high caregiving quality may relate to adolescent diet quality and emotional eating. A potential underlying mechanism might be adolescent IC, as higher caregiving quality is suggested to support the development of IC, which in turn is suggested to be associated with healthier DQ/EE. We investigated whether the history of maternal caregiving quality throughout the first 14 years of life (observed at age five weeks, 12 months, 2.5, 10, and 14 years) contributed to DQ/EE, namely diet quality and emotional eating at 14 years of age, hypothesizing that earlier and concurrent higher maternal caregiving quality leads to higher diet quality and less emotional eating during adolescence. Moreover, we investigated whether IC mediated the expected associations, hypothesizing that higher maternal caregiving quality relates to better IC and, in turn, better DQ/EE. Next to questionnaires, we incorporated behavioural tasks of often-investigated IC subdomains in adolescents, namely:  delayed discounting (the tendency to devalue delayed rewards), interference control (the ability to suppress or disregard irrelevant information), and response inhibition (the ability to inhibit or stop a prepotent response) \citep{ames_inhibitory_2014,byrne_inhibitory_2021,mayer_inhibitory_2022,nelson_associations_2020,bij_inhibitory_2020}. This study was preregistered on Open Science Framework (\href{https://doi.org/10.17605/OSF.IO/7K9NX}{https://doi.org/10.17605/OSF.IO/7K9NX}, registered on November 24th, 2022).
+
+\section{Materials and  methods}
+\subsection{Participants}
+\tab This study is a part of the ongoing longitudinal BIBO (Dutch acronym for Basal influences on Child Development) study that follows women and their children from late pregnancy through childhood and adolescence (see \citet{beijers_attachment_2011} for a description of the study). Mothers in the Netherlands were recruited on a voluntary basis via flyers distributed at midwife practices in the cities of Nijmegen, Arnhem, and surrounding areas. The inclusion criteria were an uncomplicated singleton pregnancy, no current physical or mental health problems, no drugs and/or alcohol use during pregnancy, gestational age $\geq$37 weeks, and a children's 5-min APGAR score of $\geq$7. From 220 women recruited, eight were excluded due to medical reasons (e.g., preterm birth), and 19 dropped out within the first three postpartum months due to personal circumstances, leading to a sample of 193 mother-infant dyads (see Figure \ref{Figure 5.1} for the flowchart). Between the child age of three months and 14 years of age, 34 participants dropped out (18\%) for various reasons. As a result, 159 mother-adolescent dyads were approached to participate in the measurement round at child age 14. From this group, 150 dyads participated. The reasons for non-participation were personal (\textit{n}=8) and COVID-related reasons (\textit{n}=1). No significant differences in maternal age, educational level, and child sex were found between the dyads who participated (\textit{n}=150), not participated (\textit{n}=9), and dropped out (\textit{n}=34). The BIBO study was reviewed by the Ethics Committee of the Faculty of Social Sciences (ECSW) of the Radboud University Nijmegen, The Netherlands, and no formal objection to this research was made (SW2017-1303-497, SW2017-1303-498, and ECSW-2018-067). 
+\vfill
+
+\begin{figure}[!ht]
+\Centering
+% \hspace{-0.5cm} % Adjust this value as needed
+\includegraphics[scale=0.8]{Figures/Ch5_F1.pdf}
+\captionsetup{justification=centering}
+\caption{Flowchart of study participants.}
+\label{Figure 5.1} %necessary for refering to it in the text, but if I mentioned it here already, then it doesn't need to be changed.
+\end{figure}
+
+\subsection{Procedure}
+\tab The BIBO study entailed home visits (aged five weeks, 12 months, 2.5 years, 10 years, and 14 years) in which mothers and children were observed during naturalistic interactions. At five weeks of age (Mean child age=33.5 days, SD=4.9), mothers and their infants were filmed at home during a bathing session: the infant was undressed, bathed, and dressed again. At 12 months of age (Mean child age=53 weeks and 6 days, SD=19 days), mothers and their infants visited the lab and were instructed to play together with four toys (i.e., hand puppets, books, and two types of puzzles) for 12 minutes in total (three minutes per toy). At age 2.5 years (Mean child age=30 months and 5 days, SD=19 days), mothers and infants were filmed at home while playing with three toys (i.e., puzzles, blocks, and a fishing game) for 12 minutes in total (4 minutes per toy). During a home visit at child age 10 years (Mean child age=10 years and 1 month, SD=2 months), mother and child were asked to discuss two different emotions for three minutes each and to play a Tangram game for six minutes. During a home visit at age 14 years (Mean child age=14 years and 5 months, SD=2 months), mother and adolescent were asked to discuss two topics for three minutes each for the first interaction task. The topics were determined based on the 44-item issues checklist \citep{robin_negotiating_1989}, which includes common discussion topics between parents and adolescents (e.g., low grades at school, how to spend money, and helping around the house). At the start of the home visit, the parent indicated per topic whether they had discussed it within the past four weeks `yes' or `no'. If they scored `yes', they rated on a 1-5 Likert scale how calm (1) or angry (5) the discussion about the topic made them feel. The two highest-scoring topics were used for the interaction task. For the second interaction task, mother-adolescent dyads were asked to organize and write down details of an event for the child's classmates, for seven minutes. Furthermore, during the home visit at age 14, adolescent IC was assessed with three behavioural tasks (each lasting less than five minutes) and via a mother-report online questionnaire. Details on the behavioural tasks are mentioned in the `Behavioural tasks' section under the `Inhibitory control' paragraph. Adolescent diet quality and emotional eating were assessed with online and paper self-report questionnaires, respectively.
+\subsubsection{Reliability of coding}
+\tab Parent-child interactions were videotaped during home visits and rated afterward by at least two independent observers using the sensitivity scales mentioned below. An experienced senior coder (the third author of this paper) trained the independent observers using gold standard training videos. The independent observers, unaware of the goals of the current study, independently practiced until they reached adequate reliability (intraclass correlation coefficient (ICC) $\geq$0.80) with gold standard training videos. After, the independent observers scored the study videos, with regular observer team meetings and checks to detect and prevent observer drift. At least 30 percent of the data was doubly entered or scored to check for reliability (ICC, two-way mixed effects, relying on absolute agreement; \citet{koo_guideline_2016}). Reliability was good when ICC$\geq$0.80 \citep{koo_guideline_2016}. If there was a large discrepancy between two observer scores, a third observer (e.g., the experienced senior observer) was included and independently observed the video again. For each questionnaire and recording that needed to be entered or scored, a codebook was made to set the coding rules.
+
+\subsection{Measures}
+\subsubsection{Caregiving quality}
+\tab To rate maternal behaviour at infant age five weeks, the 9-point Ainsworth scale was used \citep{ainsworth2015patterns}. Interactions were rated for sensitivity, defined as the extent to which the mother responds to the infant's needs and signals in a timely and sensitive manner, and cooperation, defined as the extent to which the mother adjusts her behaviour to the infant and does not interfere with the infant's ongoing activity. As the two subscales were highly correlated (\textit{r}=0.86, \textit{p}<0.01), the scores of sensitivity and cooperation were averaged. Higher scores represent higher caregiving quality. Interrater reliability for this scale was 0.81 in previous literature \citep{stiles_measuring_2004}, and it showed correlations with a different sensitivity questionnaire (Maternal Sensitivity Q-Sort), supporting construct validity \citep{stiles_measuring_2004}. The interobserver reliability in this study was good, exceeding an ICC of 0.90 for both constructs.
+
+To rate maternal behaviour at child age 12 months, 2.5 years, 10 years, and 14 years, the 7-point Erickson scale were used \citep{erickson_relationship_1985}. Interactions were rated for supportive presence, defined as the extent to which the parent provides emotional support and confidence in the child, and respect of child autonomy, defined as the extent to which the parent respects the validity of the child's individuality, motives, and perspectives. Scores on supportive presence and respect of child autonomy correlated significantly at 12 months (\textit{r}=0.62), 2.5 years (\textit{r}=0.46), 10 years (\textit{r}=0.60), and 14 years (\textit{r}=0.75), and were therefore averaged. Higher scores represent higher caregiving quality. The intraclass coefficients were good for supportive presence at 12 months (ICC=0.95), 2.5 years (ICC=0.91), 10 years (ICC=0.97), and 14 years (ICC=0.81). The intraclass coefficients were also good for respect of child autonomy at age 12 months (ICC=0.70), 2.5 years (ICC=0.70), 10 years (ICC=0.93), and 14 years (ICC=0.77). 
+
+\subsubsection{Inhibitory control (14 years)}
+\textit{Behavioural tasks}
+
+\textbf{Interference control, STROOP task:} The STROOP measures verbal IC \citep{stroop_studies_1935}. Adolescents were presented with three cards. The first card was a word card (W) and displayed four Dutch words (i.e., green, blue, red, and yellow), 100 times (i.e., 10 lines with 10 words), printed in black. The adolescent was asked to read all 100 words of the first card as fast as possible from left to right. The second card was a colour card (C), on which four different colours (i.e., green, blue, red, and yellow rectangular shapes) were printed 100 times (i.e., 10 lines with 10 colours). The adolescent was asked to name all 100 colours as fast as possible from left to right. The third card was a combination of colours and words (CW) and presented 100 words: the four different words in four different colours, congruent and incongruent with their words (e.g., the word `yellow' was written in yellow font, and the word `blue' was written in yellow font). The adolescent was asked to name the colour of the word and inhibit naming the written word. Each card was timed by the experimenter, and afterwards the number of mistakes were counted per card by checking the recordings. Reliability between raters was high (ICC: 0.95). IC was measured with Golden's method \citep{golden1978stroop}, which is the most used method in literature \citep{scarpina_stroop_2017}. The number of correctly named items within 45 seconds in all conditions was calculated. A predicted score (i.e., the score if the task was performed with perfect IC, taken into account the normal reading speed) of the third card (CW) was calculated with the following formula: (W x C) / (W + C). Then the inference was calculated by subtracting the predicted score from the actual number of items correctly named in the third card (CW). A high score indicates better IC.
+
+\textbf{Response inhibition. Go/No-Go task:} The Go/No-Go task measures the motoric IC of the adolescent \citep{murphy_emotional_1999}. The task contained two parts of 60 trials each and was programmed in Psychopy. For each part, 25\% of the stimuli were `no-go' stimuli. Adolescents were asked to press a button when a `go' stimulus was shown; however, pressing should be inhibited when the `no go' stimulus was shown. Each image was shown for 400 milliseconds with an interstimulus time of 500 milliseconds. After the first 30 trials, there was a break until the adolescent was ready to continue (breaks took no more than one minute). For the first 60 trials, `go' stimuli were a yellow square, blue triangle, and blue square, and the `no go' stimulus was a yellow triangle. For the second part (next 60 trials), `go' stimuli were the letters `P', `D', and `B', and the `no go' stimulus was the letter `R'. See Figure \ref{Figure 5.2} for a visualization of the Go/No-go task. IC was determined by the number of errors made in the No-Go trials. A higher number indicates worse IC.
+
+\textbf{Delayed discounting. Monetary choice task:} The Monetary choice task is a 27-item questionnaire where the adolescent is asked to choose between receiving a smaller amount of money immediately, or a larger amount of money with delay (e.g., ``Would you prefer €19 today, or €25 in 53 days?") \citep{kirby_delay-discounting_1996}. Adolescents filled in this questionnaire digitally. Answers were entered in the automated scoring system of the Monetary choice task \citep{kaplan_automating_2016}. The Cronbach's alpha was 0.90, and the overall consistency was 0.96. The log Geomean of the k was used as a measure of delayed discounting. A higher k corresponds with a greater proportion of choices for the smaller immediate rewards, indicating worse IC.
+
+Correlations between the tasks were non-significant and ranged from \textit{r}=-0.15 to \textit{r}=-0.04. Regardless of these correlation coefficients, we preferred forming a composite score over keeping the tasks separate because we assume that the tasks measure different forms of the same overarching construct \citep{epstein_aggregation_1983}. Consequently, and following our preregistration (\href{https://doi.org/10.17605/OSF.IO/7K9NX}{https://doi.org/10.17605/OSF.IO/7K9NX}), the three IC tasks scores were standardized and subsequently aggregated into a composite score to represent adolescent behavioural IC. The Go/No-Go task and the Monetary choice task were reverse coded before aggregation. Subsequently, a higher IC composite score indicates better IC.
+
+\begin{figure}[!ht]
+\centering
+\begin{tikzpicture}
+    \begin{scope}
+        \node {\includegraphics[width=0.9\textwidth]{Figures/Ch5_F2a.pdf}};
+    \end{scope}
+    \begin{scope}[xshift=0cm,yshift=-7.5cm]
+        \node { \includegraphics[width=0.9\textwidth]{Figures/Ch5_F2b.pdf}};
+    \end{scope}
+\end{tikzpicture}
+\caption{Go/No-Go task stimuli. In part one, the stimuli were coloured figures, shown for 400 ms. In part two, the stimuli were black letters, shown for 400 ms. Stimuli were always followed by an interstimulus which was a fixation cross, shown for 500 ms.}
+\label{Figure 5.2}
+\end{figure} 
+
+\noindent\textit{Questionnaire}
+
+The Behavior Rating Inventory of Executive Function 5-18 (BRIEF 5-18; \citet{roth_assessment_2013}) is a 75-item caregiver-report questionnaire used to assess executive functions of children between 5-18 years. It contains a 10-item IC subscale, scored on a 3-point Likert scale (1=never, 2=sometimes, 3=often). The parent completed the entire questionnaire online, however, only the IC subscale was used for this study. Because higher sum scores on this subscale indicate worse IC, the outcome of the BRIEF was reverse-coded in the analyses to align with our other IC composite score in which a higher score also presents better IC. Internal consistency analyses yielded Cronbach's alpha of 0.83 for the IC subscale. The internal consistency in previous literature ranges from $\alpha$=0.80-0.98, and test-retest reliability was \textit{r}=0.82 for parents \citep{dodzik_behavior_2017}.
+
+The BRIEF IC subscale was positively correlated with the number of mistakes made in the Go/No-Go task (\textit{r}=0.22), indicating that low IC is associated with worse performance on the Go/No-Go. The BRIEF did not correlate with the STROOP and monetary choice task.
+
+\subsubsection{Diet quality}
+\tab The `Eetscore' (in English: Diet score) is a validated online food frequency questionnaire (FFQ) that assesses diet quality \citep{rijk_development_2021, lee_evaluation_2015}, and was filled in by the adolescents. The Eetscore assesses intake of 16 food categories, based on the food categories of the Dutch Healthy Diet index 2015 \citep{looman_development_2017}: vegetables, fruit, whole grain products, legumes, nuts, dairy, fish, tea, coffee, spreading and cooking fats, red meat, processed meat, sugary beverages, alcohol, salt, and unhealthy snacks. The number of items in the Eetscore ranges from 40-76. A score between 0 and 10 was given for each food category. The ratio of the intake was calculated according to the cut off, e.g., fruit intake of 100 grams per day was assigned a score of 5 (100/200 g/d *10). This was reverse scored for the unhealthy food categories \citep{looman_development_2017}: red meat, processed meat, sugary drinks, alcohol, sodium, and unhealthy snacks. All scores were summed to obtain the total diet quality score (ranges between 0 and 160). A higher score represents better diet quality. See Table \ref{Table 5.1} for the scoring per food category.
+
+% \newpage
+% \afterpage{\clearpage}
+\subsubsection{Emotional eating}
+\tab The Dutch Eating Behavior Questionnaire (DEBQ) is a 33-item self-report questionnaire that assesses eating behaviour and contains a 13-item subscale to assess emotional eating, on a 5-point Likert scale (1=never, 5=very often) \citep{strien_dutch_1986}. Only the emotional eating subscale was assessed and filled in by the adolescent on paper. The scores on this subscale were summed. Higher scores indicate more emotional eating. In a nonclinical sample, the emotional eating subscale has good internal reliability with coefficient alphas ranging from 0.96 to 0.97 \citep{bohrer_are_2015}. The Cronbach alpha was good: $\alpha$ =0.88. The ICC for this questionnaire was $>$0.99. This scale has not been validated in adolescents yet, and current results on the validity of this subscale are still divergent \citep{domoff_validity_2013}.
+
+\begin{table}[!ht]
+\centering
+\captionof{table}{Scores for food categories in the Eetscore.}
+\resizebox{\textwidth}{!}
+{\begin{tabular}{l l l}
+\hline
+& Minimum score (=0) & Maximum score (=10)\\
+\hline
+Vegetables &0 g	& $\geq$ 200 g\\
+Fruits&	0 g	&$\geq$ 200 g\\
+Whole grain products & 0 g or ratio of whole grain & $\geq$ 90 g \\  
+& products/refined grain products $\leq$0.7 & No consumption of refined \\ 
+&& grain products or ratio of whole\\
+&& grain/ refined grain products\\
+&& $\geq$ 11 g\\
+Legumes	&0 g&$\geq$10 g\\
+Nuts& 	0 g	&$\geq$15 g\\
+Dairy&	0 g or $\geq$750 g	& 300-450 g\\
+Fish&	0 g	&$\geq$15 g\\
+Tea	&0 mL&$\geq$ 450 mL\\
+Spreading and & 0 g of soft margarines, liquid &No consumption of butter,\\
+
+cooking fats & cooking fats, and plant-based oils or&  hard margarines, and hard \\
+
+& $\leq$0.6 g ratio of liquid cooking fat/& cooking fats or ratio or of liquid\\
+
+& hard cooking fat& fats/ hard fats $\geq$13 \\
+
+Coffee &Unfiltered coffee &Consumption of only filtered coffee\\
+
+& &or no coffee consumption\\
+
+ 
+Red meat &	100 g &$\leq$ 45 g\\
+Processed meat	&$\geq$ 50 g&0 g\\
+Sugary drinks &$\geq$ 250 g&0 g\\
+Alcohol&Female $\geq$20 g & Female $\leq$10 g\\ 
+& Male $\geq$30 g & Male $\leq$10 g\\
+Sodium &$\geq$3.8 g & <1.9 g\\
+Unhealthy snacks & >7 unhealthy snacks/week &$\leq$3 unhealthy snacks/week\\
+\hline 
+\end{tabular}}
+\smallskip
+\caption*{Note: The minimum score represents scores of a low quality diet, and the maximum score represents scores of a high quality diet.}
+\label{Table 5.1}
+\end{table}
+
+\subsection{Confounders}
+\tab Confounding variables were determined  based on previous literature and plotted as directed acyclic graphs (DAGs), which show the contribution of these potential confounding variables to the model \citep{cinelli_crash_2020}. See Figure \ref{Figure 5.3} for a visualization of the DAGs. The following potential confounding variables were considered for the models with diet quality as well as emotional eating as dependent variable: child sex \citep{deslippe_association_2022, ozcan2020factors}, and maternal educational level \citep{assari_parental_2020,davis-kean_role_2021,drywien_patterns_2021,gouveia_is_2018,ozcan2020factors}. Maternal educational level was assessed on an 8-point Likert scale (ranging from 1=primary education to 8=university education). These potential confounding variables were subsequently correlated with the dependent variables. When the associations were significant, the variables were added to the statistical models to correct for confounding.
+
+\begin{figure}[!ht]
+\centering
+\begin{tikzpicture}
+    \begin{scope}
+        \node {\includegraphics[width=0.8\textwidth]{Figures/Ch5_F3a.pdf}};
+    \end{scope}
+    \begin{scope}[xshift=0cm,yshift=-6.5cm]
+        \node { \includegraphics[width=0.8\textwidth]{Figures/Ch5_F3b.pdf}};
+    \end{scope}
+\end{tikzpicture}
+\caption{Directed acyclic graphs for determining potential confounders for adolescent diet quality and adolescent emotional eating. Green coloured arrows indicate the links between predictor, mediator and outcome variables. Orange coloured arrows indicate the links between potential confounding variables and predictor, mediator, and outcome variables. The dotted line indicates unclear relation between the two measures.}
+\label{Figure 5.3}
+\end{figure} 
+
+\subsection{Missing data}
+\tab Out of 150 mother-adolescent dyads, seven were excluded from the final analyses as they did not fill in the questionnaires on dietary intake and emotional eating. From the remaining 143, the following data were missing: Eetscore (\textit{n}=11), DEBQ (\textit{n}=1), maternal supportive presence/respect for autonomy at age 12 months (\textit{n}=4), age 2.5 years (\textit{n}=1), age 10 years (\textit{n}=4), age 14 years (\textit{n}=5), Go/No-Go (\textit{n}=6), STROOP (\textit{n}=6), Delayed Discounting (\textit{n}=6), and BRIEF (\textit{n}=1). No data was missing at five weeks of age. The LittleMCAR test indicated that data were missing completely at random ($\chi$²=208.376, \textit{p}=0.136). In total, 2.1\% of the data were missing. From the 143 participants, a sample size of \textit{n}=132 was used for the dietary intake analyses (because 11 Eetscore FFQs were missing) and \textit{n}=142 for the emotional eating analyses (because one DEBQ was missing). We did not impute missing data for our dependent variables, and imputed data in our independent variables by means of Expectation Maximization, which predicts the missing data based on existing data \citep{dempster_maximum_1977}.
+
+\subsection{Statistics}
+\subsubsection{Preliminary analyses}
+\tab Preliminary analyses were performed in R. Statistical significance was considered at a \textit{p}-value of <0.05, and when the 95\% confidence interval did not include 0. Continuous variables were checked for normality by visual inspection and the Shapiro-Wilk test, and the following variables were non-normally distributed: sensitivity and cooperation at five weeks, supportive presence and respect for child autonomy at 12 months, 2.5 years, 10 years, and 14 years, maternal educational level, and the BRIEF. The BRIEF was log-transformed to obtain a normal distribution for the main analyses. Transforming the caregiving quality measures and maternal educational level did not improve the distribution, hence these were left untransformed. Wilcoxon tests were performed to check for significant differences between boys and girls for non-normally distributed data. Variables were furthermore checked for outliers with the Grubbs test. Diet quality contained one outlier that was winsorized. All analyses were performed with and without winsorized data. Pearson and Spearman correlations were performed to measure correlations between normally and non-normally distributed variables, respectively (see Supplementary Table \ref{TableS7.17} for correlations between all measured variables).
+
+Due to the longitudinal nature of our study, the sample size could not be adjusted. However, the sample size provided enough statistical power for the structural equation models, according to the most commonly used rule of thumb of ten cases per parameter for structural equation modelling \citep{schreiber_reporting_2006}. Sample sizes of \textit{n}=132 and \textit{n}=142 would be sufficient for the eleven parameters used in the models.
+
+\subsubsection{Main analyses}
+\tab Mediation analysis was performed in R with the `Lavaan' package \citep{Rosseel_2012}. Two models were run to explore if maternal caregiving quality at different ages independently predicted diet quality, and whether this was mediated by IC as assessed by the questionnaire (model 1) and the behavioural tasks (model 2). Another two models were run to explore if maternal caregiving quality at different ages independently predicted emotional eating, and whether this was mediated by IC as assessed by the questionnaire (model 3) and the behavioural tasks (model 4). Potential confounding variables were only added to the model as extra variables if they correlated significantly with the outcome measure. Maternal educational level correlated with diet quality (\textit{r}=0.26), emotional eating (\textit{r}=0.21), and the IC composite score (\textit{r}=0.18), and was hence added as a confounder in the analyses including these measures. Furthermore, on average, girls had significantly higher diet quality than boys, hence we corrected for child sex in the main analyses including diet quality. There were no significant differences between boys' and girls' scores on the IC subscale of the BRIEF and on the DEBQ.
+
+\subsubsection{Exploratory analyses}
+\tab Exploratorily, we investigated the mediating effects of the three IC tasks separately, yielding an extra six models (three models per outcome variable). The reason for exploring these tasks separately is because these IC tasks each measure different types of IC. We furthermore created a single score of all the caregiving quality measures by converting them to z-scores and calculating the average. The sensitivity composite score was then used as a predictor variable, i.e., caregiving quality, in the models for diet quality and emotional eating. For this purpose, four extra models were run.
+
+\section{Results}
+\subsection{Preliminary analyses}
+\tab Table \ref{Table 5.2} shows the descriptive statistics of the study population and the primary measures of this study. In two cases, fathers performed the interaction task with their child. No difference in the results was found after excluding these two father-child dyads from the analyses.
+
+Table \ref{Table 5.3} shows the correlations between the variables used for the final analyses and potential confounding variables. Higher caregiving quality at 10 years correlated significantly with higher caregiving quality at 2.5 years (\textit{r}=0.25) and 14 years (\textit{r}=0.24). Furthermore, a higher IC composite score correlated significantly with higher diet quality (\textit{r}=0.26). Diet quality and emotional eating did not correlate significantly.
+
+\subsection{Main analyses}
+\tab Mediation analyses were run to investigate the associations between caregiving quality and diet quality as mediated by IC (BRIEF) (model 1) and the IC composite (model 2). Similarly, mediation analyses were run to investigate the association between caregiving quality and emotional eating as mediated by IC (BRIEF) (model 3), and the IC composite (model 4). The results are visualized in Figure \ref{Figure 5.4} (model 1 and 2) and Figure \ref{Figure 5.5} (model 3 and 4). Model 2 shows that the IC composite score was positively associated with diet quality ($\beta$=5.22, 95\%CI=0.64 - 9.80), indicating that better IC is related to higher diet quality. Additionally, the covariate maternal educational level was associated with better diet quality, better observed IC, and more emotional eating (as seen in model 2 and 3). No other significant results were found. Supplementary Table \ref{TableS7.18} shows the estimates of models 1 and 2, and Supplementary Table \ref{TableS7.19} shows the estimates of models 3 and 4. Results were no different with and without winsorizing diet quality.
+
+\newpage
+\afterpage{\clearpage}
+\begin{table}[!htp]
+\centering
+\captionof{table}{Descriptive statistics of participant characteristics and measures.}
+%\resizebox{\textwidth}{!}
+{\begin{tabular}{l l l l l}
+\hline
+\multicolumn{2}{l}{} & \textit{\textbf{n(\%)}} & \textbf{Min - max} & \\
+\hline
+\multicolumn{2}{l}{Characteristics} & & & \\
+\multicolumn{2}{l}{Child sex} &	& &\\
+& Female &	68 (47.6)& &\\
+& Male & 75 (52.4)& &\\
+\multicolumn{2}{l}{Maternal educational level} & & 2 - 8& \\
+& Low & 0 (0) &&\\
+& Middle & 19 (13.3) &&\\
+& High & 124 (86.7) &&\\
+\cline{3-5}
+&&\textbf{Mean age (±SD)} & \textbf{Min - max} & \textbf{\textit{n}}\\	
+\multicolumn{2}{l}{Child age (years ±SD)}& 14.4 (0.2) &169 - 181 &143 \\
+\multicolumn{2}{l}{Maternal age (years ±SD)}&46.5 (3.9)	&35 - 57 & 143\\
+\cline{3-5}
+\multicolumn{2}{l}{Maternal caregiving quality scores} & \textbf{Mean score (±SD)} & \textbf{Min - max} & \textit{\textbf{n}}\\
+& 5 weeks &5.6 (2.2) &	1 - 9	&143\\
+& 12 months & 4.3 (1.3) &	1 - 7 & 139\\
+& 2.5 years	& 5.3 (0.7)	&3 - 7 &142 \\
+& 10 years	& 5.1 (1.0)	&2 - 7 &139 \\
+& 14 years	& 4.6 (1.4)&	1 - 7 &	138\\
+\cline{3-5}
+\multicolumn{2}{l}{Inhibitory control} &\textbf{Mean score (±SD)} &\textbf{Min - max}&\textbf{\textit{n}} \\
+\multicolumn{2}{l}{Questionnaire} & & & \\
+& BRIEF IC &3.8 (3.4) &	0 - 14 &142\\
+\multicolumn{2}{l}{Tasks} & & & \\
+& STROOP &9.7 (7.0)& -3.95 - 26.85 & 137\\
+& Go/No-Go	&13.5 (5.2)	&3 - 25	&137\\
+& Monetary choice & -2.4 (0.62)&-3.8 - -0.9	&137\\
+\cline{3-5}
+\multicolumn{2}{l}{DQ/EE}& \textbf{Mean score (±SD)}&	\textbf{Min - max}& \textbf{\textit{n}}\\	
+&Diet quality &	87.1 (16.8)	&31 - 132 &132\\
+& Emotional eating	& 31.6 (8.9) & 13 - 60 &142\\
+\hline 
+\end{tabular}}
+\smallskip
+\caption*{Notes. SD: Standard deviation, Min: minimum, Max: maximum, BRIEF: Behavior Rating Inventory of Executive Function, IC: Inhibitory control, DQ/EE: Diet quality and Emotional eating. Higher scores on the STROOP indicates better inhibitory control. Higher scores on the Go/No-Go and Monetary choice task indicate worse inhibitory control. Educational level: 1=primary education to 8=university education; low=1-2, medium=3-4, and high=5-8. Combined maternal caregiving scores are the average of the two subscales.}
+\label{Table 5.2}
+\end{table}
+
+\newpage
+\begin{landscape}
+\afterpage{\clearpage}
+\begin{table}[htp]
+\centering
+\captionof{table}{Correlation coefficients between potential confounding variables, predictors, and outcome variables.}
+\resizebox{19cm}{!}
+{\begin{tabular}{l l l l ll l l l ll l}
+\hline
+& Maternal  &Child  &CQ 5w &	CQ 12m &	CQ 2.5y&	CQ 10y&	CQ 14y&	IC &	IC 	&Diet&Emotional\\
+ &  educational &	(1=boy/ &&	&	&	&&	 questionnaire&	 tasks	&Quality&eating\\
+ &   level &	 2=girl) & &	 &	&	&	&	&	&&\\
+ \hline
+Maternal&- &&&&&&&&&&\\
+educational & &&&&&&&&&&\\	
+level	& &&&&&&&&&&\\	
+Child sex  &	0.11&	- &&&&&&&&&\\
+(1=boy/2=girl) && &&&&&&&&&\\
+CQ 5w &	0.04 &	-0.03 &	- &&&&&&&&\\				
+CQ 12m &-0.03 &	0.05 & 0.12 & - &&&&&&&\\						
+CQ 2.5y & -0.01 &0.09 & 0.00 &-0.02 &-&&&&&&\\ 	 			 	
+CQ 10y &0.04 &0.00 & 0.08 & 0.07& \textbf{0.25**}&- &&&&&\\			 	
+CQ 14y & 0.09 &-0.07 & 0.14 & 0.09 & 0.05 & \textbf{0.24**} &- &&&&\\
+IC questionnaire &-0.03&0.12 &0.08 &0.10 &0.06 &0.14 &0.13& -&&&\\			
+IC tasks &\textbf{0.18*} &0.16 &-0.13 &-0.13 & 0.00 &-0.03 &-0.02 &0.14&	-&&\\	
+Diet Quality &\textbf{0.26**} &\textbf{0.18*} &-0.13 &-0.02 &-0.03 &-0.05	&-0.02 &0.02 &\textbf{0.26**} &- &\\ 	
+Emotional eating &	\textbf{0.21*} &	0.09 & 0.05 &-0.06 & 0.07 & 0.02 &	-0.08 &-0.06 &0.13 &-0.03 &-\\
+\hline 
+\end{tabular}}
+\smallskip
+\caption*{Note: CQ, Caregiving quality. IC questionnaire: Score on the Behavior Rating Inventory of Executive Functions. IC tasks: Aggregated score of the inhibitory control tasks. The BRIEF indicates higher scores as worse inhibitory control. 5w: five weeks, 12m: 12 months, 2.5y: 2.5 years, 10y: 10 years, 14y: 14 years, *\textit{p}<0.05, **\textit{p}<0.01.}
+\label{Table 5.3}
+\end{table}
+\end{landscape}
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+    \begin{scope}
+        \node {\includegraphics[width=1\textwidth]{Figures/Ch5_F4a.pdf}};
+    \end{scope}
+    \begin{scope}[xshift=0cm,yshift=-8.5cm]
+        \node { \includegraphics[width=1\textwidth]{Figures/Ch5_F4b.pdf}};
+    \end{scope}
+\end{tikzpicture}
+\caption{Mediation model results of diet quality as outcome. Only the significant estimates (betas) are shown. Blue arrows indicate links between predictor, mediator and outcome variables, and orange arrows indicate links between confounding variables and predictor, mediator, and outcome variables.}
+\label{Figure 5.4}
+\end{figure} 
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+    \begin{scope}
+        \node {\includegraphics[width=1\textwidth]{Figures/Ch5_F5a.pdf}};
+    \end{scope}
+    \begin{scope}[xshift=0cm,yshift=-8.5cm]
+        \node { \includegraphics[width=1\textwidth]{Figures/Ch5_F5b.pdf}};
+    \end{scope}
+\end{tikzpicture}
+\caption{Mediation model results of emotional eating as outcome. Only the significant estimates (betas) are shown. Blue arrows indicate links between predictor, mediator and outcome variables, and orange arrows indicate links between confounding variables and predictor, mediator, and outcome variables.}
+\label{Figure 5.5}
+\end{figure} 
+
+\subsection{Exploratory analyses}
+\tab We explored whether the different behavioural tasks (i.e., STROOP, Go/No-Go, and Monetary choice) independently mediated the associations between caregiving quality and adolescent DQ/EE. Results showed that higher maternal caregiving quality at five weeks was associated with more mistakes in the Go/No-Go task ($\beta$=0.43, CI=0.03 - 0.84) and higher maternal caregiving quality at 12 months with worse performance on the STROOP task ($\beta$=-1.21, CI=-2.13 - -0.29). Furthermore, there was a negative association between delayed discounting and diet quality ($\beta$=-5.51, CI=-10.01 - -1.01). As high levels of delayed discounting indicate low IC, this indicates that better IC is associated with better diet quality. See Supplementary Tables \ref{TableS7.20} and \ref{TableS7.21}  for an overview of all the estimates.
+
+Additionally, we combined all caregiving quality measures over the ages into one composite score and investigated the relation between caregiving quality over the whole 14-year period and adolescent DQ/EE mediated by IC (i.e., BRIEF and IC composite score). No significant results were found (see Supplementary Table \ref{TableS7.22} for an overview of all the estimates).
+
+\section{Discussion}
+\tab This study investigated whether the history of maternal caregiving quality from birth until 14 years of age predicts adolescent diet quality and emotional eating. Maternal caregiving quality was investigated at five weeks, 12 months, 2.5 years, 10 years, and 14 years. Moreover, inhibitory control (IC) was investigated as a potential mediator in these associations. We found that better adolescent IC was associated with better adolescent diet quality. There was no evidence for a relation between maternal caregiving quality at any age and adolescent diet quality or emotional eating. Lastly, we found no evidence for a relation between maternal caregiving quality at all ages and IC, nor for mediation effects.
+
+The better the IC of an adolescent, as assessed with several behavioural tasks, the higher the diet quality, as reported by the adolescent. This finding is in line with the studies of \citet{ames_inhibitory_2014} and \citet{byrne_inhibitory_2021}, who found that better IC, also assessed with behavioural tasks, was associated with fewer sugar-sweetened beverages and fewer snacks \citep{ames_inhibitory_2014}, and lower total energy intake (but not snack intake) \citep{byrne_inhibitory_2021}. The focus of previous studies was on response inhibition, using a (food) Go/No-go task \citep{ames_inhibitory_2014,byrne_inhibitory_2021}. We broadened our measure of the adolescents' IC by collecting multiple IC measures, including response inhibition, interference control, and delayed discounting \citep{epstein_aggregation_1983}. The fact that our aggregated IC score related to better adolescent diet quality, indicates that different aspects of inhibitory control may impact dietary intake. Indeed, for example, nutritional intake can be affected by delaying a food reward for later (delayed discounting) \citep{barlow_unhealthy_2016,ortega_temporal_2023}, by choosing a healthier snack over other present food temptations (interference control) \citep{zuniga_relationship_2015}, as well as by controlling direct impulsivity to fulfil a momentarily food desire (response inhibition) \citep{ames_inhibitory_2014,byrne_inhibitory_2021}. Our exploratory analyses revealed that especially IC behaviour measured with the monetary choice task, measuring delayed gratification, was associated with higher diet quality. Although this is an exploratory finding, it is congruent with previous research that found delayed gratification to be associated with lower child weight and less eating in the absence of hunger \citep{giuliani_delay_2021}. Note, however, that while in this study delayed discounting was used as a measure for inhibitory control, and it has indeed been related to various maladaptive behaviours such as substance abuse and gambling \citep{amlung_steep_2017}, delayed discounting is not necessarily an indicator of executive functioning (see e.g., \citet{yeh_delay_2021}). 
+
+Nonetheless, future research should investigate different constructs of IC to confirm our exploratory finding. Additionally, our choice for assessing total diet quality was based on the fact that individuals do not consume foods in isolation, and nutrients of individual food groups interact with each other \citep{tapsell_foods_2016}. Research on overall diet instead of separate food groups and health outcomes has therefore been growing \citep{panagiotakos_-priori_2008,wirfalt_what_2013}. Thus, future research aimed at replicating and extending these findings would benefit from investigating the entire dietary pattern in addition to separate food groups.
+
+It is important to note that our evidence for a relation between IC and diet quality was cross-sectional. As such, we cannot establish directionality. We have to acknowledge the possibility that better diet quality predicts better adolescent IC. Indeed, studies found that diet can affect cognitive ability and behaviour in children and adolescents (see reviews by \citet{bellisle_effects_2004} and \citet{martin_physical_2018}). However, it is still unclear whether dietary manipulations could affect behaviour on long term. One potential underlying mechanism in such relation is the microbiota-gut-brain axis, the bi-directional biological communication route between the brain and microbiota in the gut \citep{cryan_microbiota-gut-brain_2019}. Microbiota in the gut are able to produce metabolites that travel to the brain through different pathways, influencing brain metabolism and function \citep{cryan_microbiota-gut-brain_2019}. Because dietary intake affects gut microbiota composition, subsequently, cognition and behaviour might also be impacted \citep{liang_gut_2022,Vernocchi_2020}. To unravel directionality in the adolescent IC-diet association, future longitudinal, experimental and intervention studies (e.g., improving adolescent diet quality or IC) are warranted.
+
+Our result on higher adolescent diet quality and better IC was found when IC was assessed by behavioural tasks, and not the questionnaire. Furthermore, our executive functions questionnaire was filled in by the mother, not the adolescent. Many studies have previously assessed adolescent executive functions, of which IC is part, via parent reports (see review by \citet{nyongesa_assessing_2019}). Inter-informant reliability of executive functions between parents and adolescents is moderately positive \citep{hughes_parent_2009,wilson_self_2011}. Nonetheless, there are some discrepancies between the two raters, making it valuable to assess executive functions and IC with multiple informants and measures. We investigated adolescent IC with several behavioural tasks, but the composite of these tasks did not correlate with the maternal report of adolescent IC. Exploratory results revealed, when decomposing the composite, that only the better performance on the Go/No-go task correlated with better IC assessed with the BRIEF in our study. This result is exploratory. Nevertheless, similar patterns are seen in previous literature on adolescent IC that included behavioural tasks and the BRIEF IC subscale (filled in by parents). Those studies show divergent results with non-significant \citep{toplak_executive_2008} or significant \citep{hummer_executive_2010} intercorrelations between behavioural tasks and questionnaires. As the adolescent becomes more independent and desires more privacy when he grows older \citep{sanders_adolescent_2013}, it is possible that the view the mother has on her adolescent behaviour becomes less clear. Note that behavioural tasks have some disadvantages (i.e., being a momentary assessment of IC, subject to time-variant factors, such as time of day, how the adolescent slept \citep{goldstein_time_2007,jankowski_chronotype_2023}, or attention span \citep{markant_leveling_2014}). However, self-report questionnaires can also be flawed as they are subject to potential biases, such as socially desirable answers \citep{devriendt2009validity,stanton_prevalence_1996}. Hence, future research should ideally include both behavioural tasks and (self-report) questionnaires of IC.
+
+Contrary to our hypothesis, we found no evidence for a relation for caregiving quality at any age on IC, and adolescent diet quality. These results align to some extent with previous literature that found no link between caregiving quality and adolescent dietary intake (snacks and soft drinks intake, specifically) \citep{kim_parenting_2007,kim_perceived_2008,vereecken_associations_2009}. Conversely, studies are showing higher caregiving quality to be associated with adolescent (over-)inhibition \citep{voort_development_2014} and higher adolescent diet quality \citep{kim_parenting_2007,kim_perceived_2008, kremers_parenting_2003,lytle_predicting_2003,pearson_parenting_2010,zietz_positive_2022}. Similar to the current study, \citet{zietz_positive_2022} investigated general diet quality, while the other studies investigated specific food groups. The discrepancy between our and \citeauthor{zietz_positive_2022}'s (\citeyear{zietz_positive_2022}) results could be because caregiving quality was assessed via adolescent report (i.e., study of \citet{zietz_positive_2022}) instead of objective observations of mother-child interactions (i.e., our study). 
+
+Next, we found no evidence for relations of our study variables with adolescent emotional eating. While this is seemingly different from van \citet{strien_parenting_2019}, who found a longitudinal relation between lower caregiving quality in early life and more emotional eating during adolescence, they only found evidence for an indirect effect through emotion suppression and alexithymia (the difficulty to identify one's own emotions) \citep{strien_parenting_2019}. Notably, one study found a cross-sectional link between child emotional eating and parental caregiving quality, only when caregiving quality was reported by the adolescent, but not the parent \citep{snoek_parental_2007}. In line with our results, three studies found no link between emotional eating and IC \citep{byrne_bridging_2021,mayer_inhibitory_2022,nelson_associations_2020}. Nonetheless, literature regarding caregiving and IC in relation to emotional eating is scarce. Possibly, adolescent awareness of their own behaviour is an important factor for self-reporting emotional eating behaviour, though no research has been published on this. Moreover, the emotional eating questionnaire has been validated in adults \citep{bailly_dutch_2012,cebolla_validation_2014}, but not yet in adolescents. Though the DEBQ has been used before in adolescents \citep{strien_parenting_2019,vanStrien2019duration} producing reliable results (Cronbach $\alpha$=0.94, similar to ours $\alpha$=0.88) and adequate variation in the data. Nonetheless, validation of this questionnaire in adolescents is recommended.
+Notably, all studies, thus far, on parental caregiving quality and adolescent DQ/EE have investigated caregiving quality using adolescent \citep{kim_parenting_2007,kim_perceived_2008,kremers_parenting_2003,lytle_predicting_2003,pearson_parenting_2010,snoek_parental_2007,zietz_positive_2022} or parent \citep{vereecken_associations_2009} reports. Adolescent reports and observations of parenting behaviour have been found to correlate moderately for positive parenting behaviours, but not for negative parenting behaviours \citep{arney2004comparison,parent_parent_2014}. Moreover, self-reports have been observed to be more valid and reliable for assessing harsh and overreactive parenting, while observations appear to be more valid and reliable for assessing permissive and inconsistent parenting \citep{arney2004comparison}. We therefore recommend future research to employ both reports and observations on parenting behaviour to obtain a comprehensive assessment of parental caregiving quality.
+
+Although we find no link between maternal caregiving quality and adolescent IC, the exploratory results revealed longitudinal associations (age five weeks and 12 months) between caregiving quality and individual behavioural tasks. Curiously, the associations were opposite of what we expected, namely, higher maternal caregiving quality was associated with worse performance on the IC tasks. As these findings are the result from exploratory analyses, they may suffer from type II errors \citep{akobeng_understanding_2016}. Hence, we refrain from further interpreting these results. Future studies should investigate maternal caregiving quality in direct relation to different measures of IC. Ideally, potential moderators and/or mediators (e.g., alexithymia) should be included to determine the possible mechanism behind expected relations.
+
+Notably, we found that maternal educational level was a predictor of better adolescent diet quality, more emotional eating, and better IC (measured by the behavioural tasks). Higher educated mothers possibly have more knowledge about nutrition, and a higher income to provide healthy nutrition for the child \citep{pearson_family_2009}. Additionally, higher parental educational level was previously also shown to predict IC in adolescents \citep{assari_parental_2020}, likely due to the fact that mothers with higher educational levels have increased access to healthcare, nutrition, and better child education, which could enhance the development of self-regulation \citep{noble_socioeconomic_2007}. So far, the role of maternal educational level on emotional eating is still unclear, as one study found that low parental education is associated with more emotional eating in primary school children \citep{umoke_influence_2020}, while three studies found no relations between child/adolescent emotional eating behaviour and parental educational level \citep{gouveia_how_2019,stone_predicting_2022,strien_parenting_2019}. Note that educational level correlates highly with socioeconomic status (SES) \citep{aikens_socioeconomic_2008,morgan_risk_2009}. For this reason, we are unable, as we did not measure other indicators of SES such as income, to disentangle potential effects of maternal education from those due to SES. Nonetheless, maternal educational level seems to play a significant role in adolescent DQ/EE and IC, making it an important aspect to include in future research. 
+
+Our study has several strengths and limitations. This study leveraged maternal caregiving data across the first 14 years of children's age, which allowed us to investigate the importance of early life as well as later life caregiving for adolescent IC and DQ/EE. We performed multiple behavioural tasks and used maternal reports to obtain a comprehensive measure of adolescent IC. Adolescent diet quality was assessed with a food frequency questionnaire which was validated for reproducibility and relative validity, allowing us to compare the scores within our study population \citep{rijk_development_2021,lee_evaluation_2015}. Validation studies in Dutch adolescents would benefit the use of this FFQ. However, our mostly highly educated sample limits the generalizability of our results. Future (replication) studies including lower educated parents may shed light on the relations between history of caregiving quality, adolescent IC, and adolescent DQ/EE.
+
+Overall, this study contributes to the growing body of literature confirming the relations between adolescent IC and diet quality. To unravel directionality, longitudinal and experimental study designs are needed. Such studies can inform targeted interventions to improve IC and diet quality during adolescence. Additionally, inclusion of lower educated families may shed light on the role of maternal caregiving quality on adolescent DQ/EE and IC, as this group may provide more variation in caregiving quality \citep{davis-kean_role_2021}. Including more lower educated families is also important as maternal educational level was already found to be a predictor of better adolescent diet quality, more emotional eating, and better IC within the limited educational range of our study. Of relevance, variables other than IC may also play a role in their diet quality, including adolescent nutritional knowledge, self-efficacy, mental health, and peer influence \citep{chung_influence_2017,oneil_relationship_2014,story2002individual}. To explore what predicts adolescent diet quality the best, future studies may therefore want to include more adolescent variables. In sum, high diet quality and IC skills are both of major importance during adolescence, as many developmental changes occur wherein they both play significant roles \citep{norris_nutrition_2022}. Hence, future research aimed at investigating the (early) predictors of IC and dietary behaviours, as well as the directionality of their associations with diet quality, are warranted.
+
+\newpage
+\begin{spacing}{1.0} % Set the line spacing to single spacing
+\fontsize{8pt}{8pt}\selectfont
+\bibliographystyle{apalike} %%%%Changed
+\renewcommand{\bibname}{References}
+\bibliography{All_bibtex} %%%%Changed
+\end{spacing}

@@ -1,0 +1,549 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: .\main.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: Chapters/title.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: Chapters/Introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: Chapters/Chapter_2.aux
+Illegal, another \bibstyle command---line 111 of file Chapters/Chapter_2.aux
+ : \bibstyle
+ :          {apalike}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 112 of file Chapters/Chapter_2.aux
+ : \bibdata
+ :         {All_bibtex}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: Chapters/Chapter_3.aux
+Illegal, another \bibstyle command---line 68 of file Chapters/Chapter_3.aux
+ : \bibstyle
+ :          {apalike}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 69 of file Chapters/Chapter_3.aux
+ : \bibdata
+ :         {All_bibtex}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: Chapters/Chapter_4.aux
+Illegal, another \bibstyle command---line 7 of file Chapters/Chapter_4.aux
+ : \bibstyle
+ :          {apalike}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 8 of file Chapters/Chapter_4.aux
+ : \bibdata
+ :         {All_bibtex}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 35 items.
+A level-1 auxiliary file: Chapters/Discussion_Conclusion.aux
+Illegal, another \bibstyle command---line 96 of file Chapters/Discussion_Conclusion.aux
+ : \bibstyle
+ :          {apalike}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 97 of file Chapters/Discussion_Conclusion.aux
+ : \bibdata
+ :         {All_bibtex}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 37 items.
+A level-1 auxiliary file: Chapters/Supplementary_Materials.aux
+Illegal, another \bibstyle command---line 204 of file Chapters/Supplementary_Materials.aux
+ : \bibstyle
+ :          {apalike}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 205 of file Chapters/Supplementary_Materials.aux
+ : \bibdata
+ :         {All_bibtex}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: Chapters/Summary.aux
+White space in argument---line 61 of file .\main.aux
+ : \@input{Chapters/Research
+ :                           data management statement.aux}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: Chapters/Acknowledgements.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Chapters/CV.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: Chapters/DGS.aux
+Reallocating 'field_info' (item size: 4) to 10522 items.
+Database file #1: All_bibtex.bib
+Warning--entry type for "josef_perktold_2024_10984387" isn't style-file defined
+--line 336 of file All_bibtex.bib
+Warning--entry type for "brielin_brown_2023_8128339" isn't style-file defined
+--line 604 of file All_bibtex.bib
+Repeated entry---line 1174 of file All_bibtex.bib
+ : @article{yan2022whole
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1282 of file All_bibtex.bib
+ : @article{martens2015developmental
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1293 of file All_bibtex.bib
+ : @article{kole2020assessing
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1303 of file All_bibtex.bib
+ : @article{kole2019neocortical
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1314 of file All_bibtex.bib
+ : @article{kole2017proteomic
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1324 of file All_bibtex.bib
+ : @article{miceli2017reduced
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1366 of file All_bibtex.bib
+ : @article{famulare2010feature
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1388 of file All_bibtex.bib
+ : @article{kiritani2023membrane
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1398 of file All_bibtex.bib
+ : @article{gao2015simplicity
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1417 of file All_bibtex.bib
+ : @article{sharpee2014toward
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1427 of file All_bibtex.bib
+ : @article{chereau2020dynamic
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1437 of file All_bibtex.bib
+ : @article{jain2020degeneracy
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1447 of file All_bibtex.bib
+ : @article{zeng2022cell
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1458 of file All_bibtex.bib
+ : @article{cardin2007stimulus
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1468 of file All_bibtex.bib
+ : @article{rathbun2018spike
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1478 of file All_bibtex.bib
+ : @article{nandi2022single
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1487 of file All_bibtex.bib
+ : @article{gonccalves2020training
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1496 of file All_bibtex.bib
+ : @article{avermann2012microcircuits
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1508 of file All_bibtex.bib
+ : @article{steriade2000corticothalamic
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1529 of file All_bibtex.bib
+ : @article{scikit-learn
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1540 of file All_bibtex.bib
+ : @article{bean2007action
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1551 of file All_bibtex.bib
+ : @article{connors1990intrinsic
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1562 of file All_bibtex.bib
+ : @article{heiss2008shift
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1572 of file All_bibtex.bib
+ : @article{harris2015neocortical
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1602 of file All_bibtex.bib
+ : @software{josef_perktold_2024_10984387
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1641 of file All_bibtex.bib
+ : @article{druckmann2013hierarchical
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1653 of file All_bibtex.bib
+ : @article{fuzik2016integration
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1680 of file All_bibtex.bib
+ : @article{prinz2004similar
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1690 of file All_bibtex.bib
+ : @article{marder2011multiple
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1700 of file All_bibtex.bib
+ : @article{contreras2004electrophysiological
+ :                                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1721 of file All_bibtex.bib
+ : @article{mcgarry2010quantitative
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1730 of file All_bibtex.bib
+ : @article{JMLR:v21:20-412
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1740 of file All_bibtex.bib
+ : @article{trainito2019extracellular
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1750 of file All_bibtex.bib
+ : @article{szucs2015differential
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1770 of file All_bibtex.bib
+ : @article{casale2015cortical
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1801 of file All_bibtex.bib
+ : @article{da2018databank
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1812 of file All_bibtex.bib
+ : @article{zeldenrust2017estimating
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1843 of file All_bibtex.bib
+ : @article{halabisky2006electrophysiological
+ :                                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1853 of file All_bibtex.bib
+ : @article{mcinnes2018umap-software
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1862 of file All_bibtex.bib
+ : @inproceedings{poulin2019ensemble
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1870 of file All_bibtex.bib
+ : @software{brielin_brown_2023_8128339
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1881 of file All_bibtex.bib
+ : @article{scala2019layer
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1901 of file All_bibtex.bib
+ : @article{cadwell2016electrophysiological
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1912 of file All_bibtex.bib
+ : @article{markram2004interneurons
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1922 of file All_bibtex.bib
+ : @article{masland2012neuronal
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1933 of file All_bibtex.bib
+ : @article{mukamel2019perspectives
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1943 of file All_bibtex.bib
+ : @article{fishell2013neuron
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1954 of file All_bibtex.bib
+ : @article{huang2019diversity
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1966 of file All_bibtex.bib
+ : @inproceedings{aggarwal2001surprising
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1998 of file All_bibtex.bib
+ : @article{chichilnisky2001simple
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2009 of file All_bibtex.bib
+ : @article{schwartz2006spike
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2083 of file All_bibtex.bib
+ : @article{tasic2018shared
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2094 of file All_bibtex.bib
+ : @article{brown2023multiset
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2104 of file All_bibtex.bib
+ : @article{hernath2019alternative
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2115 of file All_bibtex.bib
+ : @article{scala2021phenotypic
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2126 of file All_bibtex.bib
+ : @article{gouwens2020integrated
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2137 of file All_bibtex.bib
+ : @article{gouwens2019classification
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2148 of file All_bibtex.bib
+ : @article{zeng2017neuronal
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2161 of file All_bibtex.bib
+ : @article{szabo2021conventional
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2173 of file All_bibtex.bib
+ : @article{pozzorini2015automated
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2185 of file All_bibtex.bib
+ : @article{mensi2012parameter
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2196 of file All_bibtex.bib
+ : @article{lee2021non
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2206 of file All_bibtex.bib
+ : @book{gerstner2014neuronal
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2213 of file All_bibtex.bib
+ : @article{mcinnes2018umap
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2232 of file All_bibtex.bib
+ : @article{blondel2008fast
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2242 of file All_bibtex.bib
+ : @article{li2020voltage
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2264 of file All_bibtex.bib
+ : @article{2020SciPy-NMeth
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2288 of file All_bibtex.bib
+ : @article{fontaine2014spike
+ :                           ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "diamond_executive_2013"
+Warning--I didn't find a database entry for "costello_nutrients_2020"
+Warning--I didn't find a database entry for "chakrabarti_microbiota-gut-brain_2022"
+Warning--I didn't find a database entry for "cryan_microbiota-gut-brain_2019"
+Warning--I didn't find a database entry for "morais_gut_2020"
+Warning--I didn't find a database entry for "norris_nutrition_2022"
+Warning--I didn't find a database entry for "robertson_human_2019"
+Warning--I didn't find a database entry for "connor2019early"
+Warning--I didn't find a database entry for "smith_early_2020"
+Warning--I didn't find a database entry for "ventura_does_2017"
+Warning--I didn't find a database entry for "ventura_maternal_2021"
+Warning--I didn't find a database entry for "spahn_influence_2019"
+Warning--I didn't find a database entry for "mennella_transfer_1991"
+Warning--I didn't find a database entry for "mennella_prenatal_2001"
+Warning--I didn't find a database entry for "sausenthaler_effect_2010"
+Warning--I didn't find a database entry for "bartol_epigenetic_2008"
+Warning--I didn't find a database entry for "hinde_daughter_2013"
+Warning--I didn't find a database entry for "weerth_human_2022"
+Warning--I didn't find a database entry for "amir_maternal_2012"
+Warning--I didn't find a database entry for "beckerman_maternal_2020"
+Warning--I didn't find a database entry for "docq_protective_2020"
+Warning--I didn't find a database entry for "Berger_human_2020"
+Warning--I didn't find a database entry for "Cho_2021"
+Warning--I didn't find a database entry for "Jorgensen_2021"
+Warning--I didn't find a database entry for "belfort_infant_2016"
+Warning--I didn't find a database entry for "julvez_attention_2007"
+Warning--I didn't find a database entry for "lopez_breastfeeding_2021"
+Warning--I didn't find a database entry for "Mudd_2017"
+Warning--I didn't find a database entry for "bode_functional_2015"
+Warning--I didn't find a database entry for "Totten_2012"
+Warning--I didn't find a database entry for "Underwood_2014"
+Warning--I didn't find a database entry for "borewicz_association_2020"
+Warning--I didn't find a database entry for "bundgaard-nielsen_gut_2020"
+Warning--I didn't find a database entry for "cheung_systematic_2019"
+Warning--I didn't find a database entry for "jiang_gut_2018"
+Warning--I didn't find a database entry for "sukmajaya_systematic_2021"
+Warning--I didn't find a database entry for "dong_role_2022"
+Warning--I didn't find a database entry for "carlson_infant_2017"
+Warning--I didn't find a database entry for "guzzardi_maternal_2022"
+Warning--I didn't find a database entry for "tamana_bacteroides-dominant_2021"
+Warning--I didn't find a database entry for "ou_microbiota-gut-brain_2023"
+Warning--I didn't find a database entry for "almeida_new_2019"
+Warning--I didn't find a database entry for "pinart_gut_2021"
+Warning--I didn't find a database entry for "gloor_microbiome_2017"
+Warning--I didn't find a database entry for "tsilimigras_compositional_2016"
+Warning--I didn't find a database entry for "barlow_quantitative_2020"
+Warning--I didn't find a database entry for "vandeputte_temporal_2021"
+Warning--I didn't find a database entry for "peels_replication_2021"
+Warning--I didn't find a database entry for "abu-ali_metatranscriptome_2018"
+Warning--I didn't find a database entry for "granata_duodenal_2020"
+Warning--I didn't find a database entry for "jia_rare_2019"
+Warning--I didn't find a database entry for "henke_ruminococcus_2019"
+Warning--I didn't find a database entry for "graziani_ruminococcus_2016"
+Warning--I didn't find a database entry for "luissint_inflammation_2016"
+Warning--I didn't find a database entry for "coyte_ecology_2015"
+Warning--I didn't find a database entry for "coyte_understanding_2019"
+Warning--I didn't find a database entry for "zhang_quorum_2022"
+Warning--I didn't find a database entry for "sousa2012phenotypic"
+Warning--I didn't find a database entry for "tadrowski_phenotypic_2018"
+Warning--I didn't find a database entry for "liang_mrna_2000"
+Warning--I didn't find a database entry for "mesuere_unipept_2016"
+Warning--I didn't find a database entry for "vignoli_high-throughput_2019"
+Warning--I didn't find a database entry for "venegas_corrigendum_2019"
+Warning--I didn't find a database entry for "daliri_challenges_2021"
+Warning--I didn't find a database entry for "eckburg_diversity_2005"
+Warning--I didn't find a database entry for "clavel_next_2022"
+Warning--I didn't find a database entry for "borrel_host-associated_2020"
+Warning--I didn't find a database entry for "richard_gut_2019"
+Warning--I didn't find a database entry for "kirsch_bacteriophage-bacteria_2021"
+Warning--I didn't find a database entry for "moysidou_advances_2021"
+Warning--I didn't find a database entry for "nagpal_microbiota-brain_2021"
+Warning--I didn't find a database entry for "nestler_animal_2010"
+Warning--I didn't find a database entry for "bercik_intestinal_2011"
+Warning--I didn't find a database entry for "sharon_human_2019"
+Warning--I didn't find a database entry for "walter_establishing_2020"
+Warning--I didn't find a database entry for "nissen_publication_2016"
+Warning--I didn't find a database entry for "freudenberg_challenges_2017"
+Warning--I didn't find a database entry for "kazdoba_translational_2016"
+Warning--I didn't find a database entry for "kim_perceived_2008"
+Warning--I didn't find a database entry for "kremers_parenting_2003"
+Warning--I didn't find a database entry for "lytle_predicting_2003"
+Warning--I didn't find a database entry for "snoek_parental_2007"
+Warning--I didn't find a database entry for "strien_parenting_2019"
+Warning--I didn't find a database entry for "vereecken_associations_2009"
+Warning--I didn't find a database entry for "fakhrunnisak_positive_2022"
+Warning--I didn't find a database entry for "quesnel-vallee_socioeconomic_2012"
+Warning--I didn't find a database entry for "wu_effects_2021"
+Warning--I didn't find a database entry for "oreopoulos_priceless_2011"
+Warning--I didn't find a database entry for "samarakoon_does_2015"
+Warning--I didn't find a database entry for "rippin_inequalities_2020"
+Warning--I didn't find a database entry for "fard_interplay_2021"
+Warning--I didn't find a database entry for "guerra-carrillo_does_2017"
+Warning--I didn't find a database entry for "barnett_recruiting_2012"
+Warning--I didn't find a database entry for "brannon_strategies_2013"
+Warning--I didn't find a database entry for "nicholson_recruitment_2011"
+Warning--I didn't find a database entry for "teague_retention_2018"
+Warning--I didn't find a database entry for "srinath_clinical_2019"
+Warning--I didn't find a database entry for "sanders_adolescent_2013"
+Warning--I didn't find a database entry for "toplak_executive_2008"
+Warning--I didn't find a database entry for "devriendt2009validity"
+Warning--I didn't find a database entry for "stanton_prevalence_1996"
+Warning--I didn't find a database entry for "markant_leveling_2014"
+Warning--I didn't find a database entry for "amoutzopoulos_traditional_2018"
+Warning--I didn't find a database entry for "hebert_social_1995"
+Warning--I didn't find a database entry for "subar_addressing_2015"
+Warning--I didn't find a database entry for "Nederlands_Jeugdinstituut_2022"
+Warning--I didn't find a database entry for "jong_recruitment_2023"
+Warning--I didn't find a database entry for "jones_misreporting_2021"
+Warning--I didn't find a database entry for "ho_validity_2020"
+Warning--I didn't find a database entry for "kouvari_validity_2020"
+Warning--I didn't find a database entry for "zhao_emerging_2020"
+Warning--I didn't find a database entry for "dalakleidi_applying_2022"
+Warning--I didn't find a database entry for "forster_online_2014"
+Warning--I didn't find a database entry for "kristal_evaluation_2014"
+Warning--I didn't find a database entry for "ayduk_regulating_2000"
+Warning--I didn't find a database entry for "duckworth_is_2013"
+Warning--I didn't find a database entry for "eisenberg_effortful_2007"
+Warning--I didn't find a database entry for "munakata_executive_2021"
+Warning--I didn't find a database entry for "pascual_relationship_2019"
+Warning--I didn't find a database entry for "robson_self-regulation_2020"
+Warning--I didn't find a database entry for "shoda_predicting_1990"
+Warning--I didn't find a database entry for "inoue2016preliminary"
+Warning--I didn't find a database entry for "strati2017new"
+Warning--I didn't find a database entry for "averina2020bacterial"
+Warning--I didn't find a database entry for "prehn2018reduced"
+Warning--I didn't find a database entry for "jiang2015altered"
+Warning--I didn't find a database entry for "Szopinska_Tokov_2020"
+Warning--I didn't find a database entry for "liu_altered_2019"
+Warning--I didn't find a database entry for "zhao2019correlation"
+Warning--I didn't find a database entry for "dan2020altered"
+Warning--I didn't find a database entry for "jarbrink2020gut"
+Warning--I didn't find a database entry for "deangelis2013fecal"
+Warning--I didn't find a database entry for "kandeel2020impact"
+Warning--I didn't find a database entry for "aatsinki_infant_2020"
+Warning--I didn't find a database entry for "bojovic2020gut"
+Warning--I didn't find a database entry for "knudsen_gut_2021"
+Warning--I didn't find a database entry for "xu_association_2019"
+Warning--I didn't find a database entry for "grimaldi_vitro_2017"
+Warning--I didn't find a database entry for "aarts_gut_2017"
+Warning--I didn't find a database entry for "finegold_pyrosequencing_2010"
+Warning--I didn't find a database entry for "partty_possible_2015"
+Warning--I didn't find a database entry for "fliu2019altered"
+Warning--I didn't find a database entry for "laue_sex-specific_2022"
+Warning--I didn't find a database entry for "wu2021roles"
+Warning--I didn't find a database entry for "chen2019association"
+Warning--I didn't find a database entry for "iglesias2020composition"
+Warning--I didn't find a database entry for "wang2013conlon"
+Warning--I didn't find a database entry for "williams2012application"
+Warning--I didn't find a database entry for "rothenberg_neurodevelopment_2021"
+Warning--I didn't find a database entry for "kang2018differences"
+Warning--I didn't find a database entry for "ma2019altered"
+Warning--I didn't find a database entry for "li2021fecal"
+Warning--I didn't find a database entry for "wouw_associations_2021"
+Warning--I didn't find a database entry for "wan2020case"
+Warning--I didn't find a database entry for "richarte2021gut"
+Warning--to sort, need author or key in kole2017proteomic
+Warning--empty author in kole2017proteomic
+You've used 96 entries,
+            1935 wiz_defined-function locations,
+            1179 strings with 28743 characters,
+and the built_in function-call counts, 46154 in all, are:
+= -- 4368
+> -- 2598
+< -- 43
++ -- 959
+- -- 930
+* -- 4446
+:= -- 8080
+add.period$ -- 288
+call.type$ -- 96
+change.case$ -- 933
+chr.to.int$ -- 95
+cite$ -- 99
+duplicate$ -- 1385
+empty$ -- 2823
+format.name$ -- 1077
+if$ -- 8731
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 95
+newline$ -- 481
+num.names$ -- 285
+pop$ -- 730
+preamble$ -- 1
+purify$ -- 934
+quote$ -- 0
+skip$ -- 1064
+stack$ -- 0
+substring$ -- 3298
+swap$ -- 139
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 574
+warning$ -- 2
+while$ -- 350
+width$ -- 0
+write$ -- 1243
+(There were 79 error messages)

@@ -1,0 +1,469 @@
+\documentclass[10.5pt, openright]{book} %Document type 
+\raggedbottom
+
+
+%\bibliography{library.bib}
+\usepackage{graphicx} % Required for inserting images
+\graphicspath{ {./images/} }
+\usepackage{caption}
+\captionsetup{font=small, singlelinecheck=false, justification=justified}
+\captionsetup[figure]{labelsep=period}
+\captionsetup[table]{labelsep=period}
+\usepackage{subcaption}
+% \usepackage[backend=biber,sorting=nyt,style=apa, refsection=chapter, natbib]{biblatex}
+\usepackage[semicolon,round,sectionbib]{natbib}  %%%%Changed
+\usepackage{chapterbib}    %%%%Changed
+
+% \renewcommand*{\bibfont}{\fontsize{10}{12}\selectfont}
+
+% add your references to this file
+%\addbibresource{Library_test.bib}
+%\addbibresource{refs_intro.bib}
+%\addbibresource{refs_ch2.bib}
+%\addbibresource{refs_ch3.bib}
+%\addbibresource{refs_ch4.bib}
+%\addbibresource{refs_ch5.bib}
+%\addbibresource{refs_disc.bib}
+
+% \bibliography{Ch2_bibtex, Ch3_bibtex,Ch4_bibtex,Ch5_bibtex,ChDisc_bibtex,ChIntr_bibtex}
+
+\usepackage{subfig}
+\usepackage{tabto} %to add tabs
+\usepackage{setspace} %to change spacing between lines
+\usepackage{titlesec}
+\usepackage{ragged2e} %to center text of flush them to the left or right side
+%\justifying
+
+\usepackage{hyphenat}
+
+%\graphicspath{ {images/} }
+\usepackage{fourier-otf} %same
+\usepackage{array}
+\usepackage{makecell}
+\usepackage{booktabs} %for table lines 
+\usepackage{tabularx}
+% \usepackage[b5paper,margin=1in]
+%\usepackage{CJKutf8} % for chinese text
+% \usepackage[utf8]{inputenc}
+\usepackage{xeCJK} % for chinese text
+% \setCJKmainfont{Noto Sans Traditional Chinese}
+% \usepackage{microtype}
+% \usepackage[b5paper, inner=1.25in, outer=1in, top=1in, bottom=1in]{geometry}
+
+\usepackage[b5paper, inner=1in, outer=0.75in, top=1in, bottom=1in]{geometry}
+
+\geometry{papersize={17cm,24cm}}
+\usepackage{float}
+\usepackage{fancyhdr}
+\usepackage{wrapfig}
+\pagestyle{fancyplain}% <- use fancyplain instead fancy
+\usepackage{longtable}
+\usepackage{xltabular} % for long tables
+\usepackage{tabularray}
+\usepackage{multirow}
+\usepackage[table]{xcolor}
+\usepackage{tipa}
+\usepackage{longtable}
+% \usepackage{floatrow}%for getting images next to text
+\usepackage{boldline} %for bold lines in tables
+\usepackage{xcolor}
+\usepackage{ltablex}
+\usepackage{framed, multido}
+\usepackage{eso-pic} %for adding background
+\usepackage[absolute]{textpos}
+\usepackage{rotating} %for rotating figures
+
+%_______ Setting Font ____________________________________
+% \usepackage[T1]{fontenc}
+% \usepackage{lmodern}
+% \renewcommand{\familydefault}{lmss}
+
+\usepackage{fontspec}
+\setmainfont{Latin Modern Sans}
+%___________________________________________
+
+\usepackage{tabularx,ragged2e,booktabs,caption}
+\newcolumntype{C}[1]{>{\Centering}m{#1}}
+\renewcommand\tabularxcolumn[1]{C{#1}}
+
+\usepackage{pdflscape} %for changing the tables 90 degrees
+\usepackage{afterpage} %same
+
+
+
+%\usepackage[colorinlistoftodos]{todonotes}
+%\usepackage{listings}
+%\usepackage[ruled,vlined]{algorithm2e}
+%\usepackage{xcolor}
+%\usepackage{rotating}
+%\usepackage{amsmath}
+%\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry} %Changing the margins
+    %Margin options are: a0paper, a1paper, a2paper, a3paper, a4paper, a5paper, a6paper,b0paper, b1paper, b2paper, b3paper, b4paper, b5paper, b6paper,c0paper, c1paper, c2paper, c3paper, c4paper, c5paper, c6paper,b0j, b1j, b2j, b3j, b4j, b5j, b6j,ansiapaper, ansibpaper, ansicpaper, ansidpaper, ansiepaper,letterpaper, executivepaper, legalpaper
+%\usepackage{includeenc}
+%\usepackage{csquotes}
+
+
+%\usepackage[demo]{graphicx}
+%\usepackage[some]{background}
+
+\usepackage{lipsum}
+% \usepackage{showframe}
+\usepackage{tikz}
+\usepackage{xstring}
+
+% \AddEverypageHook{\AddLogoIfCurrentPageIsOnList}%
+
+
+
+
+% \newcommand{\MyGraphicLogofour}{% For imported graphic logo
+% \begin{tikzpicture}[remember picture,overlay,yshift=-2cm, xshift=2cm]
+%   \node at (9,-25) {\includegraphics[width=1cm,height=1cm]{Figures/test_logo2.jpg}}; %write the name of the image
+%  \end{tikzpicture}
+% }
+
+% \SetBgContents{\MyGraphicLogofour}% Select included image
+
+% \SetBgPosition{current page.north west}% Select location
+% \SetBgOpacity{1.0}% Select opacity
+% \SetBgAngle{0.0}% Select roation of logo
+
+% \SetBgScale{1.0}% Select scale factor of logo
+
+% \newcommand*{\ListOfPagesWithLogofour}{2,...,62}% %need to write the last page number 
+
+% \makeatletter
+% \newcommand*{\AddLogoIfCurrentPageIsOnLisfour}{%
+%     \foreach \LogoPage in \ListOfPagesWithLogofour {%
+%         \IfEq{\arabic{page}}{\LogoPage}{%
+%             \bg@material%
+%             \breakforeach%
+%         }{}%
+%     }%
+% }%
+% \makeatother
+% \AddEverypageHook{\AddLogoIfCurrentPageIsOnLisfour}%
+\usepackage{titletoc}% http://ctan.org/pkg/titletoc
+
+% \titlecontents*{chapter}% <section-type>
+%   [0pt]% <left>
+%   {}% <above-code>
+%   {\bfseries\chaptername\ \thecontentslabel\quad}% <numbered-entry-format>
+%   {}% <numberless-entry-format>
+%   {\bfseries\hfill\contentspage}% <filler-page-format>
+
+\usepackage{tocloft,calc}
+
+
+%---------------add thumb index------------
+
+% % background common settings
+% \usepackage[
+%   scale=1,
+%   angle=0,
+%   opacity=1,
+%   contents={}
+% ]{background}
+% \usetikzlibrary{calc}
+% \usepackage{lipsum}
+
+ \pagestyle{plain}
+
+% % auxiliary counter
+% \newcounter{chapshift}
+% \addtocounter{chapshift}{-1}
+
+% % the list of colors to be used (add more if needed)
+% \newcommand\BoxColor{red!40}
+
+% % the main command; the mandatory argument sets the color of the vertical box
+% \newcommand\ChapFrame{%
+%     \AddEverypageHook{%
+%     \ifnum\value{page} < 8
+%     \else  
+%         \ifnum\value{page} = 29
+%         \else
+%             \ifnum\value{page} = 63
+%             \else
+%                 \ifnum\value{page} = 103
+%                 \else
+%                     \ifnum\value{page} = 147
+%                     \else
+%                         \ifnum\value{page} = 189
+%                         \else
+%                             \ifnum\value{page} = 215
+%                             \else
+%                                 \ifnum\value{page}= 263
+%                                 \else
+%                                 \ifodd\value{page}
+%                                   \backgroundsetup{contents={%
+%                                     \begin{tikzpicture}[overlay,remember picture]
+%                                       \node[
+%                                         fill=\BoxColor,
+%                                         inner sep=0pt,
+%                                         rectangle,
+%                                         text width=1cm,
+%                                         text height=2.5cm,
+%                                         align=center,
+%                                         anchor=north east
+%                                       ] 
+%                                       at ($ (current page.north east) + (-0cm,-2*\thechapshift cm -3.5cm) $) 
+%                                       {\rotatebox{90}{\hspace*{.3cm}\parbox[c][0.3cm][t]{1.9cm}{%
+%                                           \raggedright\textcolor{black}{\scshape\leftmark}}}};
+%                                     \end{tikzpicture}%
+%                                   }%
+%                                 }  
+%                                 \else
+%                                   \backgroundsetup{contents={%
+%                                     \begin{tikzpicture}[overlay,remember picture]
+%                                     \node[
+%                                       fill=\BoxColor,
+%                                       inner sep=0pt,
+%                                       rectangle,
+%                                       text width=1cm,
+%                                       text height=2.5cm,
+%                                       align=center,
+%                                       anchor=north west
+%                                     ] 
+%                                     at ($ (current page.north west) + (-0cm,-2*\thechapshift cm-3.5cm) $) 
+%                                     {\rotatebox{90}{\hspace*{0.25cm}\parbox[c][0.3cm][t]{2cm}{%
+%                                         \raggedright\textcolor{black}{\scshape\leftmark}}}};
+%                                     \end{tikzpicture}%
+%                                   }%
+%                                 }
+%                                 \fi
+%                             \fi 
+%                         \fi 
+%                     \fi 
+%                 \fi
+%             \fi
+%         \fi
+%     \fi
+%     \fi
+%   \BgMaterial}%
+%   \stepcounter{chapshift}%
+% }
+
+% % redefinition of \chaptermark to contain only the title
+% \renewcommand\chaptermark[1]{\markboth{{\fontfamily{lmss}\selectfont Chapter \thechapter}}{}} 
+
+%-----------------------------------------------
+
+\renewcommand{\cftchappresnum}{Chapter }
+\AtBeginDocument{\addtolength\cftchapnumwidth{\widthof{\bfseries Chapter }}}
+
+
+% \cftsetindents{section}{2em}{3em}
+\usepackage{tocloft}
+% \setlength{\cftchapterindent}{4em}
+\cftsetindents{chapter}{0em}{4em}
+% \renewcommand{\@tocrmarg}{6em}
+\renewcommand{\contentsname}{\LARGE Table of Contents}
+
+\makeatletter
+\renewcommand\@tocrmarg{0.5in}
+% \renewcommand*\l@chapter{\@dottedtocline{0}{1.5em}{4em}}
+\makeatother
+% \setlength{\cftsetindent}{section}{4em}
+
+%----------------------------------------------------------
+
+% \usepackage{tcolorbox}
+%https://osl.ugr.es/CTAN/macros/latex/contrib/tcolorbox/tcolorbox.pdf
+
+\usepackage{fancybox}
+
+% \tcbuselibrary{breakable}
+% \tcbset{%any default parameters
+%   width=0.9\textwidth,
+%   halign=justify,
+%   center,
+%   breakable,
+%   colback=white    
+% }
+
+% \usepackage{hyperref} % Add the hyperref package to enable hyperlinks
+
+\usepackage{xcolor}
+\definecolor{navy}{HTML}{102573}
+
+\usepackage[
+  colorlinks=true,
+  linkcolor=navy,
+  urlcolor=navy,
+  citecolor=navy
+]{hyperref}
+
+% \hypersetup{
+%     hidelinks
+% }
+
+
+\begin{document}
+
+
+\frenchspacing
+\doublespacing
+\pagenumbering{arabic}
+
+\setcounter{secnumdepth}{0}
+%\pagestyle{fancy}
+
+\titleformat{\chapter}[display]
+  {\normalfont\LARGE\bfseries\raggedright\centering}{\chaptertitlename\ \thechapter}{0pt}{\LARGE}
+\titlespacing*{\chapter}{0pt}{-50pt}{-50pt}
+\titlespacing*{\section}{0pt}{*1}{*1}
+\titlespacing*{\subsection}{0pt}{*1}{*1}
+
+% Clear default headers and footers
+% \fancyhead[LE]{\thumbindex} % Left (even) pages
+%\pagestyle{fancy} % Apply the custom page style
+
+
+% \maketitle
+
+\include{Chapters/title}
+\setcounter{tocdepth}{0}
+\clearpage
+\thispagestyle{empty}
+\tableofcontents
+\fancyhf{} 
+\clearpage
+\newpage
+
+
+% \newpage 
+% \titlepage
+
+
+\chapter{General Introduction}
+% \ChapFrame
+
+ 
+
+\AddToShipoutPictureBG*{%
+  \AtPageLowerLeft{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \node[inner sep=0] at (current page.center) {\includegraphics[width=\paperwidth, height=\paperheight]{Figures/1.pdf}};
+    \end{tikzpicture}
+  }
+}
+
+% \begin{tikzpicture}[remember picture, overlay]
+%   \node[anchor=north, xshift=0.4cm, yshift=-4.5cm] at (current page.north)  {\includegraphics[scale=0.65]{Figures/cover_orb.png}};
+% \end{tikzpicture}
+\include{Chapters/Introduction}
+%-------------------------------------------
+
+\newpage
+\chapter{Neuronal Identity is Not Static—An Input-Driven Perspective} 
+
+\thispagestyle{empty}
+\AddToShipoutPictureBG*{%
+  \AtPageLowerLeft{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \node[inner sep=0] at (current page.center) {\includegraphics[width=\paperwidth, height=\paperheight]{Figures/2.pdf}};
+    \end{tikzpicture}
+  }
+}
+
+% \begin{tikzpicture}[remember picture, overlay]
+%   \node[anchor=north, xshift=0.4cm, yshift=-4.5cm] at (current page.north)  {\includegraphics[scale=0.65]{Figures/cover_line1.png}};
+% \end{tikzpicture}
+\vfill
+
+\noindent Based on: \href{https://doi.org/10.3390/nu13082752}{Willemsen, Y., Beijers, R., Arias Vásquez, A., de Weerth, C., Do Breastfeeding History and Diet Quality Predict Inhibitory Control at Preschool Age? \textit{Nutrients}, 2021, 13, 2752.}
+
+\include{Chapters/Chapter_2}
+
+%-------------------------------------------
+
+\newpage
+\chapter{Neuromodulatory Control of Cortical Function: Cell-Type Specific Reshaping of Neuronal Information Transfer} 
+% \ChapFrame
+\thispagestyle{empty}
+\AddToShipoutPictureBG*{%
+  \AtPageLowerLeft{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \node[inner sep=0] at (current page.center) {\includegraphics[width=\paperwidth, height=\paperheight]{Figures/3.pdf}};
+    \end{tikzpicture}
+  }
+}
+
+% \begin{tikzpicture}[remember picture, overlay]
+%   \node[anchor=north, xshift=0.4cm, yshift=-4.5cm] at (current page.north)  {\includegraphics[scale=0.65]{Figures/cover_line2.png}};
+% \end{tikzpicture}
+\vfill
+
+\noindent Based on: \href{https://doi.org/10.3390/nu15061463}{Willemsen, Y., Beijers, R., Gu, F., Arias Vásquez, A., Schols, H.A., de Weerth, C. Fucosylated Human Milk Oligosaccharides during the First 12 Postnatal Weeks are Associated with Better Executive Functions in Toddlers. \textit{Nutrients}, 2023, 15, 1463.}
+
+\include{Chapters/Chapter_3}
+
+
+%-------------------------------------------
+\chapter{Heterogeneity in delay and timescales improves task Performance} 
+% \ChapFrame
+\thispagestyle{empty}
+\AddToShipoutPictureBG*{%
+  \AtPageLowerLeft{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \node[inner sep=0] at (current page.center) {\includegraphics[width=\paperwidth, height=\paperheight]{Figures/4.pdf}};
+    \end{tikzpicture}
+  }
+}
+
+% \begin{tikzpicture}[remember picture, overlay]
+%   \node[anchor=north, xshift=0.4cm, yshift=-4.5cm] at (current page.north)  {\includegraphics[scale=0.65]{Figures/cover_line3.png}};
+% \end{tikzpicture}
+\vfill
+\noindent Based on: \href{https://doi.org/10.1017/S0954579423001402}{Willemsen, Y.*, Ou, Y.*, Belzer, C., Arias Vásquez, A., Smidt, H., Beijers, R., and de Weerth, C. A longitudinal study of the gut microbiota during the first three years of life: Links with problem behavior and executive functions at preschool age. \textit{Development and Psychopathology}, 2023, 1-17.} *Authors contributed equally
+\include{Chapters/Chapter_4}
+
+%-------------------------------------------
+\chapter{General Discussion} 
+% \ChapFrame 
+\thispagestyle{empty}
+\AddToShipoutPictureBG*{%
+  \AtPageLowerLeft{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \node[inner sep=0] at (current page.center) {\includegraphics[width=\paperwidth, height=\paperheight]{Figures/6.pdf}};
+    \end{tikzpicture}
+  }
+}
+
+% \begin{tikzpicture}[remember picture, overlay]
+%   \node[anchor=north, xshift=0.4cm , yshift=-3.5cm] at (current page.north)  {\includegraphics[scale=0.7]{Figures/cover_line4_glow.png}};
+% \end{tikzpicture}
+\include{Chapters/Discussion_Conclusion}
+%-------------------------------------------
+\chapter{Supplementary Materials} 
+% \ChapFrame
+\thispagestyle{empty}
+\AddToShipoutPictureBG*{%
+  \AtPageLowerLeft{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \node[inner sep=0] at (current page.center) {\includegraphics[width=\paperwidth, height=\paperheight]{Figures/cover_bg.pdf}};
+    \end{tikzpicture}
+  }
+}
+\include{Chapters/Supplementary_Materials}
+% %-------------------------------------------
+\chapter{Appendices}
+\AddToShipoutPictureBG*{%
+  \AtPageLowerLeft{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \node[inner sep=0] at (current page.center) {\includegraphics[width=\paperwidth, height=\paperheight]{Figures/cover_bg.pdf}};
+    \end{tikzpicture}
+  }
+}
+\vspace{3cm}
+{\Centering Nederlandse samenvatting \newline Research data management statement \newline Acknowledgements \newline Curriculum Vitae \newline Donders Graduate School \newline} 
+% \ChapFrame
+\thispagestyle{empty}
+
+\include{Chapters/Summary}
+\include{Chapters/Research data management statement}
+\include{Chapters/Acknowledgements}
+\include{Chapters/CV}
+\include{Chapters/DGS}
+\end{document}
