@@ -1,0 +1,147 @@
+\begin{thebibliography}{}
+
+\bibitem[Boedecker et~al., 2012]{boedecker2012information}
+Boedecker, J., Obst, O., Lizier, J.~T., Mayer, N.~M., and Asada, M. (2012).
+\newblock Information processing in echo state networks at the edge of chaos.
+\newblock {\em Theory in Biosciences}, 131:205--213.
+
+\bibitem[Brunel and Wang, 2003]{brunel2003firing}
+Brunel, N. and Wang, X.-J. (2003).
+\newblock Firing frequency, spike timing and synaptic plasticity of the
+  hippocampal neurons: modeling and experiments.
+\newblock {\em Journal of Neurophysiology}, 90(1):415–430.
+
+\bibitem[Cavanagh et~al., 2022]{Cavanagh2020diverse}
+Cavanagh, S., Towers, J., Wallis, J., Hunt, L., and Kennerley, S. (2022).
+\newblock Reconciling persistent and dynamic hypotheses of working memory
+  coding in prefrontal cortex.
+\newblock {\em Nature Communications}, 13:1--18.
+
+\bibitem[Cavanagh et~al., 2020]{cavanagh2020diversity}
+Cavanagh, S.~E., Hunt, L.~T., and Kennerley, S.~W. (2020).
+\newblock A diversity of intrinsic timescales underlie neural computations.
+\newblock {\em Frontiers in neural circuits}, 14:615626.
+
+\bibitem[Chu et~al., 2020]{chu2020long}
+Chu, J.~C., Wang, Q., Baldassano, C., and Guo, N.~D. (2020).
+\newblock Long-timescale processing in human auditory and visual cortex
+  supports short-term memory.
+\newblock {\em Nature Neuroscience}, 23:1686–1695.
+
+\bibitem[Habashy et~al., 2024]{habashy2024adapting}
+Habashy, K.~G., Evans, B.~D., Goodman, D.~F., and Bowers, J.~S. (2024).
+\newblock Adapting to time: Why nature may have evolved a diverse set of
+  neurons.
+\newblock {\em PLOS Computational Biology}, 20(12):e1012673.
+
+\bibitem[Hansen et~al., 2006]{hansen2006the-cma-evoluti}
+Hansen, N., M{\"u}ller, S.~D., and Koumoutsakos, P. (2006).
+\newblock The cma evolution strategy: A comparing review.
+\newblock In Lozano, J., Larra{\~n}aga, P., Inza, I., and Bengoetxea, E.,
+  editors, {\em Towards a New Evolutionary Computation. Advances in the
+  Estimation of Distribution Algorithms}, pages 75--102. Springer.
+
+\bibitem[Hasson et~al., 2008]{hasson2008hierarchical}
+Hasson, U., Yang, E., Vallines, I., Heeger, D., and Rubin, N. (2008).
+\newblock A hierarchy of temporal receptive windows in human cortex.
+\newblock {\em Journal of Neuroscience}, 28(10):2539–2550.
+
+\bibitem[Iacob et~al., 2022]{iacob2022distance}
+Iacob, S., Freiberger, M., and Dambre, J. (2022).
+\newblock Distance-based delays in echo state networks.
+\newblock In {\em International Conference on Intelligent Data Engineering and
+  Automated Learning}, pages 211--222. Springer.
+
+\bibitem[Izhikevich, 2006]{izhikevich2006polychronization}
+Izhikevich, E.~M. (2006).
+\newblock Polychronization: Computation with spikes.
+\newblock {\em Neural Computation}, 18(2):245–282.
+
+\bibitem[Jaeger, 2001a]{jaeger2001short}
+Jaeger, H. (2001a).
+\newblock Short term memory in echo state networks.
+
+\bibitem[Jaeger, 2001b]{jaeger2001echo}
+Jaeger, H. (2001b).
+\newblock The “echo state” approach to analysing and training recurrent
+  neural networks-with an erratum note.
+\newblock {\em GMD Technical Report 148}.
+
+\bibitem[Koch and Laurent, 1999]{koch1999complexity}
+Koch, C. and Laurent, G. (1999).
+\newblock Complexity and the nervous system.
+\newblock {\em Science}, 284(5411):96--98.
+
+\bibitem[London et~al., 2010]{london2010sensitivity}
+London, M., Roth, A., Beeren, L., Häusser, M., and Latham, P.~E. (2010).
+\newblock Sensitivity to perturbations in vivo implies high noise and suggests
+  rate coding in cortex.
+\newblock {\em Nature}, 466:123–127.
+
+\bibitem[Lukoševičius and Jaeger, 2009]{lukovsevivcius2009reservoir}
+Lukoševičius, M. and Jaeger, H. (2009).
+\newblock Reservoir computing approaches to recurrent neural network training.
+\newblock {\em Computer Science Review}, 3(3):127–149.
+
+\bibitem[Lundqvist et~al., 2016]{Lundqvist2016gamma}
+Lundqvist, M., Rose, J., Herman, P., Brincat, S., Buschman, T., and Miller, E.
+  (2016).
+\newblock Gamma and beta bursts underlie working memory.
+\newblock {\em Neuron}, 90(1):152--164.
+
+\bibitem[McNaughton et~al., 2006]{mcnaughton2006path}
+McNaughton, B.~L., Battaglia, F.~P., Jensen, O., Moser, E.~I., and Moser, M.-B.
+  (2006).
+\newblock Path integration and the neural basis of the 'cognitive map'.
+\newblock {\em Nature Reviews Neuroscience}, 7(8):663–678.
+
+\bibitem[Nam et~al., 2017]{nam2017diversity}
+Nam, L., Kang, R., Kim, D., and Marder, E. (2017).
+\newblock Diversity matters: Neural variability promotes learning and
+  generalization.
+\newblock {\em Neuron}, 96(4):795–807.
+
+\bibitem[Runyan et~al., 2017a]{Runyan2017timescales}
+Runyan, C., Piasini, E., Panzeri, S., and Harvey, C. (2017a).
+\newblock Distinct timescales of population coding across cortex.
+\newblock {\em Nature}, 548:92--96.
+
+\bibitem[Runyan et~al., 2017b]{runyan2017distinct}
+Runyan, C.~A., Piasini, E., Panzeri, S., and Harvey, C.~D. (2017b).
+\newblock Distinct timescales of population coding across cortex.
+\newblock {\em Nature}, 548(7665):92–96.
+
+\bibitem[Schrauwen et~al., 2007]{schrauwen2007overview}
+Schrauwen, B., Verstraeten, D., and Van~Campenhout, J. (2007).
+\newblock An overview of reservoir computing: theory, applications and
+  implementations.
+\newblock {\em Proceedings of the European Symposium on Artificial Neural
+  Networks (ESANN)}.
+
+\bibitem[Soriano et~al., 2014]{soriano2014delay}
+Soriano, M.~C., Ort{\'\i}n, S., Keuninckx, L., Appeltant, L., Danckaert, J.,
+  Pesquera, L., and Van~der Sande, G. (2014).
+\newblock Delay-based reservoir computing: noise effects in a combined analog
+  and digital implementation.
+\newblock {\em IEEE transactions on neural networks and learning systems},
+  26(2):388--393.
+
+\bibitem[Tanaka et~al., 2022]{tanaka2022reservoir}
+Tanaka, G., Matsumori, T., Yoshida, H., and Aihara, K. (2022).
+\newblock Reservoir computing with diverse timescales for prediction of
+  multiscale dynamics.
+\newblock {\em Physical Review Research}, 4(3):L032014.
+
+\bibitem[Wang et~al., 2020]{wang2020heterogeneity}
+Wang, P.~X., Farzadfard, F., and Pehlevan, C. (2020).
+\newblock Heterogeneity of time constants improves memory performance in
+  recurrent neural networks.
+\newblock {\em arXiv preprint arXiv:2012.13074}.
+
+\bibitem[Zhou et~al., 2023]{zhou2023temporal}
+Zhou, W., Fiete, I., and Lampl, I. (2023).
+\newblock Temporal diversity in neural populations enhances robustness and
+  memory capacity in recurrent networks.
+\newblock {\em Science Advances}, 9(10):eaaz8693.
+
+\end{thebibliography}

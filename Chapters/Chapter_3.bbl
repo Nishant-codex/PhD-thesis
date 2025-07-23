@@ -1,11 +1,5 @@
 \begin{thebibliography}{}
 
-\bibitem[kol, 2017]{kole2017proteomic}
- (2017).
-\newblock Proteomic landscape of the primary somatosensory cortex upon sensory
-  deprivation.
-\newblock {\em Gigascience}, 6(10):gix082.
-
 \bibitem[Aggarwal et~al., 2001]{aggarwal2001surprising}
 Aggarwal, C.~C., Hinneburg, A., and Keim, D.~A. (2001).
 \newblock On the surprising behavior of distance metrics in high dimensional
@@ -32,20 +26,11 @@ Bargmann, C.~I. (2012).
 \newblock Beyond the connectome: how neuromodulators shape neural circuits.
 \newblock {\em Bioessays}, 34(6):458--465.
 
-\bibitem[Bargmann and Marder, 2013]{bargmann2013connectome}
-Bargmann, C.~I. and Marder, E. (2013).
-\newblock From the connectome to brain function.
-\newblock {\em Nature methods}, 10(6):483--490.
-
 \bibitem[Blondel et~al., 2008]{blondel2008fast}
 Blondel, V.~D., Guillaume, J.-L., Lambiotte, R., and Lefebvre, E. (2008).
 \newblock Fast unfolding of communities in large networks.
 \newblock {\em Journal of statistical mechanics: theory and experiment},
   2008(10):P10008.
-
-\bibitem[Brown and collinwa, 2023]{brielin_brown_2023_8128339}
-Brown, B. and collinwa (2023).
-\newblock collinwa/mcfa: First pypi release.
 
 \bibitem[Brown et~al., 2023]{brown2023multiset}
 Brown, B.~C., Wang, C., Kasela, S., Aguet, F., Nachun, D.~C., Taylor, K.~D.,
@@ -92,6 +77,11 @@ Ferguson, K.~A. and Cardin, J.~A. (2020).
 \newblock Mechanisms underlying gain modulation in the cortex.
 \newblock {\em Nature Reviews Neuroscience}, 21(2):80--92.
 
+\bibitem[Fishell and Heintz, 2013]{fishell2013neuron}
+Fishell, G. and Heintz, N. (2013).
+\newblock The neuron identity problem: form meets function.
+\newblock {\em Neuron}, 80(3):602--612.
+
 \bibitem[Gao and Goldman-Rakic, 2003]{gao2003selective}
 Gao, W.-J. and Goldman-Rakic, P.~S. (2003).
 \newblock Selective modulation of excitatory and inhibitory microcircuits by
@@ -121,19 +111,6 @@ Joshi, N., van~der Burg, S., Celikel, T., and Zeldenrust, F. (2024).
   filtering.
 \newblock {\em bioRxiv}, pages 2024--10.
 
-\bibitem[Kole and Celikel, 2019]{kole2019neocortical}
-Kole, K. and Celikel, T. (2019).
-\newblock Neocortical microdissection at columnar and laminar resolution for
-  molecular interrogation.
-\newblock {\em Current Protocols in Neuroscience}, 86(1):e55.
-
-\bibitem[Kole et~al., 2020]{kole2020assessing}
-Kole, K., Zhang, Y., Jansen, E.~J., Brouns, T., Bijlsma, A., Calcini, N., Yan,
-  X., Lantyer, A. d.~S., and Celikel, T. (2020).
-\newblock Assessing the utility of magneto to control neuronal excitability in
-  the somatosensory cortex.
-\newblock {\em Nature neuroscience}, 23(9):1044--1046.
-
 \bibitem[Lee et~al., 2021]{lee2021non}
 Lee, E.~K., Balasubramanian, H., Tsolias, A., Anakwe, S.~U., Medalla, M.,
   Shenoy, K.~V., and Chandrasekaran, C. (2021).
@@ -146,23 +123,11 @@ Marder, E. (2012).
 \newblock Neuromodulation of neuronal circuits: back to the future.
 \newblock {\em Neuron}, 76(1):1--11.
 
-\bibitem[Martens et~al., 2015]{martens2015developmental}
-Martens, M.~B., Celikel, T., and Tiesinga, P.~H. (2015).
-\newblock A developmental switch for hebbian plasticity.
-\newblock {\em PLoS Computational Biology}, 11(7):e1004386.
-
 \bibitem[McInnes et~al., 2018]{mcinnes2018umap}
 McInnes, L., Healy, J., and Melville, J. (2018).
 \newblock Umap: Uniform manifold approximation and projection for dimension
   reduction.
 \newblock {\em arXiv preprint arXiv:1802.03426}.
-
-\bibitem[Miceli et~al., 2017]{miceli2017reduced}
-Miceli, S., Nadif~Kasri, N., Joosten, J., Huang, C., Kepser, L., Proville, R.,
-  Selten, M.~M., van Eijs, F., Azarfar, A., Homberg, J.~R., et~al. (2017).
-\newblock Reduced inhibition within layer iv of sert knockout rat barrel cortex
-  is associated with faster sensory integration.
-\newblock {\em Cerebral Cortex}, 27(2):933--949.
 
 \bibitem[Morozova et~al., 2016]{morozova2016dopamine}
 Morozova, E.~O., Zakharov, D., Gutkin, B.~S., Lapish, C.~C., and Kuznetsov, A.
@@ -213,6 +178,11 @@ Sarter, M., Parikh, V., and Howe, W.~M. (2009).
 \newblock Phasic acetylcholine release and the volume transmission hypothesis:
   time to move on.
 \newblock {\em Nature Reviews Neuroscience}, 10(5):383--390.
+
+\bibitem[Schultz, 2007]{schultz2007multiple}
+Schultz, W. (2007).
+\newblock Multiple dopamine functions at different time courses.
+\newblock {\em Annu. Rev. Neurosci.}, 30(1):259--288.
 
 \bibitem[Schwartz et~al., 2006]{schwartz2006spike}
 Schwartz, O., Pillow, J.~W., Rust, N.~C., and Simoncelli, E.~P. (2006).

@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[pet, 2008]{petilla2008petilla}
+ (2008).
+\newblock Petilla terminology: nomenclature of features of gabaergic
+  interneurons of the cerebral cortex.
+\newblock {\em Nature Reviews Neuroscience}, 9(7):557--568.
+
 \bibitem[kol, 2017]{kole2017proteomic}
  (2017).
 \newblock Proteomic landscape of the primary somatosensory cortex upon sensory
@@ -33,15 +39,18 @@ Avermann, M., Tomm, C., Mateo, C., Gerstner, W., and Petersen, C.~C. (2012).
   mouse barrel cortex.
 \newblock {\em Journal of neurophysiology}, 107(11):3116--3134.
 
+\bibitem[Azarfar et~al., 2018]{Azarfar2018}
+Azarfar, A., Zhang, Y., Alishbayli, A., Miceli, S., Kepser, L., van~der Wielen,
+  D., van~de Moosdijk, M., Homberg, J.~R., Schubert, D., and Celikel, T.
+  (2018).
+\newblock A databank for intracellular electrophysiological mapping of the
+  adult somatosensory cortex.
+\newblock {\em Gigascience}, 7(12):giy147.
+
 \bibitem[Bargmann, 2012]{bargmann2012beyond}
 Bargmann, C.~I. (2012).
 \newblock Beyond the connectome: how neuromodulators shape neural circuits.
 \newblock {\em Bioessays}, 34(6):458--465.
-
-\bibitem[Bargmann and Marder, 2013]{bargmann2013connectome}
-Bargmann, C.~I. and Marder, E. (2013).
-\newblock From the connectome to brain function.
-\newblock {\em Nature methods}, 10(6):483--490.
 
 \bibitem[Bean, 2007]{bean2007action}
 Bean, B.~P. (2007).
@@ -53,6 +62,11 @@ Blondel, V.~D., Guillaume, J.-L., Lambiotte, R., and Lefebvre, E. (2008).
 \newblock Fast unfolding of communities in large networks.
 \newblock {\em Journal of statistical mechanics: theory and experiment},
   2008(10):P10008.
+
+\bibitem[Boedecker et~al., 2012]{boedecker2012information}
+Boedecker, J., Obst, O., Lizier, J.~T., Mayer, N.~M., and Asada, M. (2012).
+\newblock Information processing in echo state networks at the edge of chaos.
+\newblock {\em Theory in Biosciences}, 131:205--213.
 
 \bibitem[Bonald et~al., 2020]{JMLR:v21:20-412}
 Bonald, T., de~Lara, N., Lutz, Q., and Charpentier, B. (2020).
@@ -70,12 +84,23 @@ Brown, B.~C., Wang, C., Kasela, S., Aguet, F., Nachun, D.~C., Taylor, K.~D.,
   multi-omics data.
 \newblock {\em Cell Genomics}, 3(8).
 
+\bibitem[Brunel and Wang, 2003]{brunel2003firing}
+Brunel, N. and Wang, X.-J. (2003).
+\newblock Firing frequency, spike timing and synaptic plasticity of the
+  hippocampal neurons: modeling and experiments.
+\newblock {\em Journal of Neurophysiology}, 90(1):415–430.
+
 \bibitem[Cadwell et~al., 2016]{cadwell2016electrophysiological}
 Cadwell, C.~R., Palasantza, A., Jiang, X., Berens, P., Deng, Q., Yilmaz, M.,
   Reimer, J., Shen, S., Bethge, M., Tolias, K.~F., et~al. (2016).
 \newblock Electrophysiological, transcriptomic and morphologic profiling of
   single neurons using patch-seq.
 \newblock {\em Nature biotechnology}, 34(2):199--203.
+
+\bibitem[Calcini et~al., 2024]{calcini2024electrical}
+Calcini, N., Zeldenrust, F., and Celikel, T. (2024).
+\newblock Electrical diversity of neurons in sensory cortices.
+\newblock {\em bioRxiv}, pages 2024--10.
 
 \bibitem[Cardin et~al., 2007]{cardin2007stimulus}
 Cardin, J.~A., Palmer, L.~A., and Contreras, D. (2007).
@@ -89,6 +114,30 @@ Casale, A.~E., Foust, A.~J., Bal, T., and McCormick, D.~A. (2015).
   properties.
 \newblock {\em Journal of Neuroscience}, 35(47):15555--15567.
 
+\bibitem[Cavanagh et~al., 2022]{Cavanagh2020diverse}
+Cavanagh, S., Towers, J., Wallis, J., Hunt, L., and Kennerley, S. (2022).
+\newblock Reconciling persistent and dynamic hypotheses of working memory
+  coding in prefrontal cortex.
+\newblock {\em Nature Communications}, 13:1--18.
+
+\bibitem[Cavanagh et~al., 2020]{cavanagh2020diversity}
+Cavanagh, S.~E., Hunt, L.~T., and Kennerley, S.~W. (2020).
+\newblock A diversity of intrinsic timescales underlie neural computations.
+\newblock {\em Frontiers in neural circuits}, 14:615626.
+
+\bibitem[Celikel and Sakmann, 2003]{Celikel2003}
+Celikel, T. and Sakmann, B. (2003).
+\newblock Sensory integration across space and in time for decision making in
+  the somatosensory system of rodents.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 100(6):3888--3893.
+
+\bibitem[Celikel et~al., 2004]{Celikel2004}
+Celikel, T., Szostak, V.~A., and Feldman, D.~E. (2004).
+\newblock Modulation of spike timing by sensory deprivation during induction of
+  cortical map plasticity.
+\newblock {\em Nature Neuroscience}, 7(5):534--541.
+
 \bibitem[Ch{\'e}reau et~al., 2020]{chereau2020dynamic}
 Ch{\'e}reau, R., Bawa, T., Fodoulian, L., Carleton, A., Pag{\`e}s, S., and
   Holtmaat, A. (2020).
@@ -100,6 +149,12 @@ Ch{\'e}reau, R., Bawa, T., Fodoulian, L., Carleton, A., Pag{\`e}s, S., and
 Chichilnisky, E. (2001).
 \newblock A simple white noise analysis of neuronal lightresponses.
 \newblock {\em Network: computation in neural systems}, 12(2):199.
+
+\bibitem[Chu et~al., 2020]{chu2020long}
+Chu, J.~C., Wang, Q., Baldassano, C., and Guo, N.~D. (2020).
+\newblock Long-timescale processing in human auditory and visual cortex
+  supports short-term memory.
+\newblock {\em Nature Neuroscience}, 23:1686–1695.
 
 \bibitem[Connors and Gutnick, 1990]{connors1990intrinsic}
 Connors, B.~W. and Gutnick, M.~J. (1990).
@@ -198,6 +253,18 @@ Gerstner, W., Kistler, W.~M., Naud, R., and Paninski, L. (2014).
   cognition}.
 \newblock Cambridge University Press.
 
+\bibitem[Goldman et~al., 2023]{Goldman2023}
+Goldman, M.~S. et~al. (2023).
+\newblock Intrinsic neural diversity quenches the dynamic volatility of
+  balanced neural networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  120(28):e2218841120.
+
+\bibitem[Gollo et~al., 2020]{Gollo2020}
+Gollo, L.~L. et~al. (2020).
+\newblock A diversity of intrinsic timescales underlie neural computations.
+\newblock {\em Frontiers in Neural Circuits}, 14:615626.
+
 \bibitem[Gon{\c{c}}alves et~al., 2020]{gonccalves2020training}
 Gon{\c{c}}alves, P.~J., Lueckmann, J.-M., Deistler, M., Nonnenmacher, M.,
   {\"O}cal, K., Bassetto, G., Chintaluri, C., Podlaski, W.~F., Haddad, S.~A.,
@@ -220,11 +287,24 @@ Gouwens, N.~W., Sorensen, S.~A., Berg, J., Lee, C., Jarsky, T., Ting, J.,
   in the mouse visual cortex.
 \newblock {\em Nature neuroscience}, 22(7):1182--1195.
 
+\bibitem[Habashy et~al., 2024]{habashy2024adapting}
+Habashy, K.~G., Evans, B.~D., Goodman, D.~F., and Bowers, J.~S. (2024).
+\newblock Adapting to time: Why nature may have evolved a diverse set of
+  neurons.
+\newblock {\em PLOS Computational Biology}, 20(12):e1012673.
+
 \bibitem[Halabisky et~al., 2006]{halabisky2006electrophysiological}
 Halabisky, B., Shen, F., Huguenard, J.~R., and Prince, D.~A. (2006).
 \newblock Electrophysiological classification of somatostatin-positive
   interneurons in mouse sensorimotor cortex.
 \newblock {\em Journal of neurophysiology}, 96(2):834--845.
+
+\bibitem[Hansen et~al., 2006]{hansen2006the-cma-evoluti}
+Hansen, N., M{\"u}ller, S.~D., and Koumoutsakos, P. (2006).
+\newblock The cma evolution strategy: A comparing review.
+\newblock In Lozano, J., Larra{\~n}aga, P., Inza, I., and Bengoetxea, E.,
+  editors, {\em Towards a New Evolutionary Computation. Advances in the
+  Estimation of Distribution Algorithms}, pages 75--102. Springer.
 
 \bibitem[Harris and Shepherd, 2015]{harris2015neocortical}
 Harris, K.~D. and Shepherd, G.~M. (2015).
@@ -235,6 +315,11 @@ Harris, K.~D. and Shepherd, G.~M. (2015).
 Hasselmo, M.~E., Giocomo, L.~M., et~al. (2006).
 \newblock Cholinergic modulation of cortical function.
 \newblock {\em Journal of Molecular Neuroscience}, 30(1-2):133--136.
+
+\bibitem[Hasson et~al., 2008]{hasson2008hierarchical}
+Hasson, U., Yang, E., Vallines, I., Heeger, D., and Rubin, N. (2008).
+\newblock A hierarchy of temporal receptive windows in human cortex.
+\newblock {\em Journal of Neuroscience}, 28(10):2539–2550.
 
 \bibitem[H{\"a}usser, 2000]{hausser2000hodgkin}
 H{\"a}usser, M. (2000).
@@ -258,6 +343,27 @@ Huang, Z.~J. and Paul, A. (2019).
 \newblock The diversity of gabaergic neurons and neural communication elements.
 \newblock {\em Nature Reviews Neuroscience}, 20(9):563--572.
 
+\bibitem[Iacob et~al., 2022]{iacob2022distance}
+Iacob, S., Freiberger, M., and Dambre, J. (2022).
+\newblock Distance-based delays in echo state networks.
+\newblock In {\em International Conference on Intelligent Data Engineering and
+  Automated Learning}, pages 211--222. Springer.
+
+\bibitem[Izhikevich, 2006]{izhikevich2006polychronization}
+Izhikevich, E.~M. (2006).
+\newblock Polychronization: Computation with spikes.
+\newblock {\em Neural Computation}, 18(2):245–282.
+
+\bibitem[Jaeger, 2001a]{jaeger2001short}
+Jaeger, H. (2001a).
+\newblock Short term memory in echo state networks.
+
+\bibitem[Jaeger, 2001b]{jaeger2001echo}
+Jaeger, H. (2001b).
+\newblock The “echo state” approach to analysing and training recurrent
+  neural networks-with an erratum note.
+\newblock {\em GMD Technical Report 148}.
+
 \bibitem[Jain and Narayanan, 2020]{jain2020degeneracy}
 Jain, A. and Narayanan, R. (2020).
 \newblock Degeneracy in the emergence of spike-triggered average of hippocampal
@@ -275,6 +381,11 @@ Kiritani, T., Pala, A., Gasselin, C., Crochet, S., and Petersen, C.~C. (2023).
 \newblock Membrane potential dynamics of excitatory and inhibitory neurons in
   mouse barrel cortex during active whisker sensing.
 \newblock {\em Plos one}, 18(6):e0287174.
+
+\bibitem[Koch and Laurent, 1999]{koch1999complexity}
+Koch, C. and Laurent, G. (1999).
+\newblock Complexity and the nervous system.
+\newblock {\em Science}, 284(5411):96--98.
 
 \bibitem[Kole and Celikel, 2019]{kole2019neocortical}
 Kole, K. and Celikel, T. (2019).
@@ -301,6 +412,30 @@ Li, B., Routh, B.~N., Johnston, D., Seidemann, E., and Priebe, N.~J. (2020).
 \newblock Voltage-gated intrinsic conductances shape the input-output
   relationship of cortical neurons in behaving primate v1.
 \newblock {\em Neuron}, 107(1):185--196.
+
+\bibitem[Liu et~al., 2024]{liu2024neuronal}
+Liu, Y., Jiang, S., Li, Y., Zhao, S., Yun, Z., Zhao, Z.-H., Zhang, L., Wang,
+  G., Chen, X., Manubens-Gil, L., et~al. (2024).
+\newblock Neuronal diversity and stereotypy at multiple scales through whole
+  brain morphometry.
+\newblock {\em Nature Communications}, 15(1):10269.
+
+\bibitem[London et~al., 2010]{london2010sensitivity}
+London, M., Roth, A., Beeren, L., Häusser, M., and Latham, P.~E. (2010).
+\newblock Sensitivity to perturbations in vivo implies high noise and suggests
+  rate coding in cortex.
+\newblock {\em Nature}, 466:123–127.
+
+\bibitem[Lukoševičius and Jaeger, 2009]{lukovsevivcius2009reservoir}
+Lukoševičius, M. and Jaeger, H. (2009).
+\newblock Reservoir computing approaches to recurrent neural network training.
+\newblock {\em Computer Science Review}, 3(3):127–149.
+
+\bibitem[Lundqvist et~al., 2016]{Lundqvist2016gamma}
+Lundqvist, M., Rose, J., Herman, P., Brincat, S., Buschman, T., and Miller, E.
+  (2016).
+\newblock Gamma and beta bursts underlie working memory.
+\newblock {\em Neuron}, 90(1):152--164.
 
 \bibitem[Marder, 2012]{marder2012neuromodulation}
 Marder, E. (2012).
@@ -347,6 +482,12 @@ McInnes, L., Healy, J., Saul, N., and Grossberger, L. (2018b).
 \newblock Umap: Uniform manifold approximation and projection.
 \newblock {\em The Journal of Open Source Software}, 3(29):861.
 
+\bibitem[McNaughton et~al., 2006]{mcnaughton2006path}
+McNaughton, B.~L., Battaglia, F.~P., Jensen, O., Moser, E.~I., and Moser, M.-B.
+  (2006).
+\newblock Path integration and the neural basis of the 'cognitive map'.
+\newblock {\em Nature Reviews Neuroscience}, 7(8):663–678.
+
 \bibitem[Mensi et~al., 2012]{mensi2012parameter}
 Mensi, S., Naud, R., Pozzorini, C., Avermann, M., Petersen, C.~C., and
   Gerstner, W. (2012).
@@ -378,12 +519,24 @@ Nadim, F. and Bucher, D. (2014).
 \newblock Neuromodulation of neurons and synapses.
 \newblock {\em Current opinion in neurobiology}, 29:48--56.
 
+\bibitem[Nam et~al., 2017]{nam2017diversity}
+Nam, L., Kang, R., Kim, D., and Marder, E. (2017).
+\newblock Diversity matters: Neural variability promotes learning and
+  generalization.
+\newblock {\em Neuron}, 96(4):795–807.
+
 \bibitem[Nandi et~al., 2022]{nandi2022single}
 Nandi, A., Chartrand, T., Van~Geit, W., Buchin, A., Yao, Z., Lee, S.~Y., Wei,
   Y., Kalmbach, B., Lee, B., Lein, E., et~al. (2022).
 \newblock Single-neuron models linking electrophysiology, morphology, and
   transcriptomics across cortical cell types.
 \newblock {\em Cell reports}, 40(6).
+
+\bibitem[Nelson et~al., 2006]{nelson2006problem}
+Nelson, S.~B., Sugino, K., and Hempel, C.~M. (2006).
+\newblock The problem of neuronal cell types: a physiological genomics
+  approach.
+\newblock {\em Trends in neurosciences}, 29(6):339--345.
 
 \bibitem[Nusser, 2009]{nusser2009variability}
 Nusser, Z. (2009).
@@ -439,11 +592,33 @@ Rathbun, D., Ghorbani, N., Shabani, H., Zrenner, E., and Hosseinzadeh, Z.
   bionic vision—a perspective.
 \newblock {\em Journal of neural engineering}, 15(6):063002.
 
+\bibitem[Runyan et~al., 2017a]{Runyan2017timescales}
+Runyan, C., Piasini, E., Panzeri, S., and Harvey, C. (2017a).
+\newblock Distinct timescales of population coding across cortex.
+\newblock {\em Nature}, 548:92--96.
+
+\bibitem[Runyan et~al., 2017b]{runyan2017distinct}
+Runyan, C.~A., Piasini, E., Panzeri, S., and Harvey, C.~D. (2017b).
+\newblock Distinct timescales of population coding across cortex.
+\newblock {\em Nature}, 548(7665):92–96.
+
+\bibitem[Sagner and Briscoe, 2019]{Sagner2019}
+Sagner, A. and Briscoe, J. (2019).
+\newblock Establishing neuronal diversity in the spinal cord: a time and a
+  place.
+\newblock {\em Development}, 146(22):dev182154.
+
 \bibitem[Salinas and Sejnowski, 2001]{salinas2001book}
 Salinas, E. and Sejnowski, T.~J. (2001).
 \newblock Book review: gain modulation in the central nervous system: where
   behavior, neurophysiology, and computation meet.
 \newblock {\em The Neuroscientist}, 7(5):430--440.
+
+\bibitem[Sanes and Masland, 2015]{sanes2015types}
+Sanes, J.~R. and Masland, R.~H. (2015).
+\newblock The types of retinal ganglion cells: current status and implications
+  for neuronal classification.
+\newblock {\em Annual review of neuroscience}, 38(1):221--246.
 
 \bibitem[Sarter et~al., 2009]{sarter2009phasic}
 Sarter, M., Parikh, V., and Howe, W.~M. (2009).
@@ -464,6 +639,18 @@ Scala, F., Kobak, D., Shan, S., Bernaerts, Y., Laturnus, S., Cadwell, C.~R.,
 \newblock Layer 4 of mouse neocortex differs in cell types and circuit
   organization between sensory areas.
 \newblock {\em Nature communications}, 10(1):4174.
+
+\bibitem[Schrauwen et~al., 2007]{schrauwen2007overview}
+Schrauwen, B., Verstraeten, D., and Van~Campenhout, J. (2007).
+\newblock An overview of reservoir computing: theory, applications and
+  implementations.
+\newblock {\em Proceedings of the European Symposium on Artificial Neural
+  Networks (ESANN)}.
+
+\bibitem[Schultz, 2007]{schultz2007multiple}
+Schultz, W. (2007).
+\newblock Multiple dopamine functions at different time courses.
+\newblock {\em Annu. Rev. Neurosci.}, 30(1):259--288.
 
 \bibitem[Schwartz et~al., 2006]{schwartz2006spike}
 Schwartz, O., Pillow, J.~W., Rust, N.~C., and Simoncelli, E.~P. (2006).
@@ -490,6 +677,17 @@ Seong, H.~J. and Carter, A.~G. (2012).
   of layer 5 pyramidal neurons in the prefrontal cortex.
 \newblock {\em Journal of Neuroscience}, 32(31):10516--10521.
 
+\bibitem[Seung and S{\"u}mb{\"u}l, 2014]{seung2014neuronal}
+Seung, H.~S. and S{\"u}mb{\"u}l, U. (2014).
+\newblock Neuronal cell types and connectivity: lessons from the retina.
+\newblock {\em Neuron}, 83(6):1262--1272.
+
+\bibitem[Shapiro et~al., 2013]{shapiro2013single}
+Shapiro, E., Biezuner, T., and Linnarsson, S. (2013).
+\newblock Single-cell sequencing-based technologies will revolutionize
+  whole-organism science.
+\newblock {\em Nature Reviews Genetics}, 14(9):618--630.
+
 \bibitem[Sharpee, 2014]{sharpee2014toward}
 Sharpee, T.~O. (2014).
 \newblock Toward functional classification of neuronal types.
@@ -501,6 +699,20 @@ Shine, J.~M., M{\"u}ller, E.~J., Munn, B., Cabral, J., Moran, R.~J., and
 \newblock Computational models link cellular mechanisms of neuromodulation to
   large-scale neural dynamics.
 \newblock {\em Nature neuroscience}, 24(6):765--776.
+
+\bibitem[Somogyi and Klausberger, 2005]{somogyi2005defined}
+Somogyi, P. and Klausberger, T. (2005).
+\newblock Defined types of cortical interneurone structure space and spike
+  timing in the hippocampus.
+\newblock {\em The Journal of physiology}, 562(1):9--26.
+
+\bibitem[Soriano et~al., 2014]{soriano2014delay}
+Soriano, M.~C., Ort{\'\i}n, S., Keuninckx, L., Appeltant, L., Danckaert, J.,
+  Pesquera, L., and Van~der Sande, G. (2014).
+\newblock Delay-based reservoir computing: noise effects in a combined analog
+  and digital implementation.
+\newblock {\em IEEE transactions on neural networks and learning systems},
+  26(2):388--393.
 
 \bibitem[Steriade, 2000]{steriade2000corticothalamic}
 Steriade, M. (2000).
@@ -524,6 +736,12 @@ Taghert, P.~H. and Nitabach, M.~N. (2012).
 \newblock Peptide neuromodulation in invertebrate model systems.
 \newblock {\em Neuron}, 76(1):82--97.
 
+\bibitem[Tanaka et~al., 2022]{tanaka2022reservoir}
+Tanaka, G., Matsumori, T., Yoshida, H., and Aihara, K. (2022).
+\newblock Reservoir computing with diverse timescales for prediction of
+  multiscale dynamics.
+\newblock {\em Physical Review Research}, 4(3):L032014.
+
 \bibitem[Tasic et~al., 2018]{tasic2018shared}
 Tasic, B., Yao, Z., Graybuck, L.~T., Smith, K.~A., Nguyen, T.~N., Bertagnolli,
   D., Goldy, J., Garren, E., Economo, M.~N., Viswanathan, S., et~al. (2018).
@@ -536,6 +754,16 @@ Trainito, C., von Nicolai, C., Miller, E.~K., and Siegel, M. (2019).
 \newblock Extracellular spike waveform dissociates four functionally distinct
   cell classes in primate cortex.
 \newblock {\em Current Biology}, 29(18):2973--2982.
+
+\bibitem[Trapnell, 2015]{trapnell2015defining}
+Trapnell, C. (2015).
+\newblock Defining cell types and states with single-cell genomics.
+\newblock {\em Genome research}, 25(10):1491--1498.
+
+\bibitem[Tripathy et~al., 2017]{Tripathy2017}
+Tripathy, S.~J. et~al. (2017).
+\newblock Transcriptomic correlates of neuron electrophysiological diversity.
+\newblock {\em PLoS Computational Biology}, 13(10):e1005814.
 
 \bibitem[Tritsch and Sabatini, 2012]{tritsch2012dopaminergic}
 Tritsch, N.~X. and Sabatini, B.~L. (2012).
@@ -556,6 +784,23 @@ Virtanen, P., Gommers, R., Oliphant, T.~E., Haberland, M., Reddy, T.,
   Python}.
 \newblock {\em Nature Methods}, 17:261--272.
 
+\bibitem[Wagner et~al., 2016]{wagner2016revealing}
+Wagner, A., Regev, A., and Yosef, N. (2016).
+\newblock Revealing the vectors of cellular identity with single-cell genomics.
+\newblock {\em Nature biotechnology}, 34(11):1145--1160.
+
+\bibitem[Wang et~al., 2020]{wang2020heterogeneity}
+Wang, P.~X., Farzadfard, F., and Pehlevan, C. (2020).
+\newblock Heterogeneity of time constants improves memory performance in
+  recurrent neural networks.
+\newblock {\em arXiv preprint arXiv:2012.13074}.
+
+\bibitem[Wang et~al., 2021]{Wang2021}
+Wang, Q., Mitra, A., Snyder, A., et~al. (2021).
+\newblock The diversity and specificity of functional connectivity across
+  spatial scales and brain states.
+\newblock {\em NeuroImage}, 237:118193.
+
 \bibitem[Winterer and Weinberger, 2004]{winterer2004genes}
 Winterer, G. and Weinberger, D.~R. (2004).
 \newblock Genes, dopamine and cortical signal-to-noise ratio in schizophrenia.
@@ -568,18 +813,41 @@ Yan, X., Calcini, N., Safavi, P., Ak, A., Kole, K., Zeldenrust, F., and
   adult neocortex.
 \newblock {\em bioRxiv}, pages 2022--01.
 
+\bibitem[Yuste et~al., 2020]{yuste2020community}
+Yuste, R., Hawrylycz, M., Aalling, N., Aguilar-Valles, A., Arendt, D.,
+  Arma{\~n}anzas, R., Ascoli, G.~A., Bielza, C., Bokharaie, V., Bergmann,
+  T.~B., et~al. (2020).
+\newblock A community-based transcriptomics classification and nomenclature of
+  neocortical cell types.
+\newblock {\em Nature neuroscience}, 23(12):1456--1468.
+
 \bibitem[Zeldenrust et~al., 2024]{zeldenrust2024tuning}
 Zeldenrust, F., Calcini, N., Yan, X., Bijlsma, A., and Celikel, T. (2024).
 \newblock The tuning of tuning: How adaptation influences single cell
   information transfer.
 \newblock {\em PLOS Computational Biology}, 20(5):e1012043.
 
-\bibitem[Zeldenrust et~al., 2017]{zeldenrust2017estimating}
+\bibitem[Zeldenrust et~al., 2017a]{zeldenrust2017estimating}
 Zeldenrust, F., de~Knecht, S., Wadman, W.~J., Den{\`e}ve, S., and Gutkin, B.
-  (2017).
+  (2017a).
 \newblock Estimating the information extracted by a single spiking neuron from
   a continuous input time series.
 \newblock {\em Frontiers in computational neuroscience}, 11:49.
+
+\bibitem[Zeldenrust et~al., 2017b]{Zeldenrust2017}
+Zeldenrust, F., Gutkin, B.~S., and Denève, S. (2017b).
+\newblock Efficient and robust coding in heterogeneous recurrent networks.
+\newblock {\em PLoS Computational Biology}, 13(10):e1006584.
+
+\bibitem[Zeldenrust et~al., 2017c]{Zeldenrust2017b}
+Zeldenrust, F., Gutkin, B.~S., and Denève, S. (2017c).
+\newblock Neural coding with bursts—current state and future perspectives.
+\newblock {\em Frontiers in Computational Neuroscience}, 11:48.
+
+\bibitem[Zeldenrust et~al., 2018]{Zeldenrust2018}
+Zeldenrust, F., Wadman, W.~J., and Englitz, B. (2018).
+\newblock Neural coding with bursts—current state and future perspectives.
+\newblock {\em Frontiers in Computational Neuroscience}, 12:48.
 
 \bibitem[Zeng, 2022]{zeng2022cell}
 Zeng, H. (2022).
@@ -591,5 +859,17 @@ Zeng, H. and Sanes, J.~R. (2017).
 \newblock Neuronal cell-type classification: challenges, opportunities and the
   path forward.
 \newblock {\em Nature Reviews Neuroscience}, 18(9):530--546.
+
+\bibitem[Zhang et~al., 2024]{Zhang2024}
+Zhang, Z., Wang, Q., Luo, L., et~al. (2024).
+\newblock Diverse and asymmetric patterns of single-neuron projectome in the
+  mouse brain.
+\newblock {\em Nature Communications}, 15:3496.
+
+\bibitem[Zhou et~al., 2023]{zhou2023temporal}
+Zhou, W., Fiete, I., and Lampl, I. (2023).
+\newblock Temporal diversity in neural populations enhances robustness and
+  memory capacity in recurrent networks.
+\newblock {\em Science Advances}, 9(10):eaaz8693.
 
 \end{thebibliography}

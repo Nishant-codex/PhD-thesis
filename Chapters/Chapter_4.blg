@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: .\Chapters\Chapter_4.aux
+White space in argument---line 15 of file .\Chapters\Chapter_4.aux
+ : \citation{iacob2022distance,soriano2014delay,perez2021neural
+ :                                                              }
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: All_bibtex.bib
+Warning--empty journal in jaeger2001short
+You've used 25 entries,
+            1935 wiz_defined-function locations,
+            633 strings with 8701 characters,
+and the built_in function-call counts, 11051 in all, are:
+= -- 1046
+> -- 531
+< -- 8
++ -- 194
+- -- 182
+* -- 1010
+:= -- 1933
+add.period$ -- 76
+call.type$ -- 25
+change.case$ -- 214
+chr.to.int$ -- 23
+cite$ -- 26
+duplicate$ -- 370
+empty$ -- 744
+format.name$ -- 213
+if$ -- 2125
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 25
+newline$ -- 127
+num.names$ -- 77
+pop$ -- 178
+preamble$ -- 1
+purify$ -- 214
+quote$ -- 0
+skip$ -- 274
+stack$ -- 0
+substring$ -- 834
+swap$ -- 40
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 150
+warning$ -- 1
+while$ -- 82
+width$ -- 0
+write$ -- 323
+(There was 1 error message)

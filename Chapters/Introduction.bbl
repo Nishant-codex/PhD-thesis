@@ -1,0 +1,198 @@
+\begin{thebibliography}{}
+
+\bibitem[pet, 2008]{petilla2008petilla}
+ (2008).
+\newblock Petilla terminology: nomenclature of features of gabaergic
+  interneurons of the cerebral cortex.
+\newblock {\em Nature Reviews Neuroscience}, 9(7):557--568.
+
+\bibitem[Brown et~al., 2023]{brown2023multiset}
+Brown, B.~C., Wang, C., Kasela, S., Aguet, F., Nachun, D.~C., Taylor, K.~D.,
+  Tracy, R.~P., Durda, P., Liu, Y., Johnson, W.~C., et~al. (2023).
+\newblock Multiset correlation and factor analysis enables exploration of
+  multi-omics data.
+\newblock {\em Cell Genomics}, 3(8).
+
+\bibitem[Cadwell et~al., 2016]{cadwell2016electrophysiological}
+Cadwell, C.~R., Palasantza, A., Jiang, X., Berens, P., Deng, Q., Yilmaz, M.,
+  Reimer, J., Shen, S., Bethge, M., Tolias, K.~F., et~al. (2016).
+\newblock Electrophysiological, transcriptomic and morphologic profiling of
+  single neurons using patch-seq.
+\newblock {\em Nature biotechnology}, 34(2):199--203.
+
+\bibitem[da~Silva~Lantyer et~al., 2018]{da2018databank}
+da~Silva~Lantyer, A., Calcini, N., Bijlsma, A., Kole, K., Emmelkamp, M.,
+  Peeters, M., Scheenen, W.~J., Zeldenrust, F., and Celikel, T. (2018).
+\newblock A databank for intracellular electrophysiological mapping of the
+  adult somatosensory cortex.
+\newblock {\em GigaScience}, 7(12):giy147.
+
+\bibitem[Fishell and Heintz, 2013]{fishell2013neuron}
+Fishell, G. and Heintz, N. (2013).
+\newblock The neuron identity problem: form meets function.
+\newblock {\em Neuron}, 80(3):602--612.
+
+\bibitem[Fuzik et~al., 2016]{fuzik2016integration}
+Fuzik, J., Zeisel, A., M{\'a}t{\'e}, Z., Calvigioni, D., Yanagawa, Y.,
+  Szab{\'o}, G., Linnarsson, S., and Harkany, T. (2016).
+\newblock Integration of electrophysiological recordings with single-cell
+  rna-seq data identifies neuronal subtypes.
+\newblock {\em Nature biotechnology}, 34(2):175--183.
+
+\bibitem[Goldman et~al., 2023]{Goldman2023}
+Goldman, M.~S. et~al. (2023).
+\newblock Intrinsic neural diversity quenches the dynamic volatility of
+  balanced neural networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  120(28):e2218841120.
+
+\bibitem[Gollo et~al., 2020]{Gollo2020}
+Gollo, L.~L. et~al. (2020).
+\newblock A diversity of intrinsic timescales underlie neural computations.
+\newblock {\em Frontiers in Neural Circuits}, 14:615626.
+
+\bibitem[Gouwens et~al., 2020]{gouwens2020integrated}
+Gouwens, N.~W., Sorensen, S.~A., Baftizadeh, F., Budzillo, A., Lee, B.~R.,
+  Jarsky, T., Alfiler, L., Baker, K., Barkan, E., Berry, K., et~al. (2020).
+\newblock Integrated morphoelectric and transcriptomic classification of
+  cortical gabaergic cells.
+\newblock {\em Cell}, 183(4):935--953.
+
+\bibitem[Gouwens et~al., 2019]{gouwens2019classification}
+Gouwens, N.~W., Sorensen, S.~A., Berg, J., Lee, C., Jarsky, T., Ting, J.,
+  Sunkin, S.~M., Feng, D., Anastassiou, C.~A., Barkan, E., et~al. (2019).
+\newblock Classification of electrophysiological and morphological neuron types
+  in the mouse visual cortex.
+\newblock {\em Nature neuroscience}, 22(7):1182--1195.
+
+\bibitem[Huang and Paul, 2019]{huang2019diversity}
+Huang, Z.~J. and Paul, A. (2019).
+\newblock The diversity of gabaergic neurons and neural communication elements.
+\newblock {\em Nature Reviews Neuroscience}, 20(9):563--572.
+
+\bibitem[Lee et~al., 2021]{lee2021non}
+Lee, E.~K., Balasubramanian, H., Tsolias, A., Anakwe, S.~U., Medalla, M.,
+  Shenoy, K.~V., and Chandrasekaran, C. (2021).
+\newblock Non-linear dimensionality reduction on extracellular waveforms
+  reveals cell type diversity in premotor cortex.
+\newblock {\em Elife}, 10:e67490.
+
+\bibitem[Liu et~al., 2024]{liu2024neuronal}
+Liu, Y., Jiang, S., Li, Y., Zhao, S., Yun, Z., Zhao, Z.-H., Zhang, L., Wang,
+  G., Chen, X., Manubens-Gil, L., et~al. (2024).
+\newblock Neuronal diversity and stereotypy at multiple scales through whole
+  brain morphometry.
+\newblock {\em Nature Communications}, 15(1):10269.
+
+\bibitem[Markram et~al., 2004]{markram2004interneurons}
+Markram, H., Toledo-Rodriguez, M., Wang, Y., Gupta, A., Silberberg, G., and Wu,
+  C. (2004).
+\newblock Interneurons of the neocortical inhibitory system.
+\newblock {\em Nature reviews neuroscience}, 5(10):793--807.
+
+\bibitem[Masland, 2012]{masland2012neuronal}
+Masland, R.~H. (2012).
+\newblock The neuronal organization of the retina.
+\newblock {\em Neuron}, 76(2):266--280.
+
+\bibitem[Mukamel and Ngai, 2019]{mukamel2019perspectives}
+Mukamel, E.~A. and Ngai, J. (2019).
+\newblock Perspectives on defining cell types in the brain.
+\newblock {\em Current opinion in neurobiology}, 56:61--68.
+
+\bibitem[Nelson et~al., 2006]{nelson2006problem}
+Nelson, S.~B., Sugino, K., and Hempel, C.~M. (2006).
+\newblock The problem of neuronal cell types: a physiological genomics
+  approach.
+\newblock {\em Trends in neurosciences}, 29(6):339--345.
+
+\bibitem[Sagner and Briscoe, 2019]{Sagner2019}
+Sagner, A. and Briscoe, J. (2019).
+\newblock Establishing neuronal diversity in the spinal cord: a time and a
+  place.
+\newblock {\em Development}, 146(22):dev182154.
+
+\bibitem[Sanes and Masland, 2015]{sanes2015types}
+Sanes, J.~R. and Masland, R.~H. (2015).
+\newblock The types of retinal ganglion cells: current status and implications
+  for neuronal classification.
+\newblock {\em Annual review of neuroscience}, 38(1):221--246.
+
+\bibitem[Seung and S{\"u}mb{\"u}l, 2014]{seung2014neuronal}
+Seung, H.~S. and S{\"u}mb{\"u}l, U. (2014).
+\newblock Neuronal cell types and connectivity: lessons from the retina.
+\newblock {\em Neuron}, 83(6):1262--1272.
+
+\bibitem[Shapiro et~al., 2013]{shapiro2013single}
+Shapiro, E., Biezuner, T., and Linnarsson, S. (2013).
+\newblock Single-cell sequencing-based technologies will revolutionize
+  whole-organism science.
+\newblock {\em Nature Reviews Genetics}, 14(9):618--630.
+
+\bibitem[Somogyi and Klausberger, 2005]{somogyi2005defined}
+Somogyi, P. and Klausberger, T. (2005).
+\newblock Defined types of cortical interneurone structure space and spike
+  timing in the hippocampus.
+\newblock {\em The Journal of physiology}, 562(1):9--26.
+
+\bibitem[Tasic et~al., 2018]{tasic2018shared}
+Tasic, B., Yao, Z., Graybuck, L.~T., Smith, K.~A., Nguyen, T.~N., Bertagnolli,
+  D., Goldy, J., Garren, E., Economo, M.~N., Viswanathan, S., et~al. (2018).
+\newblock Shared and distinct transcriptomic cell types across neocortical
+  areas.
+\newblock {\em Nature}, 563(7729):72--78.
+
+\bibitem[Trapnell, 2015]{trapnell2015defining}
+Trapnell, C. (2015).
+\newblock Defining cell types and states with single-cell genomics.
+\newblock {\em Genome research}, 25(10):1491--1498.
+
+\bibitem[Tripathy et~al., 2017]{Tripathy2017}
+Tripathy, S.~J. et~al. (2017).
+\newblock Transcriptomic correlates of neuron electrophysiological diversity.
+\newblock {\em PLoS Computational Biology}, 13(10):e1005814.
+
+\bibitem[Wagner et~al., 2016]{wagner2016revealing}
+Wagner, A., Regev, A., and Yosef, N. (2016).
+\newblock Revealing the vectors of cellular identity with single-cell genomics.
+\newblock {\em Nature biotechnology}, 34(11):1145--1160.
+
+\bibitem[Wang et~al., 2021]{Wang2021}
+Wang, Q., Mitra, A., Snyder, A., et~al. (2021).
+\newblock The diversity and specificity of functional connectivity across
+  spatial scales and brain states.
+\newblock {\em NeuroImage}, 237:118193.
+
+\bibitem[Yuste et~al., 2020]{yuste2020community}
+Yuste, R., Hawrylycz, M., Aalling, N., Aguilar-Valles, A., Arendt, D.,
+  Arma{\~n}anzas, R., Ascoli, G.~A., Bielza, C., Bokharaie, V., Bergmann,
+  T.~B., et~al. (2020).
+\newblock A community-based transcriptomics classification and nomenclature of
+  neocortical cell types.
+\newblock {\em Nature neuroscience}, 23(12):1456--1468.
+
+\bibitem[Zeldenrust et~al., 2017]{zeldenrust2017estimating}
+Zeldenrust, F., de~Knecht, S., Wadman, W.~J., Den{\`e}ve, S., and Gutkin, B.
+  (2017).
+\newblock Estimating the information extracted by a single spiking neuron from
+  a continuous input time series.
+\newblock {\em Frontiers in computational neuroscience}, 11:49.
+
+\bibitem[Zeng, 2022]{zeng2022cell}
+Zeng, H. (2022).
+\newblock What is a cell type and how to define it?
+\newblock {\em Cell}, 185(15):2739--2755.
+
+\bibitem[Zeng and Sanes, 2017]{zeng2017neuronal}
+Zeng, H. and Sanes, J.~R. (2017).
+\newblock Neuronal cell-type classification: challenges, opportunities and the
+  path forward.
+\newblock {\em Nature Reviews Neuroscience}, 18(9):530--546.
+
+\bibitem[Zhang et~al., 2024]{Zhang2024}
+Zhang, Z., Wang, Q., Luo, L., et~al. (2024).
+\newblock Diverse and asymmetric patterns of single-neuron projectome in the
+  mouse brain.
+\newblock {\em Nature Communications}, 15:3496.
+
+\end{thebibliography}

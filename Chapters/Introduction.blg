@@ -1,0 +1,187 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Chapters\Introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: All_bibtex.bib
+Repeated entry---line 1299 of file All_bibtex.bib
+ : @article{zeng2022cell
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1513 of file All_bibtex.bib
+ : @article{fuzik2016integration
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1661 of file All_bibtex.bib
+ : @article{da2018databank
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1672 of file All_bibtex.bib
+ : @article{zeldenrust2017estimating
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1761 of file All_bibtex.bib
+ : @article{cadwell2016electrophysiological
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1772 of file All_bibtex.bib
+ : @article{markram2004interneurons
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1782 of file All_bibtex.bib
+ : @article{masland2012neuronal
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1793 of file All_bibtex.bib
+ : @article{mukamel2019perspectives
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1803 of file All_bibtex.bib
+ : @article{fishell2013neuron
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1814 of file All_bibtex.bib
+ : @article{huang2019diversity
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1881 of file All_bibtex.bib
+ : @article{petilla2008petilla
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1890 of file All_bibtex.bib
+ : @article{tasic2018shared
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1901 of file All_bibtex.bib
+ : @article{brown2023multiset
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1933 of file All_bibtex.bib
+ : @article{gouwens2020integrated
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1944 of file All_bibtex.bib
+ : @article{gouwens2019classification
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1955 of file All_bibtex.bib
+ : @article{zeng2017neuronal
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2003 of file All_bibtex.bib
+ : @article{lee2021non
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2573 of file All_bibtex.bib
+ : @article{zeng2022cell
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2779 of file All_bibtex.bib
+ : @article{fuzik2016integration
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2927 of file All_bibtex.bib
+ : @article{da2018databank
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2938 of file All_bibtex.bib
+ : @article{zeldenrust2017estimating
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3027 of file All_bibtex.bib
+ : @article{cadwell2016electrophysiological
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3038 of file All_bibtex.bib
+ : @article{markram2004interneurons
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3048 of file All_bibtex.bib
+ : @article{masland2012neuronal
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3059 of file All_bibtex.bib
+ : @article{mukamel2019perspectives
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3069 of file All_bibtex.bib
+ : @article{fishell2013neuron
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3080 of file All_bibtex.bib
+ : @article{huang2019diversity
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3200 of file All_bibtex.bib
+ : @article{petilla2008petilla
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3209 of file All_bibtex.bib
+ : @article{tasic2018shared
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3220 of file All_bibtex.bib
+ : @article{brown2023multiset
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3252 of file All_bibtex.bib
+ : @article{gouwens2020integrated
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3263 of file All_bibtex.bib
+ : @article{gouwens2019classification
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3274 of file All_bibtex.bib
+ : @article{zeng2017neuronal
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3322 of file All_bibtex.bib
+ : @article{lee2021non
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in petilla2008petilla
+Warning--empty author in petilla2008petilla
+You've used 32 entries,
+            1935 wiz_defined-function locations,
+            684 strings with 10644 characters,
+and the built_in function-call counts, 15316 in all, are:
+= -- 1443
+> -- 860
+< -- 14
++ -- 326
+- -- 308
+* -- 1488
+:= -- 2691
+add.period$ -- 96
+call.type$ -- 32
+change.case$ -- 302
+chr.to.int$ -- 32
+cite$ -- 35
+duplicate$ -- 447
+empty$ -- 947
+format.name$ -- 358
+if$ -- 2884
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 32
+newline$ -- 163
+num.names$ -- 93
+pop$ -- 225
+preamble$ -- 1
+purify$ -- 302
+quote$ -- 0
+skip$ -- 347
+stack$ -- 0
+substring$ -- 1132
+swap$ -- 32
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 192
+warning$ -- 2
+while$ -- 114
+width$ -- 0
+write$ -- 417
+(There were 34 error messages)
