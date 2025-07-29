@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  22 JUL 2025 20:15
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  27 JUL 2025 13:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1081,21 +1081,39 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 
 Package fontspec Info: 
-(fontspec)             Font family 'LatinModernSans(0)' created for font
-(fontspec)             'Latin Modern Sans' with options [Ligatures=TeX].
+(fontspec)             Font family 'PalatinoLinotype(0)' created for font
+(fontspec)             'Palatino Linotype' with options [Ligatures=TeX].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Latin Modern
-(fontspec)             Sans/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Latin Modern
-(fontspec)             Sans/B/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Latin Modern
-(fontspec)             Sans/I/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Latin
-(fontspec)             Modern
-(fontspec)             Sans/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Palatino
+(fontspec)             Linotype/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Palatino
+(fontspec)             Linotype/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Palatino
+(fontspec)             Linotype/B/OT:script=latn;language=dflt;mapping=tex-text
+;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Palatino
+(fontspec)             Linotype/B/OT:script=latn;language=dflt;+smcp;mapping=te
+x-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Palatino
+(fontspec)             Linotype/I/OT:script=latn;language=dflt;mapping=tex-text
+;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Palatino
+(fontspec)             Linotype/I/OT:script=latn;language=dflt;+smcp;mapping=te
+x-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Palatino
+(fontspec)             Linotype/BI/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Palatino
+(fontspec)             Linotype/BI/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
 
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdfls
@@ -1843,13 +1861,13 @@ l.15 ...{\includegraphics{Figures/cover_final.pdf}
 [2
 
 ]
-Underfull \hbox (badness 4181) in paragraph at lines 35--35
- []\TU/LatinModernSans(0)/b/n/15 Difference that makes the mind 
+Underfull \hbox (badness 4403) in paragraph at lines 35--35
+ []\TU/PalatinoLinotype(0)/b/n/15 Difference that makes the mind 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 38--38
- \TU/LatinModernSans(0)/m/n/10 Nishant Joshi 
+ \TU/PalatinoLinotype(0)/m/n/10 Nishant Joshi 
  []
 
 
@@ -1958,6 +1976,12 @@ l.75 \newline
               \noindent Design: Nishant Joshi
 ? 
 
+Overfull \hbox (8.20297pt too wide) in paragraph at lines 80--84
+\TU/PalatinoLinotype(0)/m/n/10 Free download at: www.boekenbestellen.nl/radboud
+-university-press/dissertations
+ []
+
+
 ! LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1985,9 +2009,9 @@ l.88 \includegraphics[scale=0.1]{Figures/rup.pdf}
                                                  
 ? 
 
-Overfull \hbox (7.87566pt too wide) in paragraph at lines 93--94
-[]\TU/LatinModernSans(0)/m/n/10 This is an Open Access book published under the
- terms of Creative Commons Attribution-
+Overfull \hbox (12.40544pt too wide) in paragraph at lines 93--94
+\TU/PalatinoLinotype(0)/m/n/10 long as attribution is given to the creator, see
+ http://creativecommons.org/licenses/by-
  []
 
 
@@ -2014,10 +2038,16 @@ LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
 (Font)              scaled to size 5.4994pt on input line 3.
 
-Overfull \hbox (0.99568pt too wide) in paragraph at lines 24--24
- [][] [][][]\TU/LatinModernSans(0)/b/n/10 Neuronal Identity is Not Static |\TU/
-FandolSong-Regular(0)/b/n/10 —| \TU/LatinModernSans(0)/b/n/10 An Input-Driven P
-er- 
+Overfull \hbox (1.38127pt too wide) in paragraph at lines 26--26
+ [][] [][][]\TU/PalatinoLinotype(0)/b/n/10 Neuronal Identity is Not Static |\TU
+/FandolSong-Regular(0)/b/n/10 —| \TU/PalatinoLinotype(0)/b/n/10 An Input-Driven
+ Per- 
+ []
+
+
+Overfull \hbox (13.55423pt too wide) in paragraph at lines 50--50
+ \TU/PalatinoLinotype(0)/b/n/10 Type Specific Reshaping of Neuronal Information
+ Trans- 
  []
 
 )
@@ -2055,33 +2085,54 @@ Chapter 1.
 [12]
 
 [13]
+Overfull \hbox (1.43538pt too wide) in paragraph at lines 61--62
+\TU/PalatinoLinotype(0)/m/n/10 as step-and-hold current injections, to derive e
+lectrophysiological signatures.
+ []
 
-[14]
 
-[15]
-
-[16]
-Overfull \hbox (7.40677pt too wide) in paragraph at lines 95--97
-\TU/LatinModernSans(0)/m/it/10 dependent\TU/LatinModernSans(0)/m/n/10 , with cl
-assification outcomes varying significantly under dynamic (frozen
+Overfull \hbox (4.51077pt too wide) in paragraph at lines 63--64
+[]\TU/PalatinoLinotype(0)/b/n/10 Neuronal Identity as an Emergent, Dynamic Cons
+truct \TU/PalatinoLinotype(0)/m/n/10 Taken together, these
  []
 
 
 
-[17]
-File: Figures/Intro/input_protocol.pdf Graphic file (type pdf)
-<use Figures/Intro/input_protocol.pdf>
+[14]
+Overfull \hbox (4.71579pt too wide) in paragraph at lines 67--68
+[]\TU/PalatinoLinotype(0)/b/n/10 Rich high-dimensional functional space remains
+ unexplored \TU/PalatinoLinotype(0)/m/n/10 Neurons func-
+ []
 
+
+
+[15]
+Overfull \hbox (8.69528pt too wide) in paragraph at lines 79--80
+\TU/PalatinoLinotype(0)/m/n/10 Neuromodulatory systems particularly those invol
+ving dopamine and acetylcholine
+ []
+
+
+Overfull \hbox (1.99202pt too wide) in paragraph at lines 81--82
+\TU/PalatinoLinotype(0)/m/n/10 neuromodulation on neuronal computation remains 
+poorly understood, especially
+ []
+
+
+
+[16]
+
+[17]
 
 [18]
 
 [19]
-File: Figures/Intro/analysis_tools.pdf Graphic file (type pdf)
-<use Figures/Intro/analysis_tools.pdf>
+File: Figures/Intro/input_protocol.pdf Graphic file (type pdf)
+<use Figures/Intro/input_protocol.pdf>
 
-Overfull \hbox (0.78787pt too wide) in paragraph at lines 130--137
-\TU/LatinModernSans(0)/m/n/10 ([][]2021[][]), cosine similarity analysis, and M
-ult-iset Correlation and Factor Analysis (MCFA)
+Overfull \hbox (1.18724pt too wide) in paragraph at lines 134--135
+\TU/PalatinoLinotype(0)/m/n/10 and after-hyperpolarization. The step-and-hold p
+rotocol thus provides a standard-
  []
 
 
@@ -2089,12 +2140,29 @@ ult-iset Correlation and Factor Analysis (MCFA)
 [20]
 
 [21]
+File: Figures/Intro/analysis_tools.pdf Graphic file (type pdf)
+<use Figures/Intro/analysis_tools.pdf>
 
-[22] (Chapters/Introduction.bbl
 
-[23]))
+[22]
+
+[23]
 
 [24]
+Overfull \hbox (1.44519pt too wide) in paragraph at lines 186--188
+[]\TU/PalatinoLinotype(0)/b/n/10 Chapter 4\TU/PalatinoLinotype(0)/m/n/10 : Hete
+rogeneity in delay and timescales improves task Performance 
+ []
+
+
+
+[25] (Chapters/Introduction.bbl
+
+[26]
+
+[27]))
+
+[28]
 Chapter 2.
 
 
@@ -2135,7 +2203,7 @@ File: Figures/2.pdf Graphic file (type pdf)
 l.377 \include{Chapters/Chapter_2}
                                   
 ? 
-[25
+[29
 
 
 
@@ -2143,63 +2211,66 @@ l.377 \include{Chapters/Chapter_2}
 \openout2 = `Chapters/Chapter_2.aux'.
 
  (Chapters/Chapter_2.tex
-Overfull \hbox (1.28787pt too wide) in paragraph at lines 13--14
-|   \TU/LatinModernSans(0)/m/n/10 Neuronal classification based on morphology, 
-electrophysiology, and molecular mark-
- []
 
-
-
-[26
+[30
 
 
 ]
 
-[27]
-
-[28]
-
-[29]
-
-[30]
-
 [31]
 
 [32]
-Overfull \hbox (10.70872pt too wide) in paragraph at lines 113--114
-[]\TU/LatinModernSans(0)/b/n/10 Interspike Interval\TU/LatinModernSans(0)/m/n/1
-0 : Interspike interval is the duration between two spikes $[][] []
- []
-
-
 
 [33]
 
 [34]
 
 [35]
-Overfull \hbox (0.23566pt too wide) in paragraph at lines 194--195
-[]\TU/LatinModernSans(0)/m/n/10 For fitting the spiking probability to the data
-,
+
+[36]
+
+[37]
+Overfull \hbox (2.70898pt too wide) in paragraph at lines 123--124
+[]\TU/PalatinoLinotype(0)/m/n/10 We measure the threshold of each spike from th
+e trial as described in [][]Fontaine
  []
 
 
 
-[36]
+[38]
+
+[39]
+Overfull \hbox (0.2122pt too wide) in paragraph at lines 178--179
+[]\TU/PalatinoLinotype(0)/m/n/10 The waveforms extracted in the preparation ste
+p
+ []
+
+
+Overfull \hbox (8.49922pt too wide) in paragraph at lines 180--181
+[]\TU/PalatinoLinotype(0)/m/n/10 : The voltage dynamics in eq ([][]2.3[][]) are
+ given
+ []
+
+
+
+[40]
+Overfull \hbox (8.23141pt too wide) in paragraph at lines 194--195
+[]\TU/PalatinoLinotype(0)/m/n/10 For fitting the spiking probability to the dat
+a,
+ []
+
 ! Undefined control sequence.
 l.206     \hat{\theta}_{thr}  = \argmax
                                        _{\theta_{thr}} \bigg{[} \sum_{t\in{ ...
 
 ? 
 
+Overfull \hbox (1.36374pt too wide) in paragraph at lines 217--218
+[] []\TU/PalatinoLinotype(0)/b/n/10 Spike Triggered Average[] \TU/PalatinoLinot
+ype(0)/m/n/10 The spike-triggered average (STA) is the average shape
+ []
 
-[37]
 
-[38]
-
-[39]
-
-[40]
 
 [41]
 
@@ -2216,17 +2287,27 @@ l.206     \hat{\theta}_{thr}  = \argmax
 [47]
 
 [48]
-File: Figures/Ch_2/fig1.pdf Graphic file (type pdf)
-<use Figures/Ch_2/fig1.pdf>
 
-
-[49
-
-]
+[49]
 
 [50]
 
 [51]
+
+[52]
+
+[53]
+File: Figures/Ch_2/fig1.pdf Graphic file (type pdf)
+<use Figures/Ch_2/fig1.pdf>
+
+
+[54
+
+]
+
+[55]
+
+[56]
 File: Figures/Ch_2/fig2.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig2.pdf>
 
@@ -2237,25 +2318,33 @@ l.499 \hline
             
 ? 
 
+Overfull \hbox (9.69952pt too wide) in paragraph at lines 504--505
+\TU/PalatinoLinotype(0)/m/n/10 understanding of which features result in distin
+ctive functional classifications within
+ []
 
-[52
+
+
+[57
 
 ]
 
-[53]
+[58]
 
-[54]
+[59]
+
+[60]
 File: Figures/Ch_2/fig3.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig3.pdf>
 
 
-[55
+[61
 
 ]
 
-[56]
+[62]
 
-[57]
+[63]
 File: Figures/Ch_2/fig4.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig4.pdf>
 LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(2)/m/n' will be
@@ -2276,66 +2365,78 @@ LaTeX Warning: Float too large for page by 16.10617pt on input line 553.
 
 
 
-[58]
-
-[59]
-
-[60]
-
-[61]
-
-[62]
-File: Figures/Ch_2/fig5.pdf Graphic file (type pdf)
-<use Figures/Ch_2/fig5.pdf>
-
-
-[63
-
-]
-
 [64]
-
-LaTeX Warning: Reference `S5' on page 65 undefined on input line 612.
-
-
 
 [65]
 
 [66]
 
 [67]
+
+[68]
+File: Figures/Ch_2/fig5.pdf Graphic file (type pdf)
+<use Figures/Ch_2/fig5.pdf>
+
+
+[69
+
+]
+
+[70]
+Overfull \hbox (4.99577pt too wide) in paragraph at lines 597--601
+[]\TU/PalatinoLinotype(0)/m/n/10 The spike-triggered average (STA) method, as d
+escribed in [][]Schwartz et al.[][] ([][]2006[][]),
+ []
+
+
+LaTeX Warning: Reference `S5' on page 71 undefined on input line 612.
+
+
+
+[71]
+
+[72]
+
+[73]
 File: Figures/Ch_2/fig6.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig6.pdf>
 
 
-[68
+[74
 
 ]
-
-[69]
-
-[70]
-
-[71]
-File: Figures/Ch_2/fig7.pdf Graphic file (type pdf)
-<use Figures/Ch_2/fig7.pdf>
+Overfull \hbox (1.25562pt too wide) in paragraph at lines 651--660
+\TU/PalatinoLinotype(0)/m/n/10 plain the most variance for the most important s
+hared dimension (Fig. [][]2.7[][]\TU/PalatinoLinotype(0)/b/n/10 a\TU/PalatinoLi
+notype(0)/m/n/10 (middle,
+ []
 
 
-[72
+Overfull \hbox (0.69728pt too wide) in paragraph at lines 651--660
+\TU/PalatinoLinotype(0)/m/n/10 shared structure, we find that the linear input 
+filter (STA) explains the most amount
+ []
 
-]
 
-[73]
+Overfull \hbox (11.01627pt too wide) in paragraph at lines 651--660
+\TU/PalatinoLinotype(0)/m/n/10 tributes and passive biophysical attributes expl
+ain the most and almost equal amount
+ []
 
-[74]
+
 
 [75]
 
 [76]
 
 [77]
+File: Figures/Ch_2/fig7.pdf Graphic file (type pdf)
+<use Figures/Ch_2/fig7.pdf>
 
-[78]
+
+[78
+
+]
 
 [79]
 
@@ -2343,15 +2444,27 @@ File: Figures/Ch_2/fig7.pdf Graphic file (type pdf)
 
 [81]
 
-[82] (Chapters/Chapter_2.bbl
+[82]
 
 [83]
 
 [84]
 
-[85]))
+[85]
 
 [86]
+
+[87]
+
+[88] (Chapters/Chapter_2.bbl
+
+[89]
+
+[90]
+
+[91]))
+
+[92]
 Chapter 3.
 
 
@@ -2392,7 +2505,7 @@ File: Figures/3.pdf Graphic file (type pdf)
 l.400 \include{Chapters/Chapter_3}
                                   
 ? 
-[87
+[93
 
 
 
@@ -2403,153 +2516,193 @@ l.400 \include{Chapters/Chapter_3}
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[88
+[94
 
 
 ]
+Overfull \hbox (2.20279pt too wide) in paragraph at lines 22--23
+\TU/PalatinoLinotype(0)/m/n/10 such as firing rate or spike-frequency adaptatio
+n [][]Nadim and Bucher[][] ([][]2014[][]); [][]Marder[][]
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[89]
+[95]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[90]
+[96]
 
-Package natbib Warning: Citation `Zeldenrust2018' on page 91 undefined on input
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
+
+[97]
+
+Package natbib Warning: Citation `Zeldenrust2018' on page 98 undefined on input
  line 50.
 
 
-Package natbib Warning: Citation `Azarfar2018' on page 91 undefined on input li
+Package natbib Warning: Citation `Azarfar2018' on page 98 undefined on input li
 ne 50.
 
 
-Package natbib Warning: Citation `Zeldenrust2017' on page 91 undefined on input
+Package natbib Warning: Citation `Zeldenrust2017' on page 98 undefined on input
  line 50.
 
 
-Package natbib Warning: Citation `Zeldenrust2017b' on page 91 undefined on inpu
+Package natbib Warning: Citation `Zeldenrust2017b' on page 98 undefined on inpu
 t line 50.
 
 
-Package natbib Warning: Citation `Celikel2004' on page 91 undefined on input li
+Package natbib Warning: Citation `Celikel2004' on page 98 undefined on input li
 ne 50.
 
 
-Package natbib Warning: Citation `Celikel2003' on page 91 undefined on input li
+Package natbib Warning: Citation `Celikel2003' on page 98 undefined on input li
 ne 50.
 
 
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[91]
+[98]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[92]
+[99]
 Underfull \hbox (badness 10000) in paragraph at lines 130--130
-[]|\TU/LatinModernSans(0)/b/n/10 Feature
+[]|\TU/PalatinoLinotype(0)/b/n/10 Feature
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 133--133
-[]|\TU/LatinModernSans(0)/m/n/10 Spiking Dy-
+[]|\TU/PalatinoLinotype(0)/m/n/10 Spiking Dy-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 133--133
-[]|\TU/LatinModernSans(0)/m/n/10 Current at
+[]|\TU/PalatinoLinotype(0)/m/n/10 Current at
  []
 
 
-Underfull \hbox (badness 4084) in paragraph at lines 133--133
-\TU/LatinModernSans(0)/m/n/10 the neuron first crosses
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+[]|\TU/PalatinoLinotype(0)/m/n/10 Current amplitude at
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 137--137
-[]|\TU/LatinModernSans(0)/m/n/10 Time (in ms) from trial
+Underfull \hbox (badness 7379) in paragraph at lines 133--133
+\TU/PalatinoLinotype(0)/m/n/10 which the neuron first
  []
 
 
-Underfull \hbox (badness 4752) in paragraph at lines 139--139
-[]|\TU/LatinModernSans(0)/m/n/10 Total number of spikes
+Underfull \hbox (badness 4084) in paragraph at lines 135--135
+[]|\TU/PalatinoLinotype(0)/m/n/10 Total number of action
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 139--139
-\TU/LatinModernSans(0)/m/n/10 divided by trial duration
+Underfull \hbox (badness 1796) in paragraph at lines 137--137
+[]|\TU/PalatinoLinotype(0)/m/n/10 Time (in ms) from trial
  []
 
 
-Underfull \hbox (badness 2980) in paragraph at lines 141--141
-[]|\TU/LatinModernSans(0)/m/n/10 Time between successive
+Underfull \hbox (badness 3323) in paragraph at lines 139--139
+[]|\TU/PalatinoLinotype(0)/m/n/10 Total number of spikes
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 141--142
-[]|\TU/LatinModernSans(0)/m/n/10 Mean, median, max,
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]|\TU/PalatinoLinotype(0)/m/n/10 Interspike
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 142--143
-[]|\TU/LatinModernSans(0)/m/n/10 Mean, median, max,
+Underfull \hbox (badness 5578) in paragraph at lines 141--142
+[]|\TU/PalatinoLinotype(0)/m/n/10 Mean, median, max,
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 145--145
-[]|\TU/LatinModernSans(0)/m/n/10 Spike Thresh-
+Overfull \hbox (5.20387pt too wide) in paragraph at lines 142--142
+[]|\TU/PalatinoLinotype(0)/m/n/10 Instantaneous
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 145--145
-\TU/LatinModernSans(0)/m/n/10 first exceeds 25 mV/ms.
+Underfull \hbox (badness 5578) in paragraph at lines 142--143
+[]|\TU/PalatinoLinotype(0)/m/n/10 Mean, median, max,
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 145--147
-[]|\TU/LatinModernSans(0)/m/n/10 Mean, median, max,
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[]|\TU/PalatinoLinotype(0)/m/n/10 Spike
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 149--149
-[]|\TU/LatinModernSans(0)/m/n/10 AP Height &
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/PalatinoLinotype(0)/m/n/10 thresh-
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 149--150
-[]|\TU/LatinModernSans(0)/m/n/10 Mean, median, max,
+Underfull \hbox (badness 1715) in paragraph at lines 145--145
+\TU/PalatinoLinotype(0)/m/n/10 first exceeds 25 mV/ms.
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 150--151
-[]|\TU/LatinModernSans(0)/m/n/10 Mean, median, max,
+Underfull \hbox (badness 5578) in paragraph at lines 145--147
+[]|\TU/PalatinoLinotype(0)/m/n/10 Mean, median, max,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+[]|\TU/PalatinoLinotype(0)/m/n/10 Time from threshold
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 149--150
+[]|\TU/PalatinoLinotype(0)/m/n/10 Mean, median, max,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/PalatinoLinotype(0)/m/n/10 Voltage difference be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\TU/PalatinoLinotype(0)/m/n/10 tween AP peak and
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 150--151
+[]|\TU/PalatinoLinotype(0)/m/n/10 Mean, median, max,
  []
 
 
@@ -2561,21 +2714,40 @@ Overfull \hbox (24.87276pt too wide) in paragraph at lines 128--153
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[93]
+[100]
+Overfull \vbox (23.98409pt too high) has occurred while \output is active []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[94]
+[101]
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
+[]|\TU/PalatinoLinotype(0)/m/n/10 Membrane Capacitance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+[]|\TU/PalatinoLinotype(0)/m/n/10 Sharpness of Spike
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 170--170
+[]|\TU/PalatinoLinotype(0)/m/n/10 Controls how sharply the firing probability i
+n-
+ []
+
+
 Overfull \hbox (8.6087pt too wide) in paragraph at lines 164--174
  [][] 
  []
@@ -2584,62 +2756,96 @@ Overfull \hbox (8.6087pt too wide) in paragraph at lines 164--174
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[95]
+[102]
+Overfull \hbox (1.36374pt too wide) in paragraph at lines 178--179
+[] []\TU/PalatinoLinotype(0)/b/n/10 Spike Triggered Average[] \TU/PalatinoLinot
+ype(0)/m/n/10 The spike-triggered average (STA) is the average shape
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[96]
+[103]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
+
+[104]
 File: Figures/Ch_3/Fig1.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig1.pdf>
 
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[97]
+[105]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[98]
+[106]
+Overfull \hbox (4.18683pt too wide) in paragraph at lines 220--221
+\TU/PalatinoLinotype(0)/m/n/10 To investigate how neuromodulation alters the re
+lationship between different func-
+ []
+
+
+Overfull \hbox (15.30174pt too wide) in paragraph at lines 220--221
+\TU/PalatinoLinotype(0)/m/n/10 designed to model both shared and private varian
+ce across multiple high-dimensional
+ []
+
+
+Overfull \hbox (4.86638pt too wide) in paragraph at lines 222--223
+[]\TU/PalatinoLinotype(0)/m/n/10 Each attribute set was z-scored (mean-centered
+ and variance-scaled), and MCFA
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[99]
+[107]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[100]
-Underfull \hbox (badness 5417) in paragraph at lines 255--255
-[]|\TU/LatinModernSans(0)/m/n/10 Spike Triggered Average
+[108]
+Overfull \hbox (2.44856pt too wide) in paragraph at lines 243--244
+[]\TU/PalatinoLinotype(0)/m/n/10 We extracted a large set of intrinsic and inpu
+t dependent attributes and grouped
  []
 
 
@@ -2648,51 +2854,63 @@ Overfull \hbox (8.6087pt too wide) in paragraph at lines 249--257
  []
 
 
+Overfull \hbox (25.38503pt too wide) in paragraph at lines 263--263
+|\TU/PalatinoLinotype(0)/b/n/12 Neuromodulation alters information transfer in 
+a cell-type and agonist-
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[101]
+[109]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[102]
+[110]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[103]
+[111]
+Overfull \hbox (3.2778pt too wide) in paragraph at lines 296--296
+|\TU/PalatinoLinotype(0)/b/n/10 Neuromodulation shifts FI distributions in a re
+ceptor and cell-type-specific man-
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[104]
+[112]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[105]
+[113]
 File: Figures/Ch_3/Fig2.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig2.pdf>
 
@@ -2700,110 +2918,122 @@ File: Figures/Ch_3/Fig2.pdf Graphic file (type pdf)
 LaTeX Warning: Float too large for page by 15.32076pt on input line 322.
 
 
-Package natbib Warning: Citation `calcini2024electrical' on page 106 undefined 
+Package natbib Warning: Citation `calcini2024electrical' on page 114 undefined 
 on input line 337.
 
 
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[106
+[114
 
 ]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[107]
+[115]
 
-LaTeX Warning: Reference `methods' on page 108 undefined on input line 343.
+LaTeX Warning: Reference `methods' on page 116 undefined on input line 343.
 
 
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[108]
+[116]
+Overfull \hbox (5.71373pt too wide) in paragraph at lines 348--349
+\TU/PalatinoLinotype(0)/m/n/10 than across-pair (D1-aCSF) mean cosine similarit
+y ($[] [] [][][][][][][][][]$, $[] [] [][][][][][]$), 
+ []
+
+
+Overfull \hbox (7.31929pt too wide) in paragraph at lines 349--350
+\TU/PalatinoLinotype(0)/m/n/10 ity between within aCSF and D1 cosine similarity
+ distributions ($[] [] [][][][][][][][][]$,
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[109]
+[117]
 
-LaTeX Warning: Reference `methods' on page 110 undefined on input line 367.
+LaTeX Warning: Reference `methods' on page 118 undefined on input line 367.
 
 
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[110]
+[118]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[111]
+[119]
 File: Figures/Ch_3/Fig3.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig3.pdf>
 
 
-LaTeX Warning: Float too large for page by 1.54695pt on input line 380.
+LaTeX Warning: Float too large for page by 12.54695pt on input line 380.
 
 
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[112
+[120
 
 ]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[113]
+[121]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[114]
+[122]
 File: Figures/Ch_3/Fig4.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig4.pdf>
 
@@ -2812,53 +3042,81 @@ Overfull \hbox (8.6087pt too wide) in paragraph at lines 416--425
  []
 
 
+Overfull \hbox (11.49161pt too wide) in paragraph at lines 413--429
+\TU/PalatinoLinotype(0)/m/n/10 more mechanistic insight into how computational 
+capacities are reconfigured. Specif-
+ []
+
+
+Overfull \hbox (8.08751pt too wide) in paragraph at lines 413--429
+\TU/PalatinoLinotype(0)/m/n/10 ically, we asked: are these properties modulated
+ in isolation, or are they co-regulated
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[115
+[123
 
 ]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[116]
+[124]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[117]
+[125]
+Overfull \hbox (2.39401pt too wide) in paragraph at lines 440--441
+[]\TU/PalatinoLinotype(0)/m/n/10 We observe that D2-R modulates the coordinatio
+n between functional attributes
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[118]
+[126]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[119]
+[127]
+Underfull \hbox (badness 1478) in paragraph at lines 462--463
+[]|\TU/PalatinoLinotype(0)/m/n/10 Increases coordination between AP and PB and
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 471--472
+[]|\TU/PalatinoLinotype(0)/m/n/10 Makes coordination between AP, PB and STA
+ []
+
+
 Overfull \hbox (21.00868pt too wide) in paragraph at lines 458--475
  [][] 
  []
@@ -2867,21 +3125,21 @@ Overfull \hbox (21.00868pt too wide) in paragraph at lines 458--475
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[120]
+[128]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[121]
+[129]
 File: Figures/Ch_3/Fig5.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig5.pdf>
 
@@ -2892,86 +3150,110 @@ LaTeX Warning: Float too large for page by 16.2778pt on input line 496.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[122
+[130
 
 ]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[123]
+[131]
+Overfull \hbox (3.31366pt too wide) in paragraph at lines 523--524
+[]\TU/PalatinoLinotype(0)/m/n/10 Interestingly, we observed similar coupling ef
+fects under M1R activation, point-
+ []
+
+
+Overfull \hbox (2.37126pt too wide) in paragraph at lines 523--524
+\TU/PalatinoLinotype(0)/m/n/10 greater computational flexibility or specializat
+ion, allowing for more diverse input-
+ []
+
+
+Overfull \hbox (6.89359pt too wide) in paragraph at lines 529--530
+[]\TU/PalatinoLinotype(0)/m/n/10 Importantly, the modulatory effects were not u
+niform, but heterogeneous within
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[124]
+[132]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[125]
+[133]
+Overfull \hbox (10.20181pt too wide) in paragraph at lines 543--544
+\TU/PalatinoLinotype(0)/m/n/10 Our study, while comprehensive, has several impo
+rtant limitations. First, our record-
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[126]
+[134]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[127] (Chapters/Chapter_3.bbl
+[135] (Chapters/Chapter_3.bbl
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[128]
+[136]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[129]))
+[137]))
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.76004pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.76004pt}.
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[130]
+[138]
 Chapter 4.
 
 
@@ -3012,7 +3294,7 @@ File: Figures/4.pdf Graphic file (type pdf)
 l.420 \include{Chapters/Chapter_4}
                                   
 ? 
-[131
+[139
 
 
 
@@ -3020,50 +3302,40 @@ l.420 \include{Chapters/Chapter_4}
 \openout2 = `Chapters/Chapter_4.aux'.
 
  (Chapters/Chapter_4.tex
+Overfull \hbox (0.60861pt too wide) in paragraph at lines 23--36
+\TU/PalatinoLinotype(0)/m/n/10 cluster, heterogeneous network, and heterogeneou
+s cluster, across two benchmark
+ []
 
-[132
+
+Overfull \hbox (1.77477pt too wide) in paragraph at lines 23--36
+\TU/PalatinoLinotype(0)/m/n/10 mance, we studied the dynamical stability (Lyapu
+nov exponents), representational
+ []
+
+
+Overfull \hbox (0.93813pt too wide) in paragraph at lines 23--36
+\TU/PalatinoLinotype(0)/m/n/10 significantly improves the computational capabil
+ities of delay-based recurrent sys-
+ []
+
+
+
+[140
 
 
 ]
 
-Package natbib Warning: Citation `perez2021neural ' on page 133 undefined on in
+Package natbib Warning: Citation `perez2021neural ' on page 141 undefined on in
 put line 46.
 
 
 
-[133]
-
-[134]
-
-[135]
-File: Figures/Ch_4/network_architecture.pdf Graphic file (type pdf)
-<use Figures/Ch_4/network_architecture.pdf>
-
-
-[136]
-
-[137]
-File: Figures/Ch_4/Task_performance.pdf Graphic file (type pdf)
-<use Figures/Ch_4/Task_performance.pdf>
-
-
-[138]
-
-[139]
-
-[140]
-
 [141]
-File: Figures/Ch_4/Luyapnov_dimensions.pdf Graphic file (type pdf)
-<use Figures/Ch_4/Luyapnov_dimensions.pdf>
-
 
 [142]
 
 [143]
-File: Figures/Ch_4/LInear MC.pdf Graphic file (type pdf)
-<use Figures/Ch_4/LInear MC.pdf>
-
 
 [144]
 
@@ -3076,30 +3348,61 @@ File: Figures/Ch_4/LInear MC.pdf Graphic file (type pdf)
 [148]
 
 [149]
-Overfull \hbox (0.25568pt too wide) in paragraph at lines 208--209
-\TU/LatinModernSans(0)/m/n/10 We evaluated the NARMA-30 task using Normalized r
-oot mean squared error (NRMSE)
+
+[150]
+File: Figures/Ch_4/network_architecture.pdf Graphic file (type pdf)
+<use Figures/Ch_4/network_architecture.pdf>
+
+Overfull \hbox (18.30232pt too wide) in paragraph at lines 200--201
+\TU/PalatinoLinotype(0)/m/n/10 CMA-ES algorithm shown in \TU/PalatinoLinotype(0
+)/b/n/10 Fig. [][]4.2[][]a \TU/PalatinoLinotype(0)/m/n/10 while these networks 
+learn to perform NARMA-
  []
 
 
 
-[150]
-
 [151]
 
 [152]
+File: Figures/Ch_4/Task_performance.pdf Graphic file (type pdf)
+<use Figures/Ch_4/Task_performance.pdf>
 
-[153] (Chapters/Chapter_4.bbl
 
-[154]))
+[153]
+
+[154]
 
 [155]
 
-[156
+[156]
+File: Figures/Ch_4/Luyapnov_dimensions.pdf Graphic file (type pdf)
+<use Figures/Ch_4/Luyapnov_dimensions.pdf>
+
+
+[157]
+
+[158]
+File: Figures/Ch_4/LInear MC.pdf Graphic file (type pdf)
+<use Figures/Ch_4/LInear MC.pdf>
+
+
+[159]
+
+[160]
+
+[161]
+Overfull \hbox (8.23064pt too wide) in paragraph at lines 275--276
+[]\TU/PalatinoLinotype(0)/m/n/10 From an engineering viewpoint, these findings 
+argue for designing non-uniform,
+ []
 
 
 
-]
+[162] (Chapters/Chapter_4.bbl
+
+[163]))
+
+[164]
 Chapter 5.
 
 
@@ -3140,7 +3443,11 @@ File: Figures/6.pdf Graphic file (type pdf)
 l.437 \include{Chapters/Discussion_Conclusion}
                                               
 ? 
-[157]
+[165
+
+
+
+]
 \openout2 = `Chapters/Discussion_Conclusion.aux'.
 
  (Chapters/Discussion_Conclusion.tex)
@@ -3155,7 +3462,7 @@ l.437 \include{Chapters/Discussion_Conclusion}
 ? 
 
 
-[158
+[166
 
 
 
@@ -3196,7 +3503,7 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 l.449 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
-[159]
+[167]
 \openout2 = `Chapters/Supplementary_Materials.aux'.
 
  (Chapters/Supplementary_Materials.tex
@@ -3204,7 +3511,7 @@ File: Figures/Ch_2/appendix1.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix1.pdf>
 
 
-[160
+[168
 
 
 ]
@@ -3212,109 +3519,138 @@ File: Figures/Ch_2/appendix2.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix2.pdf>
 
 
-[161
+[169
 
 ]
 
-[162]
+[170]
 File: Figures/Ch_2/appendix3.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix3.pdf>
 
 
-[163
+[171
 
 ]
 File: Figures/Ch_2/appendix4.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix4.pdf>
 
 
-[164
+[172
 
 ]
 File: Figures/Ch_2/appendix5.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix5.pdf>
 
 
-[165]
+[173]
 File: Figures/Ch_2/appendix6.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix6.pdf>
 
 
-[166
+[174
 
 ]
 
-[167]
+[175]
 
-[168
+[176
 
 ]
 File: Figures/Ch_3/Appendix1.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix1.pdf>
 
 
-[169]
+[177]
+
+[178]
 File: Figures/Ch_3/Appendix2.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix2.pdf>
 
 
-[170]
+[179]
+
+[180]
 File: Figures/Ch_3/Appendix3.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix3.pdf>
 
 
-[171]
+[181]
 
-[172]
+[182]
 File: Figures/Ch_3/Appendix4.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix4.pdf>
 
 
-[173]
+[183]
 
-[174]
+[184]
 File: Figures/Ch_3/Appendix5.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix5.pdf>
+
+
+LaTeX Warning: Float too large for page by 4.30115pt on input line 161.
+
 File: Figures/Ch_3/Appendix6.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix6.pdf>
+
+LaTeX Warning: Float too large for page by 31.8879pt on input line 170.
+
 File: Figures/Ch_3/Appendix7.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix7.pdf>
 File: Figures/Ch_3/Appendix8.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix8.pdf>
 
 
-[175]
+[185]
 
-[176]
+[186]
 
-[177]
+[187]
 
-[178]
+[188]
 
-[179]
+[189]
 File: Figures/Ch_3/Appendix9.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix9.pdf>
 
 
-[180]
+[190]
 
-[181]
+[191]
 File: Figures/Ch_3/Appendix10.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix10.pdf>
 
 
-[182]
+[192]
+File: Figures/Ch_3/Appendix11.pdf Graphic file (type pdf)
+<use Figures/Ch_3/Appendix11.pdf>
 
-[183]
 
-[184]
-Overfull \hbox (3.78564pt too wide) in paragraph at lines 267--285
+[193]
+File: Figures/Ch_3/Appendix12.pdf Graphic file (type pdf)
+<use Figures/Ch_3/Appendix12.pdf>
+
+
+[194]
+File: Figures/Ch_3/Appendix13.pdf Graphic file (type pdf)
+<use Figures/Ch_3/Appendix13.pdf>
+
+
+[195]
+
+[196]
+
+[197]
+Overfull \hbox (1.38698pt too wide) in paragraph at lines 298--316
  [][] 
  []
 
 
 
-[185
+[198
+
+
+
 
 
 
@@ -3326,45 +3662,39 @@ Overfull \hbox (3.78564pt too wide) in paragraph at lines 267--285
 
 ]
 
-[186
+[199
 
 ]
 
-[187
+[200
 
 ]
 No file Chapters/Supplementary_Materials.bbl.
 )
-
-[188
-
-
-
-]
 Chapter 7.
 
 Underfull \hbox (badness 10000) in paragraph at lines 460--460
- \TU/LatinModernSans(0)/m/n/10 Nederlandse samenvatting 
+ \TU/PalatinoLinotype(0)/m/n/10 Nederlandse samenvatting 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 460--460
- \TU/LatinModernSans(0)/m/n/10 Research data management statement 
+ \TU/PalatinoLinotype(0)/m/n/10 Research data management statement 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 460--460
- \TU/LatinModernSans(0)/m/n/10 Acknowledgements 
+ \TU/PalatinoLinotype(0)/m/n/10 Acknowledgements 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 460--460
- \TU/LatinModernSans(0)/m/n/10 Curriculum Vitae 
+ \TU/PalatinoLinotype(0)/m/n/10 Curriculum Vitae 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 460--460
- \TU/LatinModernSans(0)/m/n/10 Donders Graduate School 
+ \TU/PalatinoLinotype(0)/m/n/10 Donders Graduate School 
  []
 
 
@@ -3400,7 +3730,11 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 l.464 \include{Chapters/Summary}
                                 
 ? 
-[189]
+[201
+
+
+
+]
 \openout2 = `Chapters/Summary.aux'.
 
  (Chapters/Summary.tex
@@ -3416,20 +3750,15 @@ l.15 \end{itemize}
 ? 
 )
 
-[190
+[202
 
 
 ]
 \openout2 = `"Chapters/Research data management statement.aux"'.
 
- (Chapters/Research data management statement.tex
-! Undefined control sequence.
-l.11 \ubsection
-               {FAIR principles}
-? 
-)
+ (Chapters/Research data management statement.tex)
 
-[191
+[203
 
 
 
@@ -3439,7 +3768,7 @@ l.11 \ubsection
 
  (Chapters/Acknowledgements.tex)
 
-[192
+[204
 
 
 
@@ -3477,7 +3806,7 @@ l.11 ...41\textwidth]{Figures/Profile picture.pdf}
 ? 
 )
 
-[193
+[205
 
 
 
@@ -3486,13 +3815,21 @@ l.11 ...41\textwidth]{Figures/Profile picture.pdf}
 \openout2 = `Chapters/DGS.aux'.
 
  (Chapters/DGS.tex
+Overfull \hbox (14.99506pt too wide) in paragraph at lines 12--13
+\TU/PalatinoLinotype(0)/m/n/10 dents in biology, physics, psycholinguistics, ps
+ychology, behavioral science, medicine
+ []
 
-[194
+
+
+[206
 
 
 
 
 ]
+
+[207]
 
 LaTeX Warning: File `Figures/cover_back_sign.pdf' not found on input line 23.
 
@@ -3532,7 +3869,7 @@ l.23 ...\paperheight]{Figures/cover_back_sign.pdf}
 ? 
 )
 
-[195]
+[208]
 
 Package natbib Warning: There were undefined citations.
 
@@ -3559,12 +3896,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F87EFB8C44823F7115485D51711DE728;1885.
  ) 
 Here is how much of TeX's memory you used:
- 38510 strings out of 405075
- 799303 string characters out of 5498326
- 1376553 words of memory out of 5000000
- 64412 multiletter control sequences out of 15000+600000
+ 38564 strings out of 405075
+ 800880 string characters out of 5498326
+ 1378022 words of memory out of 5000000
+ 64463 multiletter control sequences out of 15000+600000
  631248 words of font info for 138 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,14n,121p,3588b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (197 pages).
+Output written on main.pdf (210 pages).

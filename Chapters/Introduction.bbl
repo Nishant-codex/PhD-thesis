@@ -20,6 +20,17 @@ Cadwell, C.~R., Palasantza, A., Jiang, X., Berens, P., Deng, Q., Yilmaz, M.,
   single neurons using patch-seq.
 \newblock {\em Nature biotechnology}, 34(2):199--203.
 
+\bibitem[Cavanagh et~al., 2020]{cavanagh2020diversity}
+Cavanagh, S.~E., Hunt, L.~T., and Kennerley, S.~W. (2020).
+\newblock A diversity of intrinsic timescales underlie neural computations.
+\newblock {\em Frontiers in neural circuits}, 14:615626.
+
+\bibitem[Chu et~al., 2020]{chu2020long}
+Chu, J.~C., Wang, Q., Baldassano, C., and Guo, N.~D. (2020).
+\newblock Long-timescale processing in human auditory and visual cortex
+  supports short-term memory.
+\newblock {\em Nature Neuroscience}, 23:1686–1695.
+
 \bibitem[da~Silva~Lantyer et~al., 2018]{da2018databank}
 da~Silva~Lantyer, A., Calcini, N., Bijlsma, A., Kole, K., Emmelkamp, M.,
   Peeters, M., Scheenen, W.~J., Zeldenrust, F., and Celikel, T. (2018).
@@ -65,10 +76,32 @@ Gouwens, N.~W., Sorensen, S.~A., Berg, J., Lee, C., Jarsky, T., Ting, J.,
   in the mouse visual cortex.
 \newblock {\em Nature neuroscience}, 22(7):1182--1195.
 
+\bibitem[Hasson et~al., 2008]{hasson2008hierarchical}
+Hasson, U., Yang, E., Vallines, I., Heeger, D., and Rubin, N. (2008).
+\newblock A hierarchy of temporal receptive windows in human cortex.
+\newblock {\em Journal of Neuroscience}, 28(10):2539–2550.
+
 \bibitem[Huang and Paul, 2019]{huang2019diversity}
 Huang, Z.~J. and Paul, A. (2019).
 \newblock The diversity of gabaergic neurons and neural communication elements.
 \newblock {\em Nature Reviews Neuroscience}, 20(9):563--572.
+
+\bibitem[Iacob et~al., 2022]{iacob2022distance}
+Iacob, S., Freiberger, M., and Dambre, J. (2022).
+\newblock Distance-based delays in echo state networks.
+\newblock In {\em International Conference on Intelligent Data Engineering and
+  Automated Learning}, pages 211--222. Springer.
+
+\bibitem[Jaeger, 2001]{jaeger2001echo}
+Jaeger, H. (2001).
+\newblock The “echo state” approach to analysing and training recurrent
+  neural networks-with an erratum note.
+\newblock {\em GMD Technical Report 148}.
+
+\bibitem[Koch and Laurent, 1999]{koch1999complexity}
+Koch, C. and Laurent, G. (1999).
+\newblock Complexity and the nervous system.
+\newblock {\em Science}, 284(5411):96--98.
 
 \bibitem[Lee et~al., 2021]{lee2021non}
 Lee, E.~K., Balasubramanian, H., Tsolias, A., Anakwe, S.~U., Medalla, M.,
@@ -95,6 +128,12 @@ Masland, R.~H. (2012).
 \newblock The neuronal organization of the retina.
 \newblock {\em Neuron}, 76(2):266--280.
 
+\bibitem[McNaughton et~al., 2006]{mcnaughton2006path}
+McNaughton, B.~L., Battaglia, F.~P., Jensen, O., Moser, E.~I., and Moser, M.-B.
+  (2006).
+\newblock Path integration and the neural basis of the 'cognitive map'.
+\newblock {\em Nature Reviews Neuroscience}, 7(8):663–678.
+
 \bibitem[Mukamel and Ngai, 2019]{mukamel2019perspectives}
 Mukamel, E.~A. and Ngai, J. (2019).
 \newblock Perspectives on defining cell types in the brain.
@@ -105,6 +144,11 @@ Nelson, S.~B., Sugino, K., and Hempel, C.~M. (2006).
 \newblock The problem of neuronal cell types: a physiological genomics
   approach.
 \newblock {\em Trends in neurosciences}, 29(6):339--345.
+
+\bibitem[Perez-Nieves et~al., 2021]{perez2021neural}
+Perez-Nieves, N., Leung, V.~C., Dragotti, P.~L., and Goodman, D.~F. (2021).
+\newblock Neural heterogeneity promotes robust learning.
+\newblock {\em Nature communications}, 12(1):5791.
 
 \bibitem[Sagner and Briscoe, 2019]{Sagner2019}
 Sagner, A. and Briscoe, J. (2019).
@@ -134,6 +178,19 @@ Somogyi, P. and Klausberger, T. (2005).
 \newblock Defined types of cortical interneurone structure space and spike
   timing in the hippocampus.
 \newblock {\em The Journal of physiology}, 562(1):9--26.
+
+\bibitem[Soriano et~al., 2014]{soriano2014delay}
+Soriano, M.~C., Ort{\'\i}n, S., Keuninckx, L., Appeltant, L., Danckaert, J.,
+  Pesquera, L., and Van~der Sande, G. (2014).
+\newblock Delay-based reservoir computing: noise effects in a combined analog
+  and digital implementation.
+\newblock {\em IEEE transactions on neural networks and learning systems},
+  26(2):388--393.
+
+\bibitem[Sussillo, 2014]{sussillo2014neural}
+Sussillo, D. (2014).
+\newblock Neural circuits as computational dynamical systems.
+\newblock {\em Current opinion in neurobiology}, 25:156--163.
 
 \bibitem[Tasic et~al., 2018]{tasic2018shared}
 Tasic, B., Yao, Z., Graybuck, L.~T., Smith, K.~A., Nguyen, T.~N., Bertagnolli,

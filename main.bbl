@@ -557,6 +557,11 @@ Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel,
 \newblock Scikit-learn: Machine learning in {P}ython.
 \newblock {\em Journal of Machine Learning Research}, 12:2825--2830.
 
+\bibitem[Perez-Nieves et~al., 2021]{perez2021neural}
+Perez-Nieves, N., Leung, V.~C., Dragotti, P.~L., and Goodman, D.~F. (2021).
+\newblock Neural heterogeneity promotes robust learning.
+\newblock {\em Nature communications}, 12(1):5791.
+
 \bibitem[Perktold et~al., 2024]{josef_perktold_2024_10984387}
 Perktold, J., Seabold, S., Sheppard, K., ChadFulton, Shedden, K., jbrockmendel,
   j~grana6, Quackenbush, P., Arel-Bundock, V., McKinney, W., Langmore, I.,
@@ -718,6 +723,11 @@ Soriano, M.~C., Ort{\'\i}n, S., Keuninckx, L., Appeltant, L., Danckaert, J.,
 Steriade, M. (2000).
 \newblock Corticothalamic resonance, states of vigilance and mentation.
 \newblock {\em Neuroscience}, 101(2):243--276.
+
+\bibitem[Sussillo, 2014]{sussillo2014neural}
+Sussillo, D. (2014).
+\newblock Neural circuits as computational dynamical systems.
+\newblock {\em Current opinion in neurobiology}, 25:156--163.
 
 \bibitem[Szab{\'o} et~al., 2021]{szabo2021conventional}
 Szab{\'o}, A., Schlett, K., and Sz{\"u}cs, A. (2021).
