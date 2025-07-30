@@ -103,39 +103,52 @@
 \gdef \the@ipfilectr {}
 \contentsline {chapter}{\numberline {5}General Discussion}{165}{chapter.5}%
 \gdef \the@ipfilectr {@-6}
+\contentsline {section}{Summary}{166}{section*.126}%
+\contentsline {section}{Neuro-scientific Implications}{167}{section*.127}%
+\contentsline {subsection}{Rethinking neuronal classification: input dependence challenges current taxonomies}{167}{subsection*.128}%
+\contentsline {subsection}{Introduction of Novel Analytical Methods to Study Functional Reorganization and High-Dimensional Correlations}{168}{subsection*.129}%
+\contentsline {subsection}{Highlighting the Functional Value of Heterogeneity at the Population Level}{169}{subsection*.130}%
+\contentsline {section}{AI / computational modeling implications}{170}{section*.131}%
+\contentsline {subsection}{Heterogeneity Improves Reservoir Performance}{170}{subsection*.132}%
+\contentsline {subsection}{Toward Architecture-Level Design Principles Grounded in Biology}{171}{subsection*.133}%
+\contentsline {subsection}{Limitations and Methodological Constraints}{172}{subsection*.134}%
+\contentsline {subsection}{Future Directions}{173}{subsection*.135}%
+\contentsline {subsubsection}{Biological Extensions}{173}{subsubsection*.136}%
+\contentsline {subsubsection}{Computational Extensions}{174}{subsubsection*.137}%
+\contentsline {section}{Final Statement}{175}{section*.138}%
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {6}Supplementary Materials}{167}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Supplementary Materials}{179}{chapter.6}%
 \gdef \the@ipfilectr {@-7}
-\contentsline {section}{Supplementary materials of chapter 2}{168}{section*.126}%
-\contentsline {section}{Waveform and Action Potential properties manifold \\ comparison }{168}{section*.127}%
-\contentsline {section}{Louvain vs Ensemble Clustering for Graphs (ECG) algorithm comparison }{169}{section*.129}%
-\contentsline {section}{Cluster stability after leaving one attribute out at a time}{171}{section*.132}%
-\contentsline {section}{Diversity of firing rate and AP half-width}{172}{section*.134}%
-\contentsline {section}{STA Heterogeneity}{173}{section*.136}%
-\contentsline {section}{Cluster assignment likelihood across attributes}{174}{section*.138}%
-\contentsline {section}{Supplementary materials of chapter 3}{176}{section*.141}%
+\contentsline {section}{Supplementary materials of chapter 2}{180}{section*.139}%
+\contentsline {section}{Waveform and Action Potential properties manifold \\ comparison }{180}{section*.140}%
+\contentsline {section}{Louvain vs Ensemble Clustering for Graphs (ECG) algorithm comparison }{181}{section*.142}%
+\contentsline {section}{Cluster stability after leaving one attribute out at a time}{183}{section*.145}%
+\contentsline {section}{Diversity of firing rate and AP half-width}{184}{section*.147}%
+\contentsline {section}{STA Heterogeneity}{185}{section*.149}%
+\contentsline {section}{Cluster assignment likelihood across attributes}{186}{section*.151}%
+\contentsline {section}{Supplementary materials of chapter 3}{188}{section*.154}%
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {7}Appendices}{201}{chapter.7}%
+\contentsline {chapter}{\numberline {7}Appendices}{213}{chapter.7}%
 \gdef \the@ipfilectr {@-8}
-\contentsline {section}{Nederlandse samenvatting}{202}{section*.166}%
+\contentsline {section}{Nederlandse samenvatting}{214}{section*.179}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-9}
-\contentsline {section}{Research Data Management Statement}{203}{section*.167}%
-\contentsline {subsection}{Ethics}{203}{subsection*.168}%
-\contentsline {subsection}{FAIR principles}{203}{subsection*.169}%
-\contentsline {subsubsection}{1. Findable}{203}{subsubsection*.170}%
-\contentsline {subsubsection}{2. Accessible}{203}{subsubsection*.171}%
-\contentsline {subsubsection}{3. Interoperable}{203}{subsubsection*.172}%
-\contentsline {subsubsection}{4. Reusable}{203}{subsubsection*.173}%
-\contentsline {subsection}{Privacy}{203}{subsection*.174}%
+\contentsline {section}{Research Data Management Statement}{215}{section*.180}%
+\contentsline {subsection}{Ethics}{215}{subsection*.181}%
+\contentsline {subsection}{FAIR principles}{215}{subsection*.182}%
+\contentsline {subsubsection}{1. Findable}{215}{subsubsection*.183}%
+\contentsline {subsubsection}{2. Accessible}{215}{subsubsection*.184}%
+\contentsline {subsubsection}{3. Interoperable}{215}{subsubsection*.185}%
+\contentsline {subsubsection}{4. Reusable}{215}{subsubsection*.186}%
+\contentsline {subsection}{Privacy}{215}{subsection*.187}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-10}
-\contentsline {section}{Acknowledgements}{204}{section*.175}%
+\contentsline {section}{Acknowledgements}{216}{section*.188}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-11}
-\contentsline {section}{Curriculum Vitae}{205}{section*.176}%
+\contentsline {section}{Curriculum Vitae}{217}{section*.189}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-12}
-\contentsline {section}{Donders Graduate School for Cognitive Neuroscience}{206}{section*.178}%
+\contentsline {section}{Donders Graduate School for Cognitive Neuroscience}{218}{section*.191}%
 \gdef \the@ipfilectr {}
 \contentsfinish 

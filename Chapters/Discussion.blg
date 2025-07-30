@@ -1,0 +1,119 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: .\Chapters\Discussion.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: All_bibtex.bib
+Repeated entry---line 2053 of file All_bibtex.bib
+ : @article{fishell2013neuron
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2327 of file All_bibtex.bib
+ : @article{zeng2022cell
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2431 of file All_bibtex.bib
+ : @article{connors1990intrinsic
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2463 of file All_bibtex.bib
+ : @article{gast2024neural
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2692 of file All_bibtex.bib
+ : @article{zeldenrust2017estimating
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2723 of file All_bibtex.bib
+ : @article{halabisky2006electrophysiological
+ :                                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2792 of file All_bibtex.bib
+ : @article{markram2004interneurons
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2822 of file All_bibtex.bib
+ : @article{mukamel2019perspectives
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2840 of file All_bibtex.bib
+ : @article{huang2019diversity
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2950 of file All_bibtex.bib
+ : @article{petilla2008petilla
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2970 of file All_bibtex.bib
+ : @article{brown2023multiset
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2980 of file All_bibtex.bib
+ : @article{hernath2019alternative
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3002 of file All_bibtex.bib
+ : @article{gouwens2020integrated
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3013 of file All_bibtex.bib
+ : @article{gouwens2019classification
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3024 of file All_bibtex.bib
+ : @article{zeng2017neuronal
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3037 of file All_bibtex.bib
+ : @article{szabo2021conventional
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3072 of file All_bibtex.bib
+ : @article{lee2021non
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in petilla2008petilla
+Warning--empty author in petilla2008petilla
+You've used 31 entries,
+            1935 wiz_defined-function locations,
+            678 strings with 10654 characters,
+and the built_in function-call counts, 14426 in all, are:
+= -- 1364
+> -- 762
+< -- 11
++ -- 282
+- -- 270
+* -- 1401
+:= -- 2522
+add.period$ -- 93
+call.type$ -- 31
+change.case$ -- 285
+chr.to.int$ -- 31
+cite$ -- 34
+duplicate$ -- 433
+empty$ -- 925
+format.name$ -- 316
+if$ -- 2726
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 32
+newline$ -- 158
+num.names$ -- 90
+pop$ -- 219
+preamble$ -- 1
+purify$ -- 286
+quote$ -- 0
+skip$ -- 325
+stack$ -- 0
+substring$ -- 1100
+swap$ -- 31
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 184
+warning$ -- 2
+while$ -- 108
+width$ -- 0
+write$ -- 403
+(There were 17 error messages)

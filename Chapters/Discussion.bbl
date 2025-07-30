@@ -1,0 +1,195 @@
+\begin{thebibliography}{}
+
+\bibitem[pet, 2008]{petilla2008petilla}
+ (2008).
+\newblock Petilla terminology: nomenclature of features of gabaergic
+  interneurons of the cerebral cortex.
+\newblock {\em Nature Reviews Neuroscience}, 9(7):557--568.
+
+\bibitem[Brown et~al., 2023]{brown2023multiset}
+Brown, B.~C., Wang, C., Kasela, S., Aguet, F., Nachun, D.~C., Taylor, K.~D.,
+  Tracy, R.~P., Durda, P., Liu, Y., Johnson, W.~C., et~al. (2023).
+\newblock Multiset correlation and factor analysis enables exploration of
+  multi-omics data.
+\newblock {\em Cell Genomics}, 3(8).
+
+\bibitem[Connors and Gutnick, 1990]{connors1990intrinsic}
+Connors, B.~W. and Gutnick, M.~J. (1990).
+\newblock Intrinsic firing patterns of diverse neocortical neurons.
+\newblock {\em Trends in neurosciences}, 13(3):99--104.
+
+\bibitem[Fishell and Heintz, 2013]{fishell2013neuron}
+Fishell, G. and Heintz, N. (2013).
+\newblock The neuron identity problem: form meets function.
+\newblock {\em Neuron}, 80(3):602--612.
+
+\bibitem[Gast et~al., 2024]{gast2024neural}
+Gast, R., Solla, S.~A., and Kennedy, A. (2024).
+\newblock Neural heterogeneity controls computations in spiking neural
+  networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  121(3):e2311885121.
+
+\bibitem[Gouwens et~al., 2020]{gouwens2020integrated}
+Gouwens, N.~W., Sorensen, S.~A., Baftizadeh, F., Budzillo, A., Lee, B.~R.,
+  Jarsky, T., Alfiler, L., Baker, K., Barkan, E., Berry, K., et~al. (2020).
+\newblock Integrated morphoelectric and transcriptomic classification of
+  cortical gabaergic cells.
+\newblock {\em Cell}, 183(4):935--953.
+
+\bibitem[Gouwens et~al., 2019]{gouwens2019classification}
+Gouwens, N.~W., Sorensen, S.~A., Berg, J., Lee, C., Jarsky, T., Ting, J.,
+  Sunkin, S.~M., Feng, D., Anastassiou, C.~A., Barkan, E., et~al. (2019).
+\newblock Classification of electrophysiological and morphological neuron types
+  in the mouse visual cortex.
+\newblock {\em Nature neuroscience}, 22(7):1182--1195.
+
+\bibitem[Halabisky et~al., 2006]{halabisky2006electrophysiological}
+Halabisky, B., Shen, F., Huguenard, J.~R., and Prince, D.~A. (2006).
+\newblock Electrophysiological classification of somatostatin-positive
+  interneurons in mouse sensorimotor cortex.
+\newblock {\em Journal of neurophysiology}, 96(2):834--845.
+
+\bibitem[Hern{\'a}th et~al., 2019]{hernath2019alternative}
+Hern{\'a}th, F., Schlett, K., and Sz{\"u}cs, A. (2019).
+\newblock Alternative classifications of neurons based on physiological
+  properties and synaptic responses, a computational study.
+\newblock {\em Scientific reports}, 9(1):13096.
+
+\bibitem[Hodgkin, 1948]{hodgkin1948local}
+Hodgkin, A.~L. (1948).
+\newblock The local electric changes associated with repetitive action in a
+  non-medullated axon.
+\newblock {\em The Journal of physiology}, 107(2):165.
+
+\bibitem[Huang and Paul, 2019]{huang2019diversity}
+Huang, Z.~J. and Paul, A. (2019).
+\newblock The diversity of gabaergic neurons and neural communication elements.
+\newblock {\em Nature Reviews Neuroscience}, 20(9):563--572.
+
+\bibitem[Hutt et~al., 2023]{hutt2023intrinsic}
+Hutt, A., Rich, S., Valiante, T.~A., and Lefebvre, J. (2023).
+\newblock Intrinsic neural diversity quenches the dynamic volatility of neural
+  networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  120(28):e2218841120.
+
+\bibitem[Izhikevich, 2007]{izhikevich2007dynamical}
+Izhikevich, E.~M. (2007).
+\newblock {\em Dynamical systems in neuroscience}.
+\newblock MIT press.
+
+\bibitem[Jasnow et~al., 2009]{jasnow2009distinct}
+Jasnow, A.~M., Ressler, K.~J., Hammack, S.~E., Chhatwal, J.~P., and Rainnie,
+  D.~G. (2009).
+\newblock Distinct subtypes of cholecystokinin (cck)-containing interneurons of
+  the basolateral amygdala identified using a cck promoter-specific lentivirus.
+\newblock {\em Journal of neurophysiology}, 101(3):1494--1506.
+
+\bibitem[Karagiannis et~al., 2009]{karagiannis2009classification}
+Karagiannis, A., Gallopin, T., D{\'a}vid, C., Battaglia, D., Geoffroy, H.,
+  Rossier, J., Hillman, E.~M., Staiger, J.~F., and Cauli, B. (2009).
+\newblock Classification of npy-expressing neocortical interneurons.
+\newblock {\em Journal of Neuroscience}, 29(11):3642--3659.
+
+\bibitem[Lee et~al., 2021]{lee2021non}
+Lee, E.~K., Balasubramanian, H., Tsolias, A., Anakwe, S.~U., Medalla, M.,
+  Shenoy, K.~V., and Chandrasekaran, C. (2021).
+\newblock Non-linear dimensionality reduction on extracellular waveforms
+  reveals cell type diversity in premotor cortex.
+\newblock {\em Elife}, 10:e67490.
+
+\bibitem[Liu et~al., 2021]{liu2021cell}
+Liu, Y.~H., Smith, S., Mihalas, S., Shea-Brown, E., and S{\"u}mb{\"u}l, U.
+  (2021).
+\newblock Cell-type--specific neuromodulation guides synaptic credit assignment
+  in a spiking neural network.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  118(51):e2111821118.
+
+\bibitem[Markram et~al., 2004]{markram2004interneurons}
+Markram, H., Toledo-Rodriguez, M., Wang, Y., Gupta, A., Silberberg, G., and Wu,
+  C. (2004).
+\newblock Interneurons of the neocortical inhibitory system.
+\newblock {\em Nature reviews neuroscience}, 5(10):793--807.
+
+\bibitem[Mukamel and Ngai, 2019]{mukamel2019perspectives}
+Mukamel, E.~A. and Ngai, J. (2019).
+\newblock Perspectives on defining cell types in the brain.
+\newblock {\em Current opinion in neurobiology}, 56:61--68.
+
+\bibitem[Nelson et~al., 2006]{nelson2006problem}
+Nelson, S.~B., Sugino, K., and Hempel, C.~M. (2006).
+\newblock The problem of neuronal cell types: a physiological genomics
+  approach.
+\newblock {\em Trends in neurosciences}, 29(6):339--345.
+
+\bibitem[Ogawa et~al., 2023]{ogawa2023multitasking}
+Ogawa, S., Fumarola, F., and Mazzucato, L. (2023).
+\newblock Multitasking via baseline control in recurrent neural networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  120(33):e2304394120.
+
+\bibitem[Salvan et~al., 2023]{salvan2023serotonin}
+Salvan, P., Fonseca, M., Winkler, A.~M., Beauchamp, A., Lerch, J.~P., and
+  Johansen-Berg, H. (2023).
+\newblock Serotonin regulation of behavior via large-scale neuromodulation of
+  serotonin receptor networks.
+\newblock {\em Nature Neuroscience}, 26(1):53--63.
+
+\bibitem[Sanes and Masland, 2015]{sanes2015types}
+Sanes, J.~R. and Masland, R.~H. (2015).
+\newblock The types of retinal ganglion cells: current status and implications
+  for neuronal classification.
+\newblock {\em Annual review of neuroscience}, 38(1):221--246.
+
+\bibitem[Seung and S{\"u}mb{\"u}l, 2014]{seung2014neuronal}
+Seung, H.~S. and S{\"u}mb{\"u}l, U. (2014).
+\newblock Neuronal cell types and connectivity: lessons from the retina.
+\newblock {\em Neuron}, 83(6):1262--1272.
+
+\bibitem[Somogyi and Klausberger, 2005]{somogyi2005defined}
+Somogyi, P. and Klausberger, T. (2005).
+\newblock Defined types of cortical interneurone structure space and spike
+  timing in the hippocampus.
+\newblock {\em The Journal of physiology}, 562(1):9--26.
+
+\bibitem[Szab{\'o} et~al., 2021]{szabo2021conventional}
+Szab{\'o}, A., Schlett, K., and Sz{\"u}cs, A. (2021).
+\newblock Conventional measures of intrinsic excitability are poor estimators
+  of neuronal activity under realistic synaptic inputs.
+\newblock {\em PLOS Computational Biology}, 17(9):e1009378.
+
+\bibitem[Wu et~al., 2025]{wu2025neural}
+Wu, S., Huang, H., Wang, S., Chen, G., Zhou, C., and Yang, D. (2025).
+\newblock Neural heterogeneity enhances reliable neural information processing:
+  Local sensitivity and globally input-slaved transient dynamics.
+\newblock {\em Science Advances}, 11(14):eadr3903.
+
+\bibitem[Yuste et~al., 2020]{yuste2020community}
+Yuste, R., Hawrylycz, M., Aalling, N., Aguilar-Valles, A., Arendt, D.,
+  Arma{\~n}anzas, R., Ascoli, G.~A., Bielza, C., Bokharaie, V., Bergmann,
+  T.~B., et~al. (2020).
+\newblock A community-based transcriptomics classification and nomenclature of
+  neocortical cell types.
+\newblock {\em Nature neuroscience}, 23(12):1456--1468.
+
+\bibitem[Zeldenrust et~al., 2017]{zeldenrust2017estimating}
+Zeldenrust, F., de~Knecht, S., Wadman, W.~J., Den{\`e}ve, S., and Gutkin, B.
+  (2017).
+\newblock Estimating the information extracted by a single spiking neuron from
+  a continuous input time series.
+\newblock {\em Frontiers in computational neuroscience}, 11:49.
+
+\bibitem[Zeng, 2022]{zeng2022cell}
+Zeng, H. (2022).
+\newblock What is a cell type and how to define it?
+\newblock {\em Cell}, 185(15):2739--2755.
+
+\bibitem[Zeng and Sanes, 2017]{zeng2017neuronal}
+Zeng, H. and Sanes, J.~R. (2017).
+\newblock Neuronal cell-type classification: challenges, opportunities and the
+  path forward.
+\newblock {\em Nature Reviews Neuroscience}, 18(9):530--546.
+
+\end{thebibliography}

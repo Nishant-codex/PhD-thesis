@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  27 JUL 2025 13:57
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  30 JUL 2025 14:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1736,7 +1736,7 @@ LaTeX Warning: Unused global option(s):
 LaTeX Warning: Label `fig:enter-label' multiply defined.
 
 ) (Chapters/Chapter_2.aux) (Chapters/Chapter_3.aux) (Chapters/Chapter_4.aux)
-(Chapters/Discussion_Conclusion.aux) (Chapters/Supplementary_Materials.aux)
+(Chapters/Discussion.aux) (Chapters/Supplementary_Materials.aux)
 (Chapters/Summary.aux) (Chapters/Research data management statement.aux)
 (Chapters/Acknowledgements.aux) (Chapters/CV.aux) (Chapters/DGS.aux))
 \openout1 = `main.aux'.
@@ -3412,8 +3412,8 @@ LaTeX Warning: File `Figures/6.pdf' not found on input line 437.
 ! Unable to load picture or PDF file 'Figures/6.pdf'.
 <to be read again> 
                    }
-l.437 \include{Chapters/Discussion_Conclusion}
-                                              
+l.437 \include{Chapters/Discussion}
+                                   
 ? 
 
 ! Package graphics Error: Division by 0.
@@ -3422,8 +3422,8 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.437 \include{Chapters/Discussion_Conclusion}
-                                              
+l.437 \include{Chapters/Discussion}
+                                   
 ? 
 
 ! Package graphics Error: Division by 0.
@@ -3432,39 +3432,109 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.437 \include{Chapters/Discussion_Conclusion}
-                                              
+l.437 \include{Chapters/Discussion}
+                                   
 ? 
 File: Figures/6.pdf Graphic file (type pdf)
 <use Figures/6.pdf>
 ! Unable to load picture or PDF file 'Figures/6.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.437 \include{Chapters/Discussion_Conclusion}
-                                              
+l.437 \include{Chapters/Discussion}
+                                   
 ? 
 [165
 
 
 
 ]
-\openout2 = `Chapters/Discussion_Conclusion.aux'.
+\openout2 = `Chapters/Discussion.aux'.
 
- (Chapters/Discussion_Conclusion.tex)
-Runaway argument?
-{ \par \newpage \par \par \par \par \newpage \begin {spacing}{1.0} \fontsize \E
-TC.
-! File ended while scanning use of \nohyphens.
-<inserted text> 
-                \par 
-l.437 \include{Chapters/Discussion_Conclusion}
-                                              
-? 
+ (Chapters/Discussion.tex
+Overfull \hbox (9.90382pt too wide) in paragraph at lines 15--16
+\TU/PalatinoLinotype(0)/m/n/10 sponses to different input regimes, it demonstra
+tes that functional identity is context-
+ []
+
+
+Overfull \hbox (2.56085pt too wide) in paragraph at lines 19--20
+\TU/PalatinoLinotype(0)/m/n/10 Dependent Delay Networks (DDNs) exhibit improved
+ task performance and mem-
+ []
+
 
 
 [166
 
 
+]
+
+[167]
+Overfull \hbox (2.6993pt too wide) in paragraph at lines 38--39
+\TU/PalatinoLinotype(0)/m/n/10 sensus on which features most effectively captur
+e neuronal heterogeneity. To move
+ []
+
+
+Overfull \hbox (12.14182pt too wide) in paragraph at lines 38--39
+\TU/PalatinoLinotype(0)/m/n/10 tion potential dynamics, adaptation currents, pa
+ssive biophysics, and spike-triggered
+ []
+
+
+
+[168]
+Overfull \hbox (4.0127pt too wide) in paragraph at lines 45--46
+\TU/PalatinoLinotype(0)/m/n/10 tion currents (AC), and spike-triggered averages
+ (STA). Among these, STA emerged
+ []
+
+
+
+[169]
+Overfull \hbox (1.16602pt too wide) in paragraph at lines 53--54
+\TU/PalatinoLinotype(0)/m/n/10 In Chapter 4, I demonstrate that timescale heter
+ogeneity enhances the performance
+ []
+
+
+
+[170]
+
+[171]
+Overfull \hbox (18.0988pt too wide) in paragraph at lines 75--76
+[]\TU/PalatinoLinotype(0)/m/n/10 Second, while the classification results revea
+led clear context- and input-dependent
+ []
+
+
+
+[172]
+Overfull \hbox (3.55705pt too wide) in paragraph at lines 81--82
+\TU/PalatinoLinotype(0)/m/n/10 marked on a limited set of tasks. The generaliza
+bility of the observed heterogeneity-
+ []
+
+
+
+[173]
+
+[174]
+
+[175] (Chapters/Discussion.bbl
+Underfull \hbox (badness 1484) in paragraph at lines 71--76
+\TU/PalatinoLinotype(0)/m/n/8 the dynamic volatility of neural networks.  \TU/P
+alatinoLinotype(0)/m/it/8 Proceedings of the National Academy of Sciences\TU/Pa
+latinoLinotype(0)/m/n/8 ,
+ []
+
+
+
+[176]))
+
+[177]
+
+[178
 
 
 
@@ -3503,7 +3573,7 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 l.449 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
-[167]
+[179]
 \openout2 = `Chapters/Supplementary_Materials.aux'.
 
  (Chapters/Supplementary_Materials.tex
@@ -3511,7 +3581,7 @@ File: Figures/Ch_2/appendix1.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix1.pdf>
 
 
-[168
+[180
 
 
 ]
@@ -3519,71 +3589,71 @@ File: Figures/Ch_2/appendix2.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix2.pdf>
 
 
-[169
+[181
 
 ]
 
-[170]
+[182]
 File: Figures/Ch_2/appendix3.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix3.pdf>
 
 
-[171
+[183
 
 ]
 File: Figures/Ch_2/appendix4.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix4.pdf>
 
 
-[172
+[184
 
 ]
 File: Figures/Ch_2/appendix5.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix5.pdf>
 
 
-[173]
+[185]
 File: Figures/Ch_2/appendix6.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix6.pdf>
 
 
-[174
+[186
 
 ]
 
-[175]
+[187]
 
-[176
+[188
 
 ]
 File: Figures/Ch_3/Appendix1.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix1.pdf>
 
 
-[177]
+[189]
 
-[178]
+[190]
 File: Figures/Ch_3/Appendix2.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix2.pdf>
 
 
-[179]
+[191]
 
-[180]
+[192]
 File: Figures/Ch_3/Appendix3.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix3.pdf>
 
 
-[181]
+[193]
 
-[182]
+[194]
 File: Figures/Ch_3/Appendix4.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix4.pdf>
 
 
-[183]
+[195]
 
-[184]
+[196]
 File: Figures/Ch_3/Appendix5.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix5.pdf>
 
@@ -3601,53 +3671,53 @@ File: Figures/Ch_3/Appendix8.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix8.pdf>
 
 
-[185]
+[197]
 
-[186]
+[198]
 
-[187]
+[199]
 
-[188]
+[200]
 
-[189]
+[201]
 File: Figures/Ch_3/Appendix9.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix9.pdf>
 
 
-[190]
+[202]
 
-[191]
+[203]
 File: Figures/Ch_3/Appendix10.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix10.pdf>
 
 
-[192]
+[204]
 File: Figures/Ch_3/Appendix11.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix11.pdf>
 
 
-[193]
+[205]
 File: Figures/Ch_3/Appendix12.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix12.pdf>
 
 
-[194]
+[206]
 File: Figures/Ch_3/Appendix13.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix13.pdf>
 
 
-[195]
+[207]
 
-[196]
+[208]
 
-[197]
+[209]
 Overfull \hbox (1.38698pt too wide) in paragraph at lines 298--316
  [][] 
  []
 
 
 
-[198
+[210
 
 
 
@@ -3662,11 +3732,11 @@ Overfull \hbox (1.38698pt too wide) in paragraph at lines 298--316
 
 ]
 
-[199
+[211
 
 ]
 
-[200
+[212
 
 ]
 No file Chapters/Supplementary_Materials.bbl.
@@ -3730,7 +3800,7 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 l.464 \include{Chapters/Summary}
                                 
 ? 
-[201
+[213
 
 
 
@@ -3750,7 +3820,7 @@ l.15 \end{itemize}
 ? 
 )
 
-[202
+[214
 
 
 ]
@@ -3758,7 +3828,7 @@ l.15 \end{itemize}
 
  (Chapters/Research data management statement.tex)
 
-[203
+[215
 
 
 
@@ -3768,7 +3838,7 @@ l.15 \end{itemize}
 
  (Chapters/Acknowledgements.tex)
 
-[204
+[216
 
 
 
@@ -3806,7 +3876,7 @@ l.11 ...41\textwidth]{Figures/Profile picture.pdf}
 ? 
 )
 
-[205
+[217
 
 
 
@@ -3822,14 +3892,14 @@ ychology, behavioral science, medicine
 
 
 
-[206
+[218
 
 
 
 
 ]
 
-[207]
+[219]
 
 LaTeX Warning: File `Figures/cover_back_sign.pdf' not found on input line 23.
 
@@ -3869,13 +3939,13 @@ l.23 ...\paperheight]{Figures/cover_back_sign.pdf}
 ? 
 )
 
-[208]
+[220]
 
 Package natbib Warning: There were undefined citations.
 
 (main.aux (Chapters/title.aux) (Chapters/Introduction.aux)
 (Chapters/Chapter_2.aux) (Chapters/Chapter_3.aux) (Chapters/Chapter_4.aux)
-(Chapters/Discussion_Conclusion.aux) (Chapters/Supplementary_Materials.aux)
+(Chapters/Discussion.aux) (Chapters/Supplementary_Materials.aux)
 (Chapters/Summary.aux) (Chapters/Research data management statement.aux)
 (Chapters/Acknowledgements.aux) (Chapters/CV.aux) (Chapters/DGS.aux))
  ***********
@@ -3896,12 +3966,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F87EFB8C44823F7115485D51711DE728;1885.
  ) 
 Here is how much of TeX's memory you used:
- 38564 strings out of 405075
- 800880 string characters out of 5498326
- 1378022 words of memory out of 5000000
- 64463 multiletter control sequences out of 15000+600000
+ 38620 strings out of 405075
+ 802064 string characters out of 5498326
+ 1379052 words of memory out of 5000000
+ 64517 multiletter control sequences out of 15000+600000
  631248 words of font info for 138 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,14n,121p,3588b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (210 pages).
+Output written on main.pdf (222 pages).
