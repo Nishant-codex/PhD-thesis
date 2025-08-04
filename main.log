@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  30 JUL 2025 14:24
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  4 AUG 2025 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -95,39 +95,86 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@inputfile=\count273
 Package: chapterbib 2010/09/18  v 1.17
 )
-(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.s
-ty
-Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count274
-\sf@farskip=\skip53
-\sf@captopadj=\dimen157
-\sf@capskip=\skip54
-\sf@nearskip=\skip55
-\sf@top=\skip56
-\sf@bottom=\skip57
-)
-(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/tabto-ltx\tabto
-.sty
-Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
-\CurrentLineWidth=\dimen158
-\TabPrevPos=\dimen159
-)
-(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspa
-ce.sty
-Package: setspace 2022/12/04 v6.7b set line spacing
-)
+(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.st
+y
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+6.
+ (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titles
 ec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box53
-\beforetitleunit=\skip58
-\aftertitleunit=\skip59
-\ttl@plus=\dimen160
-\ttl@minus=\dimen161
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
+\ttl@plus=\dimen157
+\ttl@minus=\dimen158
 \ttl@toksa=\toks18
-\titlewidth=\dimen162
-\titlewidthlast=\dimen163
-\titlewidthfirst=\dimen164
+\titlewidth=\dimen159
+\titlewidthlast=\dimen160
+\titlewidthfirst=\dimen161
+)
+(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blind
+text.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.st
+y
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count274
+\c@Blindtext=\count275
+\c@blind@countparstart=\count276
+\blind@countxx=\count277
+\blindtext@numBlindtext=\count278
+\blind@countyy=\count279
+\c@blindlist=\count280
+\c@blindlistlevel=\count281
+\c@blindlist@level=\count282
+\blind@listitem=\count283
+\c@blind@listcount=\count284
+\c@blind@levelcount=\count285
+\blind@mathformula=\count286
+\blind@Mathformula=\count287
+\c@blind@randomcount=\count288
+\c@blind@randommax=\count289
+\c@blind@pangramcount=\count290
+\c@blind@pangrammax=\count291
+)
+(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.
+sty
+Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
+
+(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\co
+lor.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+
+(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathco
+lor.ltx))
+(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.s
+ty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count292
+\sf@farskip=\skip55
+\sf@captopadj=\dimen162
+\sf@capskip=\skip56
+\sf@nearskip=\skip57
+\sf@top=\skip58
+\sf@bottom=\skip59
+)
+(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/tabto-ltx\tabto
+.sty
+Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
+\CurrentLineWidth=\dimen163
+\TabPrevPos=\dimen164
+)
+(C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspa
+ce.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged
 2e.sty
@@ -170,9 +217,9 @@ Package: expl3 2025-03-26 L3 programming layer (loader)
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
 kend-xetex.def
 File: l3backend-xetex.def 2025-03-14 L3 backend support: XeTeX
-\g__graphics_track_int=\count275
-\g__pdfannot_backend_int=\count276
-\g__pdfannot_backend_link_int=\count277
+\g__graphics_track_int=\count293
+\g__pdfannot_backend_int=\count294
+\g__pdfannot_backend_link_int=\count295
 ))
 Package: unicode-math 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
 
@@ -197,17 +244,17 @@ Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 ec-xetex.sty
 Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count278
-\l__fontspec_language_int=\count279
-\l__fontspec_strnum_int=\count280
-\l__fontspec_tmp_int=\count281
-\l__fontspec_tmpa_int=\count282
-\l__fontspec_tmpb_int=\count283
-\l__fontspec_tmpc_int=\count284
-\l__fontspec_em_int=\count285
-\l__fontspec_emdef_int=\count286
-\l__fontspec_strong_int=\count287
-\l__fontspec_strongdef_int=\count288
+\l__fontspec_script_int=\count296
+\l__fontspec_language_int=\count297
+\l__fontspec_strnum_int=\count298
+\l__fontspec_tmp_int=\count299
+\l__fontspec_tmpa_int=\count300
+\l__fontspec_tmpb_int=\count301
+\l__fontspec_tmpc_int=\count302
+\l__fontspec_em_int=\count303
+\l__fontspec_emdef_int=\count304
+\l__fontspec_strong_int=\count305
+\l__fontspec_strongdef_int=\count306
 \l__fontspec_tmpa_dim=\dimen165
 \l__fontspec_tmpb_dim=\dimen166
 \l__fontspec_tmpc_dim=\dimen167
@@ -251,14 +298,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count289
+\inf@bad=\count307
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count290
-\leftroot@=\count291
+\uproot@=\count308
+\leftroot@=\count309
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count292
-\DOTSCASE@=\count293
+\classnum@=\count310
+\DOTSCASE@=\count311
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -271,20 +318,20 @@ LaTeX Info: Redefining \Bigg on input line 724.
 \big@size=\dimen170
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count294
+\macc@depth=\count312
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count295
+\c@MaxMatrixCols=\count313
 \dotsspace@=\muskip17
-\c@parentequation=\count296
-\dspbrk@lvl=\count297
+\c@parentequation=\count314
+\dspbrk@lvl=\count315
 \tag@help=\toks20
-\row@=\count298
-\column@=\count299
-\maxfields@=\count300
+\row@=\count316
+\column@=\count317
+\maxfields@=\count318
 \andhelp@=\toks21
 \eqnshift@=\dimen171
 \alignsep@=\dimen172
@@ -299,9 +346,9 @@ LaTeX Info: Redefining \Relbar on input line 970.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-\g__um_fam_int=\count301
-\g__um_fonts_used_int=\count302
-\l__um_primecount_int=\count303
+\g__um_fam_int=\count319
+\g__um_fonts_used_int=\count320
+\l__um_primecount_int=\count321
 \g__um_primekern_muskip=\muskip18
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\un
@@ -625,7 +672,7 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 ll.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen180
-\c@nlinenum=\count304
+\c@nlinenum=\count322
 \TeXr@lab=\toks27
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\bookta
@@ -641,12 +688,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen188
 \cmidrulekern=\dimen189
 \defaultaddspace=\dimen190
-\@cmidla=\count305
-\@cmidlb=\count306
+\@cmidla=\count323
+\@cmidlb=\count324
 \@aboverulesep=\dimen191
 \@belowrulesep=\dimen192
-\@thisruleclass=\count307
-\@lastruleclass=\count308
+\@thisruleclass=\count325
+\@lastruleclass=\count326
 \@thisrulewidth=\dimen193
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.
@@ -657,7 +704,7 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@old@col=\dimen196
 \TX@target=\dimen197
 \TX@delta=\dimen198
-\TX@cols=\count309
+\TX@cols=\count327
 \TX@ftn=\toks28
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.s
@@ -672,13 +719,13 @@ Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
 plate\xtemplate.sty
 Package: xtemplate 2024-08-16 L3 Experimental prototype document functions
 )
-\l__xeCJK_tmp_int=\count310
+\l__xeCJK_tmp_int=\count328
 \l__xeCJK_tmp_box=\box58
 \l__xeCJK_tmp_dim=\dimen199
 \l__xeCJK_tmp_skip=\skip79
-\g__xeCJK_space_factor_int=\count311
-\l__xeCJK_begin_int=\count312
-\l__xeCJK_end_int=\count313
+\g__xeCJK_space_factor_int=\count329
+\l__xeCJK_begin_int=\count330
+\l__xeCJK_end_int=\count331
 \c__xeCJK_CJK_class_int=\XeTeXcharclass1
 \c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
 \c__xeCJK_FullRight_class_int=\XeTeXcharclass3
@@ -688,8 +735,8 @@ Package: xtemplate 2024-08-16 L3 Experimental prototype document functions
 \c__xeCJK_CM_class_int=\XeTeXcharclass7
 \c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
 \l__xeCJK_last_skip=\skip80
-\c__xeCJK_none_node=\count314
-\g__xeCJK_node_int=\count315
+\c__xeCJK_none_node=\count332
+\g__xeCJK_node_int=\count333
 \c__xeCJK_CJK_node_dim=\dimen256
 \c__xeCJK_CJK-space_node_dim=\dimen257
 \c__xeCJK_default_node_dim=\dimen258
@@ -700,10 +747,10 @@ Package: xtemplate 2024-08-16 L3 Experimental prototype document functions
 \l__xeCJK_ecglue_skip=\skip83
 \l__xeCJK_punct_kern_skip=\skip84
 \l__xeCJK_indent_box=\box59
-\l__xeCJK_last_penalty_int=\count316
+\l__xeCJK_last_penalty_int=\count334
 \l__xeCJK_last_bound_dim=\dimen261
 \l__xeCJK_last_kern_dim=\dimen262
-\l__xeCJK_widow_penalty_int=\count317
+\l__xeCJK_widow_penalty_int=\count335
 
 LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
 (template)           argument(s) on line 2396.
@@ -727,10 +774,10 @@ LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
 \l__xeCJK_margin_dim=\dimen279
 \l__xeCJK_minimum_bound_dim=\dimen280
 \l__xeCJK_kerning_margin_dim=\dimen281
-\g__xeCJK_family_int=\count318
-\l__xeCJK_fam_int=\count319
-\g__xeCJK_fam_allocation_int=\count320
-\l__xeCJK_verb_case_int=\count321
+\g__xeCJK_family_int=\count336
+\l__xeCJK_fam_int=\count337
+\g__xeCJK_fam_allocation_int=\count338
+\l__xeCJK_verb_case_int=\count339
 \l__xeCJK_verb_exspace_skip=\skip85
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.c
@@ -745,9 +792,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count322
-\Gm@cntv=\count323
-\c@Gm@tempcnt=\count324
+\Gm@cnth=\count340
+\Gm@cntv=\count341
+\c@Gm@tempcnt=\count342
 \Gm@bindingoffset=\dimen282
 \Gm@wd@mp=\dimen283
 \Gm@odd@mp=\dimen284
@@ -762,7 +809,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 ry.cfg))
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count325
+\c@float@type=\count343
 \float@exts=\toks30
 \float@box=\box60
 \@float@everytoks=\toks31
@@ -792,7 +839,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 .sty
 \wrapoverhang=\dimen290
 \WF@size=\dimen291
-\c@WF@wrappedlines=\count326
+\c@WF@wrappedlines=\count344
 \WF@box=\box62
 \WF@everypar=\toks33
 Package: wrapfig 2003/01/31  v 3.6
@@ -804,17 +851,17 @@ Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \LTright=\skip101
 \LTpre=\skip102
 \LTpost=\skip103
-\LTchunksize=\count327
+\LTchunksize=\count345
 \LTcapwidth=\dimen292
 \LT@head=\box63
 \LT@firsthead=\box64
 \LT@foot=\box65
 \LT@lastfoot=\box66
 \LT@gbox=\box67
-\LT@cols=\count328
-\LT@rows=\count329
-\c@LT@tables=\count330
-\c@LT@chunks=\count331
+\LT@cols=\count346
+\LT@rows=\count347
+\c@LT@tables=\count348
+\c@LT@chunks=\count349
 \LT@p@ftn=\toks34
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/xltabular\xltab
@@ -824,7 +871,7 @@ Package: xltabular 2025/02/28 v0.2i `xltabular' package (hv,RN)
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolb
 ox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count332
+\etb@tempcnta=\count350
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/ltablex\ltablex
 .sty
@@ -833,9 +880,9 @@ Package: ltablex 2014/08/13 v1.1 Modified tabularx
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/tabularray\tabu
 larray.sty
 Package: tabularray 2025-03-11 v2025A Typeset tabulars and arrays with LaTeX3
-\l__tblr_a_int=\count333
-\l__tblr_c_int=\count334
-\l__tblr_r_int=\count335
+\l__tblr_a_int=\count351
+\l__tblr_c_int=\count352
+\l__tblr_r_int=\count353
 \l__tblr_d_dim=\dimen293
 \l__tblr_h_dim=\dimen294
 \l__tblr_o_dim=\dimen295
@@ -850,36 +897,36 @@ Package: tabularray 2025-03-11 v2025A Typeset tabulars and arrays with LaTeX3
 \l__tblr_b_box=\box69
 \l__tblr_c_box=\box70
 \l__tblr_d_box=\box71
-\c@tblrcount=\count336
-\c@rownum=\count337
-\c@colnum=\count338
-\c@rowcount=\count339
-\c@colcount=\count340
+\c@tblrcount=\count354
+\c@rownum=\count355
+\c@colnum=\count356
+\c@rowcount=\count357
+\c@colcount=\count358
 \abovesep=\dimen303
 \belowsep=\dimen304
 \leftsep=\dimen305
 \rightsep=\dimen306
-\gTblrLevelInt=\count341
-\g__tblr_data_row_key_count_int=\count342
-\g__tblr_data_column_key_count_int=\count343
-\g__tblr_data_cell_key_count_int=\count344
-\g__tblr_array_int=\count345
-\l__tblr_key_count_int=\count346
-\l__tblr_key_quotient_int=\count347
-\l__tblr_key_quotient_two_int=\count348
-\l__tblr_key_remainder_int=\count349
-\g__tblr_data_str_value_count_int=\count350
-\lTblrChildTotalInt=\count351
-\lTblrChildHtotalInt=\count352
-\lTblrChildVtotalInt=\count353
-\l__child_diff_h_int=\count354
-\l__child_diff_v_int=\count355
-\l__child_sign_h_int=\count356
-\l__child_sign_v_int=\count357
-\l__child_step_int=\count358
+\gTblrLevelInt=\count359
+\g__tblr_data_row_key_count_int=\count360
+\g__tblr_data_column_key_count_int=\count361
+\g__tblr_data_cell_key_count_int=\count362
+\g__tblr_array_int=\count363
+\l__tblr_key_count_int=\count364
+\l__tblr_key_quotient_int=\count365
+\l__tblr_key_quotient_two_int=\count366
+\l__tblr_key_remainder_int=\count367
+\g__tblr_data_str_value_count_int=\count368
+\lTblrChildTotalInt=\count369
+\lTblrChildHtotalInt=\count370
+\lTblrChildVtotalInt=\count371
+\l__child_diff_h_int=\count372
+\l__child_diff_v_int=\count373
+\l__child_sign_h_int=\count374
+\l__child_sign_v_int=\count375
+\l__child_step_int=\count376
 \lTblrDefaultHruleWidthDim=\dimen307
 \lTblrDefaultVruleWidthDim=\dimen308
-\l__tblr_split_balance_int=\count359
+\l__tblr_split_balance_int=\count377
 \l__tblr_strut_dp_dim=\dimen309
 \l__tblr_strut_ht_dim=\dimen310
 \g__tblr_cell_wd_dim=\dimen311
@@ -893,8 +940,8 @@ Package: tabularray 2025-03-11 v2025A Typeset tabulars and arrays with LaTeX3
 \l__tblr_hfuzz_dim=\dimen316
 \l__tblr_caption_box=\box75
 \l__tblr_caption_left_box=\box76
-\lTblrRowHeadInt=\count360
-\lTblrRowFootInt=\count361
+\lTblrRowHeadInt=\count378
+\lTblrRowFootInt=\count379
 \l__tblr_row_head_box=\box77
 \l__tblr_row_foot_box=\box78
 \l__tblr_row_head_foot_dim=\dimen317
@@ -906,18 +953,18 @@ Package: tabularray 2025-03-11 v2025A Typeset tabulars and arrays with LaTeX3
 \l__tblr_table_middlefoot_box=\box83
 \l__tblr_table_lastfoot_box=\box84
 \l__tblr_remain_height_dim=\dimen319
-\l__tblr_long_from_int=\count362
-\l__tblr_long_to_int=\count363
-\l__tblr_curr_i_int=\count364
-\l__tblr_prev_i_int=\count365
-\lTblrTablePageInt=\count366
+\l__tblr_long_from_int=\count380
+\l__tblr_long_to_int=\count381
+\l__tblr_curr_i_int=\count382
+\l__tblr_prev_i_int=\count383
+\lTblrTablePageInt=\count384
 \l__tblr_table_head_box=\box85
 \l__tblr_table_foot_box=\box86
 \l__tblr_table_head_foot_dim=\dimen320
 \l__tblr_table_head_body_foot_dim=\dimen321
 \l__tblr_table_box=\box87
-\lTblrRowFirstInt=\count367
-\lTblrRowLastInt=\count368
+\lTblrRowFirstInt=\count385
+\lTblrRowLastInt=\count386
 \l__tblr_table_hlines_box=\box88
 \l__tblr_hline_box=\box89
 \l__tblr_row_box=\box90
@@ -937,8 +984,8 @@ Package: tabularray 2025-03-11 v2025A Typeset tabulars and arrays with LaTeX3
 \l__tblr_row_vpace_dim=\dimen332
 \l__tblr_vline_aboveskip_dim=\dimen333
 \l__tblr_vline_belowskip_dim=\dimen334
-\lTblrCellRowSpanInt=\count369
-\lTblrCellColSpanInt=\count370
+\lTblrCellRowSpanInt=\count387
+\lTblrCellColSpanInt=\count388
 \l__tblr_cell_wd_dim=\dimen335
 \l__tblr_cell_ht_dim=\dimen336
 \lTblrCellAboveBorderWidthDim=\dimen337
@@ -958,7 +1005,7 @@ Package: tabularray 2025-03-11 v2025A Typeset tabulars and arrays with LaTeX3
 ow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip104
-\multirow@cntb=\count371
+\multirow@cntb=\count389
 \multirow@dima=\skip105
 \bigstrutjot=\dimen347
 )
@@ -971,6 +1018,7 @@ lor.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 274.
+LaTeX Info: Redefining \color on input line 762.
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathco
 lor.ltx)
@@ -1036,8 +1084,8 @@ Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/multido\multi
 do.tex  v1.42, 2010/05/14 <tvz>
-\multido@count=\count372
-\multidocount=\count373
+\multido@count=\count390
+\multidocount=\count391
 \multido@stuff=\toks36
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
@@ -1073,7 +1121,7 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count374
+\c@r@tfl@t=\count392
 \rotFPtop=\skip108
 \rotFPbot=\skip109
 \rot@float@box=\box98
@@ -1142,9 +1190,9 @@ Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.s
 ty
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count375
-\l__lipsum_a_int=\count376
-\l__lipsum_b_int=\count377
+\g__lipsum_par_int=\count393
+\l__lipsum_a_int=\count394
+\l__lipsum_b_int=\count395
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.l
 td.tex))
@@ -1201,14 +1249,14 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yd=\dimen372
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count378
-\c@pgf@countb=\count379
-\c@pgf@countc=\count380
-\c@pgf@countd=\count381
+\c@pgf@counta=\count396
+\c@pgf@countb=\count397
+\c@pgf@countc=\count398
+\c@pgf@countd=\count399
 \t@pgf@toka=\toks44
 \t@pgf@tokb=\toks45
 \t@pgf@tokc=\toks46
-\pgf@sys@id@count=\count382
+\pgf@sys@id@count=\count400
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
 er\pgf.cfg
@@ -1228,13 +1276,13 @@ File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
 er\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )
-\pgfsys@objnum=\count383
+\pgfsys@objnum=\count401
 )))
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
 er\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count384
-\pgfsyssoftpath@bigbuffer@items=\count385
+\pgfsyssoftpath@smallbuffer@items=\count402
+\pgfsyssoftpath@bigbuffer@items=\count403
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlay
 er\pgfsysprotocol.code.tex
@@ -1251,7 +1299,7 @@ athutil.code.tex)
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
 athparser.code.tex
 \pgfmath@dimen=\dimen373
-\pgfmath@count=\count386
+\pgfmath@count=\count404
 \pgfmath@box=\box102
 \pgfmath@toks=\toks47
 \pgfmath@stack@operand=\toks48
@@ -1279,7 +1327,7 @@ athfunctions.integerarithmetics.code.tex)
 athcalc.code.tex)
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfm
 athfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count387
+\c@pgfmathroundto@lastzeros=\count405
 ))
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfi
 nt.code.tex)
@@ -1319,7 +1367,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box103
 \pgf@hbox=\box104
 \pgf@layerbox@main=\box105
-\pgf@picture@serial@count=\count388
+\pgf@picture@serial@count=\count406
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
 r\pgfcoregraphicstate.code.tex
@@ -1354,8 +1402,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 r\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen397
-\pgf@sys@shading@range@num=\count389
-\pgf@shadingcount=\count390
+\pgf@sys@shading@range@num=\count407
+\pgf@shadingcount=\count408
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclaye
 r\pgfcoreimage.code.tex
@@ -1426,7 +1474,7 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries
 \pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count391
+\pgf@plot@mark@count=\count409
 \pgfplotmarksize=\dimen402
 )
 \tikz@lastx=\dimen403
@@ -1441,19 +1489,19 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box109
 \tikz@tempbox=\box110
 \tikz@tempbox@bg=\box111
-\tikztreelevel=\count392
-\tikznumberofchildren=\count393
-\tikznumberofcurrentchild=\count394
-\tikz@fig@count=\count395
+\tikztreelevel=\count410
+\tikznumberofchildren=\count411
+\tikznumberofcurrentchild=\count412
+\tikz@fig@count=\count413
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\p
 gfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count396
-\pgfmatrixcurrentcolumn=\count397
-\pgf@matrix@numberofcolumns=\count398
+\pgfmatrixcurrentrow=\count414
+\pgfmatrixcurrentcolumn=\count415
+\pgf@matrix@numberofcolumns=\count416
 )
-\tikz@expandcount=\count399
+\tikz@expandcount=\count417
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendl
 ayer/tikz/libraries\tikzlibrarytopaths.code.tex
@@ -1463,8 +1511,8 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 .sty
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstri
 ng.tex
-\xs_counta=\count400
-\xs_countb=\count401
+\xs_counta=\count418
+\xs_countb=\count419
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
@@ -1506,8 +1554,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip136
 \cftfigindent=\skip137
 \cftfignumwidth=\skip138
-\c@lofdepth=\count402
-\c@lotdepth=\count403
+\c@lofdepth=\count420
+\c@lotdepth=\count421
 \cftbeforelottitleskip=\skip139
 \cftafterlottitleskip=\skip140
 \cftbeforetabskip=\skip141
@@ -1516,15 +1564,15 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count404
-\calc@Bcount=\count405
+\calc@Acount=\count422
+\calc@Bcount=\count423
 \calc@Adimen=\dimen412
 \calc@Bdimen=\dimen413
 \calc@Askip=\skip144
 \calc@Bskip=\skip145
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count406
+\calc@Ccount=\count424
 \calc@Cskip=\skip146
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/fancybox\fancyb
@@ -1595,7 +1643,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 ions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count407
+\c@section@level=\count425
 )
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\str
 ingenc.sty
@@ -1603,8 +1651,8 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \@linkdim=\dimen415
-\Hy@linkcounter=\count408
-\Hy@pagecounter=\count409
+\Hy@linkcounter=\count426
+\Hy@pagecounter=\count427
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc
 .def
@@ -1614,7 +1662,7 @@ File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 lc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count410
+\Hy@SavedSpaceFactor=\count428
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.
 def
@@ -1628,7 +1676,7 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count411
+\c@Hy@tempcnt=\count429
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip19
@@ -1646,7 +1694,7 @@ gintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count412
+\Fld@menulength=\count430
 \Field@Width=\dimen417
 \Fld@charsize=\dimen418
 Package hyperref Info: Hyper figures OFF on input line 6042.
@@ -1662,9 +1710,9 @@ tx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count413
-\c@Item=\count414
-\c@Hfootnote=\count415
+\Hy@abspage=\count431
+\c@Item=\count432
+\c@Hfootnote=\count433
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
@@ -1672,10 +1720,10 @@ Package hyperref Info: Driver (autodetected): hxetex.
 .def
 File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
 \pdfm@box=\box114
-\c@Hy@AnnotLevel=\count416
-\HyField@AnnotCount=\count417
-\Fld@listcount=\count418
-\c@bookmark@seq@number=\count419
+\c@Hy@AnnotLevel=\count434
+\HyField@AnnotCount=\count435
+\Fld@listcount=\count436
+\c@bookmark@seq@number=\count437
 
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\
 rerunfilecheck.sty
@@ -1738,31 +1786,32 @@ LaTeX Warning: Label `fig:enter-label' multiply defined.
 ) (Chapters/Chapter_2.aux) (Chapters/Chapter_3.aux) (Chapters/Chapter_4.aux)
 (Chapters/Discussion.aux) (Chapters/Supplementary_Materials.aux)
 (Chapters/Summary.aux) (Chapters/Research data management statement.aux)
-(Chapters/Acknowledgements.aux) (Chapters/CV.aux) (Chapters/DGS.aux))
+(Chapters/outreach.aux) (Chapters/Failures.aux) (Chapters/Acknowledgements.aux)
+(Chapters/CV.aux) (Chapters/DGS.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 302.
-LaTeX Font Info:    ... okay on input line 302.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 302.
-LaTeX Font Info:    ... okay on input line 302.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 302.
-LaTeX Font Info:    ... okay on input line 302.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 302.
-LaTeX Font Info:    ... okay on input line 302.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 302.
-LaTeX Font Info:    ... okay on input line 302.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 302.
-LaTeX Font Info:    ... okay on input line 302.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 302.
-LaTeX Font Info:    ... okay on input line 302.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 302.
-LaTeX Font Info:    ... okay on input line 302.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 302.
-LaTeX Font Info:    ... okay on input line 302.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 302.
-LaTeX Font Info:    ... okay on input line 302.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 302.
-LaTeX Font Info:    ... okay on input line 302.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 309.
+LaTeX Font Info:    ... okay on input line 309.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 309.
+LaTeX Font Info:    ... okay on input line 309.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 309.
+LaTeX Font Info:    ... okay on input line 309.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 309.
+LaTeX Font Info:    ... okay on input line 309.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 309.
+LaTeX Font Info:    ... okay on input line 309.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 309.
+LaTeX Font Info:    ... okay on input line 309.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 309.
+LaTeX Font Info:    ... okay on input line 309.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 309.
+LaTeX Font Info:    ... okay on input line 309.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 309.
+LaTeX Font Info:    ... okay on input line 309.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 309.
+LaTeX Font Info:    ... okay on input line 309.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 309.
+LaTeX Font Info:    ... okay on input line 309.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
@@ -1780,17 +1829,17 @@ Package caption Info: End \AtBeginDocument code.
 ! Undefined control sequence.
 <argument> \sf@counterlist 
                            
-l.302 \begin{document}
+l.309 \begin{document}
                       
 ? 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 302.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 309.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 302.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 309.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 302.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 309.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 302.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 309.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1825,7 +1874,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 302.
+Package hyperref Info: Link coloring ON on input line 309.
 (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -1861,11 +1910,6 @@ l.15 ...{\includegraphics{Figures/cover_final.pdf}
 [2
 
 ]
-Underfull \hbox (badness 4403) in paragraph at lines 35--35
- []\TU/PalatinoLinotype(0)/b/n/15 Difference that makes the mind 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 38--38
  \TU/PalatinoLinotype(0)/m/n/10 Nishant Joshi 
  []
@@ -2038,13 +2082,6 @@ LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
 (Font)              scaled to size 5.4994pt on input line 3.
 
-Overfull \hbox (1.38127pt too wide) in paragraph at lines 26--26
- [][] [][][]\TU/PalatinoLinotype(0)/b/n/10 Neuronal Identity is Not Static |\TU
-/FandolSong-Regular(0)/b/n/10 —| \TU/PalatinoLinotype(0)/b/n/10 An Input-Driven
- Per- 
- []
-
-
 Overfull \hbox (13.55423pt too wide) in paragraph at lines 50--50
  \TU/PalatinoLinotype(0)/b/n/10 Type Specific Reshaping of Neuronal Information
  Trans- 
@@ -2085,13 +2122,13 @@ Chapter 1.
 [12]
 
 [13]
-Overfull \hbox (1.43538pt too wide) in paragraph at lines 61--62
+Overfull \hbox (1.43538pt too wide) in paragraph at lines 68--69
 \TU/PalatinoLinotype(0)/m/n/10 as step-and-hold current injections, to derive e
 lectrophysiological signatures.
  []
 
 
-Overfull \hbox (4.51077pt too wide) in paragraph at lines 63--64
+Overfull \hbox (4.51077pt too wide) in paragraph at lines 70--71
 []\TU/PalatinoLinotype(0)/b/n/10 Neuronal Identity as an Emergent, Dynamic Cons
 truct \TU/PalatinoLinotype(0)/m/n/10 Taken together, these
  []
@@ -2099,7 +2136,7 @@ truct \TU/PalatinoLinotype(0)/m/n/10 Taken together, these
 
 
 [14]
-Overfull \hbox (4.71579pt too wide) in paragraph at lines 67--68
+Overfull \hbox (4.71579pt too wide) in paragraph at lines 74--75
 []\TU/PalatinoLinotype(0)/b/n/10 Rich high-dimensional functional space remains
  unexplored \TU/PalatinoLinotype(0)/m/n/10 Neurons func-
  []
@@ -2107,13 +2144,13 @@ Overfull \hbox (4.71579pt too wide) in paragraph at lines 67--68
 
 
 [15]
-Overfull \hbox (8.69528pt too wide) in paragraph at lines 79--80
+Overfull \hbox (8.69528pt too wide) in paragraph at lines 83--84
 \TU/PalatinoLinotype(0)/m/n/10 Neuromodulatory systems particularly those invol
 ving dopamine and acetylcholine
  []
 
 
-Overfull \hbox (1.99202pt too wide) in paragraph at lines 81--82
+Overfull \hbox (1.99202pt too wide) in paragraph at lines 85--86
 \TU/PalatinoLinotype(0)/m/n/10 neuromodulation on neuronal computation remains 
 poorly understood, especially
  []
@@ -2125,12 +2162,24 @@ poorly understood, especially
 [17]
 
 [18]
+Overfull \hbox (2.98811pt too wide) in paragraph at lines 109--111
+\TU/PalatinoLinotype(0)/m/n/10 dependent, with classification outcomes varying 
+significantly under dynamic
+ []
+
+
+Overfull \hbox (1.56801pt too wide) in paragraph at lines 112--114
+\TU/PalatinoLinotype(0)/m/n/10 show that neuromodulatory effects are highly cel
+l-type and receptor-specific,
+ []
+
+
 
 [19]
 File: Figures/Intro/input_protocol.pdf Graphic file (type pdf)
 <use Figures/Intro/input_protocol.pdf>
 
-Overfull \hbox (1.18724pt too wide) in paragraph at lines 134--135
+Overfull \hbox (1.18724pt too wide) in paragraph at lines 133--134
 \TU/PalatinoLinotype(0)/m/n/10 and after-hyperpolarization. The step-and-hold p
 rotocol thus provides a standard-
  []
@@ -2140,23 +2189,24 @@ rotocol thus provides a standard-
 [20]
 
 [21]
+
+[22]
 File: Figures/Intro/analysis_tools.pdf Graphic file (type pdf)
 <use Figures/Intro/analysis_tools.pdf>
 
 
-[22]
-
 [23]
 
 [24]
-Overfull \hbox (1.44519pt too wide) in paragraph at lines 186--188
-[]\TU/PalatinoLinotype(0)/b/n/10 Chapter 4\TU/PalatinoLinotype(0)/m/n/10 : Hete
-rogeneity in delay and timescales improves task Performance 
+
+[25] (Chapters/Introduction.bbl
+Underfull \hbox (badness 1484) in paragraph at lines 103--108
+\TU/PalatinoLinotype(0)/m/n/8 the dynamic volatility of neural networks.  \TU/P
+alatinoLinotype(0)/m/it/8 Proceedings of the National Academy of Sciences\TU/Pa
+latinoLinotype(0)/m/n/8 ,
  []
 
 
-
-[25] (Chapters/Introduction.bbl
 
 [26]
 
@@ -2167,12 +2217,12 @@ Chapter 2.
 
 
 
-LaTeX Warning: File `Figures/2.pdf' not found on input line 377.
+LaTeX Warning: File `Figures/2.pdf' not found on input line 384.
 
 ! Unable to load picture or PDF file 'Figures/2.pdf'.
 <to be read again> 
                    }
-l.377 \include{Chapters/Chapter_2}
+l.384 \include{Chapters/Chapter_2}
                                   
 ? 
 
@@ -2182,7 +2232,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.377 \include{Chapters/Chapter_2}
+l.384 \include{Chapters/Chapter_2}
                                   
 ? 
 
@@ -2192,7 +2242,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.377 \include{Chapters/Chapter_2}
+l.384 \include{Chapters/Chapter_2}
                                   
 ? 
 File: Figures/2.pdf Graphic file (type pdf)
@@ -2200,7 +2250,7 @@ File: Figures/2.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/2.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.377 \include{Chapters/Chapter_2}
+l.384 \include{Chapters/Chapter_2}
                                   
 ? 
 [29
@@ -2230,7 +2280,7 @@ l.377 \include{Chapters/Chapter_2}
 [36]
 
 [37]
-Overfull \hbox (2.70898pt too wide) in paragraph at lines 123--124
+Overfull \hbox (2.70898pt too wide) in paragraph at lines 131--132
 []\TU/PalatinoLinotype(0)/m/n/10 We measure the threshold of each spike from th
 e trial as described in [][]Fontaine
  []
@@ -2240,13 +2290,13 @@ e trial as described in [][]Fontaine
 [38]
 
 [39]
-Overfull \hbox (0.2122pt too wide) in paragraph at lines 178--179
+Overfull \hbox (0.2122pt too wide) in paragraph at lines 186--187
 []\TU/PalatinoLinotype(0)/m/n/10 The waveforms extracted in the preparation ste
 p
  []
 
 
-Overfull \hbox (8.49922pt too wide) in paragraph at lines 180--181
+Overfull \hbox (8.49922pt too wide) in paragraph at lines 188--189
 []\TU/PalatinoLinotype(0)/m/n/10 : The voltage dynamics in eq ([][]2.3[][]) are
  given
  []
@@ -2254,25 +2304,26 @@ Overfull \hbox (8.49922pt too wide) in paragraph at lines 180--181
 
 
 [40]
-Overfull \hbox (8.23141pt too wide) in paragraph at lines 194--195
+Overfull \hbox (8.23141pt too wide) in paragraph at lines 202--203
 []\TU/PalatinoLinotype(0)/m/n/10 For fitting the spiking probability to the dat
 a,
- []
-
-! Undefined control sequence.
-l.206     \hat{\theta}_{thr}  = \argmax
-                                       _{\theta_{thr}} \bigg{[} \sum_{t\in{ ...
-
-? 
-
-Overfull \hbox (1.36374pt too wide) in paragraph at lines 217--218
-[] []\TU/PalatinoLinotype(0)/b/n/10 Spike Triggered Average[] \TU/PalatinoLinot
-ype(0)/m/n/10 The spike-triggered average (STA) is the average shape
  []
 
 
 
 [41]
+! Undefined control sequence.
+l.214     \hat{\theta}_{thr}  = \argmax
+                                       _{\theta_{thr}} \bigg{[} \sum_{t\in{ ...
+
+? 
+
+Overfull \hbox (1.36374pt too wide) in paragraph at lines 225--226
+[] []\TU/PalatinoLinotype(0)/b/n/10 Spike Triggered Average[] \TU/PalatinoLinot
+ype(0)/m/n/10 The spike-triggered average (STA) is the average shape
+ []
+
+
 
 [42]
 
@@ -2297,75 +2348,73 @@ ype(0)/m/n/10 The spike-triggered average (STA) is the average shape
 [52]
 
 [53]
+
+[54]
+
+[55]
 File: Figures/Ch_2/fig1.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig1.pdf>
 
 
-[54
+[56
 
 ]
 
-[55]
+[57]
 
-[56]
+[58]
 File: Figures/Ch_2/fig2.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig2.pdf>
 
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
-l.499 \hline
+l.511 \hline
             
 ? 
 
-Overfull \hbox (9.69952pt too wide) in paragraph at lines 504--505
+Overfull \hbox (9.69952pt too wide) in paragraph at lines 516--521
 \TU/PalatinoLinotype(0)/m/n/10 understanding of which features result in distin
 ctive functional classifications within
  []
 
 
 
-[57
+[59
 
 ]
-
-[58]
-
-[59]
 
 [60]
 File: Figures/Ch_2/fig3.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig3.pdf>
+LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(2)/m/n' will be
+(Font)              scaled to size 9.00096pt on input line 565.
+LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 565.
+LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 565.
+LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
+(Font)              scaled to size 8.99904pt on input line 565.
+LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 565.
+LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 565.
 
 
-[61
-
-]
+[61]
 
 [62]
 
 [63]
-File: Figures/Ch_2/fig4.pdf Graphic file (type pdf)
-<use Figures/Ch_2/fig4.pdf>
-LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 551.
-LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 551.
-LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 551.
-LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 551.
-LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 551.
-LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 551.
-
-
-LaTeX Warning: Float too large for page by 16.10617pt on input line 553.
-
-
 
 [64]
+File: Figures/Ch_2/fig4.pdf Graphic file (type pdf)
+<use Figures/Ch_2/fig4.pdf>
+
+
+LaTeX Warning: Float too large for page by 16.10617pt on input line 596.
+
+
 
 [65]
 
@@ -2374,26 +2423,27 @@ LaTeX Warning: Float too large for page by 16.10617pt on input line 553.
 [67]
 
 [68]
+
+[69]
 File: Figures/Ch_2/fig5.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig5.pdf>
 
 
-[69
+[70
 
 ]
-
-[70]
-Overfull \hbox (4.99577pt too wide) in paragraph at lines 597--601
+Overfull \hbox (4.99577pt too wide) in paragraph at lines 662--666
 []\TU/PalatinoLinotype(0)/m/n/10 The spike-triggered average (STA) method, as d
 escribed in [][]Schwartz et al.[][] ([][]2006[][]),
  []
 
 
-LaTeX Warning: Reference `S5' on page 71 undefined on input line 612.
-
-
 
 [71]
+
+LaTeX Warning: Reference `S5' on page 72 undefined on input line 677.
+
+
 
 [72]
 
@@ -2405,20 +2455,20 @@ File: Figures/Ch_2/fig6.pdf Graphic file (type pdf)
 [74
 
 ]
-Overfull \hbox (1.25562pt too wide) in paragraph at lines 651--660
+Overfull \hbox (1.25562pt too wide) in paragraph at lines 716--725
 \TU/PalatinoLinotype(0)/m/n/10 plain the most variance for the most important s
 hared dimension (Fig. [][]2.7[][]\TU/PalatinoLinotype(0)/b/n/10 a\TU/PalatinoLi
 notype(0)/m/n/10 (middle,
  []
 
 
-Overfull \hbox (0.69728pt too wide) in paragraph at lines 651--660
+Overfull \hbox (0.69728pt too wide) in paragraph at lines 716--725
 \TU/PalatinoLinotype(0)/m/n/10 shared structure, we find that the linear input 
 filter (STA) explains the most amount
  []
 
 
-Overfull \hbox (11.01627pt too wide) in paragraph at lines 651--660
+Overfull \hbox (11.01627pt too wide) in paragraph at lines 716--725
 \TU/PalatinoLinotype(0)/m/n/10 tributes and passive biophysical attributes expl
 ain the most and almost equal amount
  []
@@ -2428,15 +2478,13 @@ ain the most and almost equal amount
 [75]
 
 [76]
-
-[77]
 File: Figures/Ch_2/fig7.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig7.pdf>
 
 
-[78
+[77]
 
-]
+[78]
 
 [79]
 
@@ -2469,12 +2517,12 @@ Chapter 3.
 
 
 
-LaTeX Warning: File `Figures/3.pdf' not found on input line 400.
+LaTeX Warning: File `Figures/3.pdf' not found on input line 407.
 
 ! Unable to load picture or PDF file 'Figures/3.pdf'.
 <to be read again> 
                    }
-l.400 \include{Chapters/Chapter_3}
+l.407 \include{Chapters/Chapter_3}
                                   
 ? 
 
@@ -2484,7 +2532,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.400 \include{Chapters/Chapter_3}
+l.407 \include{Chapters/Chapter_3}
                                   
 ? 
 
@@ -2494,7 +2542,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.400 \include{Chapters/Chapter_3}
+l.407 \include{Chapters/Chapter_3}
                                   
 ? 
 File: Figures/3.pdf Graphic file (type pdf)
@@ -2502,7 +2550,7 @@ File: Figures/3.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/3.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.400 \include{Chapters/Chapter_3}
+l.407 \include{Chapters/Chapter_3}
                                   
 ? 
 [93
@@ -2560,27 +2608,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [97]
 
 Package natbib Warning: Citation `Zeldenrust2018' on page 98 undefined on input
- line 50.
+ line 44.
 
 
 Package natbib Warning: Citation `Azarfar2018' on page 98 undefined on input li
-ne 50.
+ne 44.
 
 
 Package natbib Warning: Citation `Zeldenrust2017' on page 98 undefined on input
- line 50.
+ line 44.
 
 
 Package natbib Warning: Citation `Zeldenrust2017b' on page 98 undefined on inpu
-t line 50.
+t line 44.
 
 
 Package natbib Warning: Citation `Celikel2004' on page 98 undefined on input li
-ne 50.
+ne 44.
 
 
 Package natbib Warning: Citation `Celikel2003' on page 98 undefined on input li
-ne 50.
+ne 44.
 
 
 
@@ -2601,112 +2649,112 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [99]
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
 []|\TU/PalatinoLinotype(0)/b/n/10 Feature
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
 []|\TU/PalatinoLinotype(0)/m/n/10 Spiking Dy-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
 []|\TU/PalatinoLinotype(0)/m/n/10 Current at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
 []|\TU/PalatinoLinotype(0)/m/n/10 Current amplitude at
  []
 
 
-Underfull \hbox (badness 7379) in paragraph at lines 133--133
+Underfull \hbox (badness 7379) in paragraph at lines 127--127
 \TU/PalatinoLinotype(0)/m/n/10 which the neuron first
  []
 
 
-Underfull \hbox (badness 4084) in paragraph at lines 135--135
+Underfull \hbox (badness 4084) in paragraph at lines 129--129
 []|\TU/PalatinoLinotype(0)/m/n/10 Total number of action
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 137--137
+Underfull \hbox (badness 1796) in paragraph at lines 131--131
 []|\TU/PalatinoLinotype(0)/m/n/10 Time (in ms) from trial
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 139--139
+Underfull \hbox (badness 3323) in paragraph at lines 133--133
 []|\TU/PalatinoLinotype(0)/m/n/10 Total number of spikes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
 []|\TU/PalatinoLinotype(0)/m/n/10 Interspike
  []
 
 
-Underfull \hbox (badness 5578) in paragraph at lines 141--142
+Underfull \hbox (badness 5578) in paragraph at lines 135--136
 []|\TU/PalatinoLinotype(0)/m/n/10 Mean, median, max,
  []
 
 
-Overfull \hbox (5.20387pt too wide) in paragraph at lines 142--142
+Overfull \hbox (5.20387pt too wide) in paragraph at lines 136--136
 []|\TU/PalatinoLinotype(0)/m/n/10 Instantaneous
  []
 
 
-Underfull \hbox (badness 5578) in paragraph at lines 142--143
+Underfull \hbox (badness 5578) in paragraph at lines 136--137
 []|\TU/PalatinoLinotype(0)/m/n/10 Mean, median, max,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 []|\TU/PalatinoLinotype(0)/m/n/10 Spike
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 \TU/PalatinoLinotype(0)/m/n/10 thresh-
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 145--145
+Underfull \hbox (badness 1715) in paragraph at lines 139--139
 \TU/PalatinoLinotype(0)/m/n/10 first exceeds 25 mV/ms.
  []
 
 
-Underfull \hbox (badness 5578) in paragraph at lines 145--147
+Underfull \hbox (badness 5578) in paragraph at lines 139--141
 []|\TU/PalatinoLinotype(0)/m/n/10 Mean, median, max,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--149
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
 []|\TU/PalatinoLinotype(0)/m/n/10 Time from threshold
  []
 
 
-Underfull \hbox (badness 5578) in paragraph at lines 149--150
+Underfull \hbox (badness 5578) in paragraph at lines 143--144
 []|\TU/PalatinoLinotype(0)/m/n/10 Mean, median, max,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
 []|\TU/PalatinoLinotype(0)/m/n/10 Voltage difference be-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
 \TU/PalatinoLinotype(0)/m/n/10 tween AP peak and
  []
 
 
-Underfull \hbox (badness 5578) in paragraph at lines 150--151
+Underfull \hbox (badness 5578) in paragraph at lines 144--145
 []|\TU/PalatinoLinotype(0)/m/n/10 Mean, median, max,
  []
 
 
-Overfull \hbox (24.87276pt too wide) in paragraph at lines 128--153
+Overfull \hbox (24.87276pt too wide) in paragraph at lines 122--147
  [][] 
  []
 
@@ -2732,23 +2780,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [101]
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
 []|\TU/PalatinoLinotype(0)/m/n/10 Membrane Capacitance
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
 []|\TU/PalatinoLinotype(0)/m/n/10 Sharpness of Spike
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 170--170
+Underfull \hbox (badness 2538) in paragraph at lines 164--164
 []|\TU/PalatinoLinotype(0)/m/n/10 Controls how sharply the firing probability i
 n-
  []
 
 
-Overfull \hbox (8.6087pt too wide) in paragraph at lines 164--174
+Overfull \hbox (8.6087pt too wide) in paragraph at lines 158--168
  [][] 
  []
 
@@ -2762,7 +2810,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [102]
-Overfull \hbox (1.36374pt too wide) in paragraph at lines 178--179
+Overfull \hbox (1.36374pt too wide) in paragraph at lines 172--173
 [] []\TU/PalatinoLinotype(0)/b/n/10 Spike Triggered Average[] \TU/PalatinoLinot
 ype(0)/m/n/10 The spike-triggered average (STA) is the average shape
  []
@@ -2807,19 +2855,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [106]
-Overfull \hbox (4.18683pt too wide) in paragraph at lines 220--221
+Overfull \hbox (4.18683pt too wide) in paragraph at lines 214--215
 \TU/PalatinoLinotype(0)/m/n/10 To investigate how neuromodulation alters the re
 lationship between different func-
  []
 
 
-Overfull \hbox (15.30174pt too wide) in paragraph at lines 220--221
+Overfull \hbox (15.30174pt too wide) in paragraph at lines 214--215
 \TU/PalatinoLinotype(0)/m/n/10 designed to model both shared and private varian
 ce across multiple high-dimensional
  []
 
 
-Overfull \hbox (4.86638pt too wide) in paragraph at lines 222--223
+Overfull \hbox (4.86638pt too wide) in paragraph at lines 216--217
 []\TU/PalatinoLinotype(0)/m/n/10 Each attribute set was z-scored (mean-centered
  and variance-scaled), and MCFA
  []
@@ -2843,20 +2891,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [108]
-Overfull \hbox (2.44856pt too wide) in paragraph at lines 243--244
+Overfull \hbox (2.44856pt too wide) in paragraph at lines 236--237
 []\TU/PalatinoLinotype(0)/m/n/10 We extracted a large set of intrinsic and inpu
 t dependent attributes and grouped
- []
-
-
-Overfull \hbox (8.6087pt too wide) in paragraph at lines 249--257
- [][] 
- []
-
-
-Overfull \hbox (25.38503pt too wide) in paragraph at lines 263--263
-|\TU/PalatinoLinotype(0)/b/n/12 Neuromodulation alters information transfer in 
-a cell-type and agonist-
  []
 
 
@@ -2869,6 +2906,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [109]
+Overfull \hbox (8.6087pt too wide) in paragraph at lines 240--248
+ [][] 
+ []
+
+
+Overfull \hbox (25.38503pt too wide) in paragraph at lines 254--254
+|\TU/PalatinoLinotype(0)/b/n/12 Neuromodulation alters information transfer in 
+a cell-type and agonist-
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2887,7 +2935,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [111]
-Overfull \hbox (3.2778pt too wide) in paragraph at lines 296--296
+Overfull \hbox (3.2778pt too wide) in paragraph at lines 287--287
 |\TU/PalatinoLinotype(0)/b/n/10 Neuromodulation shifts FI distributions in a re
 ceptor and cell-type-specific man-
  []
@@ -2911,15 +2959,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [113]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
+
+[114]
 File: Figures/Ch_3/Fig2.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig2.pdf>
 
 
-LaTeX Warning: Float too large for page by 15.32076pt on input line 322.
+LaTeX Warning: Float too large for page by 15.32076pt on input line 313.
 
 
-Package natbib Warning: Citation `calcini2024electrical' on page 114 undefined 
-on input line 337.
+Package natbib Warning: Citation `calcini2024electrical' on page 115 undefined 
+on input line 324.
 
 
 
@@ -2930,7 +2987,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[114
+[115
 
 ]
 
@@ -2941,9 +2998,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[115]
+[116]
 
-LaTeX Warning: Reference `methods' on page 116 undefined on input line 343.
+LaTeX Warning: Reference `methods' on page 117 undefined on input line 330.
 
 
 
@@ -2954,14 +3011,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[116]
-Overfull \hbox (5.71373pt too wide) in paragraph at lines 348--349
+[117]
+Overfull \hbox (5.71373pt too wide) in paragraph at lines 336--337
 \TU/PalatinoLinotype(0)/m/n/10 than across-pair (D1-aCSF) mean cosine similarit
 y ($[] [] [][][][][][][][][]$, $[] [] [][][][][][]$), 
  []
 
 
-Overfull \hbox (7.31929pt too wide) in paragraph at lines 349--350
+Overfull \hbox (7.31929pt too wide) in paragraph at lines 337--338
 \TU/PalatinoLinotype(0)/m/n/10 ity between within aCSF and D1 cosine similarity
  distributions ($[] [] [][][][][][][][][]$,
  []
@@ -2975,20 +3032,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[117]
-
-LaTeX Warning: Reference `methods' on page 118 undefined on input line 367.
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.83636pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.83636pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
-
 [118]
+
+LaTeX Warning: Reference `methods' on page 119 undefined on input line 355.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2998,11 +3046,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [119]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
+
+[120]
 File: Figures/Ch_3/Fig3.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig3.pdf>
 
 
-LaTeX Warning: Float too large for page by 12.54695pt on input line 380.
+LaTeX Warning: Float too large for page by 12.54695pt on input line 368.
 
 
 
@@ -3013,7 +3070,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[120
+[121
 
 ]
 
@@ -3024,7 +3081,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[121]
+[122]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3033,22 +3090,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[122]
+[123]
 File: Figures/Ch_3/Fig4.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig4.pdf>
 
-Overfull \hbox (8.6087pt too wide) in paragraph at lines 416--425
+Overfull \hbox (8.6087pt too wide) in paragraph at lines 404--413
  [][] 
  []
 
 
-Overfull \hbox (11.49161pt too wide) in paragraph at lines 413--429
+Overfull \hbox (11.49161pt too wide) in paragraph at lines 401--417
 \TU/PalatinoLinotype(0)/m/n/10 more mechanistic insight into how computational 
 capacities are reconfigured. Specif-
  []
 
 
-Overfull \hbox (8.08751pt too wide) in paragraph at lines 413--429
+Overfull \hbox (8.08751pt too wide) in paragraph at lines 401--417
 \TU/PalatinoLinotype(0)/m/n/10 ically, we asked: are these properties modulated
  in isolation, or are they co-regulated
  []
@@ -3062,7 +3119,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[123
+[124
 
 ]
 
@@ -3073,7 +3130,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[124]
+[125]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3082,8 +3139,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[125]
-Overfull \hbox (2.39401pt too wide) in paragraph at lines 440--441
+[126]
+Overfull \hbox (2.39401pt too wide) in paragraph at lines 428--429
 []\TU/PalatinoLinotype(0)/m/n/10 We observe that D2-R modulates the coordinatio
 n between functional attributes
  []
@@ -3097,7 +3154,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[126]
+[127]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3106,18 +3163,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[127]
-Underfull \hbox (badness 1478) in paragraph at lines 462--463
+[128]
+Underfull \hbox (badness 1478) in paragraph at lines 450--451
 []|\TU/PalatinoLinotype(0)/m/n/10 Increases coordination between AP and PB and
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 471--472
+Underfull \hbox (badness 4120) in paragraph at lines 459--460
 []|\TU/PalatinoLinotype(0)/m/n/10 Makes coordination between AP, PB and STA
  []
 
 
-Overfull \hbox (21.00868pt too wide) in paragraph at lines 458--475
+Overfull \hbox (21.00868pt too wide) in paragraph at lines 446--463
  [][] 
  []
 
@@ -3130,7 +3187,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[128]
+[129]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3139,12 +3196,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[129]
+[130]
 File: Figures/Ch_3/Fig5.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig5.pdf>
 
 
-LaTeX Warning: Float too large for page by 16.2778pt on input line 496.
+LaTeX Warning: Float too large for page by 16.2778pt on input line 484.
 
 
 
@@ -3155,7 +3212,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[130
+[131
 
 ]
 
@@ -3166,20 +3223,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[131]
-Overfull \hbox (3.31366pt too wide) in paragraph at lines 523--524
+[132]
+Overfull \hbox (3.31366pt too wide) in paragraph at lines 511--512
 []\TU/PalatinoLinotype(0)/m/n/10 Interestingly, we observed similar coupling ef
 fects under M1R activation, point-
  []
 
 
-Overfull \hbox (2.37126pt too wide) in paragraph at lines 523--524
+Overfull \hbox (2.37126pt too wide) in paragraph at lines 511--512
 \TU/PalatinoLinotype(0)/m/n/10 greater computational flexibility or specializat
 ion, allowing for more diverse input-
  []
 
 
-Overfull \hbox (6.89359pt too wide) in paragraph at lines 529--530
+Overfull \hbox (6.89359pt too wide) in paragraph at lines 519--520
 []\TU/PalatinoLinotype(0)/m/n/10 Importantly, the modulatory effects were not u
 niform, but heterogeneous within
  []
@@ -3193,7 +3250,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[132]
+[133]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3202,8 +3259,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[133]
-Overfull \hbox (10.20181pt too wide) in paragraph at lines 543--544
+[134]
+Overfull \hbox (10.20181pt too wide) in paragraph at lines 539--543
 \TU/PalatinoLinotype(0)/m/n/10 Our study, while comprehensive, has several impo
 rtant limitations. First, our record-
  []
@@ -3217,7 +3274,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[134]
+[135]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3226,7 +3283,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[135] (Chapters/Chapter_3.bbl
+[136] (Chapters/Chapter_3.bbl
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3235,7 +3292,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[136]
+[137]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3244,7 +3301,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[137]))
+[138]))
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3253,17 +3310,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[138]
+[139]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
+
+[140
+
+
+
+]
 Chapter 4.
 
 
 
-LaTeX Warning: File `Figures/4.pdf' not found on input line 420.
+LaTeX Warning: File `Figures/4.pdf' not found on input line 427.
 
 ! Unable to load picture or PDF file 'Figures/4.pdf'.
 <to be read again> 
                    }
-l.420 \include{Chapters/Chapter_4}
+l.427 \include{Chapters/Chapter_4}
                                   
 ? 
 
@@ -3273,7 +3343,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.420 \include{Chapters/Chapter_4}
+l.427 \include{Chapters/Chapter_4}
                                   
 ? 
 
@@ -3283,7 +3353,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.420 \include{Chapters/Chapter_4}
+l.427 \include{Chapters/Chapter_4}
                                   
 ? 
 File: Figures/4.pdf Graphic file (type pdf)
@@ -3291,14 +3361,10 @@ File: Figures/4.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/4.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.420 \include{Chapters/Chapter_4}
+l.427 \include{Chapters/Chapter_4}
                                   
 ? 
-[139
-
-
-
-]
+[141]
 \openout2 = `Chapters/Chapter_4.aux'.
 
  (Chapters/Chapter_4.tex
@@ -3321,19 +3387,15 @@ ities of delay-based recurrent sys-
 
 
 
-[140
+[142
 
 
 ]
 
-Package natbib Warning: Citation `perez2021neural ' on page 141 undefined on in
+Package natbib Warning: Citation `perez2021neural ' on page 143 undefined on in
 put line 46.
 
 
-
-[141]
-
-[142]
 
 [143]
 
@@ -3350,9 +3412,15 @@ put line 46.
 [149]
 
 [150]
+
+[151]
+
+[152]
 File: Figures/Ch_4/network_architecture.pdf Graphic file (type pdf)
 <use Figures/Ch_4/network_architecture.pdf>
 
+
+[153]
 Overfull \hbox (18.30232pt too wide) in paragraph at lines 200--201
 \TU/PalatinoLinotype(0)/m/n/10 CMA-ES algorithm shown in \TU/PalatinoLinotype(0
 )/b/n/10 Fig. [][]4.2[][]a \TU/PalatinoLinotype(0)/m/n/10 while these networks 
@@ -3361,58 +3429,56 @@ learn to perform NARMA-
 
 
 
-[151]
-
-[152]
+[154]
 File: Figures/Ch_4/Task_performance.pdf Graphic file (type pdf)
 <use Figures/Ch_4/Task_performance.pdf>
 
 
-[153]
-
-[154]
-
 [155]
 
 [156]
-File: Figures/Ch_4/Luyapnov_dimensions.pdf Graphic file (type pdf)
-<use Figures/Ch_4/Luyapnov_dimensions.pdf>
-
 
 [157]
 
 [158]
-File: Figures/Ch_4/LInear MC.pdf Graphic file (type pdf)
-<use Figures/Ch_4/LInear MC.pdf>
+File: Figures/Ch_4/Luyapnov_dimensions.pdf Graphic file (type pdf)
+<use Figures/Ch_4/Luyapnov_dimensions.pdf>
 
 
 [159]
 
 [160]
+File: Figures/Ch_4/LInear MC.pdf Graphic file (type pdf)
+<use Figures/Ch_4/LInear MC.pdf>
+
 
 [161]
-Overfull \hbox (8.23064pt too wide) in paragraph at lines 275--276
+
+[162]
+
+[163]
+Overfull \hbox (8.23064pt too wide) in paragraph at lines 276--277
 []\TU/PalatinoLinotype(0)/m/n/10 From an engineering viewpoint, these findings 
 argue for designing non-uniform,
  []
 
 
 
-[162] (Chapters/Chapter_4.bbl
+[164] (Chapters/Chapter_4.bbl
 
-[163]))
+[165]))
 
-[164]
+[166]
 Chapter 5.
 
 
 
-LaTeX Warning: File `Figures/6.pdf' not found on input line 437.
+LaTeX Warning: File `Figures/6.pdf' not found on input line 444.
 
 ! Unable to load picture or PDF file 'Figures/6.pdf'.
 <to be read again> 
                    }
-l.437 \include{Chapters/Discussion}
+l.444 \include{Chapters/Discussion}
                                    
 ? 
 
@@ -3422,7 +3488,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.437 \include{Chapters/Discussion}
+l.444 \include{Chapters/Discussion}
                                    
 ? 
 
@@ -3432,7 +3498,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.437 \include{Chapters/Discussion}
+l.444 \include{Chapters/Discussion}
                                    
 ? 
 File: Figures/6.pdf Graphic file (type pdf)
@@ -3440,10 +3506,10 @@ File: Figures/6.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/6.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.437 \include{Chapters/Discussion}
+l.444 \include{Chapters/Discussion}
                                    
 ? 
-[165
+[167
 
 
 
@@ -3464,12 +3530,12 @@ Overfull \hbox (2.56085pt too wide) in paragraph at lines 19--20
 
 
 
-[166
+[168
 
 
 ]
 
-[167]
+[169]
 Overfull \hbox (2.6993pt too wide) in paragraph at lines 38--39
 \TU/PalatinoLinotype(0)/m/n/10 sensus on which features most effectively captur
 e neuronal heterogeneity. To move
@@ -3483,7 +3549,7 @@ ssive biophysics, and spike-triggered
 
 
 
-[168]
+[170]
 Overfull \hbox (4.0127pt too wide) in paragraph at lines 45--46
 \TU/PalatinoLinotype(0)/m/n/10 tion currents (AC), and spike-triggered averages
  (STA). Among these, STA emerged
@@ -3491,7 +3557,7 @@ Overfull \hbox (4.0127pt too wide) in paragraph at lines 45--46
 
 
 
-[169]
+[171]
 Overfull \hbox (1.16602pt too wide) in paragraph at lines 53--54
 \TU/PalatinoLinotype(0)/m/n/10 In Chapter 4, I demonstrate that timescale heter
 ogeneity enhances the performance
@@ -3499,9 +3565,9 @@ ogeneity enhances the performance
 
 
 
-[170]
+[172]
 
-[171]
+[173]
 Overfull \hbox (18.0988pt too wide) in paragraph at lines 75--76
 []\TU/PalatinoLinotype(0)/m/n/10 Second, while the classification results revea
 led clear context- and input-dependent
@@ -3509,7 +3575,7 @@ led clear context- and input-dependent
 
 
 
-[172]
+[174]
 Overfull \hbox (3.55705pt too wide) in paragraph at lines 81--82
 \TU/PalatinoLinotype(0)/m/n/10 marked on a limited set of tasks. The generaliza
 bility of the observed heterogeneity-
@@ -3517,11 +3583,11 @@ bility of the observed heterogeneity-
 
 
 
-[173]
+[175]
 
-[174]
+[176]
 
-[175] (Chapters/Discussion.bbl
+[177] (Chapters/Discussion.bbl
 Underfull \hbox (badness 1484) in paragraph at lines 71--76
 \TU/PalatinoLinotype(0)/m/n/8 the dynamic volatility of neural networks.  \TU/P
 alatinoLinotype(0)/m/it/8 Proceedings of the National Academy of Sciences\TU/Pa
@@ -3530,11 +3596,11 @@ latinoLinotype(0)/m/n/8 ,
 
 
 
-[176]))
+[178]))
 
-[177]
+[179]
 
-[178
+[180
 
 
 
@@ -3543,7 +3609,7 @@ Chapter 6.
 
 
 
-LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 449.
+LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 456.
 
 
 ! Package graphics Error: Division by 0.
@@ -3552,7 +3618,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.449 \include{Chapters/Supplementary_Materials}
+l.456 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
 
@@ -3562,7 +3628,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.449 \include{Chapters/Supplementary_Materials}
+l.456 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
 File: Figures/cover_bg.pdf Graphic file (type pdf)
@@ -3570,10 +3636,10 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/cover_bg.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.449 \include{Chapters/Supplementary_Materials}
+l.456 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
-[179]
+[181]
 \openout2 = `Chapters/Supplementary_Materials.aux'.
 
  (Chapters/Supplementary_Materials.tex
@@ -3581,7 +3647,7 @@ File: Figures/Ch_2/appendix1.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix1.pdf>
 
 
-[180
+[182
 
 
 ]
@@ -3589,188 +3655,191 @@ File: Figures/Ch_2/appendix2.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix2.pdf>
 
 
-[181
+[183
 
 ]
 
-[182]
+[184]
 File: Figures/Ch_2/appendix3.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix3.pdf>
 
 
-[183
+[185
 
 ]
 File: Figures/Ch_2/appendix4.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix4.pdf>
 
 
-[184
+[186
 
 ]
 File: Figures/Ch_2/appendix5.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix5.pdf>
 
 
-[185]
+[187]
 File: Figures/Ch_2/appendix6.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix6.pdf>
 
 
-[186
+[188
 
 ]
 
-[187]
+[189]
 
-[188
+[190
 
 ]
 File: Figures/Ch_3/Appendix1.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix1.pdf>
 
 
-[189]
-
-[190]
-File: Figures/Ch_3/Appendix2.pdf Graphic file (type pdf)
-<use Figures/Ch_3/Appendix2.pdf>
-
-
 [191]
 
 [192]
-File: Figures/Ch_3/Appendix3.pdf Graphic file (type pdf)
-<use Figures/Ch_3/Appendix3.pdf>
+File: Figures/Ch_3/Appendix2.pdf Graphic file (type pdf)
+<use Figures/Ch_3/Appendix2.pdf>
 
 
 [193]
 
 [194]
-File: Figures/Ch_3/Appendix4.pdf Graphic file (type pdf)
-<use Figures/Ch_3/Appendix4.pdf>
+File: Figures/Ch_3/Appendix3.pdf Graphic file (type pdf)
+<use Figures/Ch_3/Appendix3.pdf>
 
 
 [195]
 
 [196]
+File: Figures/Ch_3/Appendix4.pdf Graphic file (type pdf)
+<use Figures/Ch_3/Appendix4.pdf>
+
+
+[197]
+
+[198]
 File: Figures/Ch_3/Appendix5.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix5.pdf>
-
-
-LaTeX Warning: Float too large for page by 4.30115pt on input line 161.
-
 File: Figures/Ch_3/Appendix6.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix6.pdf>
-
-LaTeX Warning: Float too large for page by 31.8879pt on input line 170.
-
 File: Figures/Ch_3/Appendix7.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix7.pdf>
 File: Figures/Ch_3/Appendix8.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix8.pdf>
 
 
-[197]
-
-[198]
-
 [199]
 
 [200]
 
 [201]
-File: Figures/Ch_3/Appendix9.pdf Graphic file (type pdf)
-<use Figures/Ch_3/Appendix9.pdf>
-
 
 [202]
 
 [203]
+File: Figures/Ch_3/Appendix9.pdf Graphic file (type pdf)
+<use Figures/Ch_3/Appendix9.pdf>
+
+
+[204]
+
+[205]
 File: Figures/Ch_3/Appendix10.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix10.pdf>
 
 
-[204]
+[206]
 File: Figures/Ch_3/Appendix11.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix11.pdf>
 
 
-[205]
+[207]
 File: Figures/Ch_3/Appendix12.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix12.pdf>
 
 
-[206]
+[208]
 File: Figures/Ch_3/Appendix13.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix13.pdf>
 
 
-[207]
-
-[208]
-
 [209]
+
+[210]
+
+[211]
 Overfull \hbox (1.38698pt too wide) in paragraph at lines 298--316
  [][] 
  []
 
 
 
-[210
-
-
-
-
-
-
-
-
-
-
-
-
-]
-
-[211
-
-]
-
 [212
+
+
+
+
+
+
+
+
+
+
+
+
+]
+
+[213
+
+]
+
+[214
 
 ]
 No file Chapters/Supplementary_Materials.bbl.
 )
 Chapter 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--460
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
  \TU/PalatinoLinotype(0)/m/n/10 Nederlandse samenvatting 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--460
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
  \TU/PalatinoLinotype(0)/m/n/10 Research data management statement 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--460
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
+ \TU/PalatinoLinotype(0)/m/n/10 Outreach activities 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
+ \TU/PalatinoLinotype(0)/m/n/10 Failures 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
  \TU/PalatinoLinotype(0)/m/n/10 Acknowledgements 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--460
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
  \TU/PalatinoLinotype(0)/m/n/10 Curriculum Vitae 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--460
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
  \TU/PalatinoLinotype(0)/m/n/10 Donders Graduate School 
  []
 
 
 
 
-LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 464.
+LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 471.
 
 
 ! Package graphics Error: Division by 0.
@@ -3779,7 +3848,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.464 \include{Chapters/Summary}
+l.471 \include{Chapters/Summary}
                                 
 ? 
 
@@ -3789,7 +3858,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.464 \include{Chapters/Summary}
+l.471 \include{Chapters/Summary}
                                 
 ? 
 File: Figures/cover_bg.pdf Graphic file (type pdf)
@@ -3797,10 +3866,10 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/cover_bg.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.464 \include{Chapters/Summary}
+l.471 \include{Chapters/Summary}
                                 
 ? 
-[213
+[215
 
 
 
@@ -3820,25 +3889,78 @@ l.15 \end{itemize}
 ? 
 )
 
-[214
+[216
 
 
 ]
 \openout2 = `"Chapters/Research data management statement.aux"'.
 
- (Chapters/Research data management statement.tex)
+ (Chapters/Research data management statement.tex
 
-[215
+Package fontspec Info: 
+(fontspec)             Script 'CJK' not explicitly supported within font
+(fontspec)             'FandolFang-Regular'. Check the typeset output, and if
+(fontspec)             it is okay then ignore this warning. Otherwise a
+(fontspec)             different font should be chosen.
+
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 13.
+
+Package fontspec Info: 
+(fontspec)             Font family 'FandolFang-Regular(0)' created for font
+(fontspec)             'FandolFang-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolFang-Regular.otf]/OT:script=hani;language=dfl
+t;"
+
+
+
+[217
+
+
+
+
+])
+
+[218]
+\openout2 = `Chapters/outreach.aux'.
+
+ (Chapters/outreach.tex
+
+[219
+
 
 
 
 
 ]
+
+[220]
+
+[221]
+
+[222])
+\openout2 = `Chapters/Failures.aux'.
+
+ (Chapters/Failures.tex
+
+[223
+
+
+
+
+
+])
 \openout2 = `Chapters/Acknowledgements.aux'.
 
  (Chapters/Acknowledgements.tex)
 
-[216
+[224
 
 
 
@@ -3876,7 +3998,7 @@ l.11 ...41\textwidth]{Figures/Profile picture.pdf}
 ? 
 )
 
-[217
+[225
 
 
 
@@ -3892,14 +4014,14 @@ ychology, behavioral science, medicine
 
 
 
-[218
+[226
 
 
 
 
 ]
 
-[219]
+[227]
 
 LaTeX Warning: File `Figures/cover_back_sign.pdf' not found on input line 23.
 
@@ -3939,7 +4061,7 @@ l.23 ...\paperheight]{Figures/cover_back_sign.pdf}
 ? 
 )
 
-[220]
+[228]
 
 Package natbib Warning: There were undefined citations.
 
@@ -3947,7 +4069,8 @@ Package natbib Warning: There were undefined citations.
 (Chapters/Chapter_2.aux) (Chapters/Chapter_3.aux) (Chapters/Chapter_4.aux)
 (Chapters/Discussion.aux) (Chapters/Supplementary_Materials.aux)
 (Chapters/Summary.aux) (Chapters/Research data management statement.aux)
-(Chapters/Acknowledgements.aux) (Chapters/CV.aux) (Chapters/DGS.aux))
+(Chapters/outreach.aux) (Chapters/Failures.aux) (Chapters/Acknowledgements.aux)
+(Chapters/CV.aux) (Chapters/DGS.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -3963,15 +4086,15 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F87EFB8C44823F7115485D51711DE728;1885.
+(rerunfilecheck)             Checksum: C546010B9A5CCD66F99BEA4BBF3522EE;1801.
  ) 
 Here is how much of TeX's memory you used:
- 38620 strings out of 405075
- 802064 string characters out of 5498326
- 1379052 words of memory out of 5000000
- 64517 multiletter control sequences out of 15000+600000
- 631248 words of font info for 138 fonts, out of 8000000 for 9000
+ 38918 strings out of 405075
+ 806155 string characters out of 5498326
+ 1395171 words of memory out of 5000000
+ 64779 multiletter control sequences out of 15000+600000
+ 634254 words of font info for 141 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,14n,121p,3588b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,14n,121p,3588b,770s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (222 pages).
+Output written on main.pdf (230 pages).

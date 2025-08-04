@@ -14,6 +14,13 @@
 \usepackage[semicolon,round,sectionbib]{natbib}  %%%%Changed
 \usepackage{chapterbib}    %%%%Changed
 
+\usepackage[T1]{fontenc}
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+
 % \renewcommand*{\bibfont}{\fontsize{10}{12}\selectfont}
 
 % add your references to this file
@@ -356,7 +363,7 @@
 %-------------------------------------------
 
 \newpage
-\chapter{Neuronal Identity is Not Static—An Input-Driven Perspective} 
+\chapter{Neuronal Identity is Not Static: An Input-Driven Perspective} 
 
 \thispagestyle{empty}
 \AddToShipoutPictureBG*{%
@@ -401,7 +408,7 @@
 
 
 %-------------------------------------------
-\chapter{Heterogeneity in delay and timescales improves task Performance} 
+\chapter{Timescale Heterogeneiety in Reservoir Computing} 
 % \ChapFrame
 \thispagestyle{empty}
 \AddToShipoutPictureBG*{%
@@ -457,12 +464,14 @@
   }
 }
 \vspace{3cm}
-{\Centering Nederlandse samenvatting \newline Research data management statement \newline Acknowledgements \newline Curriculum Vitae \newline Donders Graduate School \newline} 
+{\Centering Nederlandse samenvatting \newline Research data management statement \newline Outreach activities \newline Failures \newline Acknowledgements \newline Curriculum Vitae \newline Donders Graduate School \newline} 
 % \ChapFrame
 \thispagestyle{empty}
 
 \include{Chapters/Summary}
 \include{Chapters/Research data management statement}
+\include{Chapters/outreach}
+\include{Chapters/Failures}
 \include{Chapters/Acknowledgements}
 \include{Chapters/CV}
 \include{Chapters/DGS}

@@ -1,6 +1,6 @@
 
 %\fancyhf{}
-\fancyhead[c]{Chapter 2. Neuronal Identity is Not Static—An Input-Driven Perspective}% <- added
+\fancyhead[c]{Chapter 2. Neuronal Identity is Not Static: An Input-Driven Perspective}% <- added
 \fancyfoot[R]{\thepage\ifodd\value{page}\else\hfill\fi}
 %\fancyhead[L]{\ifodd\value{page}\relax\else\hfill\fi Ch \thechapter}
 %\renewcommand\headrulewidth{0pt}% default ist .4pt
@@ -10,7 +10,14 @@
 
 \newpage
 \section{Abstract}
-\tab Neuronal classification based on morphology, electrophysiology, and molecular markers is often considered static. Here, we challenge this view, showing that functional classification depends on input patterns. Using single-cell recordings from layer 2/3 barrel cortex neurons in mice, we compared responses to step-and-hold versus dynamic frozen noise inputs that mimic presynaptic activity. Action potential and waveform-based classifications varied significantly, highlighting the dynamic nature of neuronal identity. To assess the contribution of input versus neuronal attributes toward classification, we analyzed four attribute sets, namely action potential, passive biophysical, adaptation currents, and linear input filters derived via spike-triggered averages (STA). Our findings revealed that the STA, which captures a neuron’s selective responsiveness to presynaptic activity, explained the most variance within the population. This highlights input-driven dynamics as key to functional identity, emphasizing the need for physiologically relevant inputs in defining neuronal classes and shifting the focus from static properties to dynamic functional diversity.
+\tab Neuronal classification based on morphology, electrophysiology, and molecular markers is often considered static. Here, we challenge this view, showing that 
+functional classification depends on input patterns. Using single-cell recordings from layer 2/3 barrel cortex neurons in mice, we compared responses to 
+step-and-hold versus dynamic frozen noise inputs that mimic presynaptic activity. Action potential and waveform-based classifications varied significantly, 
+highlighting the dynamic nature of neuronal identity. To assess the contribution of input versus neuronal attributes toward classification, we analyzed four 
+attribute sets, namely action potential, passive biophysical, adaptation currents, and linear input filters derived via spike-triggered averages (STA). 
+Our findings revealed that the STA, which captures a neuron's selective responsiveness to presynaptic activity, explained the most variance within the population. 
+This highlights input-driven dynamics as key to functional identity, emphasizing the need for physiologically relevant inputs in defining neuronal classes and 
+shifting the focus from static properties to dynamic functional diversity.
 
 \newpage
 
@@ -33,7 +40,7 @@ We analyzed four commonly used sets of electrophysiological attributes—action 
 
 By demonstrating that neuronal classification is highly dependent on input dynamics, our study highlights the need to incorporate physiologically relevant stimuli when defining neuronal types. Our findings suggest that neurons should not be categorized based solely on static features but rather on how they process and respond to dynamic synaptic input. This perspective has broad implications for both experimental and computational neuroscience, urging a paradigm shift toward input-dependent models of neuronal function.
 
-
+\newpage
 \section{Materials and methods}
 
 \textbf{Ethics statement} The data used in this research was previously published and made freely available to the community \cite{da2018databank} and \cite{yan2022whole}. All the experimental work, as outlined in the cited articles, were carried out in compliance with the European directive 2010/63/EU, the national regulations of the Netherlands, and international standards for animal care and use.    
@@ -82,7 +89,8 @@ The Step and Hold protocol was set up in a current clamp configuration, the rest
 
 \subsubsection*{Feature Extraction} 
 \begin{flushleft}
-Feature extraction is performed separately for SH and FN protocols to classify neurons using different inputs and to determine cell class with a realistic stimulus. For the first part, which is comparing classification across protocols, we collect waveforms and Action potential features for comparing SH and FN protocols using a subset of the data, (186 neurons). As not all cells were recorded with both types of input protocols, this subset was chosen to match the cell IDs across the two protocols. For the second part, which compares different physiological attributes for the FN protocol, we collect waveforms, spike event-based features, biophysical features, and the STA for each control (aCSF) trial for each cell in the FN dataset. We discard trials that contain recording artifacts (observed distortions or high-frequency noise), in total 11 neurons. Since there were multiple drug and control trials available for each neuron, we always took the first control trial for this study as this prevented any residual effect from the drug condition after washing. The total number of neurons used for this part of the study was 312.    
+Feature extraction is performed separately for SH and FN protocols to classify neurons using different inputs and to determine cell class with 
+a realistic stimulus. For the first part, which is comparing classification across protocols, we collect waveforms and Action potential features for comparing SH and FN protocols using a subset of the data, (186 neurons). As not all cells were recorded with both types of input protocols, this subset was chosen to match the cell IDs across the two protocols. For the second part, which compares different physiological attributes for the FN protocol, we collect waveforms, spike event-based features, biophysical features, and the STA for each control (aCSF) trial for each cell in the FN dataset. We discard trials that contain recording artifacts (observed distortions or high-frequency noise), in total 11 neurons. Since there were multiple drug and control trials available for each neuron, we always took the first control trial for this study as this prevented any residual effect from the drug condition after washing. The total number of neurons used for this part of the study was 312.    
 \end{flushleft}
 
 \begin{flushleft}
@@ -365,10 +373,7 @@ The relative feature importance is given by the cross-correlation of columns of 
                 S_d = cor(\hat{Z}_1^{(:,d)}, ..., \hat{Z}_m^{(:,d)})
             \end{equation}
 
-
-
-
-
+\newpage            
 \section{Results}
 
 
@@ -440,10 +445,11 @@ height and width of the waveform within each trial. We used descriptive statisti
 \begin{figure}[!htpb]
     \centering
 \includegraphics[width=\linewidth]{Figures/Ch_2/fig1.pdf}
-\caption{\textbf{Intracellular waveform-based neural identity (cluster membership) depends on the stimulus type.} Each of the 186 cortical neurons was studied using two distinct stimulation protocols: 
-a step and hold (SH) protocol and a frozen noise (FN) protocol. \textbf{(a-b)} UMAP representation of spike waveforms from the \textbf{FN} and \textbf{SH} protocols, colored with their respective cluster identities (top) and their 
-corresponding waveform shapes (bottom). \textbf{(c)}200 ms of a FN recording of a neuron with a broad-width spike shape (red) and narrow-width spike shape (blue). 
-\textbf{(d)}200 ms SH trial of a neuron with a broad-width spike shape (red) and a narrow-width spike shape (blue). (\textbf{continued on the next page}) }
+\caption{\textbf{Intracellular waveform-based neural identity (cluster membership) depends on the stimulus type.} Each of the 186 cortical neurons was studied 
+using two distinct stimulation protocols: a step and hold (SH) protocol and a frozen noise (FN) protocol. \textbf{(a-b)} UMAP representation of spike waveforms 
+from the \textbf{FN} and \textbf{SH} protocols, colored with their respective cluster identities (top) and their corresponding waveform shapes (bottom). 
+\textbf{(c)}200 ms of a FN recording of a neuron with a broad-width spike shape (red) and narrow-width spike shape (blue). \textbf{(d)} 200 ms SH trial of 
+a neuron with a broad-width spike shape (red) and a narrow-width spike shape (blue). (\textbf{continued on the next page})}
 \label{fig:sh_fn_waveform}
 \end{figure}
  
@@ -487,39 +493,76 @@ action potential attributes based clustering of neuronal populations is input de
 \caption{\textbf{Neural identity based on Action Potential attributes depends on the stimulus type.} (\textbf{a-b}) UMAP representation of Action Potential attributes for 
 neurons was recorded with FN and SH protocols, and each color corresponded to a cluster identity. (\textbf{c}) shows the mean and standard deviation of the Modularity 
 Score for SH and FN protocols (left axis) and the number of clusters (right axis ) as a result of running the clustering algorithm 25 times over 80\% of the data 
-with changes in the resolution parameter ranging from 0 to 5 with an increment of 0.5, the resolution parameter is chosen that maximizes the Modularity score (black arrow). (\textbf{Continued on the next page})}
+with changes in the resolution parameter ranging from 0 to 5 with an increment of 0.5, the resolution parameter is chosen that maximizes the Modularity score (black arrow). 
+(\textbf{Continued on the next page})}
     \label{fig:sh_fn_ephys}
 \end{figure}
 
 \begin{figure}[!htpb]
 
 % \centering
-(\textbf{d-e}) The radar plot shows action potential attributes divided into spiking dynamics, spike threshold, and AP height and width features for each neuron, recorded with SH and FN protocols with each cluster in their respective color. Thick lines represent the mean over trials for each cluster. (\textbf{f}) Heatmap comparing action potential attributes using cosine similarity between SH and FN clusters. It can be seen that none of the values in the heatmap is greater than 0.8 suggesting that SH and FN action potential attributes are dissimilar. (\textbf{g}) Heatmap showing the likelihood of neurons to classify in one of the FN classes for each SH class. Note that the class identification between FN and SH protocols is inconsistent. The adjusted Random Score was 0.149 and the Adjusted Mutual Information score was 0.206, suggesting inconsistency between SH and FN clusters.
+(\textbf{d-e}) The radar plot shows action potential attributes divided into spiking dynamics, spike threshold, and AP height and width features for each neuron, 
+recorded with SH and FN protocols with each cluster in their respective color. Thick lines represent the mean over trials for each cluster. (\textbf{f}) Heatmap 
+comparing action potential attributes using cosine similarity between SH and FN clusters. It can be seen that none of the values in the heatmap is greater than 
+0.8 suggesting that SH and FN action potential attributes are dissimilar. (\textbf{g}) Heatmap showing the likelihood of neurons to classify in one of the FN 
+classes for each SH class. Note that the class identification between FN and SH protocols is inconsistent. The adjusted Random Score was 0.149 and the Adjusted 
+Mutual Information score was 0.206, suggesting inconsistency between SH and FN clusters.
 \end{figure}
 \hline
     
 
 \subsection{Functional classification of neurons stimulated by the FN protocol based on different feature sets} \label{sec:FN_EI}
 
-We have shown in the previous section that neuronal classification based on waveforms and action potential attributes is input-dependent. We want to expand our understanding of which features result in distinctive functional classifications within the FN-stimulated neurons. To understand the variance in the neuronal population captured by different attribute sets, we perform classifications based on four different attribute sets that capture 1) the commonly used action potential attributes, 2) passive biophysical attributes, 3) adaptation attributes, and 4) linear input filters approximated using the Spike Triggered Average (STA), to assess input feature selectivity. 
+We have shown in the previous section that neuronal classification based on waveforms and action potential attributes is input-dependent. 
+We want to expand our understanding of which features result in distinctive functional classifications within the FN-stimulated neurons. 
+To understand the variance in the neuronal population captured by different attribute sets, we perform classifications based on four 
+different attribute sets that capture 1) the commonly used action potential attributes, 2) passive biophysical attributes, 3) adaptation 
+attributes, and 4) linear input filters approximated using the Spike Triggered Average (STA), to assess input feature selectivity. 
 
 
-Ample experimental evidence suggests that cortical neurons can be divided into two broad functional categories \cite{avermann2012microcircuits}, namely excitatory (glutamatergic) and inhibitory (GABAergic), based on the type of effect (either excitation or inhibition) they have on their post-synaptic neurons \cite{zeng2017neuronal}. Excitatory and inhibitory neurons have also been found to have distinct electrophysiological properties and thus are known to perform different functions. We therefore subdivide our data into excitatory and inhibitory groups to study the diversity within and across populations. Previous studies have associated neuronal waveform shapes with functional identity \cite{trainito2019extracellular,lee2021non}. The broad and narrow spike-width neurons have also been found to have a characteristic firing statistic, i.e. neurons with narrow-width waveforms were found to have a high firing rate (putatively inhibitory), and neurons with broad-width waveforms were found to have lower firing rates (putatively excitatory) \cite{connors1990intrinsic,bean2007action,kiritani2023membrane} in the barrel cortex. This suggests that inhibitory neurons can be putatively characterized by narrow width and high firing rate and that excitatory neurons can be putatively characterized by broad width and low firing rate. Also, barrel cortical excitatory neurons are more adaptive compared to inhibitory neurons \cite{heiss2008shift}. Based on this reasoning, we partitioned our data into a putative excitatory and an inhibitory population. 
+Ample experimental evidence suggests that cortical neurons can be divided into two broad functional categories \cite{avermann2012microcircuits},
+ namely excitatory (glutamatergic) and inhibitory (GABAergic), based on the type of effect (either excitation or inhibition) they have on 
+ their post-synaptic neurons \cite{zeng2017neuronal}. Excitatory and inhibitory neurons have also been found to have distinct 
+ electrophysiological properties and thus are known to perform different functions. We therefore subdivide our data into excitatory 
+ and inhibitory groups to study the diversity within and across populations. Previous studies have associated neuronal waveform shapes 
+ with functional identity \cite{trainito2019extracellular,lee2021non}. The broad and narrow spike-width neurons have also been found 
+ to have a characteristic firing statistic, i.e. neurons with narrow-width waveforms were found to have a high firing rate (putatively 
+ inhibitory), and neurons with broad-width waveforms were found to have lower firing rates (putatively excitatory) 
+ \cite{connors1990intrinsic,bean2007action,kiritani2023membrane} in the barrel cortex. This suggests that inhibitory neurons 
+ can be putatively characterized by narrow width and high firing rate and that excitatory neurons can be putatively characterized 
+ by broad width and low firing rate. Also, barrel cortical excitatory neurons are more adaptive compared to inhibitory neurons 
+ \cite{heiss2008shift}. Based on this reasoning, we partitioned our data into a putative excitatory and an inhibitory population. 
 
-We extract the average intracellular waveforms from the entire dataset, 312 cells in total. Note that the number of neurons under analysis is much larger than in the previous sections because more FN than SH experiments were performed. We then apply the UMAP+Louvain algorithm to classify intracellular waveforms and find 8 clusters. (Fig. \ref{fig:fullwidth}\textbf{a}) shows the UMAP projection of all waveforms with their corresponding cluster label colors. Next, we plot the distribution of the firing rates and half-widths for each cluster with matching colors using a violin plot (Fig. \ref{fig:fullwidth}\textbf{b-c}). We observe clusters 1,5 and 6 to have a narrow width and high firing rate relative to the rest of the clusters; therefore, we categorize these clusters as putatively inhibitory (I) and the rest as putatively excitatory (E). We compare the average cosine similarity between E/I populations. We find that the excitatory and inhibitory populations are significantly different (Welch's ANOVA, (F(2,49135) = 19148.00,  p = 0.0; Post-hoc Games-Howell test, E vs I (p = 0.001), I vs ExI (p = 0.001), and E vs ExI (p = 0.001), Fig. \ref{fig:fullwidth}\textbf{d})), but the excitatory population is more heterogeneous than the inhibitory one, based on the average similarity of the waveforms within the E/I population (Fig. \ref{fig:fullwidth}\textbf{d}).                         
-\clearpage
-\begin{figure}[!htpb]
+We extract the average intracellular waveforms from the entire dataset, 312 cells in total. Note that the number of neurons under 
+analysis is much larger than in the previous sections because more FN than SH experiments were performed. We then apply the UMAP+Louvain 
+algorithm to classify intracellular waveforms and find 8 clusters. (Fig. \ref{fig:fullwidth}\textbf{a}) shows the UMAP projection of all 
+waveforms with their corresponding cluster label colors. Next, we plot the distribution of the firing rates and half-widths for each 
+cluster with matching colors using a violin plot (Fig. \ref{fig:fullwidth}\textbf{b-c}). We observe clusters 1,5 and 6 to have a narrow 
+width and high firing rate relative to the rest of the clusters; therefore, we categorize these clusters as putatively inhibitory (I) and 
+the rest as putatively excitatory (E). We compare the average cosine similarity between E/I populations. We find that the excitatory and 
+inhibitory populations are significantly different (Welch's ANOVA, ($F(2,49135) = 19148.00$,  $p = 0.0$); Post-hoc Games-Howell test, 
+E vs I ($p = 0.001$), I vs ExI ($p = 0.001$), and E vs ExI ($p = 0.001$), Fig. \ref{fig:fullwidth}\textbf{d})), but the excitatory 
+population is more heterogeneous than the inhibitory one, based on the average similarity of the waveforms within the E/I population 
+(Fig. \ref{fig:fullwidth}\textbf{d}).                         
+
+
+\begin{figure}[htpb]
 \centering
 \includegraphics[width=\linewidth]{Figures/Ch_2/fig3.pdf}
-\caption{\textbf{Putative classification of excitatory and inhibitory neurons based on waveform and firing characteristics.} 312 cortical neurons were recorded using the FN protocol. Before studying 
-neuronal classification based on different functional attributes, a putative excitatory and inhibitory classification of neurons was performed based on firing rate and AP half-width attributes. 
-(\textbf{a}) The UMAP representation of the clustered average waveform along with their corresponding shape represented with the same color from 312 neurons recorded from layer 2/3 in 
-the somatosensory cortex. (inset) average waveforms for putative excitatory and inhibitor populations. (\textbf{b}) Violin plot showing the distribution of firing rate across clusters 
-identified in (\textbf{a.}), cluster IDs [1, 5, 6; n= 66, 30, 30] were found to have higher firing rates and are labeled as putatively inhibitory (n=126) and putatively excitatory (n=186). 
-(\textbf{c}) shows the AP-half width across clusters identified in (a), cluster IDs [2, 3, 4, 7, 8; n= 58, 48, 44, 27, 9] were found to have lower half-width. (\textbf{d}) The average 
-cosine similarity between putative excitatory and inhibitory classes. On average the putative Excitatory waveform group shows higher heterogeneity and excitatory and inhibitory 
-waveforms differ. Cosine similarity measures between in-population excitatory (E), in-population inhibitory (I), and across excitatory-inhibitory populations (ExI) show significant 
-differences. Welch's ANOVA, F(2, 49135) = 19148.00, ***p= 0.0); Post-hoc Games-Howell test, E vs I (**p= 0.001), I vs ExI (**p= 0.001), and E vs ExI (**p= 0.001).}
+\caption{\textbf{Putative classification of excitatory and inhibitory neurons based on waveform and firing characteristics.} 312 
+cortical neurons were recorded using the FN protocol. Before studying neuronal classification based on different functional attributes, 
+a putative excitatory and inhibitory classification of neurons was performed based on firing rate and AP half-width attributes. 
+(\textbf{a}) The UMAP representation of the clustered average waveform along with their corresponding shape represented with the 
+same color from 312 neurons recorded from layer 2/3 in the somatosensory cortex. (inset) average waveforms for putative excitatory 
+and inhibitor populations. (\textbf{b}) Violin plot showing the distribution of firing rate across clusters identified in 
+(\textbf{a.}), cluster IDs [1, 5, 6; n= 66, 30, 30] were found to have higher firing rates and are labeled as putatively 
+inhibitory (n=126) and putatively excitatory (n=186). (\textbf{c}) shows the AP-half width across clusters identified in (a), 
+cluster IDs [2, 3, 4, 7, 8; n= 58, 48, 44, 27, 9] were found to have lower half-width. (\textbf{d}) The average cosine similarity 
+between putative excitatory and inhibitory classes. On average the putative Excitatory waveform group shows higher heterogeneity 
+and excitatory and inhibitory waveforms differ. Cosine similarity measures between in-population excitatory (E), in-population 
+inhibitory (I), and across excitatory-inhibitory populations (ExI) show significant differences. Welch's ANOVA, $F(2, 49135) = 19148.00$, 
+$p= 0.0$; Post-hoc Games-Howell test, E vs I ($p= 0.001$), I vs ExI ($p= 0.001$), and E vs ExI ($p= 0.001$), * $p<0.05$, 
+** $p<0.001$, *** $p<0.0001$.}
  
 % (\textbf{continued on the next page})} 
 \label{fig:fullwidth}
@@ -543,20 +586,21 @@ Next, we want to compare the level of heterogeneity within excitatory (E-E) and 
 \caption{\textbf{Cell type-specific heterogeneity and the principal discriminatory attributes of the action potential.} NB Excitatory/Inhibitory results are grouped with red and 
 blue backgrounds respectively. (\textbf{a-b}) The clustering procedure groups E/I neuron populations into 7 and 6 clusters respectively. (\textbf{c}) shows the 
 chosen resolution parameters corresponding to the highest modularity and the corresponding number of clusters. (\textbf{d}) The means of excitatory-inhibitory action 
-potential attributes were found to be significantly different (one-sided MANOVA, Wilks' lambda; $F(21, 290.0) = 35.1841$; $p = 0.000^{*** }$, Pillai's trace; $F (21, 290.0) = 35.1841$; 
-$p = 0.000^{*** }$, Hotelling-Lawley trace; $F(21, 290.0) =35.1841 $; $p = 0.000^{*** }$, 
-Roy's greatest root; $F(21, 290.0) = 35.1841$; $p = 0.000^{*** })$. We performed a post-hoc CCA analysis between the excitatory and inhibitory populations and showed 
+potential attributes were found to be significantly different (one-sided MANOVA, Wilks' lambda; ($F(21, 290.0) = 35.1841$; $p = 0.000$), Pillai's trace; ($F (21, 290.0) = 35.1841$; 
+$p = 0.000$), Hotelling-Lawley trace; ($F(21, 290.0) =35.1841 $; $p = 0.000$), 
+Roy's greatest root; $F(21, 290.0) = 35.1841$; $p = 0.000$). We performed a post-hoc CCA analysis between the excitatory and inhibitory populations and showed 
 the loadings for each attribute with a 95\% confidence interval (grey line). (\textbf{e-f}) action potential attributes profile broken down into spiking dynamics, spike 
 threshold, and AP height and width parameters plotted with the average for each cluster (thick line) and individual neurons (thin lines) and their corresponding cluster colors. 
 Spiking dynamics parameters show the most variability across clusters for both excitatory and inhibitory groups.(\textbf{Continued on the next page}) }
 \label{fig:FN_ephys}
 \end{figure}
 
-\begin{figure}[!htpb]  % continued
+\begin{figure}[!htpb]
+  % continued
 (\textbf{g}) The cosine similarity between E/I feature vectors. 
 Inhibitory neurons are more heterogeneous in their action potential attributes than excitatory neurons. Welch's ANOVA shows a significant difference between cosine similarity 
 measures between within-population excitatory (E-E), in-population inhibitory(I-I), and across excitatory-inhibitory populations (I-E) ($F (2,49135) = 3626998.65$; $p= 0.0)$; 
-Post-hoc Games-Howell test, E-E vs I-I (**p= 0.001), I-I vs I-E ($**p= 0.001$), and E-E vs I-E ($**p= 0.001$).
+Post-hoc Games-Howell test, E-E vs I-I ($p= 0.001$), I-I vs I-E ($p= 0.001$), and E-E vs I-E ($p= 0.001$), * $p<0.05$, ** $p<0.001$, *** $p<0.0001$.
 \end{figure}
 
 
@@ -578,12 +622,33 @@ We quantify the heterogeneity of adaptation currents within excitatory and inhib
 % \begin{fullwidth}
 \centering
 \includegraphics[width=\linewidth]{Figures/Ch_2/fig5.pdf}
-\caption{\textbf{Discriminatory power of passive biophysical and adaptive membrane properties for neuronal classification.} A GLIF model was fitted to the membrane potential recordings of neurons stimulated using the FN protocol. (\textbf{a}) An example of a 10 s long snippet of the GLIF model (red) with the original trial (grey). (\textbf{b}) Histogram showing the variance explained by the subthreshold membrane potential of the GLIF model. We included only models that exceeded a subthreshold variance explained higher than 0.7 (dashed line) for clustering purposes. (\textbf{c}) The chosen resolution parameters correspond to the highest modularity and the corresponding number of clusters for passive parameters. (\textbf{d-e}) UMAP representation of 7 clusters for excitatory (left) and 6 clusters for inhibitory (right) found using the passive biophysical parameters (inset). (\textbf{continued on the next page}) }
+\caption{\textbf{Discriminatory power of passive biophysical and adaptive membrane properties for neuronal classification.} A GLIF model 
+was fitted to the membrane potential recordings of neurons stimulated using the FN protocol. (\textbf{a}) An example of a 10 s 
+long snippet of the GLIF model (red) with the original trial (grey). (\textbf{b}) Histogram showing the variance explained by the 
+subthreshold membrane potential of the GLIF model. We included only models that exceeded a subthreshold variance explained higher 
+than 0.7 (dashed line) for clustering purposes. (\textbf{c}) The chosen resolution parameters correspond to the highest modularity and 
+the corresponding number of clusters for passive parameters. (\textbf{d-e}) UMAP representation of 7 clusters for excitatory (left) 
+and 6 clusters for inhibitory (right) found using the passive biophysical parameters (inset). The radar plot shows the passive biophysical profile of excitatory  (left) and inhibitory cells (right), thick lines show the mean 
+for each cluster and thin lines show the passive biophysical properties for each neuron colored in its respective cluster color. 
+(\textbf{f-g}) UMAP representation of 6 clusters for excitatory (left) and 6 clusters for inhibitory (right) neurons found using 
+the adaptation current (inset) and the corresponding adaptation current shape. (\textbf{continued on the next page}) }
 \label{fig:biophys-profile}
 \end{figure}  
 
 \begin{figure}[!htpb] % continued
-The radar plot shows the passive biophysical profile of excitatory  (left) and inhibitory cells (right), thick lines show the mean for each cluster and thin lines show the passive biophysical properties for each neuron colored in its respective cluster color. (\textbf{f-g}) UMAP representation of 6 clusters for excitatory (left) and 6 clusters for inhibitory (right) neurons found using the adaptation current (inset) and the corresponding adaptation current shape. (\textbf{h}) Post-hoc CCA between excitatory and inhibitory population and the loadings for each attribute with a 95\% confidence (grey line). The excitatory-inhibitory passive biophysical attributes means were found to be significantly different (one-sided MANOVA, Wilks' lambda; $F(6, 301) = 23.2629$; $p =  0.000^{***}$, Pillai's trace; $F (6, 301) = 23.2629$; $p = 0.000^{***}$, Hotelling-Lawley trace; $F(6, 301) = 23.2629$; $p =  0.000^{***}$, Roy's greatest root; $F(6, 301) = 23.2629$; $p = 0.000^{***})$. (\textbf{i}) Heatmap showing passive biophysical attributes vectors compared within the excitatory (E-E) and inhibitory (I-I) population as well as across excitatory and inhibitory populations (I-E) using the cosine similarity measure, the values are averaged for I-I, E-E, and I-E comparisons. E/I population passive parameters were not significantly different for both within (I-I, E-E) and across (I-E) population comparisons (Welch's ANOVA, F(2, 66792) = 0.16777; p= 0.84). (\textbf{j}) Heatmap showing the cosine similarity-based heterogeneity measurement of normalized adaptation currents for E-E, I-I, and I-E populations. The average cosine similarity values of adaptation current currents were significantly higher for the E-E group than the I-I group suggesting that the inhibitory population is more heterogenous. The I-I and I-E mean cosine similarity values were not significantly different. (Welch's ANOVA, F(2,46968)=2796.77, **p= 0.0); Post-hoc Games-Howell test I-I vs E-E (**p=0.001), I-I vs I-E (p=0.75), and E-E vs I-E (**p=0.001)).
+(\textbf{h}) Post-hoc CCA between excitatory and inhibitory population and the loadings for each attribute with a 95\% confidence 
+(grey line). The excitatory-inhibitory passive biophysical attributes means were found to be significantly different (one-sided MANOVA, 
+Wilks' lambda; ($F(6, 301) = 23.2629$; $p =  0.000$), Pillai's trace; ($F (6, 301) = 23.2629$; $p = 0.000$), Hotelling-Lawley trace; 
+($F(6, 301) = 23.2629$; $p =  0.000$), Roy's greatest root; $F(6, 301) = 23.2629$; $p = 0.000)$. (\textbf{i}) Heatmap showing passive 
+biophysical attributes vectors compared within the excitatory (E-E) and inhibitory (I-I) population as well as across excitatory and 
+inhibitory populations (I-E) using the cosine similarity measure, the values are averaged for I-I, E-E, and I-E comparisons. E/I 
+population passive parameters were not significantly different for both within (I-I, E-E) and across (I-E) population comparisons 
+(Welch's ANOVA, $F(2, 66792) = 0.16777$; $p= 0.84$). (\textbf{j}) Heatmap showing the cosine similarity-based heterogeneity measurement 
+of normalized adaptation currents for E-E, I-I, and I-E populations. The average cosine similarity values of adaptation current currents 
+were significantly higher for the E-E group than the I-I group suggesting that the inhibitory population is more heterogenous. 
+The I-I and I-E mean cosine similarity values were not significantly different. (Welch's ANOVA, $F(2,46968)=2796.77$, $p= 0.0$); 
+Post-hoc Games-Howell test I-I vs E-E ($p=0.001$), I-I vs I-E ($p=0.75$), and E-E vs I-E ($p=0.001$), * $p<0.05$, ** $p<0.001$, 
+*** $p<0.0001$.
 \end{figure}
 
 \subsubsection{Neuronal classification based on linear input filter approximated using a Spike Triggered Average (STA) in the FN protocol}
@@ -625,9 +690,9 @@ the corresponding normalized average STA shape for each cluster in the 50 ms bef
 amplitude extracted from each STA (excitatory neurons depicted in red and inhibitory in blue). (\textbf{e-f}) Average cosine similarity across excitatory (e) and inhibitory (f) STA clusters. 
 The excitatory clusters show a higher similarity with each other compared to inhibitory clusters. Each excitatory cluster on average shows high similarity ($>$0.9) with $\approx2$ other 
 clusters, the inhibitory clusters on the other hand show a high similarity with $\approx1$ other cluster on average. (\textbf{g}) Heatmap showing the average cosine similarity for both 
-within E/I and across E/I population STAs. The inhibitory population (I-I) shows a significantly higher heterogeneity (lower similarity) compared to the excitatory population (E-E).  Welch's ANOVA 
-shows a significant difference between the cosine similarity measures between excitatory (E), inhibitory (I), and across excitatory-inhibitory populations (ExI) F(2,48825)=1005.90, ***p= 0.0); 
-Post-hoc Games-Howell test, E vs I (**p=0.001), I vs ExI (**p=0.0.001), and E vs ExI (**p=0.001).}
+within E/I and across E/I population STAs. The inhibitory population (I-I) shows a significantly higher heterogeneity (lower similarity) compared to the excitatory population (E-E).  
+Welch's ANOVA shows a significant difference between the cosine similarity measures between excitatory (E), inhibitory (I), and across excitatory-inhibitory 
+populations (ExI) F(2,48825)=1005.90, p= 0.0; Post-hoc Games-Howell test, E vs I (p=0.001), I vs ExI (p=0.0.001), and E vs ExI (p=0.001), * $p<0.05$, ** $p<0.001$, *** $p<0.0001$.}
 % (\textbf{continued on the next page})}
 \label{fig:STA}
 
@@ -664,21 +729,43 @@ the linear input filter of a neuron. Therefore, the linear input filter contains
 high value of private variance for the linear input filter, along with low residual values compared to other attribute sets indicates that linear input filters are likely to be the most informative attributes for explaining 
 neuronal heterogeneity compared to passive biophysical, action potential, and adaptation current attributes. On the contrary, high values of shared variance for passive biophysical attributes and action potential attributes 
 show that these attributes share a common structure, and can be a good predictor of one another. It is also important to observe that the total variance explained (shared + private) by adaptation currents is lower than action 
-potential attributes for both excitatory and inhibitory populations, suggesting that action potential attributes are more informative about neuronal heterogeneity than adaptation currents.   
+potential attributes for both excitatory and inhibitory populations, suggesting that action potential attributes are more informative about 
+neuronal heterogeneity than adaptation currents.   
 
 
 
-\clearpage
-\begin{figure}[!htpb]
+
+\begin{figure}[htpb]
 \centering
 \includegraphics[width=\linewidth]{Figures/Ch_2/fig7.pdf}
-\caption{\textbf{MCFA analysis comparing shared and private variance explained by Action potential, Passive biophysical, Adaptation current, and Linear input filter (STA)}: (\textbf{a}) (top) Histogram showing the percentage of shared and private variance explained by each attribute for the excitatory population. action potential parameters (shared  = 52.3\%, private = 12.7\%, residual = 34.8\%) and passive biophysical parameters (shared = 51.9\%, private = 2.2\%, residual = 45.8\%) explain most of the shared variance between attributes suggesting that these properties are not uniquely informative about population heterogeneity, on the other hand, linear input filter (STA) contains most of the unique information (shared = 32.9\%, private = 57.2\%, residual = 9.8\%) about the excitatory population and the least amount of un-modelled residual, adaptation current explains more private variance (shared = 19.7\%, private = 41.2\%, residual = 38.9\%) than action potential and passive biophysical features but less than linear input filter (STA). (middle) Heatmap showing the contribution of each shared dimension (total 4 based on selection criteria (methods)) in explaining variance across each attribute and their relative importance. (bottom) passive biophysical and action potential parameters have contributed to the most important shared dimensions. (\textbf{b}) (top) Histogram showing the percentage of shared and private variance explained by each attribute for the Inhibitory population.  (\textbf{continued on the next page}) }
+\caption{\textbf{MCFA analysis comparing shared and private variance explained by Action potential, Passive biophysical, 
+Adaptation current, and Linear input filter (STA)}: 
+(\textbf{a}) (top) Histogram showing the percentage of shared and private variance explained by each attribute for the excitatory 
+population. action potential parameters (shared  = 52.3\%, private = 12.7\%, residual = 34.8\%) and passive biophysical parameters 
+(shared = 51.9\%, private = 2.2\%, residual = 45.8\%) explain most of the shared variance between attributes suggesting that 
+these properties are not uniquely informative about population heterogeneity, on the other hand, linear input filter (STA) 
+contains most of the unique information (shared = 32.9\%, private = 57.2\%, residual = 9.8\%) about the excitatory population 
+and the least amount of un-modelled residual, adaptation current explains more private variance (shared = 19.7\%, private = 
+41.2\%, residual = 38.9\%) than action potential and passive biophysical features but less than linear input filter (STA). 
+(middle) Heatmap showing the contribution of each shared dimension (total 4 based on selection criteria (methods)) in explaining 
+variance across each attribute and their relative importance. (bottom) passive biophysical and action potential parameters have 
+contributed to the most important shared dimensions. (\textbf{b}) (top) Histogram showing the percentage of shared and private 
+variance explained by each attribute for the Inhibitory population. Action potential parameters (shared = 33.9\%, private = 35.7 \%, residual = 30.2\%) and passive biophysical parameters (shared = 33.85\%, 
+private = 17.1\%, residual = 48.9\%) explain the highest amount of shared variance between attributes suggesting that these properties 
+are not uniquely informative about population heterogeneity on the other hand, passive biophysical parameters have the most amount of 
+un-modeled (residual) variance. STA contains most of the unique information (private variance) about the inhibitory population (shared = 9.9\%, 
+private = 80.6\%, residual = 9.4\%) and the least amount of un-modeled (residual) variance followed by the adaptation current (private = 29.4\%, 
+shared = 36.29\%, residual = 34.2\%). (\textbf{continued on the next page}) }
 \label{fig:variance_explained}
 
 \end{figure}
 
 \begin{figure}[!htpb]
-Action potential parameters (shared = 33.9\%, private = 35.7 \%, residual = 30.2\%) and passive biophysical parameters (shared = 33.85\%, private = 17.1\%, residual = 48.9\%) explain the highest amount of shared variance between attributes suggesting that these properties are not uniquely informative about population heterogeneity on the other hand, passive biophysical parameters have the most amount of un-modeled (residual) variance. STA contains most of the unique information (private variance) about the inhibitory population (shared = 9.9\%, private = 80.6\%, residual = 9.4\%) and the least amount of un-modeled (residual) variance followed by the adaptation current (private = 29.4\%, shared = 36.29\%, residual = 34.2\%). Heatmap (middle) showing the contribution of each shared dimension (total 3, based on selection criteria (methods)) in explaining variance across each attribute and their relative importance. (bottom) Most important shared dimensions have contributions from passive biophysical, action potential parameters, and adaptation current. Based on this, a strong suggestion can be made for using linear input filter(STA) as the marker for heterogeneity in electrophysiological studies for both, excitatory and inhibitory populations. This demonstrates the importance of input in determining the difference across neural populations.
+Heatmap (middle) showing the contribution of each shared dimension (total 3, based on selection 
+criteria (methods)) in explaining variance across each attribute and their relative importance. (bottom) Most important shared dimensions 
+have contributions from passive biophysical, action potential parameters, and adaptation current. Based on this, a strong suggestion can 
+be made for using linear input filter(STA) as the marker for heterogeneity in electrophysiological studies for both, excitatory and inhibitory 
+populations. This demonstrates the importance of input in determining the difference across neural populations.
 \end{figure}
 \newpage
 

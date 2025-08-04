@@ -6,6 +6,13 @@
   interneurons of the cerebral cortex.
 \newblock {\em Nature Reviews Neuroscience}, 9(7):557--568.
 
+\bibitem[Angelo et~al., 2012]{angelo2012biophysical}
+Angelo, K., Rancz, E.~A., Pimentel, D., Hundahl, C., Hannibal, J., Fleischmann,
+  A., Pichler, B., and Margrie, T.~W. (2012).
+\newblock A biophysical signature of network affiliation and sensory processing
+  in mitral cells.
+\newblock {\em Nature}, 488(7411):375--378.
+
 \bibitem[Brown et~al., 2023]{brown2023multiset}
 Brown, B.~C., Wang, C., Kasela, S., Aguet, F., Nachun, D.~C., Taylor, K.~D.,
   Tracy, R.~P., Durda, P., Liu, Y., Johnson, W.~C., et~al. (2023).
@@ -81,10 +88,23 @@ Hasson, U., Yang, E., Vallines, I., Heeger, D., and Rubin, N. (2008).
 \newblock A hierarchy of temporal receptive windows in human cortex.
 \newblock {\em Journal of Neuroscience}, 28(10):2539–2550.
 
+\bibitem[Hern{\'a}th et~al., 2019]{hernath2019alternative}
+Hern{\'a}th, F., Schlett, K., and Sz{\"u}cs, A. (2019).
+\newblock Alternative classifications of neurons based on physiological
+  properties and synaptic responses, a computational study.
+\newblock {\em Scientific reports}, 9(1):13096.
+
 \bibitem[Huang and Paul, 2019]{huang2019diversity}
 Huang, Z.~J. and Paul, A. (2019).
 \newblock The diversity of gabaergic neurons and neural communication elements.
 \newblock {\em Nature Reviews Neuroscience}, 20(9):563--572.
+
+\bibitem[Hutt et~al., 2023]{hutt2023intrinsic}
+Hutt, A., Rich, S., Valiante, T.~A., and Lefebvre, J. (2023).
+\newblock Intrinsic neural diversity quenches the dynamic volatility of neural
+  networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  120(28):e2218841120.
 
 \bibitem[Iacob et~al., 2022]{iacob2022distance}
 Iacob, S., Freiberger, M., and Dambre, J. (2022).
@@ -122,6 +142,12 @@ Markram, H., Toledo-Rodriguez, M., Wang, Y., Gupta, A., Silberberg, G., and Wu,
   C. (2004).
 \newblock Interneurons of the neocortical inhibitory system.
 \newblock {\em Nature reviews neuroscience}, 5(10):793--807.
+
+\bibitem[Marsat and Maler, 2010]{marsat2010neural}
+Marsat, G. and Maler, L. (2010).
+\newblock Neural heterogeneity and efficient population codes for communication
+  signals.
+\newblock {\em Journal of neurophysiology}, 104(5):2543--2555.
 
 \bibitem[Masland, 2012]{masland2012neuronal}
 Masland, R.~H. (2012).
@@ -162,6 +188,13 @@ Sanes, J.~R. and Masland, R.~H. (2015).
   for neuronal classification.
 \newblock {\em Annual review of neuroscience}, 38(1):221--246.
 
+\bibitem[Scala et~al., 2021]{scala2021phenotypic}
+Scala, F., Kobak, D., Bernabucci, M., Bernaerts, Y., Cadwell, C.~R., Castro,
+  J.~R., Hartmanis, L., Jiang, X., Laturnus, S., Miranda, E., et~al. (2021).
+\newblock Phenotypic variation of transcriptomic cell types in mouse motor
+  cortex.
+\newblock {\em Nature}, 598(7879):144--150.
+
 \bibitem[Seung and S{\"u}mb{\"u}l, 2014]{seung2014neuronal}
 Seung, H.~S. and S{\"u}mb{\"u}l, U. (2014).
 \newblock Neuronal cell types and connectivity: lessons from the retina.
@@ -192,6 +225,12 @@ Sussillo, D. (2014).
 \newblock Neural circuits as computational dynamical systems.
 \newblock {\em Current opinion in neurobiology}, 25:156--163.
 
+\bibitem[Szab{\'o} et~al., 2021]{szabo2021conventional}
+Szab{\'o}, A., Schlett, K., and Sz{\"u}cs, A. (2021).
+\newblock Conventional measures of intrinsic excitability are poor estimators
+  of neuronal activity under realistic synaptic inputs.
+\newblock {\em PLOS Computational Biology}, 17(9):e1009378.
+
 \bibitem[Tasic et~al., 2018]{tasic2018shared}
 Tasic, B., Yao, Z., Graybuck, L.~T., Smith, K.~A., Nguyen, T.~N., Bertagnolli,
   D., Goldy, J., Garren, E., Economo, M.~N., Viswanathan, S., et~al. (2018).
@@ -219,6 +258,12 @@ Wang, Q., Mitra, A., Snyder, A., et~al. (2021).
 \newblock The diversity and specificity of functional connectivity across
   spatial scales and brain states.
 \newblock {\em NeuroImage}, 237:118193.
+
+\bibitem[Wu et~al., 2025]{wu2025neural}
+Wu, S., Huang, H., Wang, S., Chen, G., Zhou, C., and Yang, D. (2025).
+\newblock Neural heterogeneity enhances reliable neural information processing:
+  Local sensitivity and globally input-slaved transient dynamics.
+\newblock {\em Science Advances}, 11(14):eadr3903.
 
 \bibitem[Yuste et~al., 2020]{yuste2020community}
 Yuste, R., Hawrylycz, M., Aalling, N., Aguilar-Valles, A., Arendt, D.,

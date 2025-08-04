@@ -21,29 +21,29 @@
 \contentsline {subsection}{Extracted features}{22}{subsection*.20}%
 \contentsline {subsection}{Network Design}{23}{subsection*.22}%
 \contentsline {section}{Summary and Outlook}{24}{section*.23}%
-\contentsline {section}{Thesis Structure}{24}{section*.24}%
+\contentsline {section}{Thesis Structure}{25}{section*.24}%
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {2}Neuronal Identity is Not Static—An Input-Driven Perspective}{29}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Neuronal Identity is Not Static: An Input-Driven Perspective}{29}{chapter.2}%
 \gdef \the@ipfilectr {@-3}
 \contentsline {section}{Abstract}{30}{section*.25}%
 \contentsline {section}{Introduction}{31}{section*.26}%
-\contentsline {section}{Materials and methods}{33}{section*.27}%
+\contentsline {section}{Materials and methods}{34}{section*.27}%
 \contentsline {paragraph}{Spike threshold}{38}{paragraph*.28}%
-\contentsline {paragraph}{Action Potential height and width}{38}{paragraph*.29}%
+\contentsline {paragraph}{Action Potential height and width}{39}{paragraph*.29}%
 \contentsline {paragraph}{Spike Triggered Average}{42}{paragraph*.30}%
-\contentsline {section}{Results}{49}{section*.31}%
-\contentsline {subsection}{Stimulus dependence of neural classification}{50}{subsection*.32}%
-\contentsline {subsubsection}{Stimulus dependence of neural classification using intracellular action potential waveforms}{50}{subsubsection*.33}%
-\contentsline {subsubsection}{Stimulus dependence of neural classification using action potential attributes}{52}{subsubsection*.34}%
-\contentsline {subsection}{Functional classification of neurons stimulated by the FN protocol based on different feature sets}{58}{subsection*.39}%
+\contentsline {section}{Results}{51}{section*.31}%
+\contentsline {subsection}{Stimulus dependence of neural classification}{51}{subsection*.32}%
+\contentsline {subsubsection}{Stimulus dependence of neural classification using intracellular action potential waveforms}{52}{subsubsection*.33}%
+\contentsline {subsubsection}{Stimulus dependence of neural classification using action potential attributes}{54}{subsubsection*.34}%
+\contentsline {subsection}{Functional classification of neurons stimulated by the FN protocol based on different feature sets}{60}{subsection*.39}%
 \contentsline {subsubsection}{Action potential attributes based neuron profiles using the FN protocol}{62}{subsubsection*.41}%
-\contentsline {subsubsection}{Passive biophysical feature and adaptation-based profile using the FN protocol}{64}{subsubsection*.44}%
+\contentsline {subsubsection}{Passive biophysical feature and adaptation-based profile using the FN protocol}{65}{subsubsection*.44}%
 \contentsline {subsubsection}{Neuronal classification based on linear input filter approximated using a Spike Triggered Average (STA) in the FN protocol}{71}{subsubsection*.47}%
 \contentsline {subsubsection}{Comparing Physiological Heterogeneity across attribute sets using Multi-set Correlation and Factor Analysis}{75}{subsubsection*.50}%
 \contentsline {section}{Discussion}{79}{section*.53}%
 \contentsline {subsection}{The role of input in neuronal functional diversity}{80}{subsection*.54}%
 \contentsline {subsection}{Neuronal classification using frozen noise input-based attributes}{82}{subsection*.55}%
-\contentsline {subsection}{MCFA-based variance comparison across attribute sets}{86}{subsection*.56}%
+\contentsline {subsection}{MCFA-based variance comparison across attribute sets}{85}{subsection*.56}%
 \contentsline {subsection}{Limitations}{86}{subsection*.57}%
 \contentsline {subsection}{Conclusion}{88}{subsection*.58}%
 \gdef \the@ipfilectr {}
@@ -51,104 +51,108 @@
 \gdef \the@ipfilectr {@-4}
 \contentsline {section}{Abstract}{94}{section*.59}%
 \contentsline {section}{Introduction}{95}{section*.60}%
-\contentsline {section}{Methods}{97}{section*.61}%
+\contentsline {section}{Methods}{98}{section*.61}%
 \contentsline {paragraph}{Spike Triggered Average}{103}{paragraph*.65}%
 \contentsline {subsection}{Information transfer protocol}{104}{subsection*.66}%
-\contentsline {section}{Results}{108}{section*.68}%
+\contentsline {section}{Results}{109}{section*.68}%
 \contentsline {subsection}{Neuromodulation alters information transfer in a cell-type and agonist-specific manner}{110}{subsection*.70}%
 \contentsline {subsubsection}{Cell type specific changes in information transfer and firing rate relative to baseline variability}{111}{subsubsection*.71}%
-\contentsline {subsubsection}{Neuromodulation shifts FI distributions in a receptor and cell-type-specific manner}{112}{subsubsection*.72}%
+\contentsline {subsubsection}{Neuromodulation shifts FI distributions in a receptor and cell-type-specific manner}{113}{subsubsection*.72}%
 \contentsline {subsubsection}{Summary and interpretation}{113}{subsubsection*.73}%
-\contentsline {subsection}{Specific receptor activation alters functional classification }{114}{subsection*.76}%
-\contentsline {subsection}{Neuromodulation changes structured correlation between functional attributes in a cell-type as well as receptor type specific manner}{124}{subsection*.81}%
-\contentsline {subsubsection}{D1-R agonist}{125}{subsubsection*.83}%
-\contentsline {subsubsection}{D2-R agonist}{126}{subsubsection*.84}%
-\contentsline {subsubsection}{Muscarinic M1-R agonist}{127}{subsubsection*.85}%
-\contentsline {subsubsection}{Summary}{128}{subsubsection*.86}%
-\contentsline {section}{Discussion}{130}{section*.89}%
-\contentsline {subsubsection}{Receptor-Specific Neuromodulation Reshapes Functional Architecture in Distinct Cell Types}{130}{subsubsection*.90}%
-\contentsline {subsubsection}{Functional Clustering and Heterogeneous Modulation of Neuronal Identity}{132}{subsubsection*.91}%
-\contentsline {subsubsection}{Neuromodulation Selectively Alters Information Transfer}{133}{subsubsection*.92}%
-\contentsline {subsubsection}{Limitations and Future Directions}{134}{subsubsection*.93}%
-\contentsline {subsubsection}{Conclusion}{135}{subsubsection*.94}%
+\contentsline {subsection}{Specific receptor activation alters functional classification }{115}{subsection*.76}%
+\contentsline {subsection}{Neuromodulation changes structured correlation between functional attributes in a cell-type as well as receptor type specific manner}{125}{subsection*.81}%
+\contentsline {subsubsection}{D1-R agonist}{126}{subsubsection*.83}%
+\contentsline {subsubsection}{D2-R agonist}{127}{subsubsection*.84}%
+\contentsline {subsubsection}{Muscarinic M1-R agonist}{128}{subsubsection*.85}%
+\contentsline {subsubsection}{Summary}{129}{subsubsection*.86}%
+\contentsline {section}{Discussion}{131}{section*.89}%
+\contentsline {subsubsection}{Receptor-Specific Neuromodulation Reshapes Functional Architecture in Distinct Cell Types}{131}{subsubsection*.90}%
+\contentsline {subsubsection}{Functional Clustering and Heterogeneous Modulation of Neuronal Identity}{133}{subsubsection*.91}%
+\contentsline {subsubsection}{Neuromodulation Selectively Alters Information Transfer}{134}{subsubsection*.92}%
+\contentsline {subsubsection}{Limitations and Future Directions}{135}{subsubsection*.93}%
+\contentsline {subsubsection}{Conclusion}{136}{subsubsection*.94}%
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {4}Heterogeneity in delay and timescales improves task Performance}{139}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Timescale Heterogeneiety in Reservoir Computing}{141}{chapter.4}%
 \gdef \the@ipfilectr {@-5}
-\contentsline {section}{Abstract}{140}{section*.95}%
-\contentsline {section}{Introduction}{141}{section*.96}%
-\contentsline {section}{Methods}{144}{section*.97}%
-\contentsline {subsection}{Network Design}{144}{subsection*.98}%
-\contentsline {subsubsection}{Echo State networks }{144}{subsubsection*.99}%
-\contentsline {subsubsection}{Distance based delay networks}{144}{subsubsection*.100}%
-\contentsline {subsection}{Task}{145}{subsection*.101}%
-\contentsline {subsubsection}{NARMA-30}{145}{subsubsection*.102}%
-\contentsline {subsubsection}{Evaluation}{146}{subsubsection*.103}%
-\contentsline {subsubsection}{Mackey-Glass}{146}{subsubsection*.104}%
-\contentsline {subsubsection}{Evaluation}{147}{subsubsection*.105}%
-\contentsline {subsection}{Training}{147}{subsection*.106}%
-\contentsline {subsubsection}{CMA-ES Optimization}{147}{subsubsection*.107}%
-\contentsline {subsubsection}{Readout training}{148}{subsubsection*.108}%
-\contentsline {subsection}{Lyapunov exponent}{148}{subsection*.109}%
-\contentsline {subsection}{Dimensionality}{149}{subsection*.110}%
-\contentsline {subsection}{Linear Memory Capacity}{150}{subsection*.111}%
-\contentsline {section}{Results}{150}{section*.112}%
-\contentsline {subsection}{Task Performance }{151}{subsection*.114}%
-\contentsline {subsubsection}{NARMA 30}{151}{subsubsection*.115}%
-\contentsline {subsubsection}{Mackey-Glass}{153}{subsubsection*.116}%
-\contentsline {subsection}{Stability and Dimensionality}{155}{subsection*.119}%
-\contentsline {subsubsection}{Maximum Lyapunov exponents}{155}{subsubsection*.120}%
-\contentsline {subsubsection}{Dimensionality}{156}{subsubsection*.121}%
-\contentsline {subsection}{Linear Memory capacity}{157}{subsection*.123}%
-\contentsline {section}{Discussion}{160}{section*.125}%
+\contentsline {section}{Abstract}{142}{section*.95}%
+\contentsline {section}{Introduction}{143}{section*.96}%
+\contentsline {section}{Methods}{146}{section*.97}%
+\contentsline {subsection}{Network Design}{146}{subsection*.98}%
+\contentsline {subsubsection}{Echo State networks }{146}{subsubsection*.99}%
+\contentsline {subsubsection}{Distance based delay networks}{146}{subsubsection*.100}%
+\contentsline {subsection}{Task}{147}{subsection*.101}%
+\contentsline {subsubsection}{NARMA-30}{147}{subsubsection*.102}%
+\contentsline {subsubsection}{Evaluation}{148}{subsubsection*.103}%
+\contentsline {subsubsection}{Mackey-Glass}{148}{subsubsection*.104}%
+\contentsline {subsubsection}{Evaluation}{149}{subsubsection*.105}%
+\contentsline {subsection}{Training}{149}{subsection*.106}%
+\contentsline {subsubsection}{CMA-ES Optimization}{149}{subsubsection*.107}%
+\contentsline {subsubsection}{Readout training}{150}{subsubsection*.108}%
+\contentsline {subsection}{Lyapunov exponent}{150}{subsection*.109}%
+\contentsline {subsection}{Dimensionality}{151}{subsection*.110}%
+\contentsline {subsection}{Linear Memory Capacity}{152}{subsection*.111}%
+\contentsline {section}{Results}{153}{section*.112}%
+\contentsline {subsection}{Task Performance }{154}{subsection*.114}%
+\contentsline {subsubsection}{NARMA 30}{154}{subsubsection*.115}%
+\contentsline {subsubsection}{Mackey-Glass}{155}{subsubsection*.116}%
+\contentsline {subsection}{Stability and Dimensionality}{157}{subsection*.119}%
+\contentsline {subsubsection}{Maximum Lyapunov exponents}{157}{subsubsection*.120}%
+\contentsline {subsubsection}{Dimensionality}{158}{subsubsection*.121}%
+\contentsline {subsection}{Linear Memory capacity}{159}{subsection*.123}%
+\contentsline {section}{Discussion}{162}{section*.125}%
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {5}General Discussion}{165}{chapter.5}%
+\contentsline {chapter}{\numberline {5}General Discussion}{167}{chapter.5}%
 \gdef \the@ipfilectr {@-6}
-\contentsline {section}{Summary}{166}{section*.126}%
-\contentsline {section}{Neuro-scientific Implications}{167}{section*.127}%
-\contentsline {subsection}{Rethinking neuronal classification: input dependence challenges current taxonomies}{167}{subsection*.128}%
-\contentsline {subsection}{Introduction of Novel Analytical Methods to Study Functional Reorganization and High-Dimensional Correlations}{168}{subsection*.129}%
-\contentsline {subsection}{Highlighting the Functional Value of Heterogeneity at the Population Level}{169}{subsection*.130}%
-\contentsline {section}{AI / computational modeling implications}{170}{section*.131}%
-\contentsline {subsection}{Heterogeneity Improves Reservoir Performance}{170}{subsection*.132}%
-\contentsline {subsection}{Toward Architecture-Level Design Principles Grounded in Biology}{171}{subsection*.133}%
-\contentsline {subsection}{Limitations and Methodological Constraints}{172}{subsection*.134}%
-\contentsline {subsection}{Future Directions}{173}{subsection*.135}%
-\contentsline {subsubsection}{Biological Extensions}{173}{subsubsection*.136}%
-\contentsline {subsubsection}{Computational Extensions}{174}{subsubsection*.137}%
-\contentsline {section}{Final Statement}{175}{section*.138}%
+\contentsline {section}{Summary}{168}{section*.126}%
+\contentsline {section}{Neuro-scientific Implications}{169}{section*.127}%
+\contentsline {subsection}{Rethinking neuronal classification: input dependence challenges current taxonomies}{169}{subsection*.128}%
+\contentsline {subsection}{Introduction of Novel Analytical Methods to Study Functional Reorganization and High-Dimensional Correlations}{170}{subsection*.129}%
+\contentsline {subsection}{Highlighting the Functional Value of Heterogeneity at the Population Level}{171}{subsection*.130}%
+\contentsline {section}{AI / computational modeling implications}{172}{section*.131}%
+\contentsline {subsection}{Heterogeneity Improves Reservoir Performance}{172}{subsection*.132}%
+\contentsline {subsection}{Toward Architecture-Level Design Principles Grounded in Biology}{173}{subsection*.133}%
+\contentsline {subsection}{Limitations and Methodological Constraints}{174}{subsection*.134}%
+\contentsline {subsection}{Future Directions}{175}{subsection*.135}%
+\contentsline {subsubsection}{Biological Extensions}{175}{subsubsection*.136}%
+\contentsline {subsubsection}{Computational Extensions}{176}{subsubsection*.137}%
+\contentsline {section}{Final Statement}{177}{section*.138}%
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {6}Supplementary Materials}{179}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Supplementary Materials}{181}{chapter.6}%
 \gdef \the@ipfilectr {@-7}
-\contentsline {section}{Supplementary materials of chapter 2}{180}{section*.139}%
-\contentsline {section}{Waveform and Action Potential properties manifold \\ comparison }{180}{section*.140}%
-\contentsline {section}{Louvain vs Ensemble Clustering for Graphs (ECG) algorithm comparison }{181}{section*.142}%
-\contentsline {section}{Cluster stability after leaving one attribute out at a time}{183}{section*.145}%
-\contentsline {section}{Diversity of firing rate and AP half-width}{184}{section*.147}%
-\contentsline {section}{STA Heterogeneity}{185}{section*.149}%
-\contentsline {section}{Cluster assignment likelihood across attributes}{186}{section*.151}%
-\contentsline {section}{Supplementary materials of chapter 3}{188}{section*.154}%
+\contentsline {section}{Supplementary materials of chapter 2}{182}{section*.139}%
+\contentsline {section}{Waveform and Action Potential properties manifold \\ comparison }{182}{section*.140}%
+\contentsline {section}{Louvain vs Ensemble Clustering for Graphs (ECG) algorithm comparison }{183}{section*.142}%
+\contentsline {section}{Cluster stability after leaving one attribute out at a time}{185}{section*.145}%
+\contentsline {section}{Diversity of firing rate and AP half-width}{186}{section*.147}%
+\contentsline {section}{STA Heterogeneity}{187}{section*.149}%
+\contentsline {section}{Cluster assignment likelihood across attributes}{188}{section*.151}%
+\contentsline {section}{Supplementary materials of chapter 3}{190}{section*.154}%
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {7}Appendices}{213}{chapter.7}%
+\contentsline {chapter}{\numberline {7}Appendices}{215}{chapter.7}%
 \gdef \the@ipfilectr {@-8}
-\contentsline {section}{Nederlandse samenvatting}{214}{section*.179}%
+\contentsline {section}{Nederlandse samenvatting}{216}{section*.179}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-9}
-\contentsline {section}{Research Data Management Statement}{215}{section*.180}%
-\contentsline {subsection}{Ethics}{215}{subsection*.181}%
-\contentsline {subsection}{FAIR principles}{215}{subsection*.182}%
-\contentsline {subsubsection}{1. Findable}{215}{subsubsection*.183}%
-\contentsline {subsubsection}{2. Accessible}{215}{subsubsection*.184}%
-\contentsline {subsubsection}{3. Interoperable}{215}{subsubsection*.185}%
-\contentsline {subsubsection}{4. Reusable}{215}{subsubsection*.186}%
-\contentsline {subsection}{Privacy}{215}{subsection*.187}%
+\contentsline {section}{Research Data Management}{217}{section*.180}%
+\contentsline {section}{Ethical approval}{217}{section*.181}%
+\contentsline {section}{Findability and accessibility}{217}{section*.182}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-10}
-\contentsline {section}{Acknowledgements}{216}{section*.188}%
+\contentsline {section}{Outreach activities}{219}{section*.183}%
+\contentsline {section}{Brain Bee}{219}{section*.184}%
+\contentsline {subsection}{Genetic Algorithms (Chapter 2.4)}{219}{subsection*.185}%
+\contentsline {subsection}{AI and Neuroscience Applications Outside the Brain: Ethics and Impact (Chapter 2.5)}{220}{subsection*.186}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-11}
-\contentsline {section}{Curriculum Vitae}{217}{section*.189}%
+\contentsline {section}{Failures}{223}{section*.187}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-12}
-\contentsline {section}{Donders Graduate School for Cognitive Neuroscience}{218}{section*.191}%
+\contentsline {section}{Acknowledgements}{224}{section*.188}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-13}
+\contentsline {section}{Curriculum Vitae}{225}{section*.189}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-14}
+\contentsline {section}{Donders Graduate School for Cognitive Neuroscience}{226}{section*.191}%
 \gdef \the@ipfilectr {}
 \contentsfinish 

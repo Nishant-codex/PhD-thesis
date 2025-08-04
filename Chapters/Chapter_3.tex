@@ -33,14 +33,8 @@ Together, these analyses reveal how dopaminergic and cholinergic modulation resh
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Methods    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\newpage
 \section{Methods}
-
-
-
-
-
-
 
 \textbf{Ethics statement} The data used in this research was previously published and made freely available to the community \cite{da2018databank} and \cite{yan2022whole}. All experimental work, as described in the articles cited, was carried out in accordance with the European directive 2010/63/EU, the Dutch national regulations and international standards for animal care and use.    
 
@@ -231,18 +225,15 @@ The MCFA fitting procedure used an expectation-maximization (EM) algorithm as de
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Results    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
 
 \section{Results}
-
-
 
 Neuronal identity is shaped by both intrinsic properties, such as gene expression and ion channel makeup \cite{schultz2007multiple,fishell2013neuron}, and external influences like synaptic input \cite{joshi2024understanding} and neuromodulatory signals. While previous work has studied excitability effects, it is still unclear how specific neuromodulators reconfigure a neuron’s functional role across different physiological domains. 
 
 This study investigates how selectively activating dopaminergic (D1-R, D2-R) and cholinergic (M1-R) receptors modifies the input–output properties of excitatory and inhibitory neurons. We used the single unit somatic in-vitro recording dataset (\cite{yan2022whole}), in which the neurons were recorded using the Frozen Noise (FN) protocol \cite{zeldenrust2017estimating} (see Methods and Fig. \textbf{\ref{fig:FN_protocol}}) to capture responses under biologically realistic input. The dataset includes recordings from 312 individual neurons, each recorded under control (aCSF) and again after bath application of a specific neuromodulatory agonist (e.g., D1-R, D2-R, M1-R, etc.). Some neurons were recorded multiple times, by rinsing and repeating the aCSF, followed by agonist application. We refer to each such pair of recordings from a single neuron, including both aCSF and agonist conditions as a recording pair and each individual recording as trial. After excluding low-quality trials, 296 such recording sets were retained for analysis (see Methods). For this study, we only focus of D1-R, D2-R and M1-R agonist recording sets.    
 
 We extracted a large set of intrinsic and input dependent attributes and grouped them into four functional attribute sets from each recording namely, action potential (AP) attributes, passive biophysical (PB) attributes, adaptation currents (AC) using a GLIF model, and spike-triggered averages (STAs) (see Methods) and analyzed how these changed under control (aCSF) versus agonist conditions. Neurons were grouped as excitatory or inhibitory following the same labeling protocol as \cite{joshi2024understanding} using waveform shapes and firing rates. We then analyzed how neuromodulation affected these attribute sets individually and in combination, assessing changes in encoding, intrinsic properties, input filtering, and their inter-dependencies. 
-
- 
 
 \begin{table}[ht]
 \centering
@@ -328,10 +319,6 @@ the normalized change in firing rate vs fractional information as a result of M1
 of measured FI for aCSF and M1 conditions respectively. * $p<0.05$, ** $p<0.001$, *** $p<0.0001$.   
 \end{figure}
 
-
-
-
-
 \subsection{Specific receptor activation alters functional classification }
 
 Neuromodulators are known to affect the intrinsic properties that may or may not depend on the input. For instance D2-R activation modulates excitability in motor cortex \cite{cousineau2020dopamine}. Neuronal functional classification which is classically studied using action potential and passive biophysical features, has been shown to change as a function of input to the neuron \cite{joshi2024understanding, hernath2019alternative, calcini2024electrical}. Also, we have shown in the previous section that neuromodulation (D1, D2, and M1 agonists) changes computation by changing amount of information transferred to a postsynaptic neuron in a cell-type specific manner. Therefore it is important to understand how functional attributes (passive, as well as input dependent) are altered by D1-R, D2-R and M1-R activation. Moreover, as functional attributes change, their assignment into different classes might also chance. Therefore, we look at how neural clustering based on functional attributes change as a result of neuromodulation. 
@@ -343,6 +330,7 @@ After establishing the baseline for clustering similarity, we clustered D1-R, D2
 We further explored how each attribute in the AP and PB attribute sets is altered as a result of D1-R activation, for passive biophysical properties (Fig. \textbf{\ref{fig:Fig2_ref} A.2}) we found that conductance (gL) (One Sided t-test: $p < 0.001$) and reset voltage (Vr) (One Sided t-test: $p < 0.05$) are significantly reduced as a result of D1-R activation. We then explored how adaptation current and linear input filter (STA) are altered as a result of D1-R modulation shown in Fig. \textbf{\ref{fig:Fig2_ref} A.3} and Fig. \textbf{\ref{fig:Fig2_ref} A.4}, the red curves represent D1 trials and black curves represent aCSF trials. To quantify the differences between D1 and aCSF trials, we calculated the rise time and peak values (see  Methods \ref{methods}) for both adaptation currents and STA. The joint plot Fig. \ref{fig:S5} shows the rise time and peak differences between D1 and aCSF trials for adaptation current and Fig. \ref{fig:S6} shows rise time and peak value for STA. The peak and rise time for adaptation current (AC paired t-test (decay time): $p = 0.4341$, AC paired t-test (peak): $p = 0.2444$) and STA (STA paired t-test (rise time): $p = 0.758$, STA paired t-test (peak): $p = 0.0514$) were found to not be significantly different between aCSF and D1 trials for excitatory neurons. This suggest that STA and adaptation currents are not altered significantly as a result of D1-R activation. 
 
 We also performed a cosine similarity measurement within (between agonist-agonist or aCSF-aCSF) and across the aCSF and D1 trials for AC curves see Fig. \ref{fig:S7}, we performed a Kruskal--Wallis H test on three groups: within-aCSF, within-agonist, and across-aCSF and agonist conditions. The test revealed a significant effect of group based on similarity distributions ($H(2) = 15.3953$, $p = 4.53e-4$). Post hoc comparisons using Mann--Whitney U tests (Bonferroni-corrected for multiple comparisons) showed that:
+
 \begin{itemize}
     \item The mean cosine similarity score was significantly higher for within aCSF compared to across-pair (aCSF-D1) comparisons ($U = 120654.00 $, $p = 3.17e-4$),
     \item Within D1 mean cosine similarity was also found to be significantly lower than across-pair (D1-aCSF) mean cosine similarity ($U = 153267.00$, $p = 0.0217$),
@@ -372,10 +360,10 @@ For inhibitory neurons, the effect on clustering in case of D1-R activation is s
 	\includegraphics[width=0.9\textwidth]{Figures/Ch_3/Fig3.pdf} % for an image file 
     \caption{\textbf{D1-R activation changes functional clustering and attributes for both excitatory and inhibitory neurons.}(\textbf{A.1}) 
     Histogram shows the adjusted mutual information score between the clustering labels obtained for aCSF and D1 trials, the histogram shows 
-a shift in cluster identities as a result of D1 receptor activation across four attributes. (\textbf{A.2}) shows the change in passive parameters with 
-respect to control as a result of D1 receptor activation, normalized by the control trial values. (\textbf{A.3}) shows the adaptation current for control 
-(black) and D1 (red), the mean is represented with darker curves. (\textbf{A.4}) shows the spike triggered average profile for aCSF (black) and D1 (red) 
-trials, the mean is represented with a thick line. }
+    a shift in cluster identities as a result of D1 receptor activation across four attributes. (\textbf{A.2}) shows the change in passive parameters with 
+    respect to control as a result of D1 receptor activation, normalized by the control trial values. (\textbf{A.3}) shows the adaptation current for control 
+    (black) and D1 (red), the mean is represented with darker curves. (\textbf{A.4}) shows the spike triggered average profile for aCSF (black) and D1 (red) 
+    trials, the mean is represented with a thick line. }
 	\label{fig:Fig2_ref} % give each figure a logical label name
 \end{figure}
     
@@ -524,7 +512,9 @@ Interestingly, we observed similar coupling effects under M1R activation, pointi
 
 \subsubsection{Functional Clustering and Heterogeneous Modulation of Neuronal Identity}
 
-To examine how these neuromodulatory changes reorganize functional neuron types, we applied UMAP-Louvain clustering to the high-dimensional feature sets before and after receptor activation. Our results show that agonist application drastically alters functional clustering, suggesting that receptor-specific modulation reshapes neuronal identities in both excitatory and inhibitory populations.
+To examine how these neuromodulatory changes reorganize functional neuron types, we applied UMAP-Louvain clustering to the high-dimensional 
+feature sets before and after receptor activation. Our results show that agonist application drastically alters functional clustering, 
+suggesting that receptor-specific modulation reshapes neuronal identities in both excitatory and inhibitory populations.
 
 Importantly, the modulatory effects were not uniform, but heterogeneous within cell types, implying that neuromodulation acts in a subtype-specific manner. This is consistent with recent work showing volume transmission and receptor expression gradients as mechanisms for differential modulation across cell types~\cite{ozccete2024mechanisms}. By clustering neurons based on their change vectors (difference between agonist and control), we identified distinct subpopulations exhibiting coordinated shifts in AP and passive properties, reinforcing the idea that neuromodulation reconfigures the functional state space of neurons rather than simply scaling their excitability.
 
@@ -532,21 +522,38 @@ We also found that adaptation currents and STAs became more homogeneous in excit
 
 \subsubsection{Neuromodulation Selectively Alters Information Transfer}
 
-While neuromodulators are known to affect neuronal excitability, less is known about how such changes impact information transmission. Using the frozen noise protocol~\cite{zeldenrust2017estimating}, we estimated fractional information (FI) between stimulus and spike train for each neuron under different receptor conditions.
+While neuromodulators are known to affect neuronal excitability, less is known about how such changes impact information transmission. 
+Using the frozen noise protocol~\cite{zeldenrust2017estimating}, we estimated fractional information (FI) between stimulus and spike 
+train for each neuron under different receptor conditions.
 
-Our key finding is that neuromodulation alters information transfer in a cell-type and receptor-specific manner. Specifically, D1R and M1R activation significantly decreased FI in excitatory neurons, while D2R activation increased FI in inhibitory neurons. This suggests that excitatory and inhibitory neurons are differentially engaged by neuromodulators to redistribute information processing roles. Moreover, FI variance increased in excitatory neurons under D1R, implying a diversification of encoding strategies, whereas inhibitory neurons exhibited more stable and coordinated changes.
+Our key finding is that neuromodulation alters information transfer in a cell-type and receptor-specific manner. Specifically, D1R 
+and M1R activation significantly decreased FI in excitatory neurons, while D2R activation increased FI in inhibitory neurons. This 
+suggests that excitatory and inhibitory neurons are differentially engaged by neuromodulators to redistribute information processing 
+roles. Moreover, FI variance increased in excitatory neurons under D1R, implying a diversification of encoding strategies, whereas 
+inhibitory neurons exhibited more stable and coordinated changes.
 
 These findings underscore an important result that modulation of biophysical and spike-generating properties has direct consequences on the information transfer and encoding of neurons. Neuromodulators do not simply shift the gain of neurons, they reconfigure how inputs are integrated and transformed into outputs, thus shaping the flow of information through cortical networks. This raises exciting new questions about how neuromodulatory systems shape perceptual inference, attention, and learning by dynamically allocating information processing across cell types.
 
 \subsubsection{Limitations and Future Directions}
 
-Our study, while comprehensive, has several important limitations. First, our recordings were limited to the soma, whereas neuromodulation often targets synaptic and dendritic compartments, which could substantially influence neuronal input-output transformations. Second, our analysis is constrained by sample size and cortical region, necessitating broader recordings across layers and brain areas to validate the generality of our findings.
+Our study, while comprehensive, has several important limitations. First, our recordings were limited to the soma, whereas neuromodulation 
+often targets synaptic and dendritic compartments, which could substantially influence neuronal input-output transformations. Second, our 
+analysis is constrained by sample size and cortical region, necessitating broader recordings across layers and brain areas to validate 
+the generality of our findings.
 
-Most critically, neuromodulatory systems are highly degenerate: the same ion channel can be targeted by multiple modulators, and a single neuromodulator can affect many channels and cellular processes. Thus, our receptor-specific results represent only a partial view of the underlying modulatory landscape. Future work should incorporate multi-receptor interactions, consider temporal dynamics of modulation, and examine how these single-cell changes propagate to network-level phenomena such as synchrony, attractor stability, and behavioral output.
+Most critically, neuromodulatory systems are highly degenerate: the same ion channel can be targeted by multiple modulators, and a 
+single neuromodulator can affect many channels and cellular processes. Thus, our receptor-specific results represent only a partial 
+view of the underlying modulatory landscape. Future work should incorporate multi-receptor interactions, consider temporal dynamics 
+of modulation, and examine how these single-cell changes propagate to network-level phenomena such as synchrony, attractor stability, 
+and behavioral output.
 
 \subsubsection{Conclusion}
 
-Together, our findings reveal that D1, D2, and M1 receptor activation differentially reorganizes the biophysical, adaptive, and encoding properties of excitatory and inhibitory neurons in layer 2/3 of the somatosensory cortex. Neuromodulation can couple or decouple domains of neuronal function, alter functional classification, and modulate information transmission in a subtype-specific manner. These effects likely support context-dependent reconfiguration of cortical computation and offer a new window into how global modulatory signals dynamically orchestrate diverse local circuit functions.
+Together, our findings reveal that D1, D2, and M1 receptor activation differentially reorganizes the biophysical, adaptive, and 
+encoding properties of excitatory and inhibitory neurons in layer 2/3 of the somatosensory cortex. Neuromodulation can couple or 
+decouple domains of neuronal function, alter functional classification, and modulate information transmission in a subtype-specific 
+manner. These effects likely support context-dependent reconfiguration of cortical computation and offer a new window into how 
+global modulatory signals dynamically orchestrate diverse local circuit functions.
 
 
 
