@@ -66,9 +66,9 @@
 \contentsline {subsubsection}{Muscarinic M1-R agonist}{128}{subsubsection*.85}%
 \contentsline {subsubsection}{Summary}{129}{subsubsection*.86}%
 \contentsline {section}{Discussion}{131}{section*.89}%
-\contentsline {subsubsection}{Receptor-Specific Neuromodulation Reshapes Functional Architecture in Distinct Cell Types}{131}{subsubsection*.90}%
+\contentsline {subsubsection}{Neuromodulation Selectively Alters Information Transfer}{131}{subsubsection*.90}%
 \contentsline {subsubsection}{Functional Clustering and Heterogeneous Modulation of Neuronal Identity}{133}{subsubsection*.91}%
-\contentsline {subsubsection}{Neuromodulation Selectively Alters Information Transfer}{134}{subsubsection*.92}%
+\contentsline {subsubsection}{Receptor-Specific Neuromodulation Reshapes Functional Architecture in Distinct Cell Types}{134}{subsubsection*.92}%
 \contentsline {subsubsection}{Limitations and Future Directions}{135}{subsubsection*.93}%
 \contentsline {subsubsection}{Conclusion}{136}{subsubsection*.94}%
 \gdef \the@ipfilectr {}
@@ -138,21 +138,33 @@
 \contentsline {section}{Findability and accessibility}{217}{section*.182}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-10}
-\contentsline {section}{Outreach activities}{219}{section*.183}%
-\contentsline {section}{Brain Bee}{219}{section*.184}%
-\contentsline {subsection}{Genetic Algorithms (Chapter 2.4)}{219}{subsection*.185}%
-\contentsline {subsection}{AI and Neuroscience Applications Outside the Brain: Ethics and Impact (Chapter 2.5)}{220}{subsection*.186}%
+\contentsline {section}{Outreach activities}{218}{section*.183}%
+\contentsline {section}{Brain Bee}{218}{section*.184}%
+\contentsline {subsection}{Genetic Algorithms (Chapter 2.4)}{218}{subsection*.185}%
+\contentsline {subsubsection}{Biological Foundations:}{218}{subsubsection*.186}%
+\contentsline {subsubsection}{Algorithmic Steps and Mechanics:}{219}{subsubsection*.187}%
+\contentsline {subsubsection}{Fitness Function Concept:}{219}{subsubsection*.188}%
+\contentsline {subsubsection}{Applications in Neuroscience:}{219}{subsubsection*.189}%
+\contentsline {subsubsection}{Limitations:}{219}{subsubsection*.190}%
+\contentsline {subsubsection}{Educational Features:}{220}{subsubsection*.191}%
+\contentsline {subsection}{AI and Neuroscience Applications Outside the Brain: Ethics and Impact (Chapter 2.5)}{220}{subsection*.192}%
+\contentsline {subsubsection}{Real-World AI Applications:}{220}{subsubsection*.193}%
+\contentsline {subsubsection}{Neurotechnology and Neuro-Robotics:}{220}{subsubsection*.194}%
+\contentsline {subsubsection}{Ethical Challenges:}{221}{subsubsection*.195}%
+\contentsline {subsubsection}{Societal Impact and Sustainability:}{221}{subsubsection*.196}%
+\contentsline {subsubsection}{Didactic Structure and Resources:}{221}{subsubsection*.197}%
+\contentsline {subsubsection}{Overall Contribution Impact}{221}{subsubsection*.198}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-11}
-\contentsline {section}{Failures}{223}{section*.187}%
+\contentsline {section}{Failures}{223}{section*.199}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-12}
-\contentsline {section}{Acknowledgements}{224}{section*.188}%
+\contentsline {section}{Acknowledgements}{224}{section*.200}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-13}
-\contentsline {section}{Curriculum Vitae}{225}{section*.189}%
+\contentsline {section}{Curriculum Vitae}{225}{section*.201}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-14}
-\contentsline {section}{Donders Graduate School for Cognitive Neuroscience}{226}{section*.191}%
+\contentsline {section}{Donders Graduate School for Cognitive Neuroscience}{226}{section*.203}%
 \gdef \the@ipfilectr {}
 \contentsfinish 

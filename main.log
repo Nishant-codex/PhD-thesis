@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  4 AUG 2025 17:23
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  11 AUG 2025 09:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1779,11 +1779,8 @@ t;"
 LaTeX Warning: Unused global option(s):
     [10.5pt].
 
-(main.aux (Chapters/title.aux) (Chapters/Introduction.aux
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-) (Chapters/Chapter_2.aux) (Chapters/Chapter_3.aux) (Chapters/Chapter_4.aux)
+(main.aux (Chapters/title.aux) (Chapters/Introduction.aux)
+(Chapters/Chapter_2.aux) (Chapters/Chapter_3.aux) (Chapters/Chapter_4.aux)
 (Chapters/Discussion.aux) (Chapters/Supplementary_Materials.aux)
 (Chapters/Summary.aux) (Chapters/Research data management statement.aux)
 (Chapters/outreach.aux) (Chapters/Failures.aux) (Chapters/Acknowledgements.aux)
@@ -2122,13 +2119,13 @@ Chapter 1.
 [12]
 
 [13]
-Overfull \hbox (1.43538pt too wide) in paragraph at lines 68--69
+Overfull \hbox (1.43538pt too wide) in paragraph at lines 114--124
 \TU/PalatinoLinotype(0)/m/n/10 as step-and-hold current injections, to derive e
 lectrophysiological signatures.
  []
 
 
-Overfull \hbox (4.51077pt too wide) in paragraph at lines 70--71
+Overfull \hbox (4.51077pt too wide) in paragraph at lines 125--133
 []\TU/PalatinoLinotype(0)/b/n/10 Neuronal Identity as an Emergent, Dynamic Cons
 truct \TU/PalatinoLinotype(0)/m/n/10 Taken together, these
  []
@@ -2136,7 +2133,7 @@ truct \TU/PalatinoLinotype(0)/m/n/10 Taken together, these
 
 
 [14]
-Overfull \hbox (4.71579pt too wide) in paragraph at lines 74--75
+Overfull \hbox (4.71579pt too wide) in paragraph at lines 139--149
 []\TU/PalatinoLinotype(0)/b/n/10 Rich high-dimensional functional space remains
  unexplored \TU/PalatinoLinotype(0)/m/n/10 Neurons func-
  []
@@ -2144,13 +2141,13 @@ Overfull \hbox (4.71579pt too wide) in paragraph at lines 74--75
 
 
 [15]
-Overfull \hbox (8.69528pt too wide) in paragraph at lines 83--84
+Overfull \hbox (8.69528pt too wide) in paragraph at lines 165--169
 \TU/PalatinoLinotype(0)/m/n/10 Neuromodulatory systems particularly those invol
 ving dopamine and acetylcholine
  []
 
 
-Overfull \hbox (1.99202pt too wide) in paragraph at lines 85--86
+Overfull \hbox (1.99202pt too wide) in paragraph at lines 170--173
 \TU/PalatinoLinotype(0)/m/n/10 neuromodulation on neuronal computation remains 
 poorly understood, especially
  []
@@ -2162,13 +2159,13 @@ poorly understood, especially
 [17]
 
 [18]
-Overfull \hbox (2.98811pt too wide) in paragraph at lines 109--111
+Overfull \hbox (2.98811pt too wide) in paragraph at lines 196--198
 \TU/PalatinoLinotype(0)/m/n/10 dependent, with classification outcomes varying 
 significantly under dynamic
  []
 
 
-Overfull \hbox (1.56801pt too wide) in paragraph at lines 112--114
+Overfull \hbox (1.56801pt too wide) in paragraph at lines 199--201
 \TU/PalatinoLinotype(0)/m/n/10 show that neuromodulatory effects are highly cel
 l-type and receptor-specific,
  []
@@ -2179,7 +2176,7 @@ l-type and receptor-specific,
 File: Figures/Intro/input_protocol.pdf Graphic file (type pdf)
 <use Figures/Intro/input_protocol.pdf>
 
-Overfull \hbox (1.18724pt too wide) in paragraph at lines 133--134
+Overfull \hbox (1.18724pt too wide) in paragraph at lines 225--235
 \TU/PalatinoLinotype(0)/m/n/10 and after-hyperpolarization. The step-and-hold p
 rotocol thus provides a standard-
  []
@@ -2406,6 +2403,12 @@ LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
 [62]
 
 [63]
+Overfull \hbox (5.16502pt too wide) in paragraph at lines 581--582
+\TU/PalatinoLinotype(0)/m/n/10 than the within-population cosine similarity sco
+re for both excitatory and inhibitory
+ []
+
+
 
 [64]
 File: Figures/Ch_2/fig4.pdf Graphic file (type pdf)
@@ -3224,19 +3227,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [132]
-Overfull \hbox (3.31366pt too wide) in paragraph at lines 511--512
-[]\TU/PalatinoLinotype(0)/m/n/10 Interestingly, we observed similar coupling ef
-fects under M1R activation, point-
- []
-
-
-Overfull \hbox (2.37126pt too wide) in paragraph at lines 511--512
-\TU/PalatinoLinotype(0)/m/n/10 greater computational flexibility or specializat
-ion, allowing for more diverse input-
- []
-
-
-Overfull \hbox (6.89359pt too wide) in paragraph at lines 519--520
+Overfull \hbox (6.89359pt too wide) in paragraph at lines 530--531
 []\TU/PalatinoLinotype(0)/m/n/10 Importantly, the modulatory effects were not u
 niform, but heterogeneous within
  []
@@ -3260,7 +3251,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [134]
-Overfull \hbox (10.20181pt too wide) in paragraph at lines 539--543
+Overfull \hbox (3.31366pt too wide) in paragraph at lines 541--542
+[]\TU/PalatinoLinotype(0)/m/n/10 Interestingly, we observed similar coupling ef
+fects under M1R activation, point-
+ []
+
+
+Overfull \hbox (2.37126pt too wide) in paragraph at lines 541--542
+\TU/PalatinoLinotype(0)/m/n/10 greater computational flexibility or specializat
+ion, allowing for more diverse input-
+ []
+
+
+Overfull \hbox (10.20181pt too wide) in paragraph at lines 545--549
 \TU/PalatinoLinotype(0)/m/n/10 Our study, while comprehensive, has several impo
 rtant limitations. First, our record-
  []
@@ -3558,7 +3561,7 @@ Overfull \hbox (4.0127pt too wide) in paragraph at lines 45--46
 
 
 [171]
-Overfull \hbox (1.16602pt too wide) in paragraph at lines 53--54
+Overfull \hbox (1.16602pt too wide) in paragraph at lines 53--58
 \TU/PalatinoLinotype(0)/m/n/10 In Chapter 4, I demonstrate that timescale heter
 ogeneity enhances the performance
  []
@@ -3568,7 +3571,7 @@ ogeneity enhances the performance
 [172]
 
 [173]
-Overfull \hbox (18.0988pt too wide) in paragraph at lines 75--76
+Overfull \hbox (18.0988pt too wide) in paragraph at lines 94--95
 []\TU/PalatinoLinotype(0)/m/n/10 Second, while the classification results revea
 led clear context- and input-dependent
  []
@@ -3576,7 +3579,7 @@ led clear context- and input-dependent
 
 
 [174]
-Overfull \hbox (3.55705pt too wide) in paragraph at lines 81--82
+Overfull \hbox (3.55705pt too wide) in paragraph at lines 100--101
 \TU/PalatinoLinotype(0)/m/n/10 marked on a limited set of tasks. The generaliza
 bility of the observed heterogeneity-
  []
@@ -3918,21 +3921,19 @@ Package fontspec Info:
 (fontspec)             <->"[FandolFang-Regular.otf]/OT:script=hani;language=dfl
 t;"
 
-
+)
 
 [217
 
 
 
 
-])
-
-[218]
+]
 \openout2 = `Chapters/outreach.aux'.
 
  (Chapters/outreach.tex
 
-[219
+[218
 
 
 
@@ -3940,7 +3941,21 @@ t;"
 
 ]
 
+[219]
+Overfull \hbox (13.97444pt too wide) in paragraph at lines 52--53
+\TU/PalatinoLinotype(0)/m/n/10 The chapter introduces next-generation technolog
+ies including neuro-robotics, where
+ []
+
+
+
 [220]
+Overfull \hbox (2.36964pt too wide) in paragraph at lines 64--65
+\TU/PalatinoLinotype(0)/m/n/10 ized terminology, and points to references and f
+urther reading to encourage deeper
+ []
+
+
 
 [221]
 
@@ -4082,19 +4097,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C546010B9A5CCD66F99BEA4BBF3522EE;1801.
  ) 
 Here is how much of TeX's memory you used:
- 38918 strings out of 405075
- 806155 string characters out of 5498326
- 1395171 words of memory out of 5000000
- 64779 multiletter control sequences out of 15000+600000
+ 38919 strings out of 405075
+ 806182 string characters out of 5498326
+ 1395060 words of memory out of 5000000
+ 64780 multiletter control sequences out of 15000+600000
  634254 words of font info for 141 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,14n,121p,3588b,770s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,14n,121p,3544b,770s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (230 pages).

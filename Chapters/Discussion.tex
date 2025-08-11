@@ -50,11 +50,21 @@ In Chapter 3, I extended this analysis to neuromodulatory effects, focusing on d
 
 
 \subsection{Heterogeneity Improves Reservoir Performance}
-In Chapter 4, I demonstrate that timescale heterogeneity enhances the performance of both Echo State Networks (ESNs) and Distance-Dependent Delay Networks (DDNs), particularly in terms of memory capacity and task accuracy. However, the relationship is not linear: the most heterogeneous architecture the heterogeneous cluster does not always yield the best results. \textbf{This underscores a key insight: the benefits of timescale heterogeneity are task-dependent, and excessive heterogeneity can, in some cases, degrade performance.}
+In Chapter 4, I demonstrate that timescale heterogeneity enhances the performance of both Echo State 
+Networks (ESNs) and Distance-Dependent Delay Networks (DDNs), particularly in terms of memory capacity and 
+task accuracy. However, the relationship is not linear: the most heterogeneous architecture the heterogeneous 
+cluster does not always yield the best results. \textbf{This underscores a key insight: the benefits of timescale heterogeneity 
+are task-dependent, and excessive heterogeneity can, in some cases, degrade performance.}
 
-Notably, DDNs already incorporate heterogeneous inter-unit delays by design, which contributes to a more distributed memory profile compared to ESNs. This structural feature gives DDNs a baseline advantage in tasks requiring temporal integration. Adding intrinsic decay heterogeneity further enhances performance as shown in the memory capacity analysis but only up to a point. Beyond a certain level of heterogeneity, the gains diminish or reverse.
+Notably, DDNs already incorporate heterogeneous inter-unit delays by design, which contributes to a more distributed memory profile 
+compared to ESNs. This structural feature gives DDNs a baseline advantage in tasks requiring temporal integration. Adding intrinsic 
+decay heterogeneity further enhances performance as shown in the memory capacity analysis but only up to a point. Beyond a certain 
+level of heterogeneity, the gains diminish or reverse.
 
-The benchmark tasks reinforce this tradeoff. In the NARMA-30 task, which demands precise short-term memory, moderate timescale heterogeneity improved performance in both ESNs and DDNs. In contrast, for the Mackey-Glass task a chaotic time-series prediction problem excessive heterogeneity introduced instability, reducing predictive accuracy. These results highlight the need to calibrate heterogeneity to the specific computational demands of the task.
+The benchmark tasks reinforce this tradeoff. In the NARMA-30 task, which demands precise short-term memory, moderate timescale heterogeneity 
+improved performance in both ESNs and DDNs. In contrast, for the Mackey-Glass task a chaotic time-series prediction problem excessive 
+heterogeneity introduced instability, reducing predictive accuracy. These results highlight the need to calibrate heterogeneity to the 
+specific computational demands of the task.
 
 Interestingly, both homogeneous cluster and heterogeneous cluster architectures outperformed fully homogeneous or fully heterogeneous networks across tasks. This suggests that structured heterogeneity variation organized into modular subgroups offers an optimal balance between flexibility and control.\textbf{ These findings emphasize that while heterogeneity is beneficial, its impact depends critically on its organization within the network.}
 
@@ -62,11 +72,20 @@ Interestingly, both homogeneous cluster and heterogeneous cluster architectures 
 
 \subsection{Toward Architecture-Level Design Principles Grounded in Biology}
 
-\textbf{Chapters 2 and 3} reveal a fundamental insight into the extent and structure of heterogeneity in the somatosensory cortex. By extracting multiple facets of neuronal function including action potential dynamics, adaptation currents, and input selectivity I demonstrate that neurons within a single cortical region vary widely in how they process stimuli. This functional diversity contributes to the brain’s adaptability in responding to dynamic and unpredictable inputs.
+\textbf{Chapters 2 and 3} reveal a fundamental insight into the extent and structure of heterogeneity in the somatosensory cortex. 
+By extracting multiple facets of neuronal function including action potential dynamics, adaptation currents, and input selectivity I 
+demonstrate that neurons within a single cortical region vary widely in how they process stimuli. This functional diversity contributes 
+to the brain's adaptability in responding to dynamic and unpredictable inputs.
 
-In \textbf{Chapter 4}, I abstracted this biological heterogeneity into artificial systems by implementing it within reservoir computing architectures. The results confirmed a core hypothesis: \textbf{heterogeneity at the unit level enhances the computational performance of interconnected systems}. These findings demonstrate that architectural principles rooted in observed biological phenomena can lead to more effective and flexible artificial systems.
+In \textbf{Chapter 4}, I abstracted this biological heterogeneity into artificial systems by implementing it within reservoir computing 
+architectures. The results confirmed a core hypothesis: \textbf{heterogeneity at the unit level enhances the computational performance of 
+interconnected systems}. These findings demonstrate that architectural principles rooted in observed biological phenomena can lead to more 
+effective and flexible artificial systems.
 
-Moreover, the findings point to a second design insight: heterogeneity must be \textbf{task-aware}. As shown in the benchmark experiments, increasing diversity blindly can be counterproductive. Instead, architectural decisions should reflect both biological principles and task-specific constraints. In this context, “biologically inspired” design must not mean mimicking biology uncritically, but rather \textbf{translating its organizing logic} into systems that serve defined functional goals.
+Moreover, the findings point to a second design insight that heterogeneity must be task-aware. As shown in the benchmark experiments, 
+increasing diversity blindly can be counterproductive. Instead, architectural decisions should reflect both biological principles and 
+task-specific constraints. In this context, "biologically inspired" design must not mean mimicking biology uncritically, but rather 
+\textbf{translating its organizing logic} into systems that serve defined functional goals.
 
 \subsection{Limitations and Methodological Constraints}
 
@@ -84,7 +103,9 @@ Finally, in the computational modeling work, the performance of Echo State Netwo
 
 \subsubsection{Biological Extensions}
 
-Future research should aim to extend electrophysiological recordings beyond step current protocols and further embrace dynamic, naturalistic stimulation regimes. These would better approximate the range of inputs neurons experience in vivo and provide a richer substrate for functional classification. Additionally, integrating electrophysiology with other modalities such as transcriptomic profiling, morphological reconstruction, or in vivo imaging could yield a more comprehensive, multi-modal map of neuronal heterogeneity.
+Future research should aim to extend electrophysiological recordings beyond step current protocols and further utilize dynamic, 
+naturalistic stimulation regimes. These would better approximate the range of inputs neurons experience in vivo and provide a 
+richer substrate for functional classification. Additionally, integrating electrophysiology with other modalities such as transcriptomic profiling, morphological reconstruction, or in vivo imaging could yield a more comprehensive, multi-modal map of neuronal heterogeneity.
 
 Another important direction is to link the observed functional reconfigurations induced by neuromodulation to behavior. This could involve combining neuromodulatory manipulation with behavioral paradigms and recording from populations in active animals, allowing us to trace how shifts in input filters or feature selectivity translate into changes in perception or motor output.
 
