@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  11 AUG 2025 09:44
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  23 SEP 2025 11:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1907,6 +1907,11 @@ l.15 ...{\includegraphics{Figures/cover_final.pdf}
 [2
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+ \TU/PalatinoLinotype(0)/b/n/15 rons 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 38--38
  \TU/PalatinoLinotype(0)/m/n/10 Nishant Joshi 
  []
@@ -2079,14 +2084,10 @@ LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
 (Font)              scaled to size 5.4994pt on input line 3.
 
-Overfull \hbox (13.55423pt too wide) in paragraph at lines 50--50
+Overfull \hbox (13.55423pt too wide) in paragraph at lines 52--52
  \TU/PalatinoLinotype(0)/b/n/10 Type Specific Reshaping of Neuronal Information
  Trans- 
  []
-
-)
-\tf@toc=\write6
-\openout6 = `main.toc'.
 
 
 
@@ -2096,107 +2097,183 @@ Overfull \hbox (13.55423pt too wide) in paragraph at lines 50--50
 
 ]
 
-[8
+[8])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+
+
+[9]
+
+[10
 
 
 ]
 Chapter 1.
 
 
-[9]
+[11]
 \openout2 = `Chapters/Introduction.aux'.
 
  (Chapters/Introduction.tex
 
-[10
+[12
 
 
 
 ]
 
-[11]
-
-[12]
-
 [13]
-Overfull \hbox (1.43538pt too wide) in paragraph at lines 114--124
-\TU/PalatinoLinotype(0)/m/n/10 as step-and-hold current injections, to derive e
-lectrophysiological signatures.
- []
-
-
-Overfull \hbox (4.51077pt too wide) in paragraph at lines 125--133
-[]\TU/PalatinoLinotype(0)/b/n/10 Neuronal Identity as an Emergent, Dynamic Cons
-truct \TU/PalatinoLinotype(0)/m/n/10 Taken together, these
+Overfull \hbox (1.96515pt too wide) in paragraph at lines 48--49
+[]\TU/PalatinoLinotype(0)/m/n/10 These modalities highlight the fact that neuro
+nal heterogeneity is multi-faceted,
  []
 
 
 
 [14]
-Overfull \hbox (4.71579pt too wide) in paragraph at lines 139--149
-[]\TU/PalatinoLinotype(0)/b/n/10 Rich high-dimensional functional space remains
- unexplored \TU/PalatinoLinotype(0)/m/n/10 Neurons func-
- []
-
-
 
 [15]
-Overfull \hbox (8.69528pt too wide) in paragraph at lines 165--169
-\TU/PalatinoLinotype(0)/m/n/10 Neuromodulatory systems particularly those invol
-ving dopamine and acetylcholine
- []
-
-
-Overfull \hbox (1.99202pt too wide) in paragraph at lines 170--173
-\TU/PalatinoLinotype(0)/m/n/10 neuromodulation on neuronal computation remains 
-poorly understood, especially
- []
-
-
 
 [16]
+Overfull \hbox (2.79443pt too wide) in paragraph at lines 93--97
+\TU/PalatinoLinotype(0)/m/n/10 but rather that their electrophysiological, mole
+cular and morphological prop-
+ []
+
+
+Overfull \hbox (1.43538pt too wide) in paragraph at lines 98--102
+\TU/PalatinoLinotype(0)/m/n/10 as step-and-hold current injections, to derive e
+lectrophysiological signatures.
+ []
+
+
 
 [17]
+Overfull \hbox (4.51077pt too wide) in paragraph at lines 103--106
+[]\TU/PalatinoLinotype(0)/b/n/10 Neuronal Identity as an Emergent, Dynamic Cons
+truct \TU/PalatinoLinotype(0)/m/n/10 Taken together, these
+ []
+
+
+Package natbib Warning: Citation `fyon2024dimensionality' on page 18 undefined 
+on input line 112.
+
+
+Package natbib Warning: Citation `y2003computation' on page 18 undefined on inp
+ut line 112.
+
+
+Overfull \hbox (4.88669pt too wide) in paragraph at lines 111--113
+[]\TU/PalatinoLinotype(0)/b/n/10 Rich high-dimensional functional space remains
+ unexplored \TU/PalatinoLinotype(0)/m/n/10 The functional
+ []
+
+
 
 [18]
-Overfull \hbox (2.98811pt too wide) in paragraph at lines 196--198
+
+[19]
+Overfull \hbox (11.19612pt too wide) in paragraph at lines 123--124
+\TU/PalatinoLinotype(0)/m/n/10 Neuromodulatory systems, particularly those invo
+lving dopamine and acetylcholine
+ []
+
+
+Package natbib Warning: Citation `nadim2014neuromodulation' on page 20 undefine
+d on input line 125.
+
+
+Package natbib Warning: Citation `mccormick2020neuromodulation' on page 20 unde
+fined on input line 125.
+
+
+Package natbib Warning: Citation `avery2017neuromodulatory' on page 20 undefine
+d on input line 125.
+
+
+
+[20]
+
+Package natbib Warning: Citation `dalley2004cortical' on page 21 undefined on i
+nput line 130.
+
+
+Package natbib Warning: Citation `hasselmo2006cholinergic' on page 21 undefined
+ on input line 130.
+
+
+Package natbib Warning: Citation `sarter2009phasic' on page 21 undefined on inp
+ut line 130.
+
+
+Package natbib Warning: Citation `nusser2009variability' on page 21 undefined o
+n input line 130.
+
+
+Overfull \hbox (5.60863pt too wide) in paragraph at lines 130--131
+[]\TU/PalatinoLinotype(0)/b/n/10 Effect of neuromodulation on computation \TU/P
+alatinoLinotype(0)/m/n/10 Much is known \TU/PalatinoLinotype(0)/b/n/10 ???? \TU
+/PalatinoLinotype(0)/m/n/10 about molec-
+ []
+
+
+
+[21]
+Overfull \hbox (3.3528pt too wide) in paragraph at lines 145--146
+\TU/PalatinoLinotype(0)/m/n/10 mechanisms like delay lines. In particular, Dist
+ance-based Delay Networks (DDNs)
+ []
+
+
+
+[22]
+Overfull \hbox (2.98811pt too wide) in paragraph at lines 153--155
 \TU/PalatinoLinotype(0)/m/n/10 dependent, with classification outcomes varying 
 significantly under dynamic
  []
 
 
-Overfull \hbox (1.56801pt too wide) in paragraph at lines 199--201
-\TU/PalatinoLinotype(0)/m/n/10 show that neuromodulatory effects are highly cel
-l-type and receptor-specific,
- []
 
-
-
-[19]
+[23]
 File: Figures/Intro/input_protocol.pdf Graphic file (type pdf)
 <use Figures/Intro/input_protocol.pdf>
 
-Overfull \hbox (1.18724pt too wide) in paragraph at lines 225--235
+Overfull \hbox (1.18724pt too wide) in paragraph at lines 179--180
 \TU/PalatinoLinotype(0)/m/n/10 and after-hyperpolarization. The step-and-hold p
 rotocol thus provides a standard-
  []
 
 
 
-[20]
+[24]
 
-[21]
+[25]
 
-[22]
+[26]
 File: Figures/Intro/analysis_tools.pdf Graphic file (type pdf)
 <use Figures/Intro/analysis_tools.pdf>
 
 
-[23]
+[27]
 
-[24]
+[28]
+Overfull \hbox (2.24432pt too wide) in paragraph at lines 217--218
+[]\TU/PalatinoLinotype(0)/m/n/10 We also wanted to test if network heterogeneit
+y is task dependent, which means
+ []
 
-[25] (Chapters/Introduction.bbl
+
+Overfull \hbox (0.59322pt too wide) in paragraph at lines 227--228
+\TU/PalatinoLinotype(0)/m/n/10 gent, context-sensitive construct. Finally, this
+ thesis investigates the computational
+ []
+
+
+
+[29]
+
+[30] (Chapters/Introduction.bbl
 Underfull \hbox (badness 1484) in paragraph at lines 103--108
 \TU/PalatinoLinotype(0)/m/n/8 the dynamic volatility of neural networks.  \TU/P
 alatinoLinotype(0)/m/it/8 Proceedings of the National Academy of Sciences\TU/Pa
@@ -2205,11 +2282,17 @@ latinoLinotype(0)/m/n/8 ,
 
 
 
-[26]
+[31]
 
-[27]))
+[32]))
 
-[28]
+[33]
+
+[34
+
+
+
+]
 Chapter 2.
 
 
@@ -2250,43 +2333,45 @@ File: Figures/2.pdf Graphic file (type pdf)
 l.384 \include{Chapters/Chapter_2}
                                   
 ? 
-[29
-
-
-
-]
+[35]
 \openout2 = `Chapters/Chapter_2.aux'.
 
  (Chapters/Chapter_2.tex
 
-[30
+[36
 
 
 ]
 
-[31]
-
-[32]
-
-[33]
-
-[34]
-
-[35]
-
-[36]
-
 [37]
-Overfull \hbox (2.70898pt too wide) in paragraph at lines 131--132
-[]\TU/PalatinoLinotype(0)/m/n/10 We measure the threshold of each spike from th
-e trial as described in [][]Fontaine
- []
-
-
 
 [38]
 
 [39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+Overfull \hbox (6.03906pt too wide) in paragraph at lines 131--132
+[]\TU/PalatinoLinotype(0)/m/n/10 We measure the threshold of each spike from th
+e trial as described in ([][]Fontaine
+ []
+
+
+Overfull \hbox (1.47238pt too wide) in paragraph at lines 131--132
+\TU/PalatinoLinotype(0)/m/n/10 when the first derivative of the membrane potent
+ial $[][][][][]$ reaches 25 mV/ms
+ []
+
+
+
+[44]
+
+[45]
 Overfull \hbox (0.2122pt too wide) in paragraph at lines 186--187
 []\TU/PalatinoLinotype(0)/m/n/10 The waveforms extracted in the preparation ste
 p
@@ -2300,7 +2385,7 @@ Overfull \hbox (8.49922pt too wide) in paragraph at lines 188--189
 
 
 
-[40]
+[46]
 Overfull \hbox (8.23141pt too wide) in paragraph at lines 202--203
 []\TU/PalatinoLinotype(0)/m/n/10 For fitting the spiking probability to the dat
 a,
@@ -2308,7 +2393,7 @@ a,
 
 
 
-[41]
+[47]
 ! Undefined control sequence.
 l.214     \hat{\theta}_{thr}  = \argmax
                                        _{\theta_{thr}} \bigg{[} \sum_{t\in{ ...
@@ -2321,18 +2406,6 @@ ype(0)/m/n/10 The spike-triggered average (STA) is the average shape
  []
 
 
-
-[42]
-
-[43]
-
-[44]
-
-[45]
-
-[46]
-
-[47]
 
 [48]
 
@@ -2349,17 +2422,29 @@ ype(0)/m/n/10 The spike-triggered average (STA) is the average shape
 [54]
 
 [55]
-File: Figures/Ch_2/fig1.pdf Graphic file (type pdf)
-<use Figures/Ch_2/fig1.pdf>
 
-
-[56
-
-]
+[56]
 
 [57]
 
 [58]
+
+[59]
+
+[60]
+
+[61]
+File: Figures/Ch_2/fig1.pdf Graphic file (type pdf)
+<use Figures/Ch_2/fig1.pdf>
+
+
+[62
+
+]
+
+[63]
+
+[64]
 File: Figures/Ch_2/fig2.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig2.pdf>
 
@@ -2377,11 +2462,11 @@ ctive functional classifications within
 
 
 
-[59
+[65
 
 ]
 
-[60]
+[66]
 File: Figures/Ch_2/fig3.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig3.pdf>
 LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(2)/m/n' will be
@@ -2398,11 +2483,11 @@ LaTeX Font Info:    Font shape `TU/Erewhon-Math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 565.
 
 
-[61]
+[67]
 
-[62]
+[68]
 
-[63]
+[69]
 Overfull \hbox (5.16502pt too wide) in paragraph at lines 581--582
 \TU/PalatinoLinotype(0)/m/n/10 than the within-population cosine similarity sco
 re for both excitatory and inhibitory
@@ -2410,7 +2495,7 @@ re for both excitatory and inhibitory
 
 
 
-[64]
+[70]
 File: Figures/Ch_2/fig4.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig4.pdf>
 
@@ -2419,43 +2504,37 @@ LaTeX Warning: Float too large for page by 16.10617pt on input line 596.
 
 
 
-[65]
-
-[66]
-
-[67]
-
-[68]
-
-[69]
-File: Figures/Ch_2/fig5.pdf Graphic file (type pdf)
-<use Figures/Ch_2/fig5.pdf>
-
-
-[70
-
-]
-Overfull \hbox (4.99577pt too wide) in paragraph at lines 662--666
-[]\TU/PalatinoLinotype(0)/m/n/10 The spike-triggered average (STA) method, as d
-escribed in [][]Schwartz et al.[][] ([][]2006[][]),
- []
-
-
-
 [71]
-
-LaTeX Warning: Reference `S5' on page 72 undefined on input line 677.
-
-
 
 [72]
 
 [73]
+
+[74]
+
+[75]
+File: Figures/Ch_2/fig5.pdf Graphic file (type pdf)
+<use Figures/Ch_2/fig5.pdf>
+
+
+[76
+
+]
+
+[77]
+
+LaTeX Warning: Reference `S5' on page 78 undefined on input line 677.
+
+
+
+[78]
+
+[79]
 File: Figures/Ch_2/fig6.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig6.pdf>
 
 
-[74
+[80
 
 ]
 Overfull \hbox (1.25562pt too wide) in paragraph at lines 716--725
@@ -2478,24 +2557,12 @@ ain the most and almost equal amount
 
 
 
-[75]
-
-[76]
-File: Figures/Ch_2/fig7.pdf Graphic file (type pdf)
-<use Figures/Ch_2/fig7.pdf>
-
-
-[77]
-
-[78]
-
-[79]
-
-[80]
-
 [81]
 
 [82]
+File: Figures/Ch_2/fig7.pdf Graphic file (type pdf)
+<use Figures/Ch_2/fig7.pdf>
+
 
 [83]
 
@@ -2507,15 +2574,27 @@ File: Figures/Ch_2/fig7.pdf Graphic file (type pdf)
 
 [87]
 
-[88] (Chapters/Chapter_2.bbl
+[88]
 
 [89]
 
 [90]
 
-[91]))
+[91]
 
 [92]
+
+[93]
+
+[94] (Chapters/Chapter_2.bbl
+
+[95]
+
+[96]
+
+[97]))
+
+[98]
 Chapter 3.
 
 
@@ -2556,7 +2635,7 @@ File: Figures/3.pdf Graphic file (type pdf)
 l.407 \include{Chapters/Chapter_3}
                                   
 ? 
-[93
+[99
 
 
 
@@ -2572,7 +2651,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[94
+[100
 
 
 ]
@@ -2590,7 +2669,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[95]
+[101]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2599,7 +2678,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[96]
+[102]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2608,30 +2687,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[97]
+[103]
 
-Package natbib Warning: Citation `Zeldenrust2018' on page 98 undefined on input
- line 44.
-
-
-Package natbib Warning: Citation `Azarfar2018' on page 98 undefined on input li
-ne 44.
-
-
-Package natbib Warning: Citation `Zeldenrust2017' on page 98 undefined on input
- line 44.
-
-
-Package natbib Warning: Citation `Zeldenrust2017b' on page 98 undefined on inpu
+Package natbib Warning: Citation `Zeldenrust2018' on page 104 undefined on inpu
 t line 44.
 
 
-Package natbib Warning: Citation `Celikel2004' on page 98 undefined on input li
-ne 44.
+Package natbib Warning: Citation `Azarfar2018' on page 104 undefined on input l
+ine 44.
 
 
-Package natbib Warning: Citation `Celikel2003' on page 98 undefined on input li
-ne 44.
+Package natbib Warning: Citation `Zeldenrust2017' on page 104 undefined on inpu
+t line 44.
+
+
+Package natbib Warning: Citation `Zeldenrust2017b' on page 104 undefined on inp
+ut line 44.
+
+
+Package natbib Warning: Citation `Celikel2004' on page 104 undefined on input l
+ine 44.
+
+
+Package natbib Warning: Citation `Celikel2003' on page 104 undefined on input l
+ine 44.
 
 
 
@@ -2642,7 +2721,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[98]
+[104]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2651,7 +2730,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[99]
+[105]
 Underfull \hbox (badness 10000) in paragraph at lines 124--124
 []|\TU/PalatinoLinotype(0)/b/n/10 Feature
  []
@@ -2770,7 +2849,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[100]
+[106]
 Overfull \vbox (23.98409pt too high) has occurred while \output is active []
 
 
@@ -2782,7 +2861,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[101]
+[107]
 Underfull \hbox (badness 10000) in paragraph at lines 161--161
 []|\TU/PalatinoLinotype(0)/m/n/10 Membrane Capacitance
  []
@@ -2812,7 +2891,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[102]
+[108]
 Overfull \hbox (1.36374pt too wide) in paragraph at lines 172--173
 [] []\TU/PalatinoLinotype(0)/b/n/10 Spike Triggered Average[] \TU/PalatinoLinot
 ype(0)/m/n/10 The spike-triggered average (STA) is the average shape
@@ -2827,7 +2906,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[103]
+[109]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2836,7 +2915,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[104]
+[110]
 File: Figures/Ch_3/Fig1.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig1.pdf>
 
@@ -2848,7 +2927,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[105]
+[111]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2857,7 +2936,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[106]
+[112]
 Overfull \hbox (4.18683pt too wide) in paragraph at lines 214--215
 \TU/PalatinoLinotype(0)/m/n/10 To investigate how neuromodulation alters the re
 lationship between different func-
@@ -2884,7 +2963,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[107]
+[113]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2893,7 +2972,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[108]
+[114]
 Overfull \hbox (2.44856pt too wide) in paragraph at lines 236--237
 []\TU/PalatinoLinotype(0)/m/n/10 We extracted a large set of intrinsic and inpu
 t dependent attributes and grouped
@@ -2908,7 +2987,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[109]
+[115]
 Overfull \hbox (8.6087pt too wide) in paragraph at lines 240--248
  [][] 
  []
@@ -2928,7 +3007,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[110]
+[116]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2937,7 +3016,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[111]
+[117]
 Overfull \hbox (3.2778pt too wide) in paragraph at lines 287--287
 |\TU/PalatinoLinotype(0)/b/n/10 Neuromodulation shifts FI distributions in a re
 ceptor and cell-type-specific man-
@@ -2952,94 +3031,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[112]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.83636pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.83636pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
-
-[113]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.83636pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.83636pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
-
-[114]
-File: Figures/Ch_3/Fig2.pdf Graphic file (type pdf)
-<use Figures/Ch_3/Fig2.pdf>
-
-
-LaTeX Warning: Float too large for page by 15.32076pt on input line 313.
-
-
-Package natbib Warning: Citation `calcini2024electrical' on page 115 undefined 
-on input line 324.
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.83636pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.83636pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
-
-[115
-
-]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.83636pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.83636pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
-
-[116]
-
-LaTeX Warning: Reference `methods' on page 117 undefined on input line 330.
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.83636pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.83636pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
-
-[117]
-Overfull \hbox (5.71373pt too wide) in paragraph at lines 336--337
-\TU/PalatinoLinotype(0)/m/n/10 than across-pair (D1-aCSF) mean cosine similarit
-y ($[] [] [][][][][][][][][]$, $[] [] [][][][][][]$), 
- []
-
-
-Overfull \hbox (7.31929pt too wide) in paragraph at lines 337--338
-\TU/PalatinoLinotype(0)/m/n/10 ity between within aCSF and D1 cosine similarity
- distributions ($[] [] [][][][][][][][][]$,
- []
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.83636pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.83636pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
-
 [118]
-
-LaTeX Warning: Reference `methods' on page 119 undefined on input line 355.
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3058,11 +3050,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [120]
-File: Figures/Ch_3/Fig3.pdf Graphic file (type pdf)
-<use Figures/Ch_3/Fig3.pdf>
+File: Figures/Ch_3/Fig2.pdf Graphic file (type pdf)
+<use Figures/Ch_3/Fig2.pdf>
 
 
-LaTeX Warning: Float too large for page by 12.54695pt on input line 368.
+LaTeX Warning: Float too large for page by 15.32076pt on input line 313.
+
+
+Package natbib Warning: Citation `calcini2024electrical' on page 121 undefined 
+on input line 324.
 
 
 
@@ -3086,6 +3082,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [122]
 
+LaTeX Warning: Reference `methods' on page 123 undefined on input line 330.
+
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.83636pt, for example:
@@ -3094,6 +3094,85 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [123]
+Overfull \hbox (5.71373pt too wide) in paragraph at lines 336--337
+\TU/PalatinoLinotype(0)/m/n/10 than across-pair (D1-aCSF) mean cosine similarit
+y ($[] [] [][][][][][][][][]$, $[] [] [][][][][][]$), 
+ []
+
+
+Overfull \hbox (7.31929pt too wide) in paragraph at lines 337--338
+\TU/PalatinoLinotype(0)/m/n/10 ity between within aCSF and D1 cosine similarity
+ distributions ($[] [] [][][][][][][][][]$,
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
+
+[124]
+
+LaTeX Warning: Reference `methods' on page 125 undefined on input line 355.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
+
+[125]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
+
+[126]
+File: Figures/Ch_3/Fig3.pdf Graphic file (type pdf)
+<use Figures/Ch_3/Fig3.pdf>
+
+
+LaTeX Warning: Float too large for page by 12.54695pt on input line 368.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
+
+[127
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
+
+[128]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.83636pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.83636pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
+
+[129]
 File: Figures/Ch_3/Fig4.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig4.pdf>
 
@@ -3122,7 +3201,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[124
+[130
 
 ]
 
@@ -3133,7 +3212,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[125]
+[131]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3142,7 +3221,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[126]
+[132]
 Overfull \hbox (2.39401pt too wide) in paragraph at lines 428--429
 []\TU/PalatinoLinotype(0)/m/n/10 We observe that D2-R modulates the coordinatio
 n between functional attributes
@@ -3157,7 +3236,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[127]
+[133]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3166,7 +3245,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[128]
+[134]
 Underfull \hbox (badness 1478) in paragraph at lines 450--451
 []|\TU/PalatinoLinotype(0)/m/n/10 Increases coordination between AP and PB and
  []
@@ -3190,7 +3269,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[129]
+[135]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3199,7 +3278,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[130]
+[136]
 File: Figures/Ch_3/Fig5.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Fig5.pdf>
 
@@ -3215,7 +3294,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[131
+[137
 
 ]
 
@@ -3226,7 +3305,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[132]
+[138]
 Overfull \hbox (6.89359pt too wide) in paragraph at lines 530--531
 []\TU/PalatinoLinotype(0)/m/n/10 Importantly, the modulatory effects were not u
 niform, but heterogeneous within
@@ -3241,7 +3320,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[133]
+[139]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3250,7 +3329,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[134]
+[140]
 Overfull \hbox (3.31366pt too wide) in paragraph at lines 541--542
 []\TU/PalatinoLinotype(0)/m/n/10 Interestingly, we observed similar coupling ef
 fects under M1R activation, point-
@@ -3277,7 +3356,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[135]
+[141]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3286,7 +3365,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[136] (Chapters/Chapter_3.bbl
+[142] (Chapters/Chapter_3.bbl
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3295,7 +3374,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[137]
+[143]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3304,7 +3383,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[138]))
+[144]))
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3313,7 +3392,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[139]
+[145]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3322,7 +3401,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
-[140
+[146
 
 
 
@@ -3367,111 +3446,200 @@ File: Figures/4.pdf Graphic file (type pdf)
 l.427 \include{Chapters/Chapter_4}
                                   
 ? 
-[141]
+[147]
 \openout2 = `Chapters/Chapter_4.aux'.
 
  (Chapters/Chapter_4.tex
-Overfull \hbox (0.60861pt too wide) in paragraph at lines 23--36
-\TU/PalatinoLinotype(0)/m/n/10 cluster, heterogeneous network, and heterogeneou
-s cluster, across two benchmark
- []
 
-
-Overfull \hbox (1.77477pt too wide) in paragraph at lines 23--36
-\TU/PalatinoLinotype(0)/m/n/10 mance, we studied the dynamical stability (Lyapu
-nov exponents), representational
- []
-
-
-Overfull \hbox (0.93813pt too wide) in paragraph at lines 23--36
-\TU/PalatinoLinotype(0)/m/n/10 significantly improves the computational capabil
-ities of delay-based recurrent sys-
- []
-
-
-
-[142
+[148
 
 
 ]
+Overfull \hbox (1.00978pt too wide) in paragraph at lines 34--35
+\TU/PalatinoLinotype(0)/m/n/10 ([][]2009[][])), a well known RC system is an Ec
+ho State Networks (ESNs) ([][]Jaeger[][] ([][]2001b[][])).
+ []
 
-Package natbib Warning: Citation `perez2021neural ' on page 143 undefined on in
-put line 46.
+
+Package natbib Warning: Citation `perez2021neural' on page 149 undefined on inp
+ut line 36.
 
 
-
-[143]
-
-[144]
-
-[145]
-
-[146]
-
-[147]
-
-[148]
 
 [149]
+Overfull \hbox (5.31561pt too wide) in paragraph at lines 38--39
+[]\TU/PalatinoLinotype(0)/m/n/10 The role of inter-unit delays has been much ex
+plored, it remains unclear whether
+ []
+
+
 
 [150]
 
 [151]
 
 [152]
-File: Figures/Ch_4/network_architecture.pdf Graphic file (type pdf)
-<use Figures/Ch_4/network_architecture.pdf>
-
 
 [153]
-Overfull \hbox (18.30232pt too wide) in paragraph at lines 200--201
-\TU/PalatinoLinotype(0)/m/n/10 CMA-ES algorithm shown in \TU/PalatinoLinotype(0
-)/b/n/10 Fig. [][]4.2[][]a \TU/PalatinoLinotype(0)/m/n/10 while these networks 
-learn to perform NARMA-
+
+[154]
+
+[155]
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]|\TU/PalatinoLinotype(0)/m/n/10 Mixture Compo-
  []
 
 
+Overfull \hbox (47.63506pt too wide) in paragraph at lines 119--137
+ [][] 
+ []
 
-[154]
-File: Figures/Ch_4/Task_performance.pdf Graphic file (type pdf)
-<use Figures/Ch_4/Task_performance.pdf>
 
-
-[155]
 
 [156]
 
 [157]
 
-[158]
-File: Figures/Ch_4/Luyapnov_dimensions.pdf Graphic file (type pdf)
-<use Figures/Ch_4/Luyapnov_dimensions.pdf>
+Package natbib Warning: Citation `jordanou2023investigation' on page 158 undefi
+ned on input line 167.
 
+
+
+[158]
 
 [159]
+Overfull \hbox (3.07364pt too wide) in paragraph at lines 193--194
+\TU/PalatinoLinotype(0)/m/n/10 formance of ESNs and DDNs. Therefore we designed
+ 4 heterogeneity/homogeneity
+ []
+
+
+Overfull \hbox (8.24454pt too wide) in paragraph at lines 205--206
+\TU/PalatinoLinotype(0)/m/n/10 test long-range memory and nonlinear dynamics. P
+arameters for the NARMA-
+ []
+
+
 
 [160]
-File: Figures/Ch_4/LInear MC.pdf Graphic file (type pdf)
-<use Figures/Ch_4/LInear MC.pdf>
+File: Figures/Ch_4/network_architecture.pdf Graphic file (type pdf)
+<use Figures/Ch_4/network_architecture.pdf>
 
 
 [161]
 
 [162]
+File: Figures/Ch_4/Task_performance.pdf Graphic file (type pdf)
+<use Figures/Ch_4/Task_performance.pdf>
+
 
 [163]
-Overfull \hbox (8.23064pt too wide) in paragraph at lines 276--277
+
+[164]
+
+[165]
+Overfull \hbox (2.40544pt too wide) in paragraph at lines 253--254
+\TU/PalatinoLinotype(0)/m/n/10 tasks, ESNs consistently exhibited strongly cont
+racting dynamics relative to DDNs,
+ []
+
+
+
+[166]
+
+[167]
+Overfull \hbox (7.71873pt too wide) in paragraph at lines 262--263
+\TU/PalatinoLinotype(0)/m/n/10 dimensionality for all networks except for ESNs 
+with homogeneous network (D=29).
+ []
+
+
+Overfull \hbox (6.5884pt too wide) in paragraph at lines 264--265
+\TU/PalatinoLinotype(0)/m/n/10 geneity, low dimensionality of network states is
+ sufficient to perform both NARMA-
+ []
+
+File: Figures/Ch_4/Luyapnov_dimensions.pdf Graphic file (type pdf)
+<use Figures/Ch_4/Luyapnov_dimensions.pdf>
+File: Figures/Ch_4/LE_DIM_VS_VAL_SCORES.pdf Graphic file (type pdf)
+<use Figures/Ch_4/LE_DIM_VS_VAL_SCORES.pdf>
+
+Package natbib Warning: Citation `jaeger2004harnessing' on page 168 undefined o
+n input line 284.
+
+
+
+[168]
+
+[169]
+
+[170]
+File: Figures/Ch_4/LInear MC.pdf Graphic file (type pdf)
+<use Figures/Ch_4/LInear MC.pdf>
+
+
+[171]
+Overfull \hbox (3.90201pt too wide) in paragraph at lines 309--310
+\TU/PalatinoLinotype(0)/m/n/10 based architectures are better suited for memory
+-intensive tasks ([][]Iacob et al.[][] ([][]2022[][])),
+ []
+
+
+Overfull \hbox (3.9257pt too wide) in paragraph at lines 311--312
+\TU/PalatinoLinotype(0)/m/n/10 mance. Surprisingly, homogeneous network DDNs ou
+tperform heterogeneous net-
+ []
+
+
+
+[172]
+
+[173]
+
+Package natbib Warning: Citation `gao2015simplicity' on page 174 undefined on i
+nput line 317.
+
+
+Overfull \hbox (3.46101pt too wide) in paragraph at lines 319--320
+[]\TU/PalatinoLinotype(0)/m/n/10 Linear memory capacity analysis revealed a nua
+nced story. While ESNs showed
+ []
+
+
+
+[174]
+
+Package natbib Warning: Citation `gast2024neural' on page 175 undefined on inpu
+t line 325.
+
+
+Overfull \hbox (7.53586pt too wide) in paragraph at lines 325--326
+\TU/PalatinoLinotype(0)/m/n/10 work, but its broader implications invite severa
+l extensions. For example, (\TU/PalatinoLinotype(0)/b/n/10 ?\TU/PalatinoLinotyp
+e(0)/m/n/10 ) demon-
+ []
+
+
+Overfull \hbox (8.23064pt too wide) in paragraph at lines 329--330
 []\TU/PalatinoLinotype(0)/m/n/10 From an engineering viewpoint, these findings 
 argue for designing non-uniform,
  []
 
 
+Overfull \hbox (16.11638pt too wide) in paragraph at lines 329--330
+\TU/PalatinoLinotype(0)/m/n/10 structured reservoirs in artificial systems, esp
+ecially for tasks involving long-timescale
+ []
 
-[164] (Chapters/Chapter_4.bbl
 
-[165]))
 
-[166]
+[175]
+
+[176] (Chapters/Chapter_4.bbl
+
+[177]))
+
+[178]
 Chapter 5.
 
 
@@ -3512,7 +3680,7 @@ File: Figures/6.pdf Graphic file (type pdf)
 l.444 \include{Chapters/Discussion}
                                    
 ? 
-[167
+[179
 
 
 
@@ -3533,12 +3701,12 @@ Overfull \hbox (2.56085pt too wide) in paragraph at lines 19--20
 
 
 
-[168
+[180
 
 
 ]
 
-[169]
+[181]
 Overfull \hbox (2.6993pt too wide) in paragraph at lines 38--39
 \TU/PalatinoLinotype(0)/m/n/10 sensus on which features most effectively captur
 e neuronal heterogeneity. To move
@@ -3552,7 +3720,7 @@ ssive biophysics, and spike-triggered
 
 
 
-[170]
+[182]
 Overfull \hbox (4.0127pt too wide) in paragraph at lines 45--46
 \TU/PalatinoLinotype(0)/m/n/10 tion currents (AC), and spike-triggered averages
  (STA). Among these, STA emerged
@@ -3560,7 +3728,7 @@ Overfull \hbox (4.0127pt too wide) in paragraph at lines 45--46
 
 
 
-[171]
+[183]
 Overfull \hbox (1.16602pt too wide) in paragraph at lines 53--58
 \TU/PalatinoLinotype(0)/m/n/10 In Chapter 4, I demonstrate that timescale heter
 ogeneity enhances the performance
@@ -3568,9 +3736,9 @@ ogeneity enhances the performance
 
 
 
-[172]
+[184]
 
-[173]
+[185]
 Overfull \hbox (18.0988pt too wide) in paragraph at lines 94--95
 []\TU/PalatinoLinotype(0)/m/n/10 Second, while the classification results revea
 led clear context- and input-dependent
@@ -3578,7 +3746,7 @@ led clear context- and input-dependent
 
 
 
-[174]
+[186]
 Overfull \hbox (3.55705pt too wide) in paragraph at lines 100--101
 \TU/PalatinoLinotype(0)/m/n/10 marked on a limited set of tasks. The generaliza
 bility of the observed heterogeneity-
@@ -3586,11 +3754,11 @@ bility of the observed heterogeneity-
 
 
 
-[175]
+[187]
 
-[176]
+[188]
 
-[177] (Chapters/Discussion.bbl
+[189] (Chapters/Discussion.bbl
 Underfull \hbox (badness 1484) in paragraph at lines 71--76
 \TU/PalatinoLinotype(0)/m/n/8 the dynamic volatility of neural networks.  \TU/P
 alatinoLinotype(0)/m/it/8 Proceedings of the National Academy of Sciences\TU/Pa
@@ -3599,11 +3767,11 @@ latinoLinotype(0)/m/n/8 ,
 
 
 
-[178]))
+[190]))
 
-[179]
+[191]
 
-[180
+[192
 
 
 
@@ -3642,15 +3810,19 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 l.456 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
-[181]
+[193]
 \openout2 = `Chapters/Supplementary_Materials.aux'.
 
  (Chapters/Supplementary_Materials.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 14.
+
 File: Figures/Ch_2/appendix1.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix1.pdf>
 
 
-[182
+[194
 
 
 ]
@@ -3658,71 +3830,71 @@ File: Figures/Ch_2/appendix2.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix2.pdf>
 
 
-[183
+[195
 
 ]
 
-[184]
+[196]
 File: Figures/Ch_2/appendix3.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix3.pdf>
 
 
-[185
+[197
 
 ]
 File: Figures/Ch_2/appendix4.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix4.pdf>
 
 
-[186
+[198
 
 ]
 File: Figures/Ch_2/appendix5.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix5.pdf>
 
 
-[187]
+[199]
 File: Figures/Ch_2/appendix6.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix6.pdf>
 
 
-[188
+[200
 
 ]
 
-[189]
+[201]
 
-[190
+[202
 
 ]
 File: Figures/Ch_3/Appendix1.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix1.pdf>
 
 
-[191]
+[203]
 
-[192]
+[204]
 File: Figures/Ch_3/Appendix2.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix2.pdf>
 
 
-[193]
+[205]
 
-[194]
+[206]
 File: Figures/Ch_3/Appendix3.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix3.pdf>
 
 
-[195]
+[207]
 
-[196]
+[208]
 File: Figures/Ch_3/Appendix4.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix4.pdf>
 
 
-[197]
+[209]
 
-[198]
+[210]
 File: Figures/Ch_3/Appendix5.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix5.pdf>
 File: Figures/Ch_3/Appendix6.pdf Graphic file (type pdf)
@@ -3733,53 +3905,53 @@ File: Figures/Ch_3/Appendix8.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix8.pdf>
 
 
-[199]
+[211]
 
-[200]
+[212]
 
-[201]
+[213]
 
-[202]
+[214]
 
-[203]
+[215]
 File: Figures/Ch_3/Appendix9.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix9.pdf>
 
 
-[204]
+[216]
 
-[205]
+[217]
 File: Figures/Ch_3/Appendix10.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix10.pdf>
 
 
-[206]
+[218]
 File: Figures/Ch_3/Appendix11.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix11.pdf>
 
 
-[207]
+[219]
 File: Figures/Ch_3/Appendix12.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix12.pdf>
 
 
-[208]
+[220]
 File: Figures/Ch_3/Appendix13.pdf Graphic file (type pdf)
 <use Figures/Ch_3/Appendix13.pdf>
 
 
-[209]
+[221]
 
-[210]
+[222]
 
-[211]
+[223]
 Overfull \hbox (1.38698pt too wide) in paragraph at lines 298--316
  [][] 
  []
 
 
 
-[212
+[224
 
 
 
@@ -3794,11 +3966,11 @@ Overfull \hbox (1.38698pt too wide) in paragraph at lines 298--316
 
 ]
 
-[213
+[225
 
 ]
 
-[214
+[226
 
 ]
 No file Chapters/Supplementary_Materials.bbl.
@@ -3872,7 +4044,7 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 l.471 \include{Chapters/Summary}
                                 
 ? 
-[215
+[227
 
 
 
@@ -3892,7 +4064,7 @@ l.15 \end{itemize}
 ? 
 )
 
-[216
+[228
 
 
 ]
@@ -3923,7 +4095,7 @@ t;"
 
 )
 
-[217
+[229
 
 
 
@@ -3933,7 +4105,7 @@ t;"
 
  (Chapters/outreach.tex
 
-[218
+[230
 
 
 
@@ -3941,7 +4113,7 @@ t;"
 
 ]
 
-[219]
+[231]
 Overfull \hbox (13.97444pt too wide) in paragraph at lines 52--53
 \TU/PalatinoLinotype(0)/m/n/10 The chapter introduces next-generation technolog
 ies including neuro-robotics, where
@@ -3949,7 +4121,7 @@ ies including neuro-robotics, where
 
 
 
-[220]
+[232]
 Overfull \hbox (2.36964pt too wide) in paragraph at lines 64--65
 \TU/PalatinoLinotype(0)/m/n/10 ized terminology, and points to references and f
 urther reading to encourage deeper
@@ -3957,14 +4129,14 @@ urther reading to encourage deeper
 
 
 
-[221]
+[233]
 
-[222])
+[234])
 \openout2 = `Chapters/Failures.aux'.
 
  (Chapters/Failures.tex
 
-[223
+[235
 
 
 
@@ -3975,7 +4147,7 @@ urther reading to encourage deeper
 
  (Chapters/Acknowledgements.tex)
 
-[224
+[236
 
 
 
@@ -4013,7 +4185,7 @@ l.11 ...41\textwidth]{Figures/Profile picture.pdf}
 ? 
 )
 
-[225
+[237
 
 
 
@@ -4029,14 +4201,14 @@ ychology, behavioral science, medicine
 
 
 
-[226
+[238
 
 
 
 
 ]
 
-[227]
+[239]
 
 LaTeX Warning: File `Figures/cover_back_sign.pdf' not found on input line 23.
 
@@ -4076,7 +4248,7 @@ l.23 ...\paperheight]{Figures/cover_back_sign.pdf}
 ? 
 )
 
-[228]
+[240]
 
 Package natbib Warning: There were undefined citations.
 
@@ -4098,15 +4270,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C546010B9A5CCD66F99BEA4BBF3522EE;1801.
+(rerunfilecheck)             Checksum: DCF61EFD1764D316E17C5CB049670814;10045.
  ) 
 Here is how much of TeX's memory you used:
- 38919 strings out of 405075
- 806182 string characters out of 5498326
- 1395060 words of memory out of 5000000
- 64780 multiletter control sequences out of 15000+600000
+ 38952 strings out of 405075
+ 807575 string characters out of 5498326
+ 1397540 words of memory out of 5000000
+ 64812 multiletter control sequences out of 15000+600000
  634254 words of font info for 141 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,14n,121p,3544b,770s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (230 pages).
+Output written on main.pdf (242 pages).
