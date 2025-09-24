@@ -6,6 +6,12 @@
   interneurons of the cerebral cortex.
 \newblock {\em Nature Reviews Neuroscience}, 9(7):557--568.
 
+\bibitem[Agnati et~al., 1995]{Agnati1995}
+Agnati, L.~F., Zoli, M., Strömberg, I., and Fuxe, K. (1995).
+\newblock Intercellular communication in the brain: wiring versus volume
+  transmission.
+\newblock {\em Neuroscience}, 69(3):711--726.
+
 \bibitem[Brown et~al., 2023]{brown2023multiset}
 Brown, B.~C., Wang, C., Kasela, S., Aguet, F., Nachun, D.~C., Taylor, K.~D.,
   Tracy, R.~P., Durda, P., Liu, Y., Johnson, W.~C., et~al. (2023).
@@ -13,15 +19,34 @@ Brown, B.~C., Wang, C., Kasela, S., Aguet, F., Nachun, D.~C., Taylor, K.~D.,
   multi-omics data.
 \newblock {\em Cell Genomics}, 3(8).
 
-\bibitem[Connors and Gutnick, 1990]{connors1990intrinsic}
-Connors, B.~W. and Gutnick, M.~J. (1990).
-\newblock Intrinsic firing patterns of diverse neocortical neurons.
-\newblock {\em Trends in neurosciences}, 13(3):99--104.
+\bibitem[Buonomano and Maass, 2009]{buonomano2009state}
+Buonomano, D.~V. and Maass, W. (2009).
+\newblock State-dependent computations: spatiotemporal processing in cortical
+  networks.
+\newblock {\em Nature Reviews Neuroscience}, 10(2):113--125.
+
+\bibitem[Cervantes-Sandoval et~al., 2017]{CervantesSandoval2017}
+Cervantes-Sandoval, I., Phan, A., Chakraborty, M., et~al. (2017).
+\newblock Dopamine/pka signaling evokes the presynaptic transfer of
+  transcription factor zip-1.
+\newblock {\em Neuron}, 96(5):801--811.
+
+\bibitem[Chakraborty and Mukhopadhyay, 2022]{chakraborty_heterogeneous_2022}
+Chakraborty, B. and Mukhopadhyay, S. (2022).
+\newblock Heterogeneous {Recurrent} {Spiking} {Neural} {Network} for
+  {Spatio}-{Temporal} {Classification}.
+\newblock {\em arXiv preprint arXiv:2211.04297}.
 
 \bibitem[Fishell and Heintz, 2013]{fishell2013neuron}
 Fishell, G. and Heintz, N. (2013).
 \newblock The neuron identity problem: form meets function.
 \newblock {\em Neuron}, 80(3):602--612.
+
+\bibitem[Fuxe and Borroto-Escuela, 2016]{Fuxe2016}
+Fuxe, K. and Borroto-Escuela, D.~O. (2016).
+\newblock Volume transmission and wiring transmission from cellular to
+  molecular networks: history and perspectives.
+\newblock {\em Pharmacological Reviews}, 68(3):933--1018.
 
 \bibitem[Gast et~al., 2024]{gast2024neural}
 Gast, R., Solla, S.~A., and Kennedy, A. (2024).
@@ -44,23 +69,10 @@ Gouwens, N.~W., Sorensen, S.~A., Berg, J., Lee, C., Jarsky, T., Ting, J.,
   in the mouse visual cortex.
 \newblock {\em Nature neuroscience}, 22(7):1182--1195.
 
-\bibitem[Halabisky et~al., 2006]{halabisky2006electrophysiological}
-Halabisky, B., Shen, F., Huguenard, J.~R., and Prince, D.~A. (2006).
-\newblock Electrophysiological classification of somatostatin-positive
-  interneurons in mouse sensorimotor cortex.
-\newblock {\em Journal of neurophysiology}, 96(2):834--845.
-
-\bibitem[Hern{\'a}th et~al., 2019]{hernath2019alternative}
-Hern{\'a}th, F., Schlett, K., and Sz{\"u}cs, A. (2019).
-\newblock Alternative classifications of neurons based on physiological
-  properties and synaptic responses, a computational study.
-\newblock {\em Scientific reports}, 9(1):13096.
-
-\bibitem[Hodgkin, 1948]{hodgkin1948local}
-Hodgkin, A.~L. (1948).
-\newblock The local electric changes associated with repetitive action in a
-  non-medullated axon.
-\newblock {\em The Journal of physiology}, 107(2):165.
+\bibitem[Herrington et~al., 2016]{Herrington2016}
+Herrington, T.~M., Cheng, J.~J., and Eskandar, E.~N. (2016).
+\newblock Mechanisms of deep brain stimulation.
+\newblock {\em Journal of Neurophysiology}, 115(1):19--38.
 
 \bibitem[Huang and Paul, 2019]{huang2019diversity}
 Huang, Z.~J. and Paul, A. (2019).
@@ -74,23 +86,17 @@ Hutt, A., Rich, S., Valiante, T.~A., and Lefebvre, J. (2023).
 \newblock {\em Proceedings of the National Academy of Sciences},
   120(28):e2218841120.
 
-\bibitem[Izhikevich, 2007]{izhikevich2007dynamical}
-Izhikevich, E.~M. (2007).
-\newblock {\em Dynamical systems in neuroscience}.
-\newblock MIT press.
+\bibitem[Iacob et~al., 2022]{iacob2022distance}
+Iacob, S., Freiberger, M., and Dambre, J. (2022).
+\newblock Distance-based delays in echo state networks.
+\newblock In {\em International Conference on Intelligent Data Engineering and
+  Automated Learning}, pages 211--222. Springer.
 
-\bibitem[Jasnow et~al., 2009]{jasnow2009distinct}
-Jasnow, A.~M., Ressler, K.~J., Hammack, S.~E., Chhatwal, J.~P., and Rainnie,
-  D.~G. (2009).
-\newblock Distinct subtypes of cholecystokinin (cck)-containing interneurons of
-  the basolateral amygdala identified using a cck promoter-specific lentivirus.
-\newblock {\em Journal of neurophysiology}, 101(3):1494--1506.
-
-\bibitem[Karagiannis et~al., 2009]{karagiannis2009classification}
-Karagiannis, A., Gallopin, T., D{\'a}vid, C., Battaglia, D., Geoffroy, H.,
-  Rossier, J., Hillman, E.~M., Staiger, J.~F., and Cauli, B. (2009).
-\newblock Classification of npy-expressing neocortical interneurons.
-\newblock {\em Journal of Neuroscience}, 29(11):3642--3659.
+\bibitem[Kumari and Narayanan, 2024]{kumari2024ion}
+Kumari, S. and Narayanan, R. (2024).
+\newblock Ion-channel degeneracy and heterogeneities in the emergence of
+  signature physiological characteristics of dentate gyrus granule cells.
+\newblock {\em Journal of neurophysiology}, 132(3):991--1013.
 
 \bibitem[Lee et~al., 2021]{lee2021non}
 Lee, E.~K., Balasubramanian, H., Tsolias, A., Anakwe, S.~U., Medalla, M.,
@@ -98,6 +104,11 @@ Lee, E.~K., Balasubramanian, H., Tsolias, A., Anakwe, S.~U., Medalla, M.,
 \newblock Non-linear dimensionality reduction on extracellular waveforms
   reveals cell type diversity in premotor cortex.
 \newblock {\em Elife}, 10:e67490.
+
+\bibitem[Little et~al., 2013]{Little2013}
+Little, S., Pogosyan, A., Neal, S., et~al. (2013).
+\newblock Adaptive deep brain stimulation in advanced parkinson disease.
+\newblock {\em Annals of Neurology}, 74(3):449--457.
 
 \bibitem[Liu et~al., 2021]{liu2021cell}
 Liu, Y.~H., Smith, S., Mihalas, S., Shea-Brown, E., and S{\"u}mb{\"u}l, U.
@@ -107,16 +118,47 @@ Liu, Y.~H., Smith, S., Mihalas, S., Shea-Brown, E., and S{\"u}mb{\"u}l, U.
 \newblock {\em Proceedings of the National Academy of Sciences},
   118(51):e2111821118.
 
+\bibitem[Manneschi et~al., 2021]{manneschi2021exploiting}
+Manneschi, L., Ellis, M.~O., Gigante, G., Lin, A.~C., Del~Giudice, P., and
+  Vasilaki, E. (2021).
+\newblock Exploiting multiple timescales in hierarchical echo state networks.
+\newblock {\em Frontiers in Applied Mathematics and Statistics}, 6:616658.
+
+\bibitem[Marder et~al., 2014]{marder2014neuromodulation}
+Marder, E., O'Leary, T., and Shruti, S. (2014).
+\newblock Neuromodulation of circuits with variable parameters: single neurons
+  and small circuits reveal principles of state-dependent and robust
+  neuromodulation.
+\newblock {\em Annual review of neuroscience}, 37(1):329--346.
+
+\bibitem[Marder and Taylor, 2011]{marder_multiple_2011}
+Marder, E. and Taylor, A.~L. (2011).
+\newblock Multiple models to capture the variability in biological neurons and
+  networks.
+\newblock {\em Nature Neuroscience}, 14(2):133--138.
+\newblock Publisher: Nature Publishing Group.
+
 \bibitem[Markram et~al., 2004]{markram2004interneurons}
 Markram, H., Toledo-Rodriguez, M., Wang, Y., Gupta, A., Silberberg, G., and Wu,
   C. (2004).
 \newblock Interneurons of the neocortical inhibitory system.
 \newblock {\em Nature reviews neuroscience}, 5(10):793--807.
 
+\bibitem[Mejias and Longtin, 2012]{mejias_optimal_2012}
+Mejias, J.~F. and Longtin, A. (2012).
+\newblock Optimal heterogeneity for coding in spiking neural networks.
+\newblock {\em Physical Review Letters}, 108(22):228102.
+\newblock Publisher: American Physical Society.
+
 \bibitem[Mukamel and Ngai, 2019]{mukamel2019perspectives}
 Mukamel, E.~A. and Ngai, J. (2019).
 \newblock Perspectives on defining cell types in the brain.
 \newblock {\em Current opinion in neurobiology}, 56:61--68.
+
+\bibitem[Nadim and Bucher, 2014]{Nadim2014}
+Nadim, F. and Bucher, D. (2014).
+\newblock Neuromodulation of neurons and synapses.
+\newblock {\em Current Opinion in Neurobiology}, 29:48--56.
 
 \bibitem[Nelson et~al., 2006]{nelson2006problem}
 Nelson, S.~B., Sugino, K., and Hempel, C.~M. (2006).
@@ -129,6 +171,31 @@ Ogawa, S., Fumarola, F., and Mazzucato, L. (2023).
 \newblock Multitasking via baseline control in recurrent neural networks.
 \newblock {\em Proceedings of the National Academy of Sciences},
   120(33):e2304394120.
+
+\bibitem[Ott et~al., 2023]{Ott2023}
+Ott, T., Stein, A.~M., and Nieder, A. (2023).
+\newblock Dopamine receptor activation regulates reward expectancy signals
+  during cognitive control in primate prefrontal neurons.
+\newblock {\em Nature Communications}, 14(1):7537.
+
+\bibitem[Perez-Nieves et~al., 2021]{perez-nieves_neural_2021}
+Perez-Nieves, N., Leung, V. C.~H., Dragotti, P.~L., and Goodman, D. F.~M.
+  (2021).
+\newblock Neural heterogeneity promotes robust learning.
+\newblock {\em Nature Communications}, 12(1):5791.
+\newblock Publisher: Nature Publishing Group.
+
+\bibitem[Picciotto et~al., 2012]{Picciotto2012}
+Picciotto, M.~R., Higley, M.~J., and Mineur, Y.~S. (2012).
+\newblock Acetylcholine as a neuromodulator: cholinergic signaling shapes
+  nervous system function and behavior.
+\newblock {\em Neuron}, 76(1):116--129.
+
+\bibitem[Robinson and Kawai, 1993]{robinson1993injection}
+Robinson, H.~P. and Kawai, N. (1993).
+\newblock Injection of digitally synthesized synaptic conductance transients to
+  measure the integrative properties of neurons.
+\newblock {\em Journal of neuroscience methods}, 49(3):157--165.
 
 \bibitem[Salvan et~al., 2023]{salvan2023serotonin}
 Salvan, P., Fonseca, M., Winkler, A.~M., Beauchamp, A., Lerch, J.~P., and
@@ -148,23 +215,48 @@ Seung, H.~S. and S{\"u}mb{\"u}l, U. (2014).
 \newblock Neuronal cell types and connectivity: lessons from the retina.
 \newblock {\em Neuron}, 83(6):1262--1272.
 
+\bibitem[Sharp et~al., 1993]{sharp1993dynamic}
+Sharp, A.~A., O'Neil, M.~B., Abbott, L., and Marder, E. (1993).
+\newblock The dynamic clamp: artificial conductances in biological neurons.
+\newblock {\em Trends in neurosciences}, 16(10):389--394.
+
 \bibitem[Somogyi and Klausberger, 2005]{somogyi2005defined}
 Somogyi, P. and Klausberger, T. (2005).
 \newblock Defined types of cortical interneurone structure space and spike
   timing in the hippocampus.
 \newblock {\em The Journal of physiology}, 562(1):9--26.
 
-\bibitem[Szab{\'o} et~al., 2021]{szabo2021conventional}
-Szab{\'o}, A., Schlett, K., and Sz{\"u}cs, A. (2021).
-\newblock Conventional measures of intrinsic excitability are poor estimators
-  of neuronal activity under realistic synaptic inputs.
-\newblock {\em PLOS Computational Biology}, 17(9):e1009378.
+\bibitem[Tanaka et~al., 2022]{tanaka2022reservoir}
+Tanaka, G., Matsumori, T., Yoshida, H., and Aihara, K. (2022).
+\newblock Reservoir computing with diverse timescales for prediction of
+  multiscale dynamics.
+\newblock {\em Physical Review Research}, 4(3):L032014.
+
+\bibitem[Tripathy et~al., 2013]{tripathy_intermediate_2013}
+Tripathy, S.~J., Padmanabhan, K., Gerkin, R.~C., and Urban, N.~N. (2013).
+\newblock Intermediate intrinsic diversity enhances neural population coding.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  110(20):8248--8253.
+\newblock Publisher: National Academy of Sciences.
+
+\bibitem[Walters et~al., 1987]{Walters1987}
+Walters, J.~R., Bergstrom, D.~A., Carlson, J.~H., Chase, T.~N., and Braun,
+  A.~R. (1987).
+\newblock D1 dopamine receptor activation required for postsynaptic expression
+  of d2 agonist effects.
+\newblock {\em Science}, 236(4802):719--722.
 
 \bibitem[Wu et~al., 2025]{wu2025neural}
 Wu, S., Huang, H., Wang, S., Chen, G., Zhou, C., and Yang, D. (2025).
 \newblock Neural heterogeneity enhances reliable neural information processing:
   Local sensitivity and globally input-slaved transient dynamics.
 \newblock {\em Science Advances}, 11(14):eadr3903.
+
+\bibitem[Yang et~al., 2024]{yang2024brain}
+Yang, L., Wang, Z., Wang, G., Liang, L., Liu, M., and Wang, J. (2024).
+\newblock Brain-inspired modular echo state network for eeg-based emotion
+  recognition.
+\newblock {\em Frontiers in Neuroscience}, 18:1305284.
 
 \bibitem[Yuste et~al., 2020]{yuste2020community}
 Yuste, R., Hawrylycz, M., Aalling, N., Aguilar-Valles, A., Arendt, D.,
@@ -174,12 +266,11 @@ Yuste, R., Hawrylycz, M., Aalling, N., Aguilar-Valles, A., Arendt, D.,
   neocortical cell types.
 \newblock {\em Nature neuroscience}, 23(12):1456--1468.
 
-\bibitem[Zeldenrust et~al., 2017]{zeldenrust2017estimating}
-Zeldenrust, F., de~Knecht, S., Wadman, W.~J., Den{\`e}ve, S., and Gutkin, B.
-  (2017).
-\newblock Estimating the information extracted by a single spiking neuron from
-  a continuous input time series.
-\newblock {\em Frontiers in computational neuroscience}, 11:49.
+\bibitem[Zeldenrust et~al., 2021]{zeldenrust_efficient_2021}
+Zeldenrust, F., Gutkin, B., and Denève, S. (2021).
+\newblock Efficient and robust coding in heterogeneous recurrent networks.
+\newblock {\em PLoS Computational Biology}, 17(4):e1008673.
+\newblock Publisher: Public Library of Science.
 
 \bibitem[Zeng, 2022]{zeng2022cell}
 Zeng, H. (2022).
@@ -191,5 +282,18 @@ Zeng, H. and Sanes, J.~R. (2017).
 \newblock Neuronal cell-type classification: challenges, opportunities and the
   path forward.
 \newblock {\em Nature Reviews Neuroscience}, 18(9):530--546.
+
+\bibitem[Zheng et~al., 2024]{zheng2024temporal}
+Zheng, H., Zheng, Z., Hu, R., Xiao, B., Wu, Y., Yu, F., Liu, X., Li, G., and
+  Deng, L. (2024).
+\newblock Temporal dendritic heterogeneity incorporated with spiking neural
+  networks for learning multi-timescale dynamics.
+\newblock {\em Nature Communications}, 15(1):277.
+
+\bibitem[Zilles and Amunts, 2009]{Zilles2009}
+Zilles, K. and Amunts, K. (2009).
+\newblock Architectonics of the human cerebral cortex and transmitter receptor
+  fingerprints: reconciling functional neuroanatomy and neurochemistry.
+\newblock {\em European Neuropsychopharmacology}, 19(7):389--401.
 
 \end{thebibliography}
