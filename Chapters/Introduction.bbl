@@ -13,6 +13,12 @@ Angelo, K., Rancz, E.~A., Pimentel, D., Hundahl, C., Hannibal, J., Fleischmann,
   in mitral cells.
 \newblock {\em Nature}, 488(7411):375--378.
 
+\bibitem[Avery and Krichmar, 2017]{avery2017neuromodulatory}
+Avery, M.~C. and Krichmar, J.~L. (2017).
+\newblock Neuromodulatory systems and their interactions: a review of models,
+  theories, and experiments.
+\newblock {\em Frontiers in neural circuits}, 11:108.
+
 \bibitem[Brown et~al., 2023]{brown2023multiset}
 Brown, B.~C., Wang, C., Kasela, S., Aguet, F., Nachun, D.~C., Taylor, K.~D.,
   Tracy, R.~P., Durda, P., Liu, Y., Johnson, W.~C., et~al. (2023).
@@ -32,6 +38,12 @@ Cavanagh, S.~E., Hunt, L.~T., and Kennerley, S.~W. (2020).
 \newblock A diversity of intrinsic timescales underlie neural computations.
 \newblock {\em Frontiers in neural circuits}, 14:615626.
 
+\bibitem[Chakraborty and Mukhopadhyay, 2022]{chakraborty_heterogeneous_2022}
+Chakraborty, B. and Mukhopadhyay, S. (2022).
+\newblock Heterogeneous {Recurrent} {Spiking} {Neural} {Network} for
+  {Spatio}-{Temporal} {Classification}.
+\newblock {\em arXiv preprint arXiv:2211.04297}.
+
 \bibitem[Chu et~al., 2020]{chu2020long}
 Chu, J.~C., Wang, Q., Baldassano, C., and Guo, N.~D. (2020).
 \newblock Long-timescale processing in human auditory and visual cortex
@@ -45,6 +57,28 @@ da~Silva~Lantyer, A., Calcini, N., Bijlsma, A., Kole, K., Emmelkamp, M.,
   adult somatosensory cortex.
 \newblock {\em GigaScience}, 7(12):giy147.
 
+\bibitem[Dalley et~al., 2004]{dalley2004cortical}
+Dalley, J.~W., Theobald, D.~E., Bouger, P., Chudasama, Y., Cardinal, R.~N., and
+  Robbins, T.~W. (2004).
+\newblock Cortical cholinergic function and deficits in visual attentional
+  performance in rats following 192 igg--saporin-induced lesions of the medial
+  prefrontal cortex.
+\newblock {\em Cerebral Cortex}, 14(8):922--932.
+
+\bibitem[Doty et~al., 2021]{doty_heterogeneous_2021}
+Doty, B., Mihalas, S., Arkhipov, A., and Piet, A. (2021).
+\newblock Heterogeneous 'cell types' can improve performance of deep neural
+  networks.
+\newblock {\em bioRxiv}, page 2021.06.21.449346.
+\newblock Publisher: Cold Spring Harbor Laboratory.
+
+\bibitem[Duarte and Morrison, 2019]{duarte_leveraging_2019}
+Duarte, R. and Morrison, A. (2019).
+\newblock Leveraging heterogeneity for neural computation with fading memory in
+  layer 2/3 cortical microcircuits.
+\newblock {\em PLoS Computational Biology}, 15(4):e1006781.
+\newblock Publisher: Public Library of Science.
+
 \bibitem[Fishell and Heintz, 2013]{fishell2013neuron}
 Fishell, G. and Heintz, N. (2013).
 \newblock The neuron identity problem: form meets function.
@@ -56,6 +90,19 @@ Fuzik, J., Zeisel, A., M{\'a}t{\'e}, Z., Calvigioni, D., Yanagawa, Y.,
 \newblock Integration of electrophysiological recordings with single-cell
   rna-seq data identifies neuronal subtypes.
 \newblock {\em Nature biotechnology}, 34(2):175--183.
+
+\bibitem[Fyon et~al., 2024]{fyon2024dimensionality}
+Fyon, A., Franci, A., Sacr{\'e}, P., and Drion, G. (2024).
+\newblock Dimensionality reduction of neuronal degeneracy reveals two
+  interfering physiological mechanisms.
+\newblock {\em PNAS nexus}, 3(10):pgae415.
+
+\bibitem[Gast et~al., 2024]{gast2024neural}
+Gast, R., Solla, S.~A., and Kennedy, A. (2024).
+\newblock Neural heterogeneity controls computations in spiking neural
+  networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  121(3):e2311885121.
 
 \bibitem[Goldman et~al., 2023]{Goldman2023}
 Goldman, M.~S. et~al. (2023).
@@ -82,6 +129,11 @@ Gouwens, N.~W., Sorensen, S.~A., Berg, J., Lee, C., Jarsky, T., Ting, J.,
 \newblock Classification of electrophysiological and morphological neuron types
   in the mouse visual cortex.
 \newblock {\em Nature neuroscience}, 22(7):1182--1195.
+
+\bibitem[Hasselmo et~al., 2006]{hasselmo2006cholinergic}
+Hasselmo, M.~E., Giocomo, L.~M., et~al. (2006).
+\newblock Cholinergic modulation of cortical function.
+\newblock {\em Journal of Molecular Neuroscience}, 30(1-2):133--136.
 
 \bibitem[Hasson et~al., 2008]{hasson2008hierarchical}
 Hasson, U., Yang, E., Vallines, I., Heeger, D., and Rubin, N. (2008).
@@ -123,6 +175,14 @@ Koch, C. and Laurent, G. (1999).
 \newblock Complexity and the nervous system.
 \newblock {\em Science}, 284(5411):96--98.
 
+\bibitem[Landau et~al., 2016]{landau_impact_2016}
+Landau, I.~D., Egger, R., Dercksen, V.~J., Oberlaender, M., and Sompolinsky, H.
+  (2016).
+\newblock The impact of structural heterogeneity on excitation-inhibition
+  balance in cortical networks.
+\newblock {\em Neuron}, 92(5):1106--1121.
+\newblock Publisher: Elsevier.
+
 \bibitem[Lee et~al., 2021]{lee2021non}
 Lee, E.~K., Balasubramanian, H., Tsolias, A., Anakwe, S.~U., Medalla, M.,
   Shenoy, K.~V., and Chandrasekaran, C. (2021).
@@ -154,16 +214,32 @@ Masland, R.~H. (2012).
 \newblock The neuronal organization of the retina.
 \newblock {\em Neuron}, 76(2):266--280.
 
+\bibitem[McCormick et~al., 2020]{mccormick2020neuromodulation}
+McCormick, D.~A., Nestvogel, D.~B., and He, B.~J. (2020).
+\newblock Neuromodulation of brain state and behavior.
+\newblock {\em Annual review of neuroscience}, 43(1):391--415.
+
 \bibitem[McNaughton et~al., 2006]{mcnaughton2006path}
 McNaughton, B.~L., Battaglia, F.~P., Jensen, O., Moser, E.~I., and Moser, M.-B.
   (2006).
 \newblock Path integration and the neural basis of the 'cognitive map'.
 \newblock {\em Nature Reviews Neuroscience}, 7(8):663–678.
 
+\bibitem[Mejias and Longtin, 2012]{mejias_optimal_2012}
+Mejias, J.~F. and Longtin, A. (2012).
+\newblock Optimal heterogeneity for coding in spiking neural networks.
+\newblock {\em Physical Review Letters}, 108(22):228102.
+\newblock Publisher: American Physical Society.
+
 \bibitem[Mukamel and Ngai, 2019]{mukamel2019perspectives}
 Mukamel, E.~A. and Ngai, J. (2019).
 \newblock Perspectives on defining cell types in the brain.
 \newblock {\em Current opinion in neurobiology}, 56:61--68.
+
+\bibitem[Nadim and Bucher, 2014]{nadim2014neuromodulation}
+Nadim, F. and Bucher, D. (2014).
+\newblock Neuromodulation of neurons and synapses.
+\newblock {\em Current opinion in neurobiology}, 29:48--56.
 
 \bibitem[Nelson et~al., 2006]{nelson2006problem}
 Nelson, S.~B., Sugino, K., and Hempel, C.~M. (2006).
@@ -171,10 +247,18 @@ Nelson, S.~B., Sugino, K., and Hempel, C.~M. (2006).
   approach.
 \newblock {\em Trends in neurosciences}, 29(6):339--345.
 
-\bibitem[Perez-Nieves et~al., 2021]{perez2021neural}
-Perez-Nieves, N., Leung, V.~C., Dragotti, P.~L., and Goodman, D.~F. (2021).
+\bibitem[Nusser, 2009]{nusser2009variability}
+Nusser, Z. (2009).
+\newblock Variability in the subcellular distribution of ion channels increases
+  neuronal diversity.
+\newblock {\em Trends in neurosciences}, 32(5):267--274.
+
+\bibitem[Perez-Nieves et~al., 2021]{perez-nieves_neural_2021}
+Perez-Nieves, N., Leung, V. C.~H., Dragotti, P.~L., and Goodman, D. F.~M.
+  (2021).
 \newblock Neural heterogeneity promotes robust learning.
-\newblock {\em Nature communications}, 12(1):5791.
+\newblock {\em Nature Communications}, 12(1):5791.
+\newblock Publisher: Nature Publishing Group.
 
 \bibitem[Sagner and Briscoe, 2019]{Sagner2019}
 Sagner, A. and Briscoe, J. (2019).
@@ -187,6 +271,12 @@ Sanes, J.~R. and Masland, R.~H. (2015).
 \newblock The types of retinal ganglion cells: current status and implications
   for neuronal classification.
 \newblock {\em Annual review of neuroscience}, 38(1):221--246.
+
+\bibitem[Sarter et~al., 2009]{sarter2009phasic}
+Sarter, M., Parikh, V., and Howe, W.~M. (2009).
+\newblock Phasic acetylcholine release and the volume transmission hypothesis:
+  time to move on.
+\newblock {\em Nature Reviews Neuroscience}, 10(5):383--390.
 
 \bibitem[Scala et~al., 2021]{scala2021phenotypic}
 Scala, F., Kobak, D., Bernabucci, M., Bernaerts, Y., Cadwell, C.~R., Castro,
@@ -248,6 +338,13 @@ Tripathy, S.~J. et~al. (2017).
 \newblock Transcriptomic correlates of neuron electrophysiological diversity.
 \newblock {\em PLoS Computational Biology}, 13(10):e1005814.
 
+\bibitem[Tripathy et~al., 2013]{tripathy_intermediate_2013}
+Tripathy, S.~J., Padmanabhan, K., Gerkin, R.~C., and Urban, N.~N. (2013).
+\newblock Intermediate intrinsic diversity enhances neural population coding.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  110(20):8248--8253.
+\newblock Publisher: National Academy of Sciences.
+
 \bibitem[Wagner et~al., 2016]{wagner2016revealing}
 Wagner, A., Regev, A., and Yosef, N. (2016).
 \newblock Revealing the vectors of cellular identity with single-cell genomics.
@@ -265,6 +362,11 @@ Wu, S., Huang, H., Wang, S., Chen, G., Zhou, C., and Yang, D. (2025).
   Local sensitivity and globally input-slaved transient dynamics.
 \newblock {\em Science Advances}, 11(14):eadr3903.
 
+\bibitem[y~Arcas et~al., 2003]{y2003computation}
+y~Arcas, B.~A., Fairhall, A.~L., and Bialek, W. (2003).
+\newblock Computation in a single neuron: Hodgkin and huxley revisited.
+\newblock {\em Neural computation}, 15(8):1715--1749.
+
 \bibitem[Yuste et~al., 2020]{yuste2020community}
 Yuste, R., Hawrylycz, M., Aalling, N., Aguilar-Valles, A., Arendt, D.,
   Arma{\~n}anzas, R., Ascoli, G.~A., Bielza, C., Bokharaie, V., Bergmann,
@@ -279,6 +381,12 @@ Zeldenrust, F., de~Knecht, S., Wadman, W.~J., Den{\`e}ve, S., and Gutkin, B.
 \newblock Estimating the information extracted by a single spiking neuron from
   a continuous input time series.
 \newblock {\em Frontiers in computational neuroscience}, 11:49.
+
+\bibitem[Zeldenrust et~al., 2021]{zeldenrust_efficient_2021}
+Zeldenrust, F., Gutkin, B., and Denève, S. (2021).
+\newblock Efficient and robust coding in heterogeneous recurrent networks.
+\newblock {\em PLoS Computational Biology}, 17(4):e1008673.
+\newblock Publisher: Public Library of Science.
 
 \bibitem[Zeng, 2022]{zeng2022cell}
 Zeng, H. (2022).

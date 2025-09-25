@@ -1,54 +1,267 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: .\Chapters\Chapter_4.aux
-White space in argument---line 15 of file .\Chapters\Chapter_4.aux
- : \citation{iacob2022distance,soriano2014delay,perez2021neural
- :                                                              }
-I'm skipping whatever remains of this command
 Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: All_bibtex.bib
+Repeated entry---line 1991 of file All_bibtex.bib
+ : @article{gao2015simplicity
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2184 of file All_bibtex.bib
+ : @article{gast2024neural
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3011 of file All_bibtex.bib
+ : @article{koch1999complexity
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3061 of file All_bibtex.bib
+ : @inproceedings{iacob2022distance
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3070 of file All_bibtex.bib
+ : @incollection{hansen2006the-cma-evoluti
+ :                                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3098 of file All_bibtex.bib
+ : @article{boedecker2012information
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3107 of file All_bibtex.bib
+ : @article{jaeger2001short
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3220 of file All_bibtex.bib
+ : @article{perez2021neural
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3276 of file All_bibtex.bib
+ : @article{jaeger2004harnessing
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3419 of file All_bibtex.bib
+ : @article{wang2020heterogeneity
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3494 of file All_bibtex.bib
+ : @article{london2010sensitivity
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3503 of file All_bibtex.bib
+ : @article{brunel2003firing
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3513 of file All_bibtex.bib
+ : @article{cavanagh2020diversity
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3522 of file All_bibtex.bib
+ : @article{habashy2024adapting
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3532 of file All_bibtex.bib
+ : @article{runyan2017distinct
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3542 of file All_bibtex.bib
+ : @article{mcnaughton2006path
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3552 of file All_bibtex.bib
+ : @article{hasson2008hierarchical
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3562 of file All_bibtex.bib
+ : @article{chu2020long
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3571 of file All_bibtex.bib
+ : @article{lukovsevivcius2009reservoir
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3581 of file All_bibtex.bib
+ : @article{jaeger2001echo
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3588 of file All_bibtex.bib
+ : @article{schrauwen2007overview
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3604 of file All_bibtex.bib
+ : @article{soriano2014delay
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3614 of file All_bibtex.bib
+ : @article{izhikevich2006polychronization
+ :                                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3624 of file All_bibtex.bib
+ : @article{nam2017diversity
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3634 of file All_bibtex.bib
+ : @article{zhou2023temporal
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5050 of file All_bibtex.bib
+ : @article{gao2015simplicity
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5235 of file All_bibtex.bib
+ : @article{gast2024neural
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6050 of file All_bibtex.bib
+ : @article{koch1999complexity
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6080 of file All_bibtex.bib
+ : @inproceedings{iacob2022distance
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6089 of file All_bibtex.bib
+ : @incollection{hansen2006the-cma-evoluti
+ :                                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6117 of file All_bibtex.bib
+ : @article{boedecker2012information
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6126 of file All_bibtex.bib
+ : @article{jaeger2001short
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6239 of file All_bibtex.bib
+ : @article{perez2021neural
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6295 of file All_bibtex.bib
+ : @article{jaeger2004harnessing
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6380 of file All_bibtex.bib
+ : @article{wang2020heterogeneity
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6455 of file All_bibtex.bib
+ : @article{london2010sensitivity
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6464 of file All_bibtex.bib
+ : @article{brunel2003firing
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6474 of file All_bibtex.bib
+ : @article{cavanagh2020diversity
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6483 of file All_bibtex.bib
+ : @article{habashy2024adapting
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6493 of file All_bibtex.bib
+ : @article{runyan2017distinct
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6503 of file All_bibtex.bib
+ : @article{mcnaughton2006path
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6513 of file All_bibtex.bib
+ : @article{hasson2008hierarchical
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6523 of file All_bibtex.bib
+ : @article{chu2020long
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6532 of file All_bibtex.bib
+ : @article{lukovsevivcius2009reservoir
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6542 of file All_bibtex.bib
+ : @article{jaeger2001echo
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6549 of file All_bibtex.bib
+ : @article{schrauwen2007overview
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6565 of file All_bibtex.bib
+ : @article{soriano2014delay
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6575 of file All_bibtex.bib
+ : @article{izhikevich2006polychronization
+ :                                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6585 of file All_bibtex.bib
+ : @article{nam2017diversity
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6595 of file All_bibtex.bib
+ : @article{zhou2023temporal
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6610 of file All_bibtex.bib
+ : @article{Lundqvist2016gamma
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6621 of file All_bibtex.bib
+ : @article{Runyan2017timescales
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6631 of file All_bibtex.bib
+ : @article{Cavanagh2020diverse
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6713 of file All_bibtex.bib
+ : @article{tanaka2022reservoir
+ :                             ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "jordanou2023investigation"
 Warning--empty journal in jaeger2001short
-You've used 25 entries,
+You've used 29 entries,
             1935 wiz_defined-function locations,
-            633 strings with 8701 characters,
-and the built_in function-call counts, 11051 in all, are:
-= -- 1046
-> -- 531
-< -- 8
-+ -- 194
-- -- 182
-* -- 1010
-:= -- 1933
-add.period$ -- 76
-call.type$ -- 25
-change.case$ -- 214
-chr.to.int$ -- 23
-cite$ -- 26
-duplicate$ -- 370
-empty$ -- 744
-format.name$ -- 213
-if$ -- 2125
+            663 strings with 9493 characters,
+and the built_in function-call counts, 12708 in all, are:
+= -- 1209
+> -- 598
+< -- 10
++ -- 216
+- -- 204
+* -- 1164
+:= -- 2220
+add.period$ -- 88
+call.type$ -- 29
+change.case$ -- 245
+chr.to.int$ -- 27
+cite$ -- 30
+duplicate$ -- 426
+empty$ -- 862
+format.name$ -- 243
+if$ -- 2445
 int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 25
-newline$ -- 127
-num.names$ -- 77
-pop$ -- 178
+missing$ -- 29
+newline$ -- 147
+num.names$ -- 89
+pop$ -- 199
 preamble$ -- 1
-purify$ -- 214
+purify$ -- 245
 quote$ -- 0
-skip$ -- 274
+skip$ -- 316
 stack$ -- 0
-substring$ -- 834
-swap$ -- 40
+substring$ -- 971
+swap$ -- 44
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 150
+type$ -- 174
 warning$ -- 1
-while$ -- 82
+while$ -- 96
 width$ -- 0
-write$ -- 323
-(There was 1 error message)
+write$ -- 375
+(There were 54 error messages)

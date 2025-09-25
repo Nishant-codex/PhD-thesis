@@ -37,6 +37,20 @@ Chakraborty, B. and Mukhopadhyay, S. (2022).
   {Spatio}-{Temporal} {Classification}.
 \newblock {\em arXiv preprint arXiv:2211.04297}.
 
+\bibitem[Duarte and Morrison, 2019]{duarte_leveraging_2019}
+Duarte, R. and Morrison, A. (2019).
+\newblock Leveraging heterogeneity for neural computation with fading memory in
+  layer 2/3 cortical microcircuits.
+\newblock {\em PLoS Computational Biology}, 15(4):e1006781.
+\newblock Publisher: Public Library of Science.
+
+\bibitem[Edelman and Gally, 2001]{edelman_degeneracy_2001}
+Edelman, G.~M. and Gally, J.~A. (2001).
+\newblock Degeneracy and complexity in biological systems.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  98(24):13763--13768.
+\newblock Publisher: National Academy of Sciences.
+
 \bibitem[Fishell and Heintz, 2013]{fishell2013neuron}
 Fishell, G. and Heintz, N. (2013).
 \newblock The neuron identity problem: form meets function.
@@ -55,6 +69,19 @@ Gast, R., Solla, S.~A., and Kennedy, A. (2024).
 \newblock {\em Proceedings of the National Academy of Sciences},
   121(3):e2311885121.
 
+\bibitem[Gjorgjieva et~al., 2016]{gjorgjieva2016computational}
+Gjorgjieva, J., Drion, G., and Marder, E. (2016).
+\newblock Computational implications of biophysical diversity and multiple
+  timescales in neurons and synapses for circuit performance.
+\newblock {\em Current opinion in neurobiology}, 37:44--52.
+
+\bibitem[Gjorgjieva et~al., 2014]{gjorgjieva_intrinsic_2014}
+Gjorgjieva, J., Mease, R.~A., Moody, W.~J., and Fairhall, A.~L. (2014).
+\newblock Intrinsic neuronal properties switch the mode of information
+  transmission in networks.
+\newblock {\em PLoS Computational Biology}, 10(12):e1003962.
+\newblock Publisher: Public Library of Science.
+
 \bibitem[Gouwens et~al., 2020]{gouwens2020integrated}
 Gouwens, N.~W., Sorensen, S.~A., Baftizadeh, F., Budzillo, A., Lee, B.~R.,
   Jarsky, T., Alfiler, L., Baker, K., Barkan, E., Berry, K., et~al. (2020).
@@ -68,6 +95,14 @@ Gouwens, N.~W., Sorensen, S.~A., Berg, J., Lee, C., Jarsky, T., Ting, J.,
 \newblock Classification of electrophysiological and morphological neuron types
   in the mouse visual cortex.
 \newblock {\em Nature neuroscience}, 22(7):1182--1195.
+
+\bibitem[Hennig et~al., 2018]{hennig_constraints_2018}
+Hennig, J.~A., Golub, M.~D., Lund, P.~J., Sadtler, P.~T., Oby, E.~R., Quick,
+  K.~M., Ryu, S.~I., Tyler-Kabara, E.~C., Batista, A.~P., Yu, B.~M., and
+  {others} (2018).
+\newblock Constraints on neural redundancy.
+\newblock {\em eLife}, 7:e36774.
+\newblock Publisher: eLife Sciences Publications Limited.
 
 \bibitem[Herrington et~al., 2016]{Herrington2016}
 Herrington, T.~M., Cheng, J.~J., and Eskandar, E.~N. (2016).
@@ -91,6 +126,13 @@ Iacob, S., Freiberger, M., and Dambre, J. (2022).
 \newblock Distance-based delays in echo state networks.
 \newblock In {\em International Conference on Intelligent Data Engineering and
   Automated Learning}, pages 211--222. Springer.
+
+\bibitem[Komendantov et~al., 2019]{komendantov_quantitative_2019}
+Komendantov, A.~O., Venkadesh, S., Rees, C.~L., Wheeler, D.~W., Hamilton,
+  D.~J., and Ascoli, G.~A. (2019).
+\newblock Quantitative firing pattern phenotyping of hippocampal neuron types.
+\newblock {\em Scientific Reports}, 9(1):17915.
+\newblock Publisher: Nature Publishing Group.
 
 \bibitem[Kumari and Narayanan, 2024]{kumari2024ion}
 Kumari, S. and Narayanan, R. (2024).
@@ -144,6 +186,12 @@ Markram, H., Toledo-Rodriguez, M., Wang, Y., Gupta, A., Silberberg, G., and Wu,
 \newblock Interneurons of the neocortical inhibitory system.
 \newblock {\em Nature reviews neuroscience}, 5(10):793--807.
 
+\bibitem[Marsat and Maler, 2010]{marsat2010neural}
+Marsat, G. and Maler, L. (2010).
+\newblock Neural heterogeneity and efficient population codes for communication
+  signals.
+\newblock {\em Journal of neurophysiology}, 104(5):2543--2555.
+
 \bibitem[Mejias and Longtin, 2012]{mejias_optimal_2012}
 Mejias, J.~F. and Longtin, A. (2012).
 \newblock Optimal heterogeneity for coding in spiking neural networks.
@@ -196,6 +244,14 @@ Robinson, H.~P. and Kawai, N. (1993).
 \newblock Injection of digitally synthesized synaptic conductance transients to
   measure the integrative properties of neurons.
 \newblock {\em Journal of neuroscience methods}, 49(3):157--165.
+
+\bibitem[Robinson et~al., 2004]{robinson2004firing}
+Robinson, S., Smith, D.~M., Mizumori, S.~J., and Palmiter, R.~D. (2004).
+\newblock Firing properties of dopamine neurons in freely moving
+  dopamine-deficient mice: effects of dopamine receptor activation and
+  anesthesia.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  101(36):13329--13334.
 
 \bibitem[Salvan et~al., 2023]{salvan2023serotonin}
 Salvan, P., Fonseca, M., Winkler, A.~M., Beauchamp, A., Lerch, J.~P., and

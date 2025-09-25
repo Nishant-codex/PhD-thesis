@@ -28,6 +28,19 @@ Chu, J.~C., Wang, Q., Baldassano, C., and Guo, N.~D. (2020).
   supports short-term memory.
 \newblock {\em Nature Neuroscience}, 23:1686–1695.
 
+\bibitem[Gao and Ganguli, 2015]{gao2015simplicity}
+Gao, P. and Ganguli, S. (2015).
+\newblock On simplicity and complexity in the brave new world of large-scale
+  neuroscience.
+\newblock {\em Current opinion in neurobiology}, 32:148--155.
+
+\bibitem[Gast et~al., 2024]{gast2024neural}
+Gast, R., Solla, S.~A., and Kennedy, A. (2024).
+\newblock Neural heterogeneity controls computations in spiking neural
+  networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  121(3):e2311885121.
+
 \bibitem[Habashy et~al., 2024]{habashy2024adapting}
 Habashy, K.~G., Evans, B.~D., Goodman, D.~F., and Bowers, J.~S. (2024).
 \newblock Adapting to time: Why nature may have evolved a diverse set of
@@ -67,6 +80,12 @@ Jaeger, H. (2001b).
   neural networks-with an erratum note.
 \newblock {\em GMD Technical Report 148}.
 
+\bibitem[Jaeger and Haas, 2004]{jaeger2004harnessing}
+Jaeger, H. and Haas, H. (2004).
+\newblock Harnessing nonlinearity: Predicting chaotic systems and saving energy
+  in wireless communication.
+\newblock {\em Science}, 304(5667):78--80.
+
 \bibitem[Koch and Laurent, 1999]{koch1999complexity}
 Koch, C. and Laurent, G. (1999).
 \newblock Complexity and the nervous system.
@@ -100,6 +119,11 @@ Nam, L., Kang, R., Kim, D., and Marder, E. (2017).
 \newblock Diversity matters: Neural variability promotes learning and
   generalization.
 \newblock {\em Neuron}, 96(4):795–807.
+
+\bibitem[Perez-Nieves et~al., 2021]{perez2021neural}
+Perez-Nieves, N., Leung, V.~C., Dragotti, P.~L., and Goodman, D.~F. (2021).
+\newblock Neural heterogeneity promotes robust learning.
+\newblock {\em Nature communications}, 12(1):5791.
 
 \bibitem[Runyan et~al., 2017a]{Runyan2017timescales}
 Runyan, C., Piasini, E., Panzeri, S., and Harvey, C. (2017a).

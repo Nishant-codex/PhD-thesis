@@ -17,9 +17,9 @@
 \contentsline {section}{Effect of Temporal Heterogeneity in Artificial Systems}{22}{section*.15}%
 \contentsline {section}{Research Objectives and Key Questions}{23}{section*.16}%
 \contentsline {section}{Experimental Framework and Approach}{24}{section*.17}%
-\contentsline {subsection}{Input Protocols }{24}{subsection*.18}%
-\contentsline {subsubsection}{Step and Hold}{24}{subsubsection*.20}%
-\contentsline {subsubsection}{Frozen Noise}{26}{subsubsection*.21}%
+\contentsline {subsection}{Input Protocols }{25}{subsection*.18}%
+\contentsline {subsubsection}{Step and Hold}{25}{subsubsection*.20}%
+\contentsline {subsubsection}{Frozen Noise}{25}{subsubsection*.21}%
 \contentsline {subsection}{Extracted features}{27}{subsection*.22}%
 \contentsline {subsection}{Network Design}{28}{subsection*.24}%
 \contentsline {section}{Summary and Outlook}{29}{section*.25}%
@@ -96,77 +96,77 @@
 \contentsline {section}{Results}{160}{section*.115}%
 \contentsline {subsection}{Task Performance }{161}{subsection*.117}%
 \contentsline {subsubsection}{NARMA 30}{161}{subsubsection*.118}%
-\contentsline {subsubsection}{Mackey-Glass}{162}{subsubsection*.119}%
-\contentsline {subsection}{Stability and Dimensionality}{163}{subsection*.122}%
-\contentsline {subsubsection}{Maximum Lyapunov Exponents}{163}{subsubsection*.123}%
-\contentsline {subsubsection}{Dimensionality}{167}{subsubsection*.124}%
-\contentsline {subsection}{Linear Memory capacity}{168}{subsection*.127}%
-\contentsline {section}{Discussion}{172}{section*.129}%
+\contentsline {subsubsection}{Mackey-Glass}{163}{subsubsection*.119}%
+\contentsline {subsection}{Stability and Dimensionality}{166}{subsection*.122}%
+\contentsline {subsubsection}{Maximum Lyapunov Exponents}{166}{subsubsection*.123}%
+\contentsline {subsubsection}{Dimensionality}{168}{subsubsection*.124}%
+\contentsline {subsection}{Linear Memory capacity}{169}{subsection*.127}%
+\contentsline {section}{Discussion}{174}{section*.129}%
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {5}General Discussion}{179}{chapter.5}%
+\contentsline {chapter}{\numberline {5}General Discussion}{181}{chapter.5}%
 \gdef \the@ipfilectr {@-6}
-\contentsline {section}{Summary}{180}{section*.130}%
-\contentsline {section}{Towards dynamic functional identity of single neurons}{182}{section*.131}%
-\contentsline {subsection}{Input dependence challenges current taxonomies}{182}{subsection*.132}%
-\contentsline {subsection}{Functional value of heterogeneity at the population Level}{183}{subsection*.133}%
-\contentsline {subsection}{Introduction of Novel Analytical Methods to Study Functional Reorganization and High-Dimensional Correlations}{185}{subsection*.134}%
-\contentsline {section}{AI / Computational modeling implications}{186}{section*.135}%
-\contentsline {subsection}{Heterogeneity Improves Reservoir Performance}{186}{subsection*.136}%
-\contentsline {subsection}{Limitations and Methodological Constraints}{188}{subsection*.137}%
-\contentsline {subsection}{Future Directions}{189}{subsection*.138}%
-\contentsline {subsubsection}{Biological Extensions}{189}{subsubsection*.139}%
-\contentsline {subsubsection}{Computational Extensions}{191}{subsubsection*.140}%
-\contentsline {section}{Final Conclusion}{192}{section*.141}%
-\contentsline {subsection}{Epilogue}{192}{subsection*.142}%
+\contentsline {section}{Summary}{182}{section*.130}%
+\contentsline {section}{Towards dynamic functional identity of single neurons}{184}{section*.131}%
+\contentsline {subsection}{Input dependence challenges current taxonomies}{184}{subsection*.132}%
+\contentsline {subsection}{Functional value of heterogeneity at the population Level}{185}{subsection*.133}%
+\contentsline {subsection}{Introduction of Novel Analytical Methods to Study Functional Reorganization and High-Dimensional Correlations}{187}{subsection*.134}%
+\contentsline {section}{Computational modeling implications}{188}{section*.135}%
+\contentsline {subsection}{Heterogeneity Improves Reservoir Performance}{188}{subsection*.136}%
+\contentsline {subsection}{Limitations and Methodological Constraints}{190}{subsection*.137}%
+\contentsline {subsection}{Future Directions}{191}{subsection*.138}%
+\contentsline {subsubsection}{Biological Extensions}{191}{subsubsection*.139}%
+\contentsline {subsubsection}{Computational Extensions}{193}{subsubsection*.140}%
+\contentsline {section}{Final Conclusion}{194}{section*.141}%
+\contentsline {subsection}{Epilogue}{194}{subsection*.142}%
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {6}Supplementary Materials}{197}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Supplementary Materials}{199}{chapter.6}%
 \gdef \the@ipfilectr {@-7}
-\contentsline {section}{Supplementary materials of chapter 2}{198}{section*.143}%
-\contentsline {section}{Waveform and Action Potential properties manifold \\ comparison }{198}{section*.144}%
-\contentsline {section}{Louvain vs Ensemble Clustering for Graphs (ECG) algorithm comparison }{199}{section*.146}%
-\contentsline {section}{Cluster stability after leaving one attribute out at a time}{201}{section*.149}%
-\contentsline {section}{Diversity of firing rate and AP half-width}{202}{section*.151}%
-\contentsline {section}{STA Heterogeneity}{203}{section*.153}%
-\contentsline {section}{Cluster assignment likelihood across attributes}{204}{section*.155}%
-\contentsline {section}{Supplementary materials of chapter 3}{206}{section*.158}%
+\contentsline {section}{Supplementary materials of chapter 2}{200}{section*.143}%
+\contentsline {section}{Waveform and Action Potential properties manifold \\ comparison }{200}{section*.144}%
+\contentsline {section}{Louvain vs Ensemble Clustering for Graphs (ECG) algorithm comparison }{201}{section*.146}%
+\contentsline {section}{Cluster stability after leaving one attribute out at a time}{203}{section*.149}%
+\contentsline {section}{Diversity of firing rate and AP half-width}{204}{section*.151}%
+\contentsline {section}{STA Heterogeneity}{205}{section*.153}%
+\contentsline {section}{Cluster assignment likelihood across attributes}{206}{section*.155}%
+\contentsline {section}{Supplementary materials of chapter 3}{208}{section*.158}%
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {7}Appendices}{231}{chapter.7}%
+\contentsline {chapter}{\numberline {7}Appendices}{233}{chapter.7}%
 \gdef \the@ipfilectr {@-8}
-\contentsline {section}{Nederlandse samenvatting}{232}{section*.183}%
+\contentsline {section}{Nederlandse samenvatting}{234}{section*.183}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-9}
-\contentsline {section}{Research Data Management}{233}{section*.184}%
-\contentsline {section}{Ethical approval}{233}{section*.185}%
-\contentsline {section}{Findability and accessibility}{233}{section*.186}%
+\contentsline {section}{Research Data Management}{235}{section*.184}%
+\contentsline {section}{Ethical approval}{235}{section*.185}%
+\contentsline {section}{Findability and accessibility}{235}{section*.186}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-10}
-\contentsline {section}{Outreach activities}{234}{section*.187}%
-\contentsline {section}{Brain Bee}{234}{section*.188}%
-\contentsline {subsection}{Genetic Algorithms (Chapter 2.4)}{234}{subsection*.189}%
-\contentsline {subsubsection}{Biological Foundations:}{234}{subsubsection*.190}%
-\contentsline {subsubsection}{Algorithmic Steps and Mechanics:}{235}{subsubsection*.191}%
-\contentsline {subsubsection}{Fitness Function Concept:}{235}{subsubsection*.192}%
-\contentsline {subsubsection}{Applications in Neuroscience:}{235}{subsubsection*.193}%
-\contentsline {subsubsection}{Limitations:}{235}{subsubsection*.194}%
-\contentsline {subsubsection}{Educational Features:}{236}{subsubsection*.195}%
-\contentsline {subsection}{AI and Neuroscience Applications Outside the Brain: Ethics and Impact (Chapter 2.5)}{236}{subsection*.196}%
-\contentsline {subsubsection}{Real-World AI Applications:}{236}{subsubsection*.197}%
-\contentsline {subsubsection}{Neurotechnology and Neuro-Robotics:}{236}{subsubsection*.198}%
-\contentsline {subsubsection}{Ethical Challenges:}{237}{subsubsection*.199}%
-\contentsline {subsubsection}{Societal Impact and Sustainability:}{237}{subsubsection*.200}%
-\contentsline {subsubsection}{Didactic Structure and Resources:}{237}{subsubsection*.201}%
-\contentsline {subsubsection}{Overall Contribution Impact}{237}{subsubsection*.202}%
+\contentsline {section}{Outreach activities}{236}{section*.187}%
+\contentsline {section}{Brain Bee}{236}{section*.188}%
+\contentsline {subsection}{Genetic Algorithms (Chapter 2.4)}{236}{subsection*.189}%
+\contentsline {subsubsection}{Biological Foundations:}{236}{subsubsection*.190}%
+\contentsline {subsubsection}{Algorithmic Steps and Mechanics:}{237}{subsubsection*.191}%
+\contentsline {subsubsection}{Fitness Function Concept:}{237}{subsubsection*.192}%
+\contentsline {subsubsection}{Applications in Neuroscience:}{237}{subsubsection*.193}%
+\contentsline {subsubsection}{Limitations:}{237}{subsubsection*.194}%
+\contentsline {subsubsection}{Educational Features:}{238}{subsubsection*.195}%
+\contentsline {subsection}{AI and Neuroscience Applications Outside the Brain: Ethics and Impact (Chapter 2.5)}{238}{subsection*.196}%
+\contentsline {subsubsection}{Real-World AI Applications:}{238}{subsubsection*.197}%
+\contentsline {subsubsection}{Neurotechnology and Neuro-Robotics:}{238}{subsubsection*.198}%
+\contentsline {subsubsection}{Ethical Challenges:}{239}{subsubsection*.199}%
+\contentsline {subsubsection}{Societal Impact and Sustainability:}{239}{subsubsection*.200}%
+\contentsline {subsubsection}{Didactic Structure and Resources:}{239}{subsubsection*.201}%
+\contentsline {subsubsection}{Overall Contribution Impact}{239}{subsubsection*.202}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-11}
-\contentsline {section}{Failures}{239}{section*.203}%
+\contentsline {section}{Failures}{241}{section*.203}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-12}
-\contentsline {section}{Acknowledgements}{240}{section*.204}%
+\contentsline {section}{Acknowledgements}{242}{section*.204}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-13}
-\contentsline {section}{Curriculum Vitae}{241}{section*.205}%
+\contentsline {section}{Curriculum Vitae}{243}{section*.205}%
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-14}
-\contentsline {section}{Donders Graduate School for Cognitive Neuroscience}{242}{section*.207}%
+\contentsline {section}{Donders Graduate School for Cognitive Neuroscience}{244}{section*.207}%
 \gdef \the@ipfilectr {}
 \contentsfinish 

@@ -21,6 +21,14 @@ Arnsten, A.~F. and Rubia, K. (2012).
 \newblock {\em Journal of the American Academy of Child \& Adolescent
   Psychiatry}, 51(4):356--367.
 
+\bibitem[Azarfar et~al., 2018]{Azarfar2018}
+Azarfar, A., Zhang, Y., Alishbayli, A., Miceli, S., Kepser, L., van~der Wielen,
+  D., van~de Moosdijk, M., Homberg, J.~R., Schubert, D., and Celikel, T.
+  (2018).
+\newblock A databank for intracellular electrophysiological mapping of the
+  adult somatosensory cortex.
+\newblock {\em Gigascience}, 7(12):giy147.
+
 \bibitem[Bargmann, 2012]{bargmann2012beyond}
 Bargmann, C.~I. (2012).
 \newblock Beyond the connectome: how neuromodulators shape neural circuits.
@@ -38,6 +46,24 @@ Brown, B.~C., Wang, C., Kasela, S., Aguet, F., Nachun, D.~C., Taylor, K.~D.,
 \newblock Multiset correlation and factor analysis enables exploration of
   multi-omics data.
 \newblock {\em Cell Genomics}, 3(8).
+
+\bibitem[Calcini et~al., 2024]{calcini2024electrical}
+Calcini, N., Zeldenrust, F., and Celikel, T. (2024).
+\newblock Electrical diversity of neurons in sensory cortices.
+\newblock {\em bioRxiv}, pages 2024--10.
+
+\bibitem[Celikel and Sakmann, 2003]{Celikel2003}
+Celikel, T. and Sakmann, B. (2003).
+\newblock Sensory integration across space and in time for decision making in
+  the somatosensory system of rodents.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 100(6):3888--3893.
+
+\bibitem[Celikel et~al., 2004]{Celikel2004}
+Celikel, T., Szostak, V.~A., and Feldman, D.~E. (2004).
+\newblock Modulation of spike timing by sensory deprivation during induction of
+  cortical map plasticity.
+\newblock {\em Nature Neuroscience}, 7(5):534--541.
 
 \bibitem[Cousineau et~al., 2020]{cousineau2020dopamine}
 Cousineau, J., Lescouz{\`e}res, L., Taupignon, A., Delgado-Zabalza, L.,
@@ -258,11 +284,26 @@ Zeldenrust, F., Calcini, N., Yan, X., Bijlsma, A., and Celikel, T. (2024).
   information transfer.
 \newblock {\em PLOS Computational Biology}, 20(5):e1012043.
 
-\bibitem[Zeldenrust et~al., 2017]{zeldenrust2017estimating}
+\bibitem[Zeldenrust et~al., 2017a]{zeldenrust2017estimating}
 Zeldenrust, F., de~Knecht, S., Wadman, W.~J., Den{\`e}ve, S., and Gutkin, B.
-  (2017).
+  (2017a).
 \newblock Estimating the information extracted by a single spiking neuron from
   a continuous input time series.
 \newblock {\em Frontiers in computational neuroscience}, 11:49.
+
+\bibitem[Zeldenrust et~al., 2017b]{Zeldenrust2017}
+Zeldenrust, F., Gutkin, B.~S., and Denève, S. (2017b).
+\newblock Efficient and robust coding in heterogeneous recurrent networks.
+\newblock {\em PLoS Computational Biology}, 13(10):e1006584.
+
+\bibitem[Zeldenrust et~al., 2017c]{Zeldenrust2017b}
+Zeldenrust, F., Gutkin, B.~S., and Denève, S. (2017c).
+\newblock Neural coding with bursts—current state and future perspectives.
+\newblock {\em Frontiers in Computational Neuroscience}, 11:48.
+
+\bibitem[Zeldenrust et~al., 2018]{Zeldenrust2018}
+Zeldenrust, F., Wadman, W.~J., and Englitz, B. (2018).
+\newblock Neural coding with bursts—current state and future perspectives.
+\newblock {\em Frontiers in Computational Neuroscience}, 12:48.
 
 \end{thebibliography}

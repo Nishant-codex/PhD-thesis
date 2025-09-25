@@ -142,7 +142,7 @@ Biological neural systems are composed of heterogeneous computational units (ind
 
 Recurrent Neural Networks (RNNs), which possess temporal memory, have been proposed as functional analogs to biological circuits (\cite{sussillo2014neural}). One popular subclass, Reservoir Computing (RC) networks, or Echo State Networks (ESNs), have been demonstrated to have the capacity to solve tasks requiring short-term memory (\cite{jaeger2001echo}). However, these networks are typically built with uniform time constants and lack the diversity observed in biological systems.
 
-Recent studies have introduced architectural temporal heterogeneity through mechanisms like delay lines. In particular, Distance-based Delay Networks (DDNs) have been shown to outperform classical ESNs on memory and chaotic time-series tasks (\cite{iacob2022distance, soriano2014delay, perez2021neural}). These results suggest that incorporating temporal diversity improves computational performance. However, in such models, heterogeneity is embedded in network-level topology, not in the intrinsic properties of individual units.
+Recent studies have introduced architectural temporal heterogeneity through mechanisms like delay lines. In particular, Distance-based Delay Networks (DDNs) have been shown to outperform classical ESNs on memory and chaotic time-series tasks (\cite{iacob2022distance, soriano2014delay}). Previous studies have also shown benefits of intrinsic heterogeneity in spiking network, more specifically on encoding and memory task (\cite{gast2024neural,perez-nieves_neural_2021,chakraborty_heterogeneous_2022,zeldenrust_efficient_2021, mejias_optimal_2012,tripathy_intermediate_2013,landau_impact_2016,doty_heterogeneous_2021,duarte_leveraging_2019}). These results suggest that incorporating temporal diversity improves computational performance. However, in such models, heterogeneity is embedded in network-level topology, not in the intrinsic properties of individual units.
 
 Thus, it remains unclear how intrinsic temporal heterogeneity such as variability in decay rates of individual units in the network or integration time constants across individual units influences network performance. This thesis explores this gap by systematically varying internal timescales within reservoir units, testing whether biologically inspired temporal diversity can enhance memory capacity and task performance in artificial networks.
 
@@ -248,4 +248,7 @@ This introduction has outlined the motivation and rationale for investigating ne
 \bibliographystyle{apalike}
 \renewcommand{\bibname}{References}
 \bibliography{All_bibtex}
+
+
+
 \end{spacing}
