@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  25 SEP 2025 13:03
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  26 SEP 2025 08:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2557,12 +2557,12 @@ Chapter 3.
 
 
 
-LaTeX Warning: File `Figures/3.pdf' not found on input line 407.
+LaTeX Warning: File `Figures/3.pdf' not found on input line 410.
 
 ! Unable to load picture or PDF file 'Figures/3.pdf'.
 <to be read again> 
                    }
-l.407 \include{Chapters/Chapter_3}
+l.410 \include{Chapters/Chapter_3}
                                   
 ? 
 
@@ -2572,7 +2572,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.407 \include{Chapters/Chapter_3}
+l.410 \include{Chapters/Chapter_3}
                                   
 ? 
 
@@ -2582,7 +2582,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.407 \include{Chapters/Chapter_3}
+l.410 \include{Chapters/Chapter_3}
                                   
 ? 
 File: Figures/3.pdf Graphic file (type pdf)
@@ -2590,7 +2590,7 @@ File: Figures/3.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/3.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.407 \include{Chapters/Chapter_3}
+l.410 \include{Chapters/Chapter_3}
                                   
 ? 
 [99
@@ -2613,9 +2613,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-Overfull \hbox (2.20279pt too wide) in paragraph at lines 22--23
+Overfull \hbox (5.53287pt too wide) in paragraph at lines 22--23
 \TU/PalatinoLinotype(0)/m/n/10 such as firing rate or spike-frequency adaptatio
-n [][]Nadim and Bucher[][] ([][]2014[][]); [][]Marder[][]
+n ([][]Nadim and Bucher[][] ([][]2014[][]); [][]Marder[][]
+ []
+
+
+Overfull \hbox (4.23546pt too wide) in paragraph at lines 24--25
+\TU/PalatinoLinotype(0)/m/n/10 downstream attributes like spike waveform and fi
+ltering dynamics ([][]Häusser[][] ([][]2000[][]);
  []
 
 
@@ -2628,6 +2634,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [101]
+Overfull \hbox (3.62534pt too wide) in paragraph at lines 28--29
+\TU/PalatinoLinotype(0)/m/n/10 that is transferred from the input of a neuron t
+o its output ([][]Zeldenrust et al.[][] ([][]2017a[][])).
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2840,6 +2852,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.83636pt}.
 
 [109]
+Overfull \hbox (3.23775pt too wide) in paragraph at lines 190--191
+\TU/PalatinoLinotype(0)/m/n/10 We employed the information transfer protocol de
+tailed in ([][]Zeldenrust et al.[][] ([][]2017a[][],
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2873,6 +2891,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Overfull \hbox (4.18683pt too wide) in paragraph at lines 214--215
 \TU/PalatinoLinotype(0)/m/n/10 To investigate how neuromodulation alters the re
 lationship between different func-
+ []
+
+
+Overfull \hbox (1.50293pt too wide) in paragraph at lines 214--215
+\TU/PalatinoLinotype(0)/b/n/10 Factor Analysis (MCFA) \TU/PalatinoLinotype(0)/m
+/n/10 ([][]Brown et al.[][] ([][]2023[][])), an unsupervised integration method
+
  []
 
 
@@ -3329,14 +3354,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Chapter 4.
 
+Overfull \hbox (0.90318pt too wide) in paragraph at lines 430--431
+\TU/PalatinoLinotype(0)/m/n/10 Based on: $[][][][][][][] [][][] [][][][][][][] 
+[][]$, Dambre, J., Zeldenrust, F., Timescale Heterogenei-
+ []
 
 
-LaTeX Warning: File `Figures/4.pdf' not found on input line 427.
+
+
+LaTeX Warning: File `Figures/4.pdf' not found on input line 433.
 
 ! Unable to load picture or PDF file 'Figures/4.pdf'.
 <to be read again> 
                    }
-l.427 \include{Chapters/Chapter_4}
+l.433 \include{Chapters/Chapter_4}
                                   
 ? 
 
@@ -3346,7 +3377,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.427 \include{Chapters/Chapter_4}
+l.433 \include{Chapters/Chapter_4}
                                   
 ? 
 
@@ -3356,7 +3387,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.427 \include{Chapters/Chapter_4}
+l.433 \include{Chapters/Chapter_4}
                                   
 ? 
 File: Figures/4.pdf Graphic file (type pdf)
@@ -3364,7 +3395,7 @@ File: Figures/4.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/4.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.427 \include{Chapters/Chapter_4}
+l.433 \include{Chapters/Chapter_4}
                                   
 ? 
 [147]
@@ -3548,12 +3579,12 @@ Chapter 5.
 
 
 
-LaTeX Warning: File `Figures/6.pdf' not found on input line 444.
+LaTeX Warning: File `Figures/6.pdf' not found on input line 450.
 
 ! Unable to load picture or PDF file 'Figures/6.pdf'.
 <to be read again> 
                    }
-l.444 \include{Chapters/Discussion}
+l.450 \include{Chapters/Discussion}
                                    
 ? 
 
@@ -3563,7 +3594,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.444 \include{Chapters/Discussion}
+l.450 \include{Chapters/Discussion}
                                    
 ? 
 
@@ -3573,7 +3604,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.444 \include{Chapters/Discussion}
+l.450 \include{Chapters/Discussion}
                                    
 ? 
 File: Figures/6.pdf Graphic file (type pdf)
@@ -3581,7 +3612,7 @@ File: Figures/6.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/6.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.444 \include{Chapters/Discussion}
+l.450 \include{Chapters/Discussion}
                                    
 ? 
 [181]
@@ -3688,7 +3719,7 @@ Chapter 6.
 
 
 
-LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 456.
+LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 462.
 
 
 ! Package graphics Error: Division by 0.
@@ -3697,7 +3728,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.456 \include{Chapters/Supplementary_Materials}
+l.462 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
 
@@ -3707,7 +3738,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.456 \include{Chapters/Supplementary_Materials}
+l.462 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
 File: Figures/cover_bg.pdf Graphic file (type pdf)
@@ -3715,7 +3746,7 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/cover_bg.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.456 \include{Chapters/Supplementary_Materials}
+l.462 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
 [199]
@@ -3885,44 +3916,44 @@ No file Chapters/Supplementary_Materials.bbl.
 )
 Chapter 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 467--467
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
  \TU/PalatinoLinotype(0)/m/n/10 Nederlandse samenvatting 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 467--467
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
  \TU/PalatinoLinotype(0)/m/n/10 Research data management statement 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 467--467
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
  \TU/PalatinoLinotype(0)/m/n/10 Outreach activities 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 467--467
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
  \TU/PalatinoLinotype(0)/m/n/10 Failures 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 467--467
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
  \TU/PalatinoLinotype(0)/m/n/10 Acknowledgements 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 467--467
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
  \TU/PalatinoLinotype(0)/m/n/10 Curriculum Vitae 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 467--467
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
  \TU/PalatinoLinotype(0)/m/n/10 Donders Graduate School 
  []
 
 
 
 
-LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 471.
+LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 477.
 
 
 ! Package graphics Error: Division by 0.
@@ -3931,7 +3962,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.471 \include{Chapters/Summary}
+l.477 \include{Chapters/Summary}
                                 
 ? 
 
@@ -3941,7 +3972,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.471 \include{Chapters/Summary}
+l.477 \include{Chapters/Summary}
                                 
 ? 
 File: Figures/cover_bg.pdf Graphic file (type pdf)
@@ -3949,7 +3980,7 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/cover_bg.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.471 \include{Chapters/Summary}
+l.477 \include{Chapters/Summary}
                                 
 ? 
 [233
