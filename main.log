@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  26 SEP 2025 08:22
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  28 SEP 2025 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3354,12 +3354,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Chapter 4.
 
-Overfull \hbox (0.90318pt too wide) in paragraph at lines 430--431
-\TU/PalatinoLinotype(0)/m/n/10 Based on: $[][][][][][][] [][][] [][][][][][][] 
-[][]$, Dambre, J., Zeldenrust, F., Timescale Heterogenei-
- []
-
-
 
 
 LaTeX Warning: File `Figures/4.pdf' not found on input line 433.
@@ -4010,6 +4004,17 @@ l.15 \end{itemize}
 \openout2 = `"Chapters/Research data management statement.aux"'.
 
  (Chapters/Research data management statement.tex
+! Misplaced alignment tab character &.
+l.14 ...ole, K., Emmelkamp, M., Peeters, M., ... &
+                                                   Celikel, T. (2018). Suppo...
+
+? 
+
+Overfull \hbox (14.85748pt too wide) in paragraph at lines 15--18
+\TU/PalatinoLinotype(0)/m/n/10 on information transfer of single cortical neuro
+ns. https://doi.org/10.34973/nhes-
+ []
+
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -4018,7 +4023,7 @@ Package fontspec Info:
 (fontspec)             different font should be chosen.
 
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 13.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 22.
 
 Package fontspec Info: 
 (fontspec)             Font family 'FandolFang-Regular(0)' created for font
@@ -4032,19 +4037,21 @@ Package fontspec Info:
 (fontspec)             <->"[FandolFang-Regular.otf]/OT:script=hani;language=dfl
 t;"
 
-)
+
 
 [235
 
 
 
 
-]
+])
+
+[236]
 \openout2 = `Chapters/outreach.aux'.
 
  (Chapters/outreach.tex
 
-[236
+[237
 
 
 
@@ -4052,7 +4059,7 @@ t;"
 
 ]
 
-[237]
+[238]
 Overfull \hbox (13.97444pt too wide) in paragraph at lines 52--53
 \TU/PalatinoLinotype(0)/m/n/10 The chapter introduces next-generation technolog
 ies including neuro-robotics, where
@@ -4060,7 +4067,7 @@ ies including neuro-robotics, where
 
 
 
-[238]
+[239]
 Overfull \hbox (2.36964pt too wide) in paragraph at lines 64--65
 \TU/PalatinoLinotype(0)/m/n/10 ized terminology, and points to references and f
 urther reading to encourage deeper
@@ -4068,14 +4075,14 @@ urther reading to encourage deeper
 
 
 
-[239]
+[240]
 
-[240])
+[241])
 \openout2 = `Chapters/Failures.aux'.
 
  (Chapters/Failures.tex
 
-[241
+[242
 
 
 
@@ -4086,7 +4093,7 @@ urther reading to encourage deeper
 
  (Chapters/Acknowledgements.tex)
 
-[242
+[243
 
 
 
@@ -4124,7 +4131,7 @@ l.11 ...41\textwidth]{Figures/Profile picture.pdf}
 ? 
 )
 
-[243
+[244
 
 
 
@@ -4140,14 +4147,14 @@ ychology, behavioral science, medicine
 
 
 
-[244
+[245
 
 
 
 
 ]
 
-[245]
+[246]
 
 LaTeX Warning: File `Figures/cover_back_sign.pdf' not found on input line 23.
 
@@ -4187,7 +4194,7 @@ l.23 ...\paperheight]{Figures/cover_back_sign.pdf}
 ? 
 )
 
-[246]
+[247]
 
 Package natbib Warning: There were undefined citations.
 
@@ -4215,6 +4222,6 @@ Here is how much of TeX's memory you used:
  64945 multiletter control sequences out of 15000+600000
  634254 words of font info for 141 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,14n,121p,3544b,770s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,14n,121p,3544b,773s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (248 pages).
+Output written on main.pdf (249 pages).
