@@ -86,6 +86,12 @@ Jaeger, H. and Haas, H. (2004).
   in wireless communication.
 \newblock {\em Science}, 304(5667):78--80.
 
+\bibitem[Jordanou et~al., 2023]{jordanou2023investigation}
+Jordanou, J.~P., Antonelo, E.~A., Camponogara, E., and Gildin, E. (2023).
+\newblock Investigation of proper orthogonal decomposition for echo state
+  networks.
+\newblock {\em Neurocomputing}, 548:126395.
+
 \bibitem[Koch and Laurent, 1999]{koch1999complexity}
 Koch, C. and Laurent, G. (1999).
 \newblock Complexity and the nervous system.

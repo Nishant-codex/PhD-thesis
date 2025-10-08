@@ -5,383 +5,209 @@ Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: All_bibtex.bib
-Repeated entry---line 1815 of file All_bibtex.bib
- : @article{fyon2024dimensionality
- :                                ,
+Repeated entry---line 615 of file All_bibtex.bib
+ : @article{szucs2015differential
+ :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1825 of file All_bibtex.bib
- : @article{marsat2010neural
- :                          ,
+Repeated entry---line 2929 of file All_bibtex.bib
+ : @article{marder2012neuromodulation
+ :                                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1835 of file All_bibtex.bib
- : @article{mccormick2020neuromodulation
- :                                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1846 of file All_bibtex.bib
- : @article{avery2017neuromodulatory
- :                                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1855 of file All_bibtex.bib
+Repeated entry---line 3068 of file All_bibtex.bib
  : @article{nadim2014neuromodulation
  :                                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1864 of file All_bibtex.bib
- : @article{y2003computation
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1874 of file All_bibtex.bib
- : @article{angelo2012biophysical
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2040 of file All_bibtex.bib
- : @article{zeng2022cell
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2184 of file All_bibtex.bib
- : @article{gast2024neural
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2254 of file All_bibtex.bib
- : @article{fuzik2016integration
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2402 of file All_bibtex.bib
- : @article{da2018databank
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2413 of file All_bibtex.bib
- : @article{zeldenrust2017estimating
- :                                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2502 of file All_bibtex.bib
- : @article{cadwell2016electrophysiological
- :                                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2513 of file All_bibtex.bib
- : @article{markram2004interneurons
- :                                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2523 of file All_bibtex.bib
- : @article{masland2012neuronal
- :                             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2534 of file All_bibtex.bib
- : @article{mukamel2019perspectives
- :                                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2544 of file All_bibtex.bib
+Repeated entry---line 3098 of file All_bibtex.bib
  : @article{fishell2013neuron
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2555 of file All_bibtex.bib
- : @article{huang2019diversity
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2622 of file All_bibtex.bib
- : @article{petilla2008petilla
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2631 of file All_bibtex.bib
- : @article{tasic2018shared
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2642 of file All_bibtex.bib
- : @article{brown2023multiset
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2652 of file All_bibtex.bib
- : @article{hernath2019alternative
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2663 of file All_bibtex.bib
- : @article{scala2021phenotypic
- :                             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2674 of file All_bibtex.bib
- : @article{gouwens2020integrated
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2685 of file All_bibtex.bib
- : @article{gouwens2019classification
- :                                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2696 of file All_bibtex.bib
- : @article{zeng2017neuronal
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2709 of file All_bibtex.bib
- : @article{szabo2021conventional
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2744 of file All_bibtex.bib
- : @article{lee2021non
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2837 of file All_bibtex.bib
- : @article{nelson2006problem
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2849 of file All_bibtex.bib
- : @article{sanes2015types
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2860 of file All_bibtex.bib
- : @article{seung2014neuronal
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2871 of file All_bibtex.bib
- : @article{somogyi2005defined
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2882 of file All_bibtex.bib
- : @article{yuste2020community
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2893 of file All_bibtex.bib
- : @article{wagner2016revealing
- :                             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2905 of file All_bibtex.bib
- : @article{shapiro2013single
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2916 of file All_bibtex.bib
- : @article{trapnell2015defining
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2927 of file All_bibtex.bib
- : @article{liu2024neuronal
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2939 of file All_bibtex.bib
- : @article{Wang2021
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2949 of file All_bibtex.bib
- : @article{Zhang2024
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2959 of file All_bibtex.bib
- : @article{Gollo2020
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2969 of file All_bibtex.bib
- : @article{Goldman2023
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2980 of file All_bibtex.bib
- : @article{Tripathy2017
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2991 of file All_bibtex.bib
- : @article{Sagner2019
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3002 of file All_bibtex.bib
- : @article{sussillo2014neural
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3011 of file All_bibtex.bib
- : @article{koch1999complexity
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3061 of file All_bibtex.bib
- : @inproceedings{iacob2022distance
- :                                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3513 of file All_bibtex.bib
- : @article{cavanagh2020diversity
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3542 of file All_bibtex.bib
- : @article{mcnaughton2006path
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3552 of file All_bibtex.bib
- : @article{hasson2008hierarchical
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3562 of file All_bibtex.bib
- : @article{chu2020long
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3581 of file All_bibtex.bib
- : @article{jaeger2001echo
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3604 of file All_bibtex.bib
- : @article{soriano2014delay
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4795 of file All_bibtex.bib
- : @article{nadim2014neuromodulation
- :                                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4825 of file All_bibtex.bib
- : @article{fishell2013neuron
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5099 of file All_bibtex.bib
+Repeated entry---line 3372 of file All_bibtex.bib
  : @article{zeng2022cell
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5235 of file All_bibtex.bib
+Repeated entry---line 3476 of file All_bibtex.bib
+ : @article{connors1990intrinsic
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3508 of file All_bibtex.bib
  : @article{gast2024neural
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5305 of file All_bibtex.bib
+Repeated entry---line 3566 of file All_bibtex.bib
+ : @article{druckmann2013hierarchical
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3578 of file All_bibtex.bib
  : @article{fuzik2016integration
  :                              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5453 of file All_bibtex.bib
+Repeated entry---line 3615 of file All_bibtex.bib
+ : @article{marder2011multiple
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3675 of file All_bibtex.bib
+ : @article{szucs2015differential
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3726 of file All_bibtex.bib
  : @article{da2018databank
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5464 of file All_bibtex.bib
+Repeated entry---line 3737 of file All_bibtex.bib
  : @article{zeldenrust2017estimating
  :                                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5553 of file All_bibtex.bib
+Repeated entry---line 3826 of file All_bibtex.bib
  : @article{cadwell2016electrophysiological
  :                                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5564 of file All_bibtex.bib
+Repeated entry---line 3837 of file All_bibtex.bib
  : @article{markram2004interneurons
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5574 of file All_bibtex.bib
+Repeated entry---line 3847 of file All_bibtex.bib
  : @article{masland2012neuronal
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5594 of file All_bibtex.bib
+Repeated entry---line 3867 of file All_bibtex.bib
  : @article{mukamel2019perspectives
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5612 of file All_bibtex.bib
+Repeated entry---line 3885 of file All_bibtex.bib
  : @article{huang2019diversity
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5722 of file All_bibtex.bib
+Repeated entry---line 3995 of file All_bibtex.bib
  : @article{petilla2008petilla
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5731 of file All_bibtex.bib
+Repeated entry---line 4004 of file All_bibtex.bib
  : @article{tasic2018shared
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5742 of file All_bibtex.bib
+Repeated entry---line 4015 of file All_bibtex.bib
  : @article{brown2023multiset
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5752 of file All_bibtex.bib
+Repeated entry---line 4025 of file All_bibtex.bib
  : @article{hernath2019alternative
  :                                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5763 of file All_bibtex.bib
+Repeated entry---line 4036 of file All_bibtex.bib
  : @article{scala2021phenotypic
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5774 of file All_bibtex.bib
+Repeated entry---line 4047 of file All_bibtex.bib
  : @article{gouwens2020integrated
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5785 of file All_bibtex.bib
+Repeated entry---line 4058 of file All_bibtex.bib
  : @article{gouwens2019classification
  :                                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5796 of file All_bibtex.bib
+Repeated entry---line 4069 of file All_bibtex.bib
  : @article{zeng2017neuronal
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5809 of file All_bibtex.bib
+Repeated entry---line 4082 of file All_bibtex.bib
  : @article{szabo2021conventional
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5844 of file All_bibtex.bib
+Repeated entry---line 4117 of file All_bibtex.bib
  : @article{lee2021non
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6050 of file All_bibtex.bib
+Repeated entry---line 4316 of file All_bibtex.bib
+ : @inproceedings{jaeger2003adaptive
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4323 of file All_bibtex.bib
  : @article{koch1999complexity
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6080 of file All_bibtex.bib
+Repeated entry---line 4353 of file All_bibtex.bib
  : @inproceedings{iacob2022distance
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6474 of file All_bibtex.bib
+Repeated entry---line 4399 of file All_bibtex.bib
+ : @article{jaeger2001short
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4747 of file All_bibtex.bib
  : @article{cavanagh2020diversity
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6503 of file All_bibtex.bib
+Repeated entry---line 4776 of file All_bibtex.bib
  : @article{mcnaughton2006path
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6513 of file All_bibtex.bib
+Repeated entry---line 4786 of file All_bibtex.bib
  : @article{hasson2008hierarchical
  :                                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6523 of file All_bibtex.bib
+Repeated entry---line 4796 of file All_bibtex.bib
  : @article{chu2020long
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6542 of file All_bibtex.bib
+Repeated entry---line 4815 of file All_bibtex.bib
  : @article{jaeger2001echo
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6565 of file All_bibtex.bib
+Repeated entry---line 4838 of file All_bibtex.bib
  : @article{soriano2014delay
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6785 of file All_bibtex.bib
+Repeated entry---line 5058 of file All_bibtex.bib
  : @article{wu2025neural
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6795 of file All_bibtex.bib
+Repeated entry---line 5068 of file All_bibtex.bib
  : @article{hutt2023intrinsic
  :                           ,
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "scala2021phenotypic)"
 Warning--to sort, need author or key in petilla2008petilla
 Warning--empty author in petilla2008petilla
-You've used 66 entries,
+Warning--empty journal in jaeger2001short
+You've used 83 entries,
             1935 wiz_defined-function locations,
-            873 strings with 17641 characters,
-and the built_in function-call counts, 30820 in all, are:
-= -- 2955
-> -- 1579
-< -- 26
-+ -- 584
-- -- 556
-* -- 2907
-:= -- 5352
-add.period$ -- 206
-call.type$ -- 66
-change.case$ -- 594
-chr.to.int$ -- 66
-cite$ -- 69
-duplicate$ -- 969
-empty$ -- 1979
-format.name$ -- 654
-if$ -- 5893
-int.to.chr$ -- 1
+            953 strings with 20676 characters,
+and the built_in function-call counts, 38235 in all, are:
+= -- 3681
+> -- 1905
+< -- 39
++ -- 704
+- -- 668
+* -- 3586
+:= -- 6629
+add.period$ -- 257
+call.type$ -- 83
+change.case$ -- 734
+chr.to.int$ -- 81
+cite$ -- 87
+duplicate$ -- 1218
+empty$ -- 2485
+format.name$ -- 797
+if$ -- 7322
+int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 66
-newline$ -- 340
-num.names$ -- 195
-pop$ -- 444
+missing$ -- 83
+newline$ -- 425
+num.names$ -- 246
+pop$ -- 547
 preamble$ -- 1
-purify$ -- 594
+purify$ -- 734
 quote$ -- 0
-skip$ -- 760
+skip$ -- 953
 stack$ -- 0
-substring$ -- 2351
-swap$ -- 110
-text.length$ -- 2
+substring$ -- 2943
+swap$ -- 135
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 396
-warning$ -- 2
-while$ -- 231
+type$ -- 498
+warning$ -- 3
+while$ -- 293
 width$ -- 0
-write$ -- 872
-(There were 84 error messages)
+write$ -- 1092
+(There were 40 error messages)
