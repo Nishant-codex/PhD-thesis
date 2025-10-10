@@ -41,6 +41,7 @@ We analyzed four commonly used sets of electrophysiological attributes-action po
 By demonstrating that neuronal classification is highly dependent on input dynamics, our study highlights the need to incorporate physiologically relevant stimuli when defining neuronal types. Our findings suggest that neurons should not be categorized based solely on static features but rather on how they process and respond to dynamic synaptic input. This perspective has broad implications for both experimental and computational neuroscience, urging a paradigm shift toward input-dependent models of neuronal function.
 
 \newpage
+
 \section{Materials and methods}
 
 \textbf{Ethics statement} The data used in this research was previously published and made freely available to the community (\cite{da2018databank}) and (\cite{yan2022whole}). All the experimental work, as outlined in the cited articles, were carried out in compliance with the European directive 2010/63/EU, the national regulations of the Netherlands, and international standards for animal care and use.    
@@ -121,7 +122,7 @@ where $N_{spikes}$ is the total number of spikes in the trial and T is the total
     \item \textbf{Interspike Interval}: Interspike interval is the duration between two spikes $t_{spike_{n+1}}-t_{spike_n}$, where $t_{spike_{t+1}}$ and $t_{spike_t}$ are spike times for spikes n+1 and n. We take the interspike interval for all the spikes in the trial for both FN and SH protocols and calculate the mean, median, minimum, and maximum values. 
     \item \textbf{Instantaneous rate}:  Instantaneous rate is defined as the reciprocal of the average of the Interspike interval. 
 \begin{equation}
-    inst. firing\_rate = \frac{1}{t_{spike_{n+1}} - t_{spike_{n}}}
+    instantaneous\_firing\_rate = \frac{1}{t_{spike_{n+1}} - t_{spike_{n}}}
 \end{equation}
 \end{itemize}
 
@@ -374,6 +375,7 @@ The relative feature importance is given by the cross-correlation of columns of 
             \end{equation}
 
 \newpage            
+
 \section{Results}
 
 
@@ -494,21 +496,19 @@ action potential attributes based clustering of neuronal populations is input de
 neurons was recorded with FN and SH protocols, and each color corresponded to a cluster identity. (\textbf{c}) shows the mean and standard deviation of the Modularity 
 Score for SH and FN protocols (left axis) and the number of clusters (right axis ) as a result of running the clustering algorithm 25 times over 80\% of the data 
 with changes in the resolution parameter ranging from 0 to 5 with an increment of 0.5, the resolution parameter is chosen that maximizes the Modularity score (black arrow). 
-(\textbf{Continued on the next page})}
-    \label{fig:sh_fn_ephys}
-\end{figure}
-
-\begin{figure}[!htpb]
-
-% \centering
 (\textbf{d-e}) The radar plot shows action potential attributes divided into spiking dynamics, spike threshold, and AP height and width features for each neuron, 
 recorded with SH and FN protocols with each cluster in their respective color. Thick lines represent the mean over trials for each cluster. (\textbf{f}) Heatmap 
 comparing action potential attributes using cosine similarity between SH and FN clusters. It can be seen that none of the values in the heatmap is greater than 
-0.8 suggesting that SH and FN action potential attributes are dissimilar. (\textbf{g}) Heatmap showing the likelihood of neurons to classify in one of the FN 
+0.8 suggesting that SH and FN action potential attributes are dissimilar. (\textbf{Continued on the next page})}
+\label{fig:sh_fn_ephys}
+\end{figure}
+
+\begin{figure}[!htpb]
+(\textbf{g}) Heatmap showing the likelihood of neurons to classify in one of the FN 
 classes for each SH class. Note that the class identification between FN and SH protocols is inconsistent. The adjusted Random Score was 0.149 and the Adjusted 
 Mutual Information score was 0.206, suggesting inconsistency between SH and FN clusters.
 \end{figure}
-\hline
+
     
 
 \subsection{Functional classification of neurons stimulated by the FN protocol based on different feature sets} \label{sec:FN_EI}

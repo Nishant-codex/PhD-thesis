@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  8 OCT 2025 17:01
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  9 OCT 2025 21:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2293,13 +2293,13 @@ l.384 \include{Chapters/Chapter_2}
 [48]
 
 [49]
-Overfull \hbox (6.03906pt too wide) in paragraph at lines 131--132
+Overfull \hbox (6.03906pt too wide) in paragraph at lines 132--133
 []\TU/PalatinoLinotype(0)/m/n/10 We measure the threshold of each spike from th
 e trial as described in ([][]Fontaine
  []
 
 
-Overfull \hbox (1.47238pt too wide) in paragraph at lines 131--132
+Overfull \hbox (1.47238pt too wide) in paragraph at lines 132--133
 \TU/PalatinoLinotype(0)/m/n/10 when the first derivative of the membrane potent
 ial $[][][][][]$ reaches 25 mV/ms
  []
@@ -2309,13 +2309,13 @@ ial $[][][][][]$ reaches 25 mV/ms
 [50]
 
 [51]
-Overfull \hbox (0.2122pt too wide) in paragraph at lines 186--187
+Overfull \hbox (0.2122pt too wide) in paragraph at lines 187--188
 []\TU/PalatinoLinotype(0)/m/n/10 The waveforms extracted in the preparation ste
 p
  []
 
 
-Overfull \hbox (8.49922pt too wide) in paragraph at lines 188--189
+Overfull \hbox (8.49922pt too wide) in paragraph at lines 189--190
 []\TU/PalatinoLinotype(0)/m/n/10 : The voltage dynamics in eq ([][]2.3[][]) are
  given
  []
@@ -2323,7 +2323,7 @@ Overfull \hbox (8.49922pt too wide) in paragraph at lines 188--189
 
 
 [52]
-Overfull \hbox (8.23141pt too wide) in paragraph at lines 202--203
+Overfull \hbox (8.23141pt too wide) in paragraph at lines 203--204
 []\TU/PalatinoLinotype(0)/m/n/10 For fitting the spiking probability to the dat
 a,
  []
@@ -2332,12 +2332,12 @@ a,
 
 [53]
 ! Undefined control sequence.
-l.214     \hat{\theta}_{thr}  = \argmax
+l.215     \hat{\theta}_{thr}  = \argmax
                                        _{\theta_{thr}} \bigg{[} \sum_{t\in{ ...
 
 ? 
 
-Overfull \hbox (1.36374pt too wide) in paragraph at lines 225--226
+Overfull \hbox (1.36374pt too wide) in paragraph at lines 226--227
 [] []\TU/PalatinoLinotype(0)/b/n/10 Spike Triggered Average[] \TU/PalatinoLinot
 ype(0)/m/n/10 The spike-triggered average (STA) is the average shape
  []
@@ -2385,12 +2385,9 @@ File: Figures/Ch_2/fig1.pdf Graphic file (type pdf)
 File: Figures/Ch_2/fig2.pdf Graphic file (type pdf)
 <use Figures/Ch_2/fig2.pdf>
 
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
-l.511 \hline
-            
-? 
+
+LaTeX Warning: Float too large for page by 1.40538pt on input line 504.
+
 
 Overfull \hbox (9.69952pt too wide) in paragraph at lines 516--521
 \TU/PalatinoLinotype(0)/m/n/10 understanding of which features result in distin
@@ -3722,33 +3719,33 @@ l.462 \include{Chapters/Supplementary_Materials}
 
  (Chapters/Supplementary_Materials.tex
 
+[208
+
+
+]
+
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 14.
+(hyperref)                removing `\\' on input line 15.
 
 File: Figures/Ch_2/appendix1.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix1.pdf>
 
 
-[208
-
+[209
 
 ]
 File: Figures/Ch_2/appendix2.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix2.pdf>
 
 
-[209
+[210
 
 ]
-
-[210]
 File: Figures/Ch_2/appendix3.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix3.pdf>
 
 
-[211
-
-]
+[211]
 File: Figures/Ch_2/appendix4.pdf Graphic file (type pdf)
 <use Figures/Ch_2/appendix4.pdf>
 
@@ -4183,12 +4180,12 @@ L3 programming layer <2022/08/05>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 44DD8537667207D858A64D471BC02D51;10359.
+(rerunfilecheck)             Checksum: FB054A13CB4F01104F62010394DCA0BB;10364.
  ) 
 Here is how much of TeX's memory you used:
  39117 strings out of 405075
  812037 string characters out of 5498326
- 1400402 words of memory out of 5000000
+ 1401488 words of memory out of 5000000
  64977 multiletter control sequences out of 15000+600000
  634254 words of font info for 141 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
