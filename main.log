@@ -1,9 +1,15 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  9 OCT 2025 21:23
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  1 JAN 2026 11:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./main.tex
+**plos_latex_template.tex
 (main.tex
+! Interruption.
+<to be read again> 
+                   \immediate 
+l.1 
+    \documentclass[10.5pt, openright]{book} %Document type
+? 
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
 (C:\Users\Nishant Joshi\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
@@ -2232,14 +2238,34 @@ latinoLinotype(0)/m/n/8 ,
 ]
 Chapter 2.
 
+Package fontspec Info: 
+(fontspec)             Script 'CJK' not explicitly supported within font
+(fontspec)             'FandolFang-Regular'. Check the typeset output, and if
+(fontspec)             it is okay then ignore this warning. Otherwise a
+(fontspec)             different font should be chosen.
 
 
-LaTeX Warning: File `Figures/2.pdf' not found on input line 384.
+Package fontspec Info: 
+(fontspec)             Font family 'FandolFang-Regular(0)' created for font
+(fontspec)             'FandolFang-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolFang-Regular.otf]/OT:script=hani;language=dfl
+t;"
+
+
+
+
+LaTeX Warning: File `Figures/2.pdf' not found on input line 383.
 
 ! Unable to load picture or PDF file 'Figures/2.pdf'.
 <to be read again> 
                    }
-l.384 \include{Chapters/Chapter_2}
+l.383 \include{Chapters/Chapter_2}
                                   
 ? 
 
@@ -2249,7 +2275,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.384 \include{Chapters/Chapter_2}
+l.383 \include{Chapters/Chapter_2}
                                   
 ? 
 
@@ -2259,7 +2285,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.384 \include{Chapters/Chapter_2}
+l.383 \include{Chapters/Chapter_2}
                                   
 ? 
 File: Figures/2.pdf Graphic file (type pdf)
@@ -2267,7 +2293,7 @@ File: Figures/2.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/2.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.384 \include{Chapters/Chapter_2}
+l.383 \include{Chapters/Chapter_2}
                                   
 ? 
 [41]
@@ -2529,12 +2555,12 @@ Chapter 3.
 
 
 
-LaTeX Warning: File `Figures/3.pdf' not found on input line 410.
+LaTeX Warning: File `Figures/3.pdf' not found on input line 409.
 
 ! Unable to load picture or PDF file 'Figures/3.pdf'.
 <to be read again> 
                    }
-l.410 \include{Chapters/Chapter_3}
+l.409 \include{Chapters/Chapter_3}
                                   
 ? 
 
@@ -2544,7 +2570,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.410 \include{Chapters/Chapter_3}
+l.409 \include{Chapters/Chapter_3}
                                   
 ? 
 
@@ -2554,7 +2580,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.410 \include{Chapters/Chapter_3}
+l.409 \include{Chapters/Chapter_3}
                                   
 ? 
 File: Figures/3.pdf Graphic file (type pdf)
@@ -2562,7 +2588,7 @@ File: Figures/3.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/3.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.410 \include{Chapters/Chapter_3}
+l.409 \include{Chapters/Chapter_3}
                                   
 ? 
 [105
@@ -3328,12 +3354,12 @@ Chapter 4.
 
 
 
-LaTeX Warning: File `Figures/4.pdf' not found on input line 433.
+LaTeX Warning: File `Figures/4.pdf' not found on input line 432.
 
 ! Unable to load picture or PDF file 'Figures/4.pdf'.
 <to be read again> 
                    }
-l.433 \include{Chapters/Chapter_4}
+l.432 \include{Chapters/Chapter_4}
                                   
 ? 
 
@@ -3343,7 +3369,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.433 \include{Chapters/Chapter_4}
+l.432 \include{Chapters/Chapter_4}
                                   
 ? 
 
@@ -3353,7 +3379,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.433 \include{Chapters/Chapter_4}
+l.432 \include{Chapters/Chapter_4}
                                   
 ? 
 File: Figures/4.pdf Graphic file (type pdf)
@@ -3361,7 +3387,7 @@ File: Figures/4.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/4.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.433 \include{Chapters/Chapter_4}
+l.432 \include{Chapters/Chapter_4}
                                   
 ? 
 [153]
@@ -3540,12 +3566,12 @@ Chapter 5.
 
 
 
-LaTeX Warning: File `Figures/6.pdf' not found on input line 450.
+LaTeX Warning: File `Figures/6.pdf' not found on input line 449.
 
 ! Unable to load picture or PDF file 'Figures/6.pdf'.
 <to be read again> 
                    }
-l.450 \include{Chapters/Discussion}
+l.449 \include{Chapters/Discussion}
                                    
 ? 
 
@@ -3555,7 +3581,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.450 \include{Chapters/Discussion}
+l.449 \include{Chapters/Discussion}
                                    
 ? 
 
@@ -3565,7 +3591,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.450 \include{Chapters/Discussion}
+l.449 \include{Chapters/Discussion}
                                    
 ? 
 File: Figures/6.pdf Graphic file (type pdf)
@@ -3573,7 +3599,7 @@ File: Figures/6.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/6.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.450 \include{Chapters/Discussion}
+l.449 \include{Chapters/Discussion}
                                    
 ? 
 [187]
@@ -3684,7 +3710,7 @@ Chapter 6.
 
 
 
-LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 462.
+LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 461.
 
 
 ! Package graphics Error: Division by 0.
@@ -3693,7 +3719,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.462 \include{Chapters/Supplementary_Materials}
+l.461 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
 
@@ -3703,7 +3729,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.462 \include{Chapters/Supplementary_Materials}
+l.461 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
 File: Figures/cover_bg.pdf Graphic file (type pdf)
@@ -3711,7 +3737,7 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/cover_bg.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.462 \include{Chapters/Supplementary_Materials}
+l.461 \include{Chapters/Supplementary_Materials}
                                                 
 ? 
 [207]
@@ -3881,44 +3907,44 @@ No file Chapters/Supplementary_Materials.bbl.
 )
 Chapter 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--473
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
  \TU/PalatinoLinotype(0)/m/n/10 Nederlandse samenvatting 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--473
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
  \TU/PalatinoLinotype(0)/m/n/10 Research data management statement 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--473
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
  \TU/PalatinoLinotype(0)/m/n/10 Outreach activities 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--473
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
  \TU/PalatinoLinotype(0)/m/n/10 Failures 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--473
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
  \TU/PalatinoLinotype(0)/m/n/10 Acknowledgements 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--473
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
  \TU/PalatinoLinotype(0)/m/n/10 Curriculum Vitae 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--473
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
  \TU/PalatinoLinotype(0)/m/n/10 Donders Graduate School 
  []
 
 
 
 
-LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 477.
+LaTeX Warning: File `Figures/cover_bg.pdf' not found on input line 476.
 
 
 ! Package graphics Error: Division by 0.
@@ -3927,7 +3953,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.477 \include{Chapters/Summary}
+l.476 \include{Chapters/Summary}
                                 
 ? 
 
@@ -3937,7 +3963,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.477 \include{Chapters/Summary}
+l.476 \include{Chapters/Summary}
                                 
 ? 
 File: Figures/cover_bg.pdf Graphic file (type pdf)
@@ -3945,7 +3971,7 @@ File: Figures/cover_bg.pdf Graphic file (type pdf)
 ! Unable to load picture or PDF file 'Figures/cover_bg.pdf'.
 <to be read again> 
                    \GPT@clipend 
-l.477 \include{Chapters/Summary}
+l.476 \include{Chapters/Summary}
                                 
 ? 
 [241
@@ -3986,28 +4012,8 @@ Overfull \hbox (14.85748pt too wide) in paragraph at lines 15--18
 ns. https://doi.org/10.34973/nhes-
  []
 
-
-Package fontspec Info: 
-(fontspec)             Script 'CJK' not explicitly supported within font
-(fontspec)             'FandolFang-Regular'. Check the typeset output, and if
-(fontspec)             it is okay then ignore this warning. Otherwise a
-(fontspec)             different font should be chosen.
-
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 22.
-
-Package fontspec Info: 
-(fontspec)             Font family 'FandolFang-Regular(0)' created for font
-(fontspec)             'FandolFang-Regular' with options
-(fontspec)             [Script={CJK},Extension={.otf}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[FandolFang-Regular.otf]/OT:script=hani;language=dfl
-t;"
-
 
 
 [243
@@ -4179,16 +4185,19 @@ L3 programming layer <2022/08/05>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: FB054A13CB4F01104F62010394DCA0BB;10364.
  ) 
 Here is how much of TeX's memory you used:
- 39117 strings out of 405075
- 812037 string characters out of 5498326
+ 39101 strings out of 405075
+ 810567 string characters out of 5498326
  1401488 words of memory out of 5000000
- 64977 multiletter control sequences out of 15000+600000
- 634254 words of font info for 141 fonts, out of 8000000 for 9000
+ 64957 multiletter control sequences out of 15000+600000
+ 634262 words of font info for 142 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,14n,121p,3544b,773s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,14n,121p,3557b,758s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (257 pages).
